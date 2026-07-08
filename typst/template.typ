@@ -1,13 +1,18 @@
 // Refined academic book template for "词根词缀的故事".
 
-#let cjk-serif = ("Songti SC", "LiSong Pro", "STSong", "Iowan Old Style")
-#let cjk-kai = ("Kaiti SC", "STKaiti", "Kai", "Iowan Old Style")
-#let cjk-sans = ("PingFang SC", "Heiti SC", "STHeiti", "Iowan Old Style")
+// Latin glyphs render in a serif face even inside CJK runs; "latin-in-cjk"
+// deliberately excludes quotes/dashes shared with CJK so those stay in the
+// Chinese font.
+#let latin-in-cjk = (name: "Iowan Old Style", covers: "latin-in-cjk")
 #let latin-serif = ("Iowan Old Style", "Libertinus Serif", "New Computer Modern")
+#let cjk-serif = (latin-in-cjk, "Songti SC", "LiSong Pro", "STSong")
+#let cjk-kai = (latin-in-cjk, "Kaiti SC", "STKaiti", "Kai")
+#let cjk-sans = ("PingFang SC", "Heiti SC", "STHeiti")
 #let mono-font = ("Menlo", "Maple Mono", "FiraCode Nerd Font Mono", "Courier New")
 
 #let paper = rgb("#fbfaf6")
 #let paper-deep = rgb("#f4efe4")
+#let panel-bg = rgb("#fcfdfa")
 #let ink = rgb("#272724")
 #let muted = rgb("#73786f")
 #let hairline = rgb("#d9ded7")
@@ -19,7 +24,15 @@
 #let plum = rgb("#8f6f68")
 #let plum-soft = rgb("#f7eaea")
 
-#let line-text(value, size: 10pt, weight: "regular", fill: ink, font: cjk-serif) = {
+#let plain-text(it) = {
+  if type(it) == str { it } else if type(it) != content { "" } else if it.has("text") { it.text } else if it.has(
+    "children",
+  ) { it.children.fold("", (acc, child) => acc + plain-text(child)) } else if it.has("body") {
+    plain-text(it.body)
+  } else { "" }
+}
+
+#let line-text(value, size: 10pt, weight: "regular", fill: ink, font: cjk-kai) = {
   set text(font: font)
   set par(first-line-indent: 0pt, justify: false, leading: 0.58em, spacing: 0pt)
   let lines = value.split("\n")
@@ -34,10 +47,12 @@
 }
 
 #let horizontalrule = {
-  v(0.45em)
+  v(0.5em, weak: true)
   line(length: 100%, stroke: 0.45pt + hairline)
-  v(0.45em)
+  v(0.5em, weak: true)
 }
+
+#let th(body) = table.cell(fill: paper-deep)[#text(weight: "semibold")[#body]]
 
 #let cover-mark() = {
   box(width: 44mm, height: 44mm)[
@@ -70,22 +85,22 @@
 }
 
 #let volume-page(kicker, title, subtitle: none, outline-title: none) = {
-  pagebreak()
-  part-entry(if outline-title == none { title } else { outline-title })
-  align(center + horizon)[
-    #text(font: latin-serif, size: 10pt, fill: muted)[ROOTS / AFFIXES]
-    #v(0.8em)
-    #text(font: cjk-sans, size: 10pt, weight: "semibold", fill: accent-dark)[#kicker]
-    #v(1.2em)
-    #cover-rule(width: 34%, stroke: 0.7pt + gold)
-    #v(1.3em)
-    #text(font: cjk-serif, size: 27pt, weight: "semibold", fill: ink)[#title]
-    #if subtitle != none [
-      #v(0.9em)
-      #text(font: cjk-kai, size: 11pt, fill: muted)[#subtitle]
+  page(header: none, footer: [])[
+    #part-entry(if outline-title == none { title } else { outline-title })
+    #align(center + horizon)[
+      #text(font: latin-serif, size: 10pt, fill: muted)[ROOTS / AFFIXES]
+      #v(0.8em)
+      #text(font: cjk-sans, size: 10pt, weight: "semibold", fill: accent-dark)[#kicker]
+      #v(1.2em)
+      #cover-rule(width: 34%, stroke: 0.7pt + gold)
+      #v(1.3em)
+      #text(font: cjk-serif, size: 27pt, weight: "semibold", fill: ink)[#title]
+      #if subtitle != none [
+        #v(0.9em)
+        #text(font: cjk-kai, size: 11pt, fill: muted)[#subtitle]
+      ]
     ]
   ]
-  pagebreak()
 }
 
 #let d-node(label, kind: "node") = {
@@ -99,7 +114,7 @@
     fill: fill,
     stroke: 0.7pt + stroke-color,
   )[
-    #align(center)[#line-text(label, size: 10pt, fill: text-color, font: cjk-serif)]
+    #align(center)[#line-text(label, size: 10pt, fill: text-color)]
   ]
 }
 
@@ -107,15 +122,15 @@
   align(center + horizon)[
     #box(width: 100%)[
       #line(length: 100%, stroke: (if dotted { 0.5pt + muted } else { 0.55pt + accent }))
-      #place(dx: 44%, dy: -4.8pt)[
-        #box(inset: (x: 3pt, y: 0.5pt), fill: paper)[
-    #text(font: latin-serif, size: 10pt, fill: accent-dark)[#mark]
+      #place(center, dy: -4.8pt)[
+        #box(inset: (x: 3pt, y: 0.5pt), fill: panel-bg)[
+          #text(font: latin-serif, size: 10pt, fill: accent-dark)[#mark]
         ]
       ]
     ]
     #if label != none [
       #v(1.5pt)
-      #line-text(label, size: 10pt, fill: muted, font: cjk-kai)
+      #line-text(label, size: 10pt, fill: muted)
     ]
   ]
 }
@@ -126,7 +141,7 @@
       #text(font: latin-serif, size: 10.5pt, fill: accent-dark)[#mark]
       #if label != none [
         #linebreak()
-        #line-text(label, size: 10pt, fill: muted, font: cjk-kai)
+        #line-text(label, size: 10pt, fill: muted)
       ]
     ]
   ]
@@ -147,7 +162,7 @@
           #text(font: cjk-kai, size: 10pt, fill: muted)[#edge]
           #linebreak()
         ]
-        #line-text(label, size: 10pt, fill: ink, font: cjk-serif)
+        #line-text(label, size: 10pt, fill: ink)
         #v(2pt)
         #line(length: 100%, stroke: 0.35pt + hairline)
       ],
@@ -173,14 +188,14 @@
     width: 100%,
     inset: (x: 9pt, y: 8pt),
     radius: 4pt,
-    fill: rgb("#fcfdfa"),
+    fill: panel-bg,
     stroke: (left: 1.4pt + accent, rest: 0.45pt + hairline),
     breakable: breakable,
-    above: 0.95em,
-    below: 1.05em,
+    above: 0.8em,
+    below: 0.8em,
   )[
     #set par(first-line-indent: 0pt, justify: false, spacing: 0pt)
-    #text(font: cjk-sans, size: 10pt, weight: "semibold", fill: accent-dark)[#title]
+    #text(font: cjk-kai, size: 10pt, weight: "semibold", fill: accent-dark)[#title]
     #v(6pt)
     #body
   ]
@@ -192,7 +207,7 @@
   radius: 3pt,
   fill: gold-soft,
   stroke: 0.5pt + gold,
-)[#align(center)[#line-text(value, size: 10pt, fill: rgb("#6f561b"), font: cjk-sans)]]
+)[#align(center)[#line-text(value, size: 10pt, fill: rgb("#6f561b"))]]
 
 #let timeline-entry(value) = {
   block(width: 100%, inset: (left: 8pt), stroke: (left: 0.6pt + accent))[#line-text(value, size: 10pt)]
@@ -200,15 +215,7 @@
 
 #let timeline-section(value) = {
   block(width: 100%, inset: (x: 5pt, y: 3pt), fill: accent-soft, radius: 3pt)[
-    #text(font: cjk-sans, size: 10pt, weight: "semibold", fill: accent-dark)[#value]
-  ]
-}
-
-#let compact-section-title(title) = {
-  v(0.25em)
-  block(width: 100%, below: 0.35em)[
-    #set par(first-line-indent: 0pt, justify: false)
-    #text(font: cjk-serif, size: 13.4pt, weight: "semibold", fill: accent-dark)[#title]
+    #text(font: cjk-kai, size: 10pt, weight: "semibold", fill: accent-dark)[#value]
   ]
 }
 
@@ -228,13 +235,14 @@
     font: cjk-serif,
     size: 10.5pt,
     lang: "zh",
+    region: "cn",
     fill: ink,
   )
   set par(
     justify: true,
     leading: 0.88em,
-    spacing: 0.74em,
-    first-line-indent: 1.8em,
+    spacing: 0.8em,
+    first-line-indent: (amount: 1.8em, all: true),
   )
   set heading(outlined: true, numbering: none)
   set table(
@@ -242,17 +250,21 @@
     stroke: 0.45pt + hairline,
     align: horizon,
   )
-  set raw(block: true)
   set list(indent: 1.2em, body-indent: 0.62em)
+  set enum(indent: 1.2em, body-indent: 0.62em)
+
+  show list: set par(first-line-indent: 0pt)
+  show enum: set par(first-line-indent: 0pt)
+  show terms: set par(first-line-indent: 0pt)
+  show outline: set par(first-line-indent: 0pt)
 
   show emph: it => text(font: latin-serif, style: "italic")[#it.body]
   show strong: it => text(weight: "semibold", fill: rgb("#30302c"))[#it.body]
-  show raw.where(block: false): set text(font: mono-font, size: 1em, fill: rgb("#303d3f"))
+  show raw.where(block: false): set text(font: mono-font, size: 0.94em, fill: rgb("#303d3f"))
 
   show heading.where(level: 1): it => none
   show heading.where(level: 5): it => {
-    v(0.6em)
-    block(width: 100%, below: 0.55em)[
+    block(width: 100%, above: 0.8em, below: 0.5em, sticky: true)[
       #set par(first-line-indent: 0pt, justify: false)
       #text(font: cjk-serif, size: 10.8pt, weight: "semibold", fill: rgb("#4f524d"))[#it.body]
     ]
@@ -268,10 +280,13 @@
   }
 
   show heading.where(level: 2): it => {
-    v(0.75em)
-    block(width: 100%, below: 1.35em)[
+    let label-text = plain-text(it.body)
+    let kicker = if label-text.starts-with("附录") { "APPENDIX" } else if label-text.starts-with("前言") {
+      "PREFACE"
+    } else { "ETYMOLOGY CHAPTER" }
+    block(width: 100%, above: 1em, below: 2em, sticky: true)[
       #set par(first-line-indent: 0pt, justify: false, leading: 0.6em)
-      #text(font: latin-serif, size: 10pt, fill: gold)[ETYMOLOGY CHAPTER]
+      #text(font: latin-serif, size: 10pt, fill: gold)[#kicker]
       #v(0.55em)
       #text(font: cjk-serif, size: 22.2pt, weight: "semibold", fill: ink)[#it.body]
       #v(0.75em)
@@ -279,15 +294,13 @@
     ]
   }
   show heading.where(level: 3): it => {
-    v(1.18em)
-    block(width: 100%, below: 0.9em)[
+    block(width: 100%, above: 1em, below: 1em, sticky: true)[
       #set par(first-line-indent: 0pt, justify: false)
       #text(font: cjk-serif, size: 13.4pt, weight: "semibold", fill: accent-dark)[#it.body]
     ]
   }
   show heading.where(level: 4): it => {
-    v(0.9em)
-    block(width: 100%, below: 0.76em)[
+    block(width: 100%, above: 0.8em, below: 0.6em, sticky: true)[
       #set par(first-line-indent: 0pt, justify: false)
       #text(font: cjk-serif, size: 10.8pt, weight: "semibold", fill: rgb("#474c48"))[#it.body]
     ]
@@ -299,17 +312,17 @@
     fill: rgb("#f7f3ea"),
     stroke: (left: 2pt + gold, rest: 0.4pt + rgb("#e5dcc8")),
     breakable: true,
-    above: 0.85em,
-    below: 0.9em,
+    above: 0.8em,
+    below: 0.8em,
   )[
     #set text(font: cjk-kai, size: 11pt, fill: rgb("#42413b"))
     #set par(first-line-indent: 0pt, justify: true, leading: 0.86em, spacing: 0.24em)
     #it.body
   ]
   show table: it => {
-    set text(size: 10pt)
+    set text(font: cjk-kai, size: 10pt)
     set par(first-line-indent: 0pt, justify: false, leading: 0.6em)
-    block(width: 100%, above: 0.55em, below: 0.65em)[#it]
+    block(width: 100%, above: 0.8em, below: 0.8em)[#it]
   }
   show raw.where(block: true): it => block(
     width: 100%,
@@ -317,12 +330,14 @@
     radius: 4pt,
     fill: rgb("#f2f4ef"),
     stroke: 0.5pt + hairline,
+    above: 0.8em,
+    below: 0.8em,
   )[
     #set text(font: mono-font, size: 10pt)
     #it
   ]
   show figure: it => {
-    block(width: 100%, breakable: true, above: 0.8em, below: 0.85em)[#align(center)[#it]]
+    block(width: 100%, breakable: true, above: 0.8em, below: 0.8em)[#align(center)[#it]]
   }
 
   align(center + horizon)[

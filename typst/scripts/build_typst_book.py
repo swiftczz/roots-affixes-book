@@ -53,6 +53,113 @@ ARROW = re.compile(r"(<-\.->|<--->|<-->|-->|-\.->|---|~~~)(?:\|([^|]*)\|)?")
 Node = namedtuple("Node", "id label")
 Edge = namedtuple("Edge", "source target token label", defaults=(None,))
 
+# CJK-context punctuation normalization: half-width marks typed inside Chinese
+# prose become full-width so Typst justification and glyph choice stay CJK.
+CJKISH = re.compile(
+    "["
+    "\u2e80-\u2eff"  # CJK radicals
+    "\u3000-\u303f"  # CJK symbols and punctuation
+    "\u3400-\u4dbf"  # CJK extension A
+    "\u4e00-\u9fff"  # CJK unified ideographs
+    "\uf900-\ufaff"  # CJK compatibility ideographs
+    "\uff00-\uffef"  # full-width and half-width forms
+    "\u2018\u2019\u201c\u201d"  # curly quotes
+    "\u2014\u2026"  # em dash, ellipsis
+    "]"
+)
+HALF_TO_FULL = {",": "，", ":": "：", ";": "；", "!": "！", "?": "？"}
+EMPHASIS_MARKS = "*_~"
+PAREN_PAIR = re.compile(r"\(([^()\n]*)\)")
+DQUOTE_PAIR = re.compile(r"\"([^\"]*)\"")
+SQUOTE_PAIR = re.compile(r"'([^']*)'")
+INLINE_CODE = re.compile(r"`[^`\n]*`")
+CODE_SENTINEL = "\x00"
+
+
+def is_cjkish(char: str) -> bool:
+    return bool(char) and CJKISH.match(char) is not None
+
+
+def fullwidth_parens(value: str) -> str:
+    def repl(match: re.Match[str]) -> str:
+        inner = match.group(1)
+        if CJKISH.search(inner):
+            return f"（{inner}）"
+        return match.group(0)
+
+    # Two passes: the first converts innermost pairs, the second the pairs
+    # that contained them.
+    return PAREN_PAIR.sub(repl, PAREN_PAIR.sub(repl, value))
+
+
+def fullwidth_quotes(
+    value: str,
+    pattern: re.Pattern[str],
+    open_char: str,
+    close_char: str,
+    require_cjk: bool,
+) -> str:
+    parts: list[str] = []
+    pos = 0
+    for match in pattern.finditer(value):
+        if require_cjk and not CJKISH.search(match.group(1)):
+            continue
+        parts.append(value[pos : match.start()])
+        parts.append(f"{open_char}{match.group(1)}{close_char}")
+        pos = match.end()
+    parts.append(value[pos:])
+    return "".join(parts)
+
+
+def fullwidth_marks(value: str) -> str:
+    chars = list(value)
+    for index, char in enumerate(chars):
+        full = HALF_TO_FULL.get(char)
+        if full is None:
+            continue
+        # Colons also look back through digits so "词 1:xxx" converts; commas
+        # must not, or "1,000" would break.
+        left_transparent = EMPHASIS_MARKS + "0123456789 " if char == ":" else EMPHASIS_MARKS
+        left = index - 1
+        while left >= 0 and chars[left] in left_transparent:
+            left -= 1
+        right = index + 1
+        while right < len(chars) and chars[right] in EMPHASIS_MARKS:
+            right += 1
+        prev = chars[left] if left >= 0 else ""
+        nxt = chars[right] if right < len(chars) else ""
+        if is_cjkish(prev) or is_cjkish(nxt):
+            chars[index] = full
+    return "".join(chars)
+
+
+def normalize_segment(value: str) -> str:
+    spans: list[str] = []
+
+    def stash(match: re.Match[str]) -> str:
+        spans.append(match.group(0))
+        return CODE_SENTINEL
+
+    masked = INLINE_CODE.sub(stash, value)
+    masked = fullwidth_parens(masked)
+    masked = fullwidth_marks(masked)
+    masked = fullwidth_quotes(masked, DQUOTE_PAIR, "“", "”", False)
+    for span in spans:
+        masked = masked.replace(CODE_SENTINEL, span, 1)
+    return masked
+
+
+def normalize_cjk_punctuation(value: str) -> str:
+    lines: list[str] = []
+    in_fence = False
+    for line in value.split("\n"):
+        if line.lstrip().startswith("```"):
+            in_fence = not in_fence
+            lines.append(line)
+            continue
+        lines.append(line if in_fence else normalize_segment(line))
+    return "\n".join(lines)
+
 
 def run(cmd: list[str], cwd: str | Path | None = None) -> subprocess.CompletedProcess:
     return subprocess.run(cmd, cwd=cwd, text=True, capture_output=True, check=False)
@@ -84,7 +191,11 @@ def clean_label(value: str | None) -> str:
     value = HTML_TAG.sub("", value)
     value = value.replace("\\n", "\n")
     lines = [" ".join(line.split()) for line in value.splitlines()]
-    return "\n".join(line for line in lines if line).strip()
+    value = "\n".join(line for line in lines if line).strip()
+    value = fullwidth_parens(value)
+    value = fullwidth_marks(value)
+    value = fullwidth_quotes(value, DQUOTE_PAIR, "“", "”", False)
+    return fullwidth_quotes(value, SQUOTE_PAIR, "‘", "’", True)
 
 
 def clean_markdown_text(value: str) -> str:
@@ -92,7 +203,7 @@ def clean_markdown_text(value: str) -> str:
     value = "\n".join(lines)
     value = BR.sub("；", value)
     value = value.replace("Mermaid 图", "图示")
-    return value
+    return normalize_cjk_punctuation(value)
 
 
 def normalize_edge_labels(line: str) -> str:
@@ -315,7 +426,7 @@ def render_relation_panels(
                 + "\n]"
             )
         panels.append(
-            f"#diagram-panel(title: {q(title + suffix)}, breakable: false)[\n"
+            f"#diagram-panel(title: {q(title + suffix)}, breakable: true)[\n"
             + "\n#v(2pt)\n".join(groups)
             + "\n]"
         )
@@ -530,20 +641,23 @@ def demote_headings(value: str) -> str:
 
 
 def insert_chapter_breaks(value: str) -> str:
-    def repl(match: re.Match[str]) -> str:
-        heading = match.group(1)
-        if heading.startswith("== 第 29 章"):
-            return heading
-        return f"#pagebreak(weak: true)\n\n{heading}"
-
-    return re.sub(r"(?m)^(== (?:第 \d+ 章|附录 [A-Z])(?:[^\n]*))$", repl, value)
-
-
-def compact_final_section(value: str) -> str:
-    return value.replace(
-        "\n=== 全书结束语\n<全书结束语>\n",
-        "\n#compact-section-title(\"全书结束语\")\n<全书结束语>\n#set par(leading: 0.76em, spacing: 0.42em)\n",
+    return re.sub(
+        r"(?m)^(== (?:第 \d+ 章|附录 [A-Z])(?:[^\n]*))$",
+        r"#pagebreak(weak: true)\n\n\1",
+        value,
     )
+
+
+TABLE_HEADER_LINE = re.compile(r"(?m)^(?P<indent>\s*)table\.header\((?P<cells>.*),\),$")
+HEADER_CELL = re.compile(r"\[((?:[^\[\]]|\[[^\]]*\])*)\]")
+
+
+def style_table_headers(value: str) -> str:
+    def repl(match: re.Match[str]) -> str:
+        cells = HEADER_CELL.sub(lambda cell: f"th([{cell.group(1)}])", match.group("cells"))
+        return f"{match.group('indent')}table.header({cells},),"
+
+    return TABLE_HEADER_LINE.sub(repl, value)
 
 
 def postprocess_body(value: str) -> str:
@@ -551,19 +665,18 @@ def postprocess_body(value: str) -> str:
     value = tuned_table_columns(value)
     value = value.replace("[来源], [章节],)", "[来源], [章],)")
     value = unwrap_table_figures(value)
+    value = style_table_headers(value)
     value = re.sub(r"\n#horizontalrule\n\n(?=(?:#volume-page|= ))", "\n", value)
-    value = value.replace("#link(", "#link(")
     value = value.replace(
         "\n#horizontalrule\n\n== 二、后缀\n<二后缀>\n",
         "\n#pagebreak(weak: true)\n\n== 二、后缀\n<二后缀>\n",
     )
     value = demote_headings(value)
     value = insert_chapter_breaks(value)
-    value = compact_final_section(value)
     imports = (
         '#import "template.typ": part-entry, volume-page, horizontalrule, diagram-panel, d-node, '
         "d-flow, d-down, d-target, relation-group, timeline-date, timeline-entry, timeline-section, "
-        "compact-section-title\n\n"
+        "th\n\n"
     )
     return imports + value
 
@@ -599,6 +712,8 @@ def main() -> int:
             "All Mermaid diagrams are converted into native Typst diagram panels.",
             "No raster or SVG source images were found in the manuscript.",
             "Markdown <br/> tags outside diagrams are normalized before Pandoc conversion.",
+            "Half-width punctuation in CJK context is normalized to full-width "
+            "(commas, colons, quotes, parentheses) outside code fences.",
         ],
     }
 
