@@ -308,7 +308,8 @@ def parse_flowchart(block: str) -> tuple[str, dict[str, Node], list[Edge]]:
         pos = 0
         for match in matches:
             parts.append(line[pos : match.start()])
-            arrows.append((match.group(1), clean_label(match.group(2)) or None))
+            raw_label = (match.group(2) or "").strip().strip('"')
+            arrows.append((match.group(1), clean_label(raw_label) or None))
             pos = match.end()
         parts.append(line[pos:])
 
@@ -336,8 +337,361 @@ def arrow_mark(token: str) -> str:
     return "→"
 
 
-def node_kind(node_id: str, incoming: set[str]) -> str:
-    return "root" if node_id not in incoming else "node"
+# ---------------------------------------------------------------------------
+# Fletcher graph rendering: trees, forests and DAGs become real node-and-edge
+# diagrams. Layout is computed here (rank -> column, DFS order -> row) and
+# emitted as explicit fletcher coordinates.
+
+# Tokens that express a layering constraint (source is an ancestor of target).
+# "---" and "~~~" are used in the manuscript as merge/association links that
+# still read left-to-right, so they participate in layering too.
+LAYER_TOKENS = {"-->", "-.->", "---", "~~~"}
+
+EDGE_KIND = {
+    "-->": "solid",
+    "-.->": "dashed",
+    "---": "plain",
+    "~~~": "faint",
+    "<-->": "bidir",
+    "<--->": "bidir",
+    "<-.->": "bidir-dashed",
+}
+
+DIAGRAM_MAX_WIDTH = 124.0  # mm available inside a diagram panel
+DIAGRAM_MAX_HEIGHT = 172.0  # mm before a graph is split into parts
+COL_SEP = 7.0
+ROW_SEP = 4.0
+LINE_H = 4.0  # mm per wrapped label line at 8pt
+NODE_PAD_H = 3.4  # vertical inset + stroke allowance per node
+NODE_PAD_W = 5.6  # horizontal inset + stroke allowance per node
+MIN_COL_W = 16.0
+MAX_COL_W = 44.0
+
+
+def label_line_width(line: str) -> float:
+    """Rough rendered width of one label line in mm at 8pt."""
+    width = 0.0
+    for char in line:
+        if CJKISH.match(char):
+            width += 2.95
+        elif char == " ":
+            width += 0.9
+        elif char.isupper():
+            width += 1.95
+        else:
+            width += 1.55
+    return width
+
+
+def wrap_label(label: str, width_mm: float, scale: float = 0.94) -> str:
+    """Wrap an edge label so it fits the free space between node columns."""
+    lines: list[str] = []
+    for raw in label.split("\n"):
+        current = ""
+        current_w = 0.0
+        for char in raw:
+            char_w = label_line_width(char) * scale
+            if current and current_w + char_w > width_mm:
+                lines.append(current)
+                current = char
+                current_w = char_w
+            else:
+                current += char
+                current_w += char_w
+        if current:
+            lines.append(current)
+    return "\n".join(lines)
+
+
+def compute_ranks(nodes: dict[str, Node], edges: list[Edge]) -> dict[str, int]:
+    preds = defaultdict(list)
+    for edge in edges:
+        if edge.token in LAYER_TOKENS and edge.source != edge.target:
+            preds[edge.target].append(edge.source)
+
+    rank: dict[str, int] = {}
+    visiting: set[str] = set()
+
+    def rk(node_id: str) -> int:
+        if node_id in rank:
+            return rank[node_id]
+        if node_id in visiting:
+            return -1  # cycle guard: ignore back edge
+        visiting.add(node_id)
+        value = 0
+        for pred in preds.get(node_id, ()):
+            if pred in visiting:
+                continue
+            value = max(value, rk(pred) + 1)
+        visiting.discard(node_id)
+        rank[node_id] = value
+        return value
+
+    for node_id in nodes:
+        rk(node_id)
+
+    # Nodes attached only through undirected edges sit next to their partner.
+    layered = set()
+    for edge in edges:
+        if edge.token in LAYER_TOKENS:
+            layered.add(edge.source)
+            layered.add(edge.target)
+    for edge in edges:
+        if edge.token in LAYER_TOKENS:
+            continue
+        for a, b in ((edge.source, edge.target), (edge.target, edge.source)):
+            if a not in layered and b in layered:
+                rank[a] = rank[b]
+    return rank
+
+
+def assign_rows(nodes: dict[str, Node], edges: list[Edge], rank: dict[str, int]) -> dict[str, int]:
+    children: dict[str, list[str]] = defaultdict(list)
+    incoming: set[str] = set()
+    for edge in edges:
+        if edge.token in LAYER_TOKENS and rank.get(edge.target, 0) > rank.get(edge.source, 0):
+            if edge.target not in children[edge.source]:
+                children[edge.source].append(edge.target)
+                incoming.add(edge.target)
+
+    row: dict[str, int] = {}
+    used: dict[int, set[int]] = defaultdict(set)
+    visiting: set[str] = set()
+    counter = [0]
+
+    def place(node_id: str, wanted: int) -> int:
+        column = used[rank[node_id]]
+        value = wanted
+        step = 0
+        while value in column:
+            step += 1
+            value = wanted + (step + 1) // 2 * (1 if step % 2 else -1)
+        column.add(value)
+        row[node_id] = value
+        return value
+
+    def dfs(node_id: str) -> int:
+        if node_id in row:
+            return row[node_id]
+        visiting.add(node_id)
+        kid_rows = []
+        for kid in children.get(node_id, ()):
+            if kid in visiting:
+                continue
+            kid_rows.append(row[kid] if kid in row else dfs(kid))
+        visiting.discard(node_id)
+        if kid_rows:
+            value = place(node_id, round(sum(kid_rows) / len(kid_rows)))
+        else:
+            value = place(node_id, counter[0])
+            counter[0] = max(counter[0], value) + 1
+        return value
+
+    for node_id in nodes:
+        if node_id not in incoming:
+            dfs(node_id)
+    for node_id in nodes:
+        if node_id not in row:
+            dfs(node_id)
+
+    minimum = min(row.values(), default=0)
+    return {node_id: value - minimum for node_id, value in row.items()}
+
+
+def column_widths(
+    nodes: dict[str, Node],
+    rank: dict[str, int],
+    col_sep: float = COL_SEP,
+) -> dict[int, float]:
+    need: dict[int, float] = {}
+    for node_id, node in nodes.items():
+        widest = max((label_line_width(line) for line in node.label.split("\n")), default=10.0)
+        wanted = min(max(widest + NODE_PAD_W, MIN_COL_W), MAX_COL_W)
+        column = rank[node_id]
+        need[column] = max(need.get(column, 0.0), wanted)
+
+    ncols = max(rank.values(), default=0) + 1
+    for column in range(ncols):
+        need.setdefault(column, MIN_COL_W)
+    total = sum(need.values()) + col_sep * (ncols - 1)
+    if total > DIAGRAM_MAX_WIDTH:
+        scale = (DIAGRAM_MAX_WIDTH - col_sep * (ncols - 1)) / sum(need.values())
+        need = {column: max(value * scale, 14.0) for column, value in need.items()}
+    return need
+
+
+def node_height(node: Node, col_w: float) -> float:
+    usable = max(col_w - NODE_PAD_W, 8.0)
+    lines = 0
+    for line in node.label.split("\n"):
+        lines += max(1, -(-int(label_line_width(line) * 10) // int(usable * 10)))
+    return lines * LINE_H + NODE_PAD_H
+
+
+def graph_height(
+    nodes: dict[str, Node],
+    rank: dict[str, int],
+    row: dict[str, int],
+    widths: dict[int, float],
+) -> float:
+    row_h: dict[int, float] = {}
+    for node_id, node in nodes.items():
+        height = node_height(node, widths[rank[node_id]])
+        row_h[row[node_id]] = max(row_h.get(row[node_id], 0.0), height)
+    if not row_h:
+        return 0.0
+    return sum(row_h.values()) + ROW_SEP * (len(row_h) - 1)
+
+
+def graph_node_kinds(nodes: dict[str, Node], edges: list[Edge]) -> dict[str, str]:
+    incoming_tokens: dict[str, set[str]] = defaultdict(set)
+    outgoing: set[str] = set()
+    for edge in edges:
+        if edge.token in LAYER_TOKENS:
+            incoming_tokens[edge.target].add(edge.token)
+            outgoing.add(edge.source)
+    kinds = {}
+    for node_id in nodes:
+        tokens = incoming_tokens.get(node_id, set())
+        if not tokens:
+            kinds[node_id] = "root"
+        elif tokens <= {"-.->", "~~~"} and node_id not in outgoing:
+            kinds[node_id] = "note"
+        else:
+            kinds[node_id] = "node"
+    return kinds
+
+
+def subgraph(nodes: dict[str, Node], edges: list[Edge], keep: set[str]) -> tuple[dict[str, Node], list[Edge]]:
+    kept_nodes = {node_id: node for node_id, node in nodes.items() if node_id in keep}
+    kept_edges = [edge for edge in edges if edge.source in keep and edge.target in keep]
+    return kept_nodes, kept_edges
+
+
+def reachable(start: str, edges: list[Edge]) -> set[str]:
+    seen = {start}
+    frontier = [start]
+    while frontier:
+        current = frontier.pop()
+        for edge in edges:
+            if edge.token in LAYER_TOKENS and edge.source == current and edge.target not in seen:
+                seen.add(edge.target)
+                frontier.append(edge.target)
+    return seen
+
+
+def split_units(nodes: dict[str, Node], edges: list[Edge], rank: dict[str, int]) -> tuple[list[str], list[set[str]]]:
+    """Break an oversized graph into root-preserving units of top-level subtrees."""
+    incoming = {edge.target for edge in edges if edge.token in LAYER_TOKENS}
+    roots = [node_id for node_id in nodes if node_id not in incoming]
+    if len(roots) == 1:
+        root = roots[0]
+        kids = []
+        for edge in edges:
+            if edge.token in LAYER_TOKENS and edge.source == root and edge.target not in kids:
+                kids.append(edge.target)
+        return [root], [reachable(kid, edges) | {kid} for kid in kids]
+    return [], [reachable(root, edges) for root in roots]
+
+
+def layout_or_split(
+    nodes: dict[str, Node],
+    edges: list[Edge],
+    depth: int = 0,
+) -> list[tuple[dict[str, Node], list[Edge]]]:
+    rank = compute_ranks(nodes, edges)
+    row = assign_rows(nodes, edges, rank)
+    widths = column_widths(nodes, rank)
+    if graph_height(nodes, rank, row, widths) <= DIAGRAM_MAX_HEIGHT or depth >= 2:
+        return [(nodes, edges)]
+
+    anchors, units = split_units(nodes, edges, rank)
+    if not units or len(units) == 1:
+        return [(nodes, edges)]
+
+    parts: list[tuple[dict[str, Node], list[Edge]]] = []
+    current: set[str] = set()
+
+    def flush() -> None:
+        if not current:
+            return
+        part_nodes, part_edges = subgraph(nodes, edges, current | set(anchors))
+        parts.extend(layout_or_split(part_nodes, part_edges, depth + 1))
+
+    for unit in units:
+        candidate = current | unit | set(anchors)
+        cand_nodes, cand_edges = subgraph(nodes, edges, candidate)
+        cand_rank = compute_ranks(cand_nodes, cand_edges)
+        cand_row = assign_rows(cand_nodes, cand_edges, cand_rank)
+        cand_widths = column_widths(cand_nodes, cand_rank)
+        if current and graph_height(cand_nodes, cand_rank, cand_row, cand_widths) > DIAGRAM_MAX_HEIGHT:
+            flush()
+            current = set(unit)
+        else:
+            current |= unit
+    flush()
+    return parts
+
+
+def render_fletcher_graph(title: str, nodes: dict[str, Node], edges: list[Edge]) -> str:
+    parts = layout_or_split(nodes, edges)
+    panels = []
+    for index, (part_nodes, part_edges) in enumerate(parts, start=1):
+        suffix = f" · {index}/{len(parts)}" if len(parts) > 1 else ""
+        rank = compute_ranks(part_nodes, part_edges)
+        row = assign_rows(part_nodes, part_edges, rank)
+        kinds = graph_node_kinds(part_nodes, part_edges)
+
+        # Nodes hide whatever they overlap, so a label only survives in open
+        # space: widen the column gutter for labels on straight horizontal
+        # edges, and the row gap for labels on same-column links.
+        col_sep = COL_SEP
+        row_sep = ROW_SEP
+        for edge in part_edges:
+            if not edge.label:
+                continue
+            dcol = abs(rank[edge.target] - rank[edge.source])
+            drow = abs(row[edge.target] - row[edge.source])
+            if dcol == 1 and drow == 0:
+                col_sep = 13.0
+            if dcol == 0:
+                row_sep = 9.0
+        widths = column_widths(part_nodes, rank, col_sep)
+
+        lines = [
+            f"#diagram-panel(title: {q(title + suffix)}, breakable: false)[",
+            "  #align(center)[",
+            f"    #f-diagram(spacing: ({col_sep:.0f}mm, {row_sep:.0f}mm),",
+        ]
+        for node_id, node in part_nodes.items():
+            position = f"({rank[node_id]}, {row[node_id]})"
+            width = widths[rank[node_id]]
+            lines.append(
+                f"      fnode({position}, {q(node.label)}, kind: {q(kinds[node_id])}, w: {width:.1f}mm),"
+            )
+        for edge in part_edges:
+            kind = EDGE_KIND.get(edge.token, "solid")
+            source = f"({rank[edge.source]}, {row[edge.source]})"
+            target = f"({rank[edge.target]}, {row[edge.target]})"
+            dcol = abs(rank[edge.target] - rank[edge.source])
+            drow = abs(row[edge.target] - row[edge.source])
+            extra = ""
+            if edge.label:
+                if dcol == 1 and drow == 0:
+                    fit = col_sep - 1.0
+                elif dcol == 0:
+                    fit = 16.0
+                else:
+                    fit = 16.0 if dcol == 1 else 26.0
+                extra += f", label: {q(wrap_label(edge.label, fit))}"
+            if dcol == 0:
+                extra += ", bend: 30deg"
+            elif dcol >= 2:
+                extra += ", bend: 16deg"
+            lines.append(f"      fedge({source}, {target}, kind: {q(kind)}{extra}),")
+        lines.extend(["    )", "  ]", "]"])
+        panels.append("\n".join(lines))
+    return "\n\n".join(panels)
 
 
 def chain_edges(nodes: dict[str, Node], edges: list[Edge]) -> list[Edge] | None:
@@ -415,83 +769,18 @@ def render_chain(title: str, nodes: dict[str, Node], edges: list[Edge]) -> str:
     )
 
 
-def chunked_relation_groups(
-    grouped: list[tuple[str, list[Edge]]],
-    max_groups: int = 4,
-    max_targets: int = 11,
-) -> list[list[tuple[str, list[Edge]]]]:
-    expanded = []
-    for source, source_edges in grouped:
-        for start in range(0, len(source_edges), 7):
-            expanded.append((source, source_edges[start : start + 7]))
-
-    chunks = []
-    current = []
-    target_count = 0
-    for source, source_edges in expanded:
-        if current and (len(current) >= max_groups or target_count + len(source_edges) > max_targets):
-            chunks.append(current)
-            current = []
-            target_count = 0
-        current.append((source, source_edges))
-        target_count += len(source_edges)
-    if current:
-        chunks.append(current)
-    return chunks
-
-
-def render_relation_panels(
-    title: str,
-    nodes: dict[str, Node],
-    edges: list[Edge],
-    incoming: set[str],
-) -> str:
-    grouped_map = defaultdict(list)
-    order = []
-    for edge in edges:
-        if edge.source not in grouped_map:
-            order.append(edge.source)
-        grouped_map[edge.source].append(edge)
-    grouped = [(source, grouped_map[source]) for source in order]
-    chunks = chunked_relation_groups(grouped)
-    panels = []
-    for index, chunk in enumerate(chunks, start=1):
-        suffix = f" · {index}/{len(chunks)}" if len(chunks) > 1 else ""
-        groups = []
-        for source, source_edges in chunk:
-            source_node = nodes.get(source, Node(source, source))
-            kind = node_kind(source, incoming)
-            targets = []
-            for edge in source_edges:
-                target = nodes.get(edge.target, Node(edge.target, edge.target))
-                label_arg = f", edge: {q(edge.label)}" if edge.label else ""
-                targets.append(
-                    f"    #d-target({q(target.label)}, mark: {q(arrow_mark(edge.token))}{label_arg})"
-                )
-            groups.append(
-                f"#relation-group({q(source_node.label)}, kind: {q(kind)})[\n"
-                + "\n".join(targets)
-                + "\n]"
-            )
-        panels.append(
-            f"#diagram-panel(title: {q(title + suffix)}, breakable: true)[\n"
-            + "\n#v(2pt)\n".join(groups)
-            + "\n]"
-        )
-    return "\n\n".join(panels)
-
 def render_flowchart(block: str, diagram_no: int) -> tuple[str, dict[str, object]]:
     direction, nodes, edges = parse_flowchart(block)
-    incoming = {edge.target for edge in edges}
     title = f"图示 {diagram_no} · 关系图"
 
     chain = chain_edges(nodes, edges)
     mode = "relation"
-    if chain and len(nodes) <= 5:
+    if chain:
         typst = render_chain(f"图示 {diagram_no} · 词源路径", nodes, chain)
         mode = "chain"
     elif edges:
-        typst = render_relation_panels(title, nodes, edges, incoming)
+        typst = render_fletcher_graph(title, nodes, edges)
+        mode = "fletcher"
     else:
         cells = "\n".join(f"    d-node({q(node.label)})," for node in nodes.values())
         typst = (
@@ -736,7 +1025,7 @@ def postprocess_body(value: str) -> str:
     imports = (
         '#import "template.typ": part-entry, volume-page, horizontalrule, diagram-panel, d-node, '
         "d-flow, d-down, d-target, relation-group, timeline-date, timeline-entry, timeline-section, "
-        "th\n\n"
+        "th, fnode, fedge, f-diagram\n\n"
     )
     return imports + value
 

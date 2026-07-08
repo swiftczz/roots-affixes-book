@@ -1,5 +1,7 @@
 // Refined academic book template for "词根词缀的故事".
 
+#import "@preview/fletcher:0.5.8" as fletcher
+
 // Body CJK font stacks intentionally keep Latin glyphs in the same family so
 // mixed Chinese/Latin inline text does not disturb line height.
 #let latin-serif = ("Iowan Old Style", "Libertinus Serif", "New Computer Modern")
@@ -168,6 +170,62 @@
   ]
 }
 
+// Fletcher-based graph primitives: real node-and-edge diagrams laid out
+// left-to-right (rank = column), replacing the flattened relation lists.
+#let fnode(pos, label, kind: "node", w: auto) = {
+  let fill = if kind == "root" { gold-soft } else if kind == "note" { plum-soft } else { accent-soft }
+  let stroke-color = if kind == "root" { gold } else if kind == "note" { plum } else { accent }
+  let text-color = if kind == "root" { rgb("#725617") } else if kind == "note" { rgb("#6d4a42") } else {
+    accent-dark
+  }
+  let dash = if kind == "note" { "dashed" } else { none }
+  fletcher.node(
+    pos,
+    align(center)[#line-text(label, size: 8pt, fill: text-color)],
+    width: w,
+    fill: fill,
+    stroke: (paint: stroke-color, thickness: 0.65pt, dash: dash),
+    corner-radius: 4pt,
+    inset: 3.5pt,
+  )
+}
+
+#let fedge(from, to, kind: "solid", label: none, bend: 0deg) = {
+  let spec = (
+    solid: (accent, none, (none, "head")),
+    dashed: (plum, "dashed", (none, "head")),
+    plain: (accent, none, (none, none)),
+    faint: (muted, "dotted", (none, none)),
+    bidir: (plum, none, ("head", "head")),
+    bidir-dashed: (plum, "dashed", ("head", "head")),
+  ).at(kind)
+  let label-args = if label == none { (:) } else {
+    (
+      label: box(inset: (x: 1pt))[#line-text(label, size: 7.5pt, fill: rgb("#5c635b"))],
+      label-fill: panel-bg,
+      label-sep: 0pt,
+    )
+  }
+  fletcher.edge(
+    from,
+    to,
+    marks: spec.at(2),
+    stroke: (paint: spec.at(0), thickness: 0.55pt, dash: spec.at(1)),
+    bend: bend,
+    ..label-args,
+  )
+}
+
+#let f-diagram(spacing: (7mm, 4mm), ..args) = {
+  set par(justify: false)
+  fletcher.diagram(
+    spacing: spacing,
+    node-outset: 1pt,
+    mark-scale: 68%,
+    ..args,
+  )
+}
+
 #let relation-group(source, kind: "root", body) = {
   block(width: 100%, inset: 0pt, below: 5pt, breakable: false)[
     #table(
@@ -193,6 +251,7 @@
     below: 0.8em,
   )[
     #set par(first-line-indent: 0pt, justify: false, spacing: 0pt)
+    #context [#metadata((title: title, page: here().page()))<diagram-panel-loc>]
     #text(font: cjk-kai, size: 10pt, weight: "semibold", fill: accent-dark)[#title]
     #v(6pt)
     #body
