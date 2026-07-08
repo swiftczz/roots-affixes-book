@@ -27,6 +27,9 @@ jobs:
         with:
           typst-version: "0.15.0"
 
+      - name: Install Pandoc
+        uses: r-lib/actions/setup-pandoc@v2
+
       - name: Verify build tools
         run: |
           typst --version
