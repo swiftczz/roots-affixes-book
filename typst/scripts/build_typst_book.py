@@ -19,6 +19,7 @@ BOOK_DIR = SCRIPT.parents[2]
 
 TITLE = "词根词缀的故事"
 SUBTITLE = "一部英语词汇的起源史"
+AUTHOR = "郑成中"
 
 VOLUMES = {
     "01-阅读准备": ("第一卷", "阅读准备", "英语词汇的历史坐标"),
@@ -1036,6 +1037,7 @@ def write_main() -> None:
 #show: book.with(
   title: {q(TITLE)},
   subtitle: {q(SUBTITLE)},
+  author: {q(AUTHOR)},
 )
 
 #include "body.typ"

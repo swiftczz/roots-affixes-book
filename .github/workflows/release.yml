@@ -1,0 +1,84 @@
+name: Release
+
+on:
+  push:
+    tags:
+      - 'v*'
+  workflow_dispatch:
+    inputs:
+      version:
+        description: 'Version (without leading v), e.g. 0.1.0'
+        required: true
+        default: '0.1.0'
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: macos-latest
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+
+      - name: Install Typst
+        uses: typst-community/setup-typst@v5
+        with:
+          typst-version: "0.15.0"
+
+      - name: Verify build tools
+        run: |
+          typst --version
+          pandoc --version | head -n 1
+          python3 --version
+
+      - name: Derive version
+        id: ver
+        run: |
+          if [[ "${{ github.event_name }}" == "workflow_dispatch" ]]; then
+            echo "version=${{ inputs.version }}" >> "$GITHUB_OUTPUT"
+            echo "is_tag=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "version=${GITHUB_REF_NAME#v}" >> "$GITHUB_OUTPUT"
+            echo "is_tag=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Generate changelog
+        if: steps.ver.outputs.is_tag == 'true'
+        run: |
+          prev_tag=$(git describe --tags --abbrev=0 "${{ github.ref_name }}^" 2>/dev/null || echo "")
+          if [[ -z "$prev_tag" ]]; then
+            echo "## 首次发版" > CHANGELOG.md
+            echo "" >> CHANGELOG.md
+            git log --pretty=format:"- %s" >> CHANGELOG.md
+          else
+            echo "## 更新内容（${prev_tag} → ${{ github.ref_name }}）" > CHANGELOG.md
+            echo "" >> CHANGELOG.md
+            git log --pretty=format:"- %s" "${prev_tag}..${{ github.ref_name }}" >> CHANGELOG.md
+          fi
+          echo "=== changelog ==="
+          cat CHANGELOG.md
+
+      - name: Build PDF
+        run: |
+          # 从 Markdown 手稿生成 Typst 正文(body.typ 由构建脚本生成,不入库)
+          python3 typst/scripts/build_typst_book.py
+          # 编译 PDF,直接使用中文书名(与 README 本地命令一致)
+          typst compile typst/main.typ "词根词缀的故事.pdf"
+          ls -lh *.pdf
+
+      - name: Upload PDF to Release
+        if: steps.ver.outputs.is_tag == 'true'
+        uses: softprops/action-gh-release@v3
+        with:
+          files: "词根词缀的故事.pdf"
+          body_path: CHANGELOG.md
+          generate_release_notes: true
+
+      - name: Upload PDF as workflow artifact
+        if: steps.ver.outputs.is_tag == 'false'
+        uses: actions/upload-artifact@v7
+        with:
+          name: roots-affixes-pdf-v${{ steps.ver.outputs.version }}
+          path: "词根词缀的故事.pdf"

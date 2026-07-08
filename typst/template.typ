@@ -54,31 +54,6 @@
 
 #let th(body) = table.cell(fill: paper-deep)[#text(weight: "semibold")[#body]]
 
-#let cover-mark() = {
-  box(width: 44mm, height: 44mm)[
-    #place(dx: 21mm, dy: 4mm, line(start: (0mm, 0mm), end: (0mm, 31mm), stroke: 0.85pt + accent-dark))
-    #place(dx: 21mm, dy: 12mm, line(start: (0mm, 0mm), end: (-13mm, -6mm), stroke: 0.85pt + accent-dark))
-    #place(dx: 21mm, dy: 12mm, line(start: (0mm, 0mm), end: (13mm, -6mm), stroke: 0.85pt + accent-dark))
-    #place(dx: 21mm, dy: 25mm, line(start: (0mm, 0mm), end: (-12mm, 8mm), stroke: 0.85pt + accent-dark))
-    #place(dx: 21mm, dy: 25mm, line(start: (0mm, 0mm), end: (12mm, 8mm), stroke: 0.85pt + accent-dark))
-    #for (x, y, label, tone) in (
-      (4mm, 3mm, "PIE", "root"),
-      (31mm, 3mm, "Lat.", "leaf"),
-      (1mm, 31mm, "Gr.", "leaf"),
-      (29mm, 31mm, "Eng.", "leaf"),
-      (14mm, 36mm, "root", "root"),
-    ) {
-      let fill = if tone == "root" { gold-soft } else { accent-soft }
-      let stroke = if tone == "root" { gold } else { accent }
-      place(dx: x, dy: y, box(
-        inset: (x: 4pt, y: 2.2pt),
-        radius: 6pt,
-        fill: fill,
-        stroke: 0.55pt + stroke,
-      )[#text(font: latin-serif, size: 10pt, fill: accent-dark)[#label]])
-    }
-  ]
-}
 
 #let part-entry(title) = {
   heading(level: 1, outlined: true)[#title]
@@ -172,7 +147,7 @@
 
 // Fletcher-based graph primitives: real node-and-edge diagrams laid out
 // left-to-right (rank = column), replacing the flattened relation lists.
-#let fnode(pos, label, kind: "node", w: auto) = {
+#let fnode(pos, label, kind: "node", w: auto, size: 8pt) = {
   let fill = if kind == "root" { gold-soft } else if kind == "note" { plum-soft } else { accent-soft }
   let stroke-color = if kind == "root" { gold } else if kind == "note" { plum } else { accent }
   let text-color = if kind == "root" { rgb("#725617") } else if kind == "note" { rgb("#6d4a42") } else {
@@ -181,7 +156,7 @@
   let dash = if kind == "note" { "dashed" } else { none }
   fletcher.node(
     pos,
-    align(center)[#line-text(label, size: 8pt, fill: text-color)],
+    align(center)[#line-text(label, size: size, fill: text-color)],
     width: w,
     fill: fill,
     stroke: (paint: stroke-color, thickness: 0.65pt, dash: dash),
@@ -224,6 +199,33 @@
     mark-scale: 68%,
     ..args,
   )
+}
+
+// Cover mark: abstract etymology tree drawn with bare lines and small pills.
+#let cover-mark() = {
+  box(width: 44mm, height: 44mm)[
+    #place(dx: 21mm, dy: 4mm, line(start: (0mm, 0mm), end: (0mm, 31mm), stroke: 0.85pt + accent-dark))
+    #place(dx: 21mm, dy: 12mm, line(start: (0mm, 0mm), end: (-13mm, -6mm), stroke: 0.85pt + accent-dark))
+    #place(dx: 21mm, dy: 12mm, line(start: (0mm, 0mm), end: (13mm, -6mm), stroke: 0.85pt + accent-dark))
+    #place(dx: 21mm, dy: 25mm, line(start: (0mm, 0mm), end: (-12mm, 8mm), stroke: 0.85pt + accent-dark))
+    #place(dx: 21mm, dy: 25mm, line(start: (0mm, 0mm), end: (12mm, 8mm), stroke: 0.85pt + accent-dark))
+    #for (x, y, label, tone) in (
+      (4mm, 3mm, "PIE", "root"),
+      (31mm, 3mm, "Lat.", "leaf"),
+      (1mm, 31mm, "Gr.", "leaf"),
+      (29mm, 31mm, "Eng.", "leaf"),
+      (14mm, 36mm, "root", "root"),
+    ) {
+      let fill = if tone == "root" { gold-soft } else { accent-soft }
+      let stroke = if tone == "root" { gold } else { accent }
+      place(dx: x, dy: y, box(
+        inset: (x: 4pt, y: 2.2pt),
+        radius: 6pt,
+        fill: fill,
+        stroke: 0.55pt + stroke,
+      )[#text(font: latin-serif, size: 10pt, fill: accent-dark)[#label]])
+    }
+  ]
 }
 
 #let relation-group(source, kind: "root", body) = {
@@ -397,22 +399,34 @@
     block(width: 100%, breakable: true, above: 0.8em, below: 0.8em)[#align(center)[#it]]
   }
 
-  align(center + horizon)[
+  // ---- Cover ----
+  // Double hairline frame, inset from the page edge (content origin sits at
+  // the 20mm/18mm margins, hence the negative offsets).
+  place(top + left, dx: -10mm, dy: -8mm, rect(width: 156mm, height: 230mm, stroke: 0.6pt + accent-dark))
+  place(top + left, dx: -7.5mm, dy: -5.5mm, rect(width: 151mm, height: 225mm, stroke: 0.45pt + gold))
+  block(width: 100%, height: 100%)[
+    #set align(center)
+    #v(14mm)
+    #text(font: latin-serif, size: 10pt, fill: gold, tracking: 3.5pt)[ETYMOLOGY · ROOTS · AFFIXES]
+    #v(1fr)
     #cover-mark()
-    #v(1.8em)
-    #cover-rule(width: 68%, stroke: 0.75pt + accent-dark)
+    #v(1.7em)
+    #cover-rule(width: 62%, stroke: 0.75pt + accent-dark)
     #v(1.55em)
-    #text(font: cjk-serif, size: 31pt, weight: "semibold", fill: ink)[#title]
+    #text(font: cjk-serif, size: 32pt, weight: "semibold", fill: ink)[#title]
     #if subtitle != none [
-      #v(0.8em)
-      #text(font: cjk-kai, size: 13pt, fill: muted)[#subtitle]
+      #v(0.85em)
+      #text(font: cjk-kai, size: 12.5pt, fill: muted)[#subtitle]
     ]
+    #v(1.3em)
+    #cover-rule(width: 30%, stroke: 0.7pt + gold)
+    #v(1fr)
     #if author != none [
-      #v(2.0em)
-      #text(font: cjk-sans, size: 10pt, fill: muted)[#author]
+      #text(font: cjk-serif, size: 12.5pt, weight: "semibold", fill: ink, tracking: 2pt)[#author 著]
+      #v(3.5mm)
     ]
-    #v(1.25em)
-    #cover-rule(width: 32%, stroke: 0.7pt + gold)
+    #cover-rule(width: 16%, stroke: 0.6pt + accent-dark)
+    #v(9mm)
   ]
 
   pagebreak()
