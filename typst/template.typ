@@ -1,0 +1,370 @@
+// Refined academic book template for "词根词缀的故事".
+
+#let cjk-serif = ("Songti SC", "LiSong Pro", "STSong", "Iowan Old Style")
+#let cjk-kai = ("Kaiti SC", "STKaiti", "Kai", "Iowan Old Style")
+#let cjk-sans = ("PingFang SC", "Heiti SC", "STHeiti", "Iowan Old Style")
+#let latin-serif = ("Iowan Old Style", "Libertinus Serif", "New Computer Modern")
+#let mono-font = ("Menlo", "Maple Mono", "FiraCode Nerd Font Mono", "Courier New")
+
+#let paper = rgb("#fbfaf6")
+#let paper-deep = rgb("#f4efe4")
+#let ink = rgb("#272724")
+#let muted = rgb("#73786f")
+#let hairline = rgb("#d9ded7")
+#let accent = rgb("#4f7f83")
+#let accent-dark = rgb("#285963")
+#let accent-soft = rgb("#e8f2ef")
+#let gold = rgb("#b9903e")
+#let gold-soft = rgb("#fbf0d8")
+#let plum = rgb("#8f6f68")
+#let plum-soft = rgb("#f7eaea")
+
+#let line-text(value, size: 10pt, weight: "regular", fill: ink, font: cjk-serif) = {
+  set text(font: font)
+  set par(first-line-indent: 0pt, justify: false, leading: 0.58em, spacing: 0pt)
+  let lines = value.split("\n")
+  for (i, line) in lines.enumerate() {
+    if i > 0 { linebreak() }
+    text(size: size, weight: weight, fill: fill)[#line]
+  }
+}
+
+#let cover-rule(width: 72%, stroke: 0.75pt + accent) = {
+  line(length: width, stroke: stroke)
+}
+
+#let horizontalrule = {
+  v(0.45em)
+  line(length: 100%, stroke: 0.45pt + hairline)
+  v(0.45em)
+}
+
+#let cover-mark() = {
+  box(width: 44mm, height: 44mm)[
+    #place(dx: 21mm, dy: 4mm, line(start: (0mm, 0mm), end: (0mm, 31mm), stroke: 0.85pt + accent-dark))
+    #place(dx: 21mm, dy: 12mm, line(start: (0mm, 0mm), end: (-13mm, -6mm), stroke: 0.85pt + accent-dark))
+    #place(dx: 21mm, dy: 12mm, line(start: (0mm, 0mm), end: (13mm, -6mm), stroke: 0.85pt + accent-dark))
+    #place(dx: 21mm, dy: 25mm, line(start: (0mm, 0mm), end: (-12mm, 8mm), stroke: 0.85pt + accent-dark))
+    #place(dx: 21mm, dy: 25mm, line(start: (0mm, 0mm), end: (12mm, 8mm), stroke: 0.85pt + accent-dark))
+    #for (x, y, label, tone) in (
+      (4mm, 3mm, "PIE", "root"),
+      (31mm, 3mm, "Lat.", "leaf"),
+      (1mm, 31mm, "Gr.", "leaf"),
+      (29mm, 31mm, "Eng.", "leaf"),
+      (14mm, 36mm, "root", "root"),
+    ) {
+      let fill = if tone == "root" { gold-soft } else { accent-soft }
+      let stroke = if tone == "root" { gold } else { accent }
+      place(dx: x, dy: y, box(
+        inset: (x: 4pt, y: 2.2pt),
+        radius: 6pt,
+        fill: fill,
+        stroke: 0.55pt + stroke,
+      )[#text(font: latin-serif, size: 10pt, fill: accent-dark)[#label]])
+    }
+  ]
+}
+
+#let part-entry(title) = {
+  heading(level: 1, outlined: true)[#title]
+}
+
+#let volume-page(kicker, title, subtitle: none, outline-title: none) = {
+  pagebreak()
+  part-entry(if outline-title == none { title } else { outline-title })
+  align(center + horizon)[
+    #text(font: latin-serif, size: 10pt, fill: muted)[ROOTS / AFFIXES]
+    #v(0.8em)
+    #text(font: cjk-sans, size: 10pt, weight: "semibold", fill: accent-dark)[#kicker]
+    #v(1.2em)
+    #cover-rule(width: 34%, stroke: 0.7pt + gold)
+    #v(1.3em)
+    #text(font: cjk-serif, size: 27pt, weight: "semibold", fill: ink)[#title]
+    #if subtitle != none [
+      #v(0.9em)
+      #text(font: cjk-kai, size: 11pt, fill: muted)[#subtitle]
+    ]
+  ]
+  pagebreak()
+}
+
+#let d-node(label, kind: "node") = {
+  let fill = if kind == "root" { gold-soft } else if kind == "warn" { plum-soft } else { accent-soft }
+  let stroke-color = if kind == "root" { gold } else if kind == "warn" { plum } else { accent }
+  let text-color = if kind == "root" { rgb("#725617") } else if kind == "warn" { plum } else { accent-dark }
+  box(
+    width: 100%,
+    inset: (x: 6pt, y: 4.8pt),
+    radius: 5pt,
+    fill: fill,
+    stroke: 0.7pt + stroke-color,
+  )[
+    #align(center)[#line-text(label, size: 10pt, fill: text-color, font: cjk-serif)]
+  ]
+}
+
+#let d-flow(mark: "→", label: none, dotted: false) = {
+  align(center + horizon)[
+    #box(width: 100%)[
+      #line(length: 100%, stroke: (if dotted { 0.5pt + muted } else { 0.55pt + accent }))
+      #place(dx: 44%, dy: -4.8pt)[
+        #box(inset: (x: 3pt, y: 0.5pt), fill: paper)[
+    #text(font: latin-serif, size: 10pt, fill: accent-dark)[#mark]
+        ]
+      ]
+    ]
+    #if label != none [
+      #v(1.5pt)
+      #line-text(label, size: 10pt, fill: muted, font: cjk-kai)
+    ]
+  ]
+}
+
+#let d-down(mark: "↓", label: none) = {
+  block(width: 100%, above: 1.6pt, below: 1.6pt)[
+    #align(center)[
+      #text(font: latin-serif, size: 10.5pt, fill: accent-dark)[#mark]
+      #if label != none [
+        #linebreak()
+        #line-text(label, size: 10pt, fill: muted, font: cjk-kai)
+      ]
+    ]
+  ]
+}
+
+#let d-target(label, edge: none, mark: "→", kind: "node") = {
+  let border = if kind == "root" { gold } else if mark == "⇢" or mark == "⇄" { plum } else { accent }
+  block(width: 100%, inset: 0pt, above: 2.5pt, below: 2.5pt)[
+    #table(
+      columns: (16pt, 1fr),
+      stroke: none,
+      column-gutter: 4pt,
+      align: top,
+      [#text(font: latin-serif, size: 10pt, fill: border)[#mark]],
+      [
+        #set par(first-line-indent: 0pt, justify: false, leading: 0.5em, spacing: 0pt)
+        #if edge != none [
+          #text(font: cjk-kai, size: 10pt, fill: muted)[#edge]
+          #linebreak()
+        ]
+        #line-text(label, size: 10pt, fill: ink, font: cjk-serif)
+        #v(2pt)
+        #line(length: 100%, stroke: 0.35pt + hairline)
+      ],
+    )
+  ]
+}
+
+#let relation-group(source, kind: "root", body) = {
+  block(width: 100%, inset: 0pt, below: 5pt, breakable: false)[
+    #table(
+      columns: (0.76fr, 1.75fr),
+      stroke: none,
+      column-gutter: 8pt,
+      align: horizon,
+      d-node(source, kind: kind),
+      body,
+    )
+  ]
+}
+
+#let diagram-panel(title: "图示", breakable: false, body) = {
+  block(
+    width: 100%,
+    inset: (x: 9pt, y: 8pt),
+    radius: 4pt,
+    fill: rgb("#fcfdfa"),
+    stroke: (left: 1.4pt + accent, rest: 0.45pt + hairline),
+    breakable: breakable,
+    above: 0.95em,
+    below: 1.05em,
+  )[
+    #set par(first-line-indent: 0pt, justify: false, spacing: 0pt)
+    #text(font: cjk-sans, size: 10pt, weight: "semibold", fill: accent-dark)[#title]
+    #v(6pt)
+    #body
+  ]
+}
+
+#let timeline-date(value) = box(
+  width: 100%,
+  inset: (x: 4pt, y: 3pt),
+  radius: 3pt,
+  fill: gold-soft,
+  stroke: 0.5pt + gold,
+)[#align(center)[#line-text(value, size: 10pt, fill: rgb("#6f561b"), font: cjk-sans)]]
+
+#let timeline-entry(value) = {
+  block(width: 100%, inset: (left: 8pt), stroke: (left: 0.6pt + accent))[#line-text(value, size: 10pt)]
+}
+
+#let timeline-section(value) = {
+  block(width: 100%, inset: (x: 5pt, y: 3pt), fill: accent-soft, radius: 3pt)[
+    #text(font: cjk-sans, size: 10pt, weight: "semibold", fill: accent-dark)[#value]
+  ]
+}
+
+#let compact-section-title(title) = {
+  v(0.25em)
+  block(width: 100%, below: 0.35em)[
+    #set par(first-line-indent: 0pt, justify: false)
+    #text(font: cjk-serif, size: 13.4pt, weight: "semibold", fill: accent-dark)[#title]
+  ]
+}
+
+#let book(title: "词根词缀的故事", subtitle: none, author: none, body) = {
+  set document(
+    title: title,
+    author: if author == none { () } else { (author,) },
+  )
+  set page(
+    paper: "iso-b5",
+    fill: paper,
+    margin: (left: 20mm, right: 18mm, top: 18mm, bottom: 18mm),
+    numbering: none,
+    header: none,
+  )
+  set text(
+    font: cjk-serif,
+    size: 10.5pt,
+    lang: "zh",
+    fill: ink,
+  )
+  set par(
+    justify: true,
+    leading: 0.88em,
+    spacing: 0.74em,
+    first-line-indent: 1.8em,
+  )
+  set heading(outlined: true, numbering: none)
+  set table(
+    inset: (x: 4.4pt, y: 3.8pt),
+    stroke: 0.45pt + hairline,
+    align: horizon,
+  )
+  set raw(block: true)
+  set list(indent: 1.2em, body-indent: 0.62em)
+
+  show emph: it => text(font: latin-serif, style: "italic")[#it.body]
+  show strong: it => text(weight: "semibold", fill: rgb("#30302c"))[#it.body]
+  show raw.where(block: false): set text(font: mono-font, size: 1em, fill: rgb("#303d3f"))
+
+  show heading.where(level: 1): it => none
+  show heading.where(level: 5): it => {
+    v(0.6em)
+    block(width: 100%, below: 0.55em)[
+      #set par(first-line-indent: 0pt, justify: false)
+      #text(font: cjk-serif, size: 10.8pt, weight: "semibold", fill: rgb("#4f524d"))[#it.body]
+    ]
+  }
+
+  show outline.entry.where(level: 1): it => {
+    v(0.38em)
+    text(font: cjk-serif, size: 10.8pt, weight: "semibold", fill: ink)[#it]
+  }
+  show outline.entry.where(level: 2): it => {
+    v(0.08em)
+    text(font: cjk-kai, size: 10pt, fill: rgb("#4f5550"))[#it]
+  }
+
+  show heading.where(level: 2): it => {
+    v(0.75em)
+    block(width: 100%, below: 1.35em)[
+      #set par(first-line-indent: 0pt, justify: false, leading: 0.6em)
+      #text(font: latin-serif, size: 10pt, fill: gold)[ETYMOLOGY CHAPTER]
+      #v(0.55em)
+      #text(font: cjk-serif, size: 22.2pt, weight: "semibold", fill: ink)[#it.body]
+      #v(0.75em)
+      #line(length: 30%, stroke: 0.85pt + gold)
+    ]
+  }
+  show heading.where(level: 3): it => {
+    v(1.18em)
+    block(width: 100%, below: 0.9em)[
+      #set par(first-line-indent: 0pt, justify: false)
+      #text(font: cjk-serif, size: 13.4pt, weight: "semibold", fill: accent-dark)[#it.body]
+    ]
+  }
+  show heading.where(level: 4): it => {
+    v(0.9em)
+    block(width: 100%, below: 0.76em)[
+      #set par(first-line-indent: 0pt, justify: false)
+      #text(font: cjk-serif, size: 10.8pt, weight: "semibold", fill: rgb("#474c48"))[#it.body]
+    ]
+  }
+  show quote: it => block(
+    width: 100%,
+    inset: (left: 12pt, right: 12pt, top: 6pt, bottom: 6pt),
+    radius: 4pt,
+    fill: rgb("#f7f3ea"),
+    stroke: (left: 2pt + gold, rest: 0.4pt + rgb("#e5dcc8")),
+    breakable: true,
+    above: 0.85em,
+    below: 0.9em,
+  )[
+    #set text(font: cjk-kai, size: 11pt, fill: rgb("#42413b"))
+    #set par(first-line-indent: 0pt, justify: true, leading: 0.86em, spacing: 0.24em)
+    #it.body
+  ]
+  show table: it => {
+    set text(size: 10pt)
+    set par(first-line-indent: 0pt, justify: false, leading: 0.6em)
+    block(width: 100%, above: 0.55em, below: 0.65em)[#it]
+  }
+  show raw.where(block: true): it => block(
+    width: 100%,
+    inset: 8pt,
+    radius: 4pt,
+    fill: rgb("#f2f4ef"),
+    stroke: 0.5pt + hairline,
+  )[
+    #set text(font: mono-font, size: 10pt)
+    #it
+  ]
+  show figure: it => {
+    block(width: 100%, breakable: true, above: 0.8em, below: 0.85em)[#align(center)[#it]]
+  }
+
+  align(center + horizon)[
+    #cover-mark()
+    #v(1.8em)
+    #cover-rule(width: 68%, stroke: 0.75pt + accent-dark)
+    #v(1.55em)
+    #text(font: cjk-serif, size: 31pt, weight: "semibold", fill: ink)[#title]
+    #if subtitle != none [
+      #v(0.8em)
+      #text(font: cjk-kai, size: 13pt, fill: muted)[#subtitle]
+    ]
+    #if author != none [
+      #v(2.0em)
+      #text(font: cjk-sans, size: 10pt, fill: muted)[#author]
+    ]
+    #v(1.25em)
+    #cover-rule(width: 32%, stroke: 0.7pt + gold)
+  ]
+
+  pagebreak()
+  block(width: 100%, below: 0.8em)[
+    #set par(first-line-indent: 0pt, justify: false)
+    #text(font: cjk-serif, size: 24pt, weight: "semibold", fill: ink)[目录]
+    #v(0.45em)
+    #line(length: 42%, stroke: 0.7pt + accent)
+  ]
+  outline(title: none, depth: 2, indent: auto)
+  pagebreak()
+  set page(
+    paper: "iso-b5",
+    fill: paper,
+    margin: (left: 20mm, right: 18mm, top: 18mm, bottom: 18mm),
+    numbering: "1",
+    number-align: center,
+    header: block(width: 100%)[
+      #align(right)[#text(font: cjk-kai, size: 10pt, fill: muted)[#title]]
+      #v(2pt)
+      #line(length: 100%, stroke: 0.35pt + hairline)
+    ],
+  )
+  counter(page).update(1)
+
+  body
+}

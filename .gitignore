@@ -1,1 +1,12 @@
 .DS_Store
+
+# Typst generated files
+typst/body.typ
+typst/build/
+typst/conversion-report.json
+typst/*.pdf
+typst/qa/
+
+# Python cache
+__pycache__/
+*.py[cod]

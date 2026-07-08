@@ -118,6 +118,39 @@ flowchart TD
 
 ---
 
+## Typst/PDF 构建
+
+本仓库的内容源文件是各卷各章的 Markdown。修改章节 `.md` 后,需要重新生成 Typst 正文并编译 PDF。
+
+前置工具:
+
+```bash
+pandoc --version
+typst --version
+```
+
+`typst` 建议使用 `0.15.0` 或更新版本。
+
+在仓库根目录执行:
+
+```bash
+python3 typst/scripts/build_typst_book.py
+typst compile typst/main.typ "typst/词根词缀的故事.pdf"
+```
+
+生成关系:
+
+- `typst/scripts/build_typst_book.py`: 从 Markdown 生成 Typst 的构建脚本,需要提交到仓库。
+- `typst/main.typ`: Typst 入口文件,需要提交到仓库。
+- `typst/template.typ`: 书籍版式模板,需要提交到仓库。
+- `typst/body.typ`: 由 Markdown 自动生成,不要手工修改。
+- `typst/词根词缀的故事.pdf`: 编译产物,可随时重新生成。
+- `typst/qa/`: PDF 视觉检查产物,仅用于本地检查。
+
+如果只改正文内容,按上面的两条命令重新生成即可。如果改版式,修改 `typst/template.typ` 后也执行同样的两条命令。
+
+---
+
 ## 进度追踪
 
 - [x] 新结构搭建
