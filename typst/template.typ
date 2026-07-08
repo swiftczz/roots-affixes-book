@@ -1,12 +1,10 @@
 // Refined academic book template for "词根词缀的故事".
 
-// Latin glyphs render in a serif face even inside CJK runs; "latin-in-cjk"
-// deliberately excludes quotes/dashes shared with CJK so those stay in the
-// Chinese font.
-#let latin-in-cjk = (name: "Iowan Old Style", covers: "latin-in-cjk")
+// Body CJK font stacks intentionally keep Latin glyphs in the same family so
+// mixed Chinese/Latin inline text does not disturb line height.
 #let latin-serif = ("Iowan Old Style", "Libertinus Serif", "New Computer Modern")
-#let cjk-serif = (latin-in-cjk, "Songti SC", "LiSong Pro", "STSong")
-#let cjk-kai = (latin-in-cjk, "Kaiti SC", "STKaiti", "Kai")
+#let cjk-serif = ("New Computer Modern", "Songti SC", "LiSong Pro", "STSong")
+#let cjk-kai = ("Kaiti SC", "STKaiti", "Kai")
 #let cjk-sans = ("PingFang SC", "Heiti SC", "STHeiti")
 #let mono-font = ("Menlo", "Maple Mono", "FiraCode Nerd Font Mono", "Courier New")
 
@@ -47,9 +45,9 @@
 }
 
 #let horizontalrule = {
-  v(0.5em, weak: true)
-  line(length: 100%, stroke: 0.45pt + hairline)
-  v(0.5em, weak: true)
+  v(1em, weak: true)
+  line(length: 100%, stroke: 0.5pt + hairline)
+  v(1em, weak: true)
 }
 
 #let th(body) = table.cell(fill: paper-deep)[#text(weight: "semibold")[#body]]
@@ -233,46 +231,46 @@
   )
   set text(
     font: cjk-serif,
-    size: 10.5pt,
+    size: 10pt,
     lang: "zh",
     region: "cn",
     fill: ink,
   )
   set par(
     justify: true,
-    leading: 0.88em,
-    spacing: 0.8em,
+    leading: 1em,
+    spacing: 1.1em,
     first-line-indent: (amount: 1.8em, all: true),
   )
   set heading(outlined: true, numbering: none)
   set table(
     inset: (x: 4.4pt, y: 3.8pt),
     stroke: 0.45pt + hairline,
-    align: horizon,
+    align: left + horizon,
   )
-  set list(indent: 1.2em, body-indent: 0.62em)
-  set enum(indent: 1.2em, body-indent: 0.62em)
+  set list(indent: 1.2em, body-indent: 0.6em)
+  set enum(indent: 1.2em, body-indent: 0.6em)
 
   show list: set par(first-line-indent: 0pt)
   show enum: set par(first-line-indent: 0pt)
   show terms: set par(first-line-indent: 0pt)
   show outline: set par(first-line-indent: 0pt)
 
-  show emph: it => text(font: latin-serif, style: "italic")[#it.body]
-  show strong: it => text(weight: "semibold", fill: rgb("#30302c"))[#it.body]
-  show raw.where(block: false): set text(font: mono-font, size: 0.94em, fill: rgb("#303d3f"))
+  show emph: it => text(size: 1em, fill: rgb("#303734"))[#it.body]
+  show strong: it => text(size: 1em, fill: rgb("#30302c"))[#it.body]
+  show raw.where(block: false): it => text(font: cjk-serif, size: 10pt, fill: rgb("#303734"))[#it.text]
 
   show heading.where(level: 1): it => none
   show heading.where(level: 5): it => {
-    block(width: 100%, above: 0.8em, below: 0.5em, sticky: true)[
+    block(width: 100%, above: 1em, below: 1em, sticky: true)[
       #set par(first-line-indent: 0pt, justify: false)
-      #text(font: cjk-serif, size: 10.8pt, weight: "semibold", fill: rgb("#4f524d"))[#it.body]
+      #text(font: cjk-serif, size: 11pt, weight: "semibold", fill: rgb("#4f524d"))[#it.body]
     ]
   }
 
   show outline.entry.where(level: 1): it => {
     v(0.38em)
-    text(font: cjk-serif, size: 10.8pt, weight: "semibold", fill: ink)[#it]
+    text(font: cjk-sans, size: 10.8pt, weight: "semibold", fill: ink)[#it]
   }
   show outline.entry.where(level: 2): it => {
     v(0.08em)
@@ -284,25 +282,25 @@
     let kicker = if label-text.starts-with("附录") { "APPENDIX" } else if label-text.starts-with("前言") {
       "PREFACE"
     } else { "ETYMOLOGY CHAPTER" }
-    block(width: 100%, above: 1em, below: 2em, sticky: true)[
+    block(width: 100%, above: 1em, below: 1em, sticky: true)[
       #set par(first-line-indent: 0pt, justify: false, leading: 0.6em)
       #text(font: latin-serif, size: 10pt, fill: gold)[#kicker]
-      #v(0.55em)
-      #text(font: cjk-serif, size: 22.2pt, weight: "semibold", fill: ink)[#it.body]
-      #v(0.75em)
-      #line(length: 30%, stroke: 0.85pt + gold)
+      #v(0.5em)
+      #text(font: cjk-sans, size: 22pt, weight: "semibold", fill: ink)[#it.body]
+      #v(0.5em)
+      #line(length: 30%, stroke: 1pt + gold)
     ]
   }
   show heading.where(level: 3): it => {
     block(width: 100%, above: 1em, below: 1em, sticky: true)[
       #set par(first-line-indent: 0pt, justify: false)
-      #text(font: cjk-serif, size: 13.4pt, weight: "semibold", fill: accent-dark)[#it.body]
+      #text(font: cjk-serif, size: 13pt, weight: "semibold", fill: accent-dark)[#it.body]
     ]
   }
   show heading.where(level: 4): it => {
-    block(width: 100%, above: 0.8em, below: 0.6em, sticky: true)[
+    block(width: 100%, above: 1em, below: 1em, sticky: true)[
       #set par(first-line-indent: 0pt, justify: false)
-      #text(font: cjk-serif, size: 10.8pt, weight: "semibold", fill: rgb("#474c48"))[#it.body]
+      #text(font: cjk-serif, size: 12pt, weight: "semibold", fill: rgb("#474c48"))[#it.body]
     ]
   }
   show quote: it => block(
@@ -312,11 +310,11 @@
     fill: rgb("#f7f3ea"),
     stroke: (left: 2pt + gold, rest: 0.4pt + rgb("#e5dcc8")),
     breakable: true,
-    above: 0.8em,
-    below: 0.8em,
+    above: 1em,
+    below: 1em,
   )[
-    #set text(font: cjk-kai, size: 11pt, fill: rgb("#42413b"))
-    #set par(first-line-indent: 0pt, justify: true, leading: 0.86em, spacing: 0.24em)
+    #set text(font: cjk-kai, size: 10pt, fill: rgb("#42413b"))
+    #set par(first-line-indent: 0pt, justify: true, leading: 0.8em, spacing: 1em)
     #it.body
   ]
   show table: it => {

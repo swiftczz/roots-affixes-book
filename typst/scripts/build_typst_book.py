@@ -74,6 +74,10 @@ DQUOTE_PAIR = re.compile(r"\"([^\"]*)\"")
 SQUOTE_PAIR = re.compile(r"'([^']*)'")
 INLINE_CODE = re.compile(r"`[^`\n]*`")
 CODE_SENTINEL = "\x00"
+CJK_SPACE = re.compile(f"({CJKISH.pattern}) +({CJKISH.pattern})")
+TYPST_CJK_MARKUP_SPACE = re.compile(f"({CJKISH.pattern})\\] +({CJKISH.pattern})")
+TYPST_CJK_BEFORE_MARKUP_SPACE = re.compile(f"({CJKISH.pattern}) +#(strong|emph)\\[")
+MARKDOWN_QUOTE_STARTS = "\"“‘"
 
 
 def is_cjkish(char: str) -> bool:
@@ -133,6 +137,48 @@ def fullwidth_marks(value: str) -> str:
     return "".join(chars)
 
 
+def remove_cjk_spaces(value: str) -> str:
+    previous = None
+    while previous != value:
+        previous = value
+        value = CJK_SPACE.sub(r"\1\2", value)
+    return value
+
+
+def protect_markdown_strong_boundaries(value: str) -> str:
+    for marker in ("**", "__"):
+        result: list[str] = []
+        pos = 0
+        opening = True
+        while True:
+            index = value.find(marker, pos)
+            if index == -1:
+                result.append(value[pos:])
+                break
+            segment = value[pos:index]
+            nxt = value[index + len(marker)] if index + len(marker) < len(value) else ""
+            if opening and segment and is_cjkish(segment[-1]) and nxt in MARKDOWN_QUOTE_STARTS:
+                result.append(segment)
+                result.append(" ")
+                result.append(marker)
+            else:
+                result.append(segment)
+                result.append(marker)
+            pos = index + len(marker)
+            if not opening:
+                nxt = value[pos] if pos < len(value) else ""
+                if nxt and not nxt.isspace() and is_cjkish(nxt):
+                    result.append(" ")
+            opening = not opening
+        value = "".join(result)
+    return value
+
+
+def remove_typst_cjk_markup_spaces(value: str) -> str:
+    value = TYPST_CJK_BEFORE_MARKUP_SPACE.sub(r"\1#\2[", value)
+    return TYPST_CJK_MARKUP_SPACE.sub(r"\1]\2", value)
+
+
 def normalize_segment(value: str) -> str:
     spans: list[str] = []
 
@@ -144,6 +190,8 @@ def normalize_segment(value: str) -> str:
     masked = fullwidth_parens(masked)
     masked = fullwidth_marks(masked)
     masked = fullwidth_quotes(masked, DQUOTE_PAIR, "“", "”", False)
+    masked = remove_cjk_spaces(masked)
+    masked = protect_markdown_strong_boundaries(masked)
     for span in spans:
         masked = masked.replace(CODE_SENTINEL, span, 1)
     return masked
@@ -591,6 +639,7 @@ TABLE_COLUMNS = re.compile(
     r"columns: \((?P<cols>1fr(?:, 1fr){1,9})\),\n"
     r"(?P<rest>\s+align: \([^)]*,\),\n\s+table\.header\((?P<header>[^\n]+)\),)"
 )
+TABLE_AUTO_ALIGN = re.compile(r"(?m)^(?P<indent>\s*)align: \((?P<items>auto(?:,auto)*,?)\),$")
 
 
 def tuned_table_columns(value: str) -> str:
@@ -621,6 +670,15 @@ def tuned_table_columns(value: str) -> str:
         return f"columns: ({columns}),\n{match.group('rest')}"
 
     return TABLE_COLUMNS.sub(repl, value)
+
+
+def left_align_table_cells(value: str) -> str:
+    def repl(match: re.Match[str]) -> str:
+        count = match.group("items").count("auto")
+        alignments = ", ".join("left + horizon" for _ in range(count))
+        return f"{match.group('indent')}align: ({alignments},),"
+
+    return TABLE_AUTO_ALIGN.sub(repl, value)
 
 
 def unwrap_table_figures(value: str) -> str:
@@ -663,6 +721,7 @@ def style_table_headers(value: str) -> str:
 def postprocess_body(value: str) -> str:
     value = re.sub(r"columns:\s*(\d+),", fraction_columns, value)
     value = tuned_table_columns(value)
+    value = left_align_table_cells(value)
     value = value.replace("[来源], [章节],)", "[来源], [章],)")
     value = unwrap_table_figures(value)
     value = style_table_headers(value)
@@ -673,6 +732,7 @@ def postprocess_body(value: str) -> str:
     )
     value = demote_headings(value)
     value = insert_chapter_breaks(value)
+    value = remove_typst_cjk_markup_spaces(value)
     imports = (
         '#import "template.typ": part-entry, volume-page, horizontalrule, diagram-panel, d-node, '
         "d-flow, d-down, d-target, relation-group, timeline-date, timeline-entry, timeline-section, "
