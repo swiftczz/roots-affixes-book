@@ -60,6 +60,8 @@ flowchart TD
 
 ## 【家族树】specere 的子孙
 
+下面这张图,是 specere 家的全家福——一个"看"字出门,回来时带了二十多个孩子,每个都觉得自己和"看"没什么关系。
+
 ```mermaid
 flowchart TD
     specere["拉丁 specere<br/>(看)"]
@@ -69,20 +71,24 @@ flowchart TD
 
     spec --> special["special<br/>(特别的)"]
     spec --> specimen["specimen<br/>(样本)"]
-    specimen --> species["species<br/>(种类)"]
+    spec --> species["species<br/>(种类)"]
 
     spect --> spectacle["spectacle<br/>(奇观)"]
     spectacle --> spectacular["spectacular<br/>(壮观的)"]
     spect --> spectator["spectator<br/>(观众)"]
-    spect --> inspect["inspect<br/>(检查)"]
-    spect --> aspect["aspect<br/>(方面)"]
-    spect --> respect["respect<br/>(尊重)"]
-    respect --> suspect["suspect<br/>(怀疑)"]
-    suspect --> perspective["perspective<br/>(视角)"]
-    suspect --> introspection["introspection<br/>(内省)"]
+    spect --> inspect["inspect<br/>(检查:向内看)"]
+    spect --> aspect["aspect<br/>(方面:朝着看)"]
+    spect --> respect["respect<br/>(尊重:回头看)"]
+    spect --> suspect["suspect<br/>(怀疑:从下看)"]
+    spect --> perspective["perspective<br/>(视角:透过看)"]
+    spect --> introspection["introspection<br/>(内省:向内心看)"]
+
+    spic --> conspicuous["conspicuous<br/>(显眼的)"]
+    spic --> auspice["auspice<br/>(吉兆:观鸟)"]
+    spic --> suspicion["suspicion<br/>(怀疑)"]
 ```
 
-**只记一个核心义**:**spec/spic/spect = 看**,就能串起 20+ 个高频词。
+**只记一个核心义**:**spec/spic/spect = 看**,就能串起 20+ 个高频词。一个动词养活二十多个后代,这生育率放在词根界也是头部水平。
 
 ---
 
