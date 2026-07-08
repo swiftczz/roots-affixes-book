@@ -71,13 +71,24 @@ jobs:
           typst compile typst/main.typ "词根词缀的故事.pdf"
           ls -lh *.pdf
 
+      - name: Create Release
+        if: steps.ver.outputs.is_tag == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh release create "${{ github.ref_name }}" \
+            --title "${{ github.ref_name }}" \
+            --notes-file CHANGELOG.md \
+            --generate-notes
+
       - name: Upload PDF to Release
         if: steps.ver.outputs.is_tag == 'true'
-        uses: softprops/action-gh-release@v3
-        with:
-          files: "词根词缀的故事.pdf"
-          body_path: CHANGELOG.md
-          generate_release_notes: true
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # 用 gh CLI 上传,确保资产文件名正确保留为中文
+          # (softprops/action-gh-release 对 UTF-8 文件名会回退成 default.pdf)
+          gh release upload "${{ github.ref_name }}" "词根词缀的故事.pdf" --clobber
 
       - name: Upload PDF as workflow artifact
         if: steps.ver.outputs.is_tag == 'false'
