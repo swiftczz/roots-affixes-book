@@ -7,6 +7,31 @@
 
 ---
 
+## 预览
+
+<table>
+  <tr>
+    <td align="center">封面 · 词源树</td>
+    <td align="center">章节首页 · 装饰头</td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/cover.png" width="400"></td>
+    <td><img src="screenshots/chapter.png" width="400"></td>
+  </tr>
+  <tr>
+    <td align="center">同源词对比 · 印欧语三兄弟</td>
+    <td align="center">家族树 · 拉丁词根关系图</td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/cognates.png" width="400"></td>
+    <td><img src="screenshots/family-tree.png" width="400"></td>
+  </tr>
+</table>
+
+完整 PDF 见 [Releases](https://github.com/swiftczz/roots-affixes-book/releases)。
+
+---
+
 ## 这本书的不同之处
 
 市面上的词根词缀书,大多是**清单**——按字母排序或按语义分组,罗列词根 + 例词,让你背。
@@ -99,22 +124,6 @@ flowchart TD
     Q -->|只想看故事| B["直接跳到第 2、3 卷<br/>(拉丁之根 + 希腊之光)<br/>故事最密集"]
     Q -->|备考实用| C["重点看第 2、3 卷的词根家族<br/>+ 第 6 卷词缀速查"]
 ```
-
----
-
-## 写作约定
-
-为了一致性,每个词根/词缀故事遵循统一结构:
-
-| 板块 | 是否必有 | 内容 |
-| ------ | ------ | ------ |
-| 【起源故事】 | 必有(核心) | 讲清楚这个词根从哪个古语来、怎么进入英语 |
-| 【家族树】 | 必有(可视化) | 用 Mermaid 图展示这个词根衍生出的英语词 |
-| 【代表词深讲】 | 必有(2-3 个) | 每个词讲它自己的故事 |
-| 【番外】 | 选填 | 值得单独展开的大故事(如 auspice 观神鸡、罗马水道、威尼斯婚海礼) |
-| 【词源辨正】 | 选填 | 涉及民间词源时,标注哪些是传说、哪些是真实 |
-| 【避坑提示】 | 必有 | 章末集中说明学术限定、争议、传说成分,正文不再打断故事 |
-| 【拆词启示】 | 必有 | 这条词根如何帮你拆解/记忆英语词 |
 
 ---
 
