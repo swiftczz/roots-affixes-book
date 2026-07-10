@@ -47,10 +47,10 @@ flowchart TD
 
 | 变体形式 | 来源 | 例词 |
 | ------ | ------ | ------ |
-| `spec-` / `spic-` | specere 及复合词中的形式 | specimen, species;conspicuous, suspicion |
+| `spec-` | specere 的基本形式 | specimen, spectrum |
 | `spect-` | spectare、spectus 等相关形式 | spectator, spectacle, inspect, respect |
 | `spic-` | 拉丁复合词的弱化形式 | suspicion, auspice, conspicuous |
-| `speci-` | 来自 species(外观) | species, special, specimen |
+| `speci-` | 来自 species(外观) | species, special |
 
 > **小提示**:`inspect`、`expect` 这些词在现代英语里的意思(检查、期待)是经过漫长语义漂移的,不是"已经被看/已经被期待"的简单直译。别拿拆字公式去套现代词义,会漏掉中间两千年。
 
@@ -88,7 +88,7 @@ flowchart TD
     spic --> suspicion["suspicion<br/>(怀疑)"]
 ```
 
-**只记一个核心义**:**spec/spic/spect = 看**,就能串起 20+ 个高频词。一个动词养活二十多个后代,这生育率放在词根界也是头部水平。
+**只记一个核心义**:**spec/spic/spect = 看**,就能串起 20+ 个高频词。一个动词养活二十多个后代,放在哪个词族里都算人丁兴旺。
 
 ---
 
@@ -252,7 +252,7 @@ flowchart LR
 
 公元 80 年,弗拉维圆形剧场——也就是我们今天叫的**罗马斗兽场(Colosseum)**——落成,提图斯皇帝办了**一百天的开幕庆典**。期间杀掉的野兽,光记录在案就有 **九千头**;角斗士成对厮杀,死伤无数。五万个座位的椭圆形看台挤得满满当当——这五万人,每一个都是 `spectator`(观众)。场地中央血腥的厮杀场面,每一个都是 `spectacle`(奇观)。
 
-> 罗马人不是不文化。他们看角斗士,我们看世界杯和短视频,本质上都是 spectator 在等 spectacle——区别只在场地换了、血少了。
+> 罗马人并非没有文化。他们看角斗士,我们看世界杯和短视频,本质上都是 spectator 在等 spectacle——区别只在场地换了、血少了。
 
 这五万人为什么肯乖乖坐在那儿?因为他们**不用买票**——不仅不用买票,进场还能领到**免费的粮食**。罗马的执政官们早就摸透了一个统治秘诀:只要给市民面包吃、给他们竞技看,他们就不会造反。公元 2 世纪的讽刺诗人尤维纳利斯(Juvenal)用一句拉丁语戳穿了这套把戏:
 
