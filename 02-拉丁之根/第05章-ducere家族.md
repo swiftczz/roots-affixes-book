@@ -6,7 +6,7 @@
 > **含义**:引导、带领、拉(to lead, to guide, to bring)
 > **起源**:拉丁动词 ***ducere***("引导、带领"),来自原始印欧语 *deuk-("带领")
 
-ducere 家族是英语里**高频的拉丁词根家族之一**。它生成的词出现在教育(`educate`)、生产(`produce`)、传导(`conduct`)、介绍(`introduce`)、减少(`reduce`)等大量核心词里,一位司机同时跑教育、工业和社交三条线。
+ducere 家族是英语里**高频的拉丁词根家族之一**。它生成的词出现在教育(`educate` /ˈɛdʒəkeɪt/)、生产(`produce`)、传导(`conduct` /kənˈdʌkt/)、介绍(`introduce` /ˌɪntrəˈdus/)、减少(`reduce`)等大量核心词里,一位司机同时跑教育、工业和社交三条线。
 
 更妙的是,ducere 的派生逻辑**相当清晰**——前缀通常告诉你"引导到哪里去",理解了方向,词义就容易浮现。偶尔有历史语义绕路,也别怪司机,那是路线用了两千年。
 
@@ -49,9 +49,9 @@ ducere 家族最大的特点,是它的派生词**高度依赖前缀的方向**�
 | `pro-`(向前) | 引导向前 | produce | 生产 |
 | `e-`/`ex-`(向外) | 引导向外 | educe | 引出 |
 | `re-`(回) | 引导回原处 | reduce | 减少、引回 |
-| `in-`(入) | 引导进入 | induce | 诱导 |
-| `de-`(向下) | 向下引导 | deduce | 推断 |
-| `se-`(分开) | 引导开 | seduce | 引诱开 |
+| `in-`(入) | 引导进入 | induce /ˌɪnˈdus/ | 诱导 |
+| `de-`(向下) | 向下引导 | deduce /dɪˈdus/ | 推断 |
+| `se-`(分开) | 引导开 | seduce /sɪˈdus/ | 引诱开 |
 | `intro-`(向内) | 引导向内 | introduce | 介绍:引入 |
 
 > **学法**:ducere 家族是这本书里**最适合用前缀导航**的一族。看到 `duce/duct` 开头的词,先看前缀指着哪个方向——`con-`(一起)、`pro-`(向前)、`re-`(回)、`in-`(进入)、`de-`(向下)、`se-`(分开)——方向对了,词义通常八九不离十。当然,两千年下来语义也会绕路(具体绕弯的案例见章末"避坑提示")。
@@ -61,7 +61,7 @@ ducere 家族最大的特点,是它的派生词**高度依赖前缀的方向**�
 | 词干 | 形态类型 | 例词 |
 | ------ | ------ | ------ |
 | `duc-` | 现在时词干 | produce, reduce, induce, educe |
-| `duct-` | 过去分词词干 | conduct, product, deduct, aqueduct |
+| `duct-` | 过去分词词干 | conduct, product, deduct /dɪˈdʌkt/, aqueduct /ˈækwəˌdəkt/ |
 
 规律:
 
@@ -93,7 +93,7 @@ flowchart TD
     product --> deduction["deduction<br/>(推导)"]
 ```
 
-> 注:`doctor`(医生/博士)和 `doctrine`(学说)来自另一拉丁动词 *docere*(教),其更早来源通常重建为 *dek-,不要与 *ducere* 的 *deuk- 合并。第 13 章将单独讲解。
+> 注:`doctor`(医生/博士)和 `doctrine` /ˈdɑktrɪn/(学说)来自另一拉丁动词 *docere*(教),其更早来源通常重建为 *dek-,不要与 *ducere* 的 *deuk- 合并。第 13 章将单独讲解。
 
 ---
 
@@ -124,7 +124,7 @@ flowchart TD
 
 > **怎么看待这个误会?** 别急着拆穿它——它是个**精彩的民间教育哲学**,只是不该被当成词源学的结论。下次有人对你说"education 就是 leading out",你可以微微一笑:"理念我赞同,词源上呢,它其实更接近'把孩子养大'。"
 
-**同根派生**:`education`(教育)、`educator`(教育者)、`educated`(受过教育的)
+**同根派生**:`education`(教育)、`educator` /ˈɛdʒəˌkeɪtər/(教育者)、`educated`(受过教育的)
 
 > **两个长得很像的兄弟,别搞混**:
 >
@@ -151,8 +151,8 @@ flowchart TD
 
 - `product`(产品:被带出来的东西)
 - `production`(生产)
-- `productive`(多产的)
-- `reproduce`(再生产:re- + produce)
+- `productive` /prəˈdʌktɪv/(多产的)
+- `reproduce` /ˌriprəˈdus/(再生产:re- + produce)
 - `by-product`(副产品)
 
 ---
@@ -171,8 +171,8 @@ flowchart TD
 
 **派生词**:
 
-- `reduction`(减少)
-- `reducible`(可减少的)
+- `reduction` /rɪˈdʌkʃən/(减少)
+- `reducible` /rɪˈdusəbəl/(可减少的)
 - `irreducible`(不可减少的)
 
 > **小插曲**(化学里的 `reduction` 还原反应):化学上把"得到电子、氧化数降低"叫 reduction,这词不是凭空冒出来的——历史上炼金术士把矿石"还原"成金属,字面就是"把氧化物**引回**到金属单质"。`re-`(回)+ `ducere`(引导),把金属从矿石的牢笼里**引回家**。后来化学家扩展了定义(改成"得电子"),但词还是那个古老的词。
@@ -192,7 +192,7 @@ flowchart TD
 **派生词**:
 
 - `introduction`(介绍、导论:书的开头,把读者"引入"主题)
-- `introductory`(介绍的、开篇的)
+- `introductory` /ˌɪntrəˈdʌktəri/(介绍的、开篇的)
 
 ---
 
@@ -230,7 +230,7 @@ flowchart LR
 
 > **金句**:今天我们拧开水龙头就有水,觉得很平常。其实这份"平常",是罗马人两千年前用石头和重力,把一座山"引"进城的结果。
 
-**同根亲戚**:`viaduct`(高架桥,*via* 路 + *duct* 引导——把路引导过山谷)、`aqueduct` 的近亲 *aqueous*(水的)。`duct` 本身也是个独立词(管道、导管),所有"引导水/气/电的通道",都归这个家族管。
+**同根亲戚**:`viaduct` /ˈvaɪədəkt/(高架桥,*via* 路 + *duct* 引导——把路引导过山谷)、`aqueduct` 的近亲 *aqueous* /ˈeɪkwiəs/(水的)。`duct` 本身也是个独立词(管道、导管),所有"引导水/气/电的通道",都归这个家族管。
 
 ---
 
@@ -248,9 +248,9 @@ flowchart TD
     dux --> duke["古法语 duc<br/>→ 英语 duke(公爵)"]
 ```
 
-所以 `duke` 字面义是"**引导者**"。欧洲的公爵(duchy)就是"由公爵领导"的领地。
+所以 `duke` 字面义是"**引导者**"。欧洲的公爵(duchy /ˈdʌtʃi/)就是"由公爵领导"的领地。
 
-### 番外:威尼斯总督(Doge)与"婚海礼"
+### 番外:威尼斯总督(Doge /doʊdʒ/)与"婚海礼"
 
 ducere 这条血脉里,还有一位**最浪漫的"引导者"**——威尼斯总督,**Doge**。
 
@@ -269,7 +269,7 @@ ducere 这条血脉里,还有一位**最浪漫的"引导者"**——威尼斯总
 
 ducere 的"引导"走到这里,从将军牵马、牧人赶羊,一路引到了一个海上共和国对自己领土的诗意宣誓——**一个动词,引出了一座城邦的命运**。
 
-**同根兄弟**:`duct`(管道,引导水/气的通道)、`duchess`(女公爵)、`duchy`(公爵领地)、`Doge`(威尼斯总督)
+**同根兄弟**:`duct`(管道,引导水/气的通道)、`duchess` /ˈdʌtʃəs/(女公爵)、`duchy`(公爵领地)、`Doge`(威尼斯总督)
 
 ---
 

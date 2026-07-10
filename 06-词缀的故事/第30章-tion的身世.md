@@ -1,6 +1,6 @@
 # 第 30 章 -tion 的身世:从拉丁名词后缀到英语常见名词后缀
 
-> `-tion` 是英语里最强的"名词信号"。一份政府公文从第一页翻到最后一页,`consideration`、`investigation`、`implementation`、`communication` 轰隆隆地排过去,纸面轰鸣如坦克履带。它不是后缀,它是**诺曼征服带来的学者制服**。
+> `-tion` 是英语里最强的"名词信号"。一份政府公文从第一页翻到最后一页,`consideration` /kənˌsɪdəˈreɪʃən/、`investigation` /ɪnˌvɛstəˈɡeɪʃən/、`implementation` /ˌɪmpləmənˈteɪʃən/、`communication` 轰隆隆地排过去,纸面轰鸣如坦克履带。它不是后缀,它是**诺曼征服带来的学者制服**。
 
 这一章讲英语里最强、最常见、也最"官腔"的名词后缀——`-tion`(还有它那个不太爱抛头露面的兄弟 `-sion`)。
 
@@ -46,7 +46,7 @@ flowchart LR
 
 ### 路 2:文艺复兴直接借(16-17 世纪)
 
-第二条路,是**学者的路**。文艺复兴来了,英国学者一头扎进拉丁古籍,搬词搬得不亦乐乎。*(传说)* 这帮人凑在一起,互相攀比谁造的词更"古典"、更像刚从西塞罗手稿里抠出来的原装货——你搬一个 `civilization`,我就搬一个 `education`,他再补一个 `information`,活像一场拉丁词的军备竞赛。他们懒得再走法语那一道二手工序,直接从拉丁原典里拎词,拍上 `-tion`,就塞进英语。于是这批 16-17 世纪的"直供词"新鲜出炉:
+第二条路,是**学者的路**。文艺复兴来了,英国学者一头扎进拉丁古籍,搬词搬得不亦乐乎。*(传说)* 这帮人凑在一起,互相攀比谁造的词更"古典"、更像刚从西塞罗手稿里抠出来的原装货——你搬一个 `civilization` /ˌsɪvəlɪˈzeɪʃən/,我就搬一个 `education`,他再补一个 `information`,活像一场拉丁词的军备竞赛。他们懒得再走法语那一道二手工序,直接从拉丁原典里拎词,拍上 `-tion`,就塞进英语。于是这批 16-17 世纪的"直供词"新鲜出炉:
 
 | 拉丁源 | 英语词 | 释义 |
 | ------ | ------ | ------ |
@@ -69,8 +69,8 @@ flowchart LR
 | `-tion` | `inform + ation` | `information` | 标准形 |
 | `-tion` | `organize + ation` | `organization` | 标准形 |
 | `-sion` | `decide` | `decision` | ← 拉丁 decidere / decisionem |
-| `-sion` | `invade` | `invasion` | ← 拉丁 invadere / invasionem |
-| `-sion` | `comprehend + sion` | `comprehension` | 继承另一历史词干 |
+| `-sion` | `invade` | `invasion` /ɪnˈveɪʒən/ | ← 拉丁 invadere / invasionem |
+| `-sion` | `comprehend + sion` | `comprehension` /ˌkɑmprəˈhɛnʃən/ | 继承另一历史词干 |
 | `-sion` | `confuse + sion` | `confusion` | 继承另一历史词干 |
 
 ---
@@ -79,7 +79,7 @@ flowchart LR
 
 认识了 `-tion` 的两条入英之路,接下来看它最拿手的团队作战——跟前缀、词根凑成一桌三件套,批量生产"红头文件词"。
 
-`-tion` 还擅长打配合战:它爱和前缀、词根凑成一桌——动词在中间干活,前缀在前面定方向,`-tion` 在尾巴上盖戳,一桌三件套,造出 `action`、`reaction`、`interaction`、`transaction` 这种"一家子动词名"。但要泼盆冷水:这是**高频词族的既成模式,不是给任意动词套用的自动配方**。你不能把 `sleep` 拍个 `-tion` 就指望得到 `sleeption`——英语会当场给你退件。下面这组,都是拉丁来源、有血统可查的:
+`-tion` 还擅长打配合战:它爱和前缀、词根凑成一桌——动词在中间干活,前缀在前面定方向,`-tion` 在尾巴上盖戳,一桌三件套,造出 `action`、`reaction`、`interaction` /ˌɪntərˈækʃən/、`transaction` /trænˈzækʃən/ 这种"一家子动词名"。但要泼盆冷水:这是**高频词族的既成模式,不是给任意动词套用的自动配方**。你不能把 `sleep` 拍个 `-tion` 就指望得到 `sleeption`——英语会当场给你退件。下面这组,都是拉丁来源、有血统可查的:
 
 ```mermaid
 flowchart TD
@@ -109,12 +109,12 @@ flowchart TD
 
 ## 30.5 -tion 的"复合后缀"
 
-`-tion` 自己能干,还爱拉别的后缀组队,把名词进一步加工成更长的一串——加个 `-al` 就变形容词(`national`),加个 `-ist` 就指人(`evolutionist`),加个 `-ary` 就成派系(`revolutionary`)。相当于它不仅自己盖章,还跟同事串通好,一条流水线把词性从头改到尾:
+`-tion` 自己能干,还爱拉别的后缀组队,把名词进一步加工成更长的一串——加个 `-al` 就变形容词(`national`),加个 `-ist` 就指人(`evolutionist` /ˌɛvəˈluʃənɪst/),加个 `-ary` 就成派系(`revolutionary` /ˌrɛvəˈluʃəˌnɛri/)。相当于它不仅自己盖章,还跟同事串通好,一条流水线把词性从头改到尾:
 
 | 复合后缀 | 词基 + 后缀 | 结果 | 用途 |
 | ------ | ------ | ------ | ------ |
 | `-ation` | `educate + ion` | `education` | 动词后加 -ate 再加 -ion |
-| `-ation` | `determin + ation` | `determination` | 动词后加 -ate 再加 -ion |
+| `-ation` | `determin + ation` | `determination` /dɪˌtɝməˈneɪʃən/ | 动词后加 -ate 再加 -ion |
 | `-ation` | `explor + ation` | `exploration` | 动词后加 -ate 再加 -ion |
 | `-ition` | `add + ition` | `addition` | 拉丁源词根加 -ition |
 | `-ition` | `oppos + ition` | `opposition` | 拉丁源词根加 -ition |
@@ -122,7 +122,7 @@ flowchart TD
 | `-tion + -al` | `education + al` | `educational` | 形容词 |
 | `-tion + -al` | `nation + al` | `national` | 形容词 |
 | `-tion + -al` | `emotion + al` | `emotional` | 形容词 |
-| `-ion + -ist` | `abolition + ist` | `abolitionist` | 人 |
+| `-ion + -ist` | `abolition + ist` | `abolitionist` /ˌæbəˈlɪʃənɪst/ | 人 |
 | `-ion + -ist` | `evolution + ist` | `evolutionist` | 人 |
 | `-ion + -ary` | `revolution + ary` | `revolutionary` | 形容词/名词 |
 
@@ -139,7 +139,7 @@ flowchart TD
 | 拉丁源 | `decide` | `decision` | `+ tion/sion` |
 | 拉丁源 | `communicate` | `communication` | `+ tion/sion` |
 | 拉丁源 | `investigate` | `investigation` | `+ tion/sion` |
-| 拉丁源 | `contribute` | `contribution` | `+ tion/sion` |
+| 拉丁源 | `contribute` | `contribution` /ˌkɑntrəˈbjuʃən/ | `+ tion/sion` |
 | 日耳曼源 | `happy` | `happiness` | `+ ness` |
 | 日耳曼源 | `grow` | `growth` | 元音变换 |
 | 日耳曼源 | `dark` | `darkness` | `+ ness` |
@@ -148,12 +148,12 @@ flowchart TD
 
 ## 30.7 -tion 的"陷阱":发音变化
 
-`-tion` 还埋了个雷:拼写一模一样,嘴巴却分两种念法。多数时候它温顺地读 `/ʃən/`(像"神"),可一到 `question`、`suggestion` 嘴边,它忽然撅嘴读成 `/tʃən/`(像"晨")——同一个后缀,同一身行头,进了不同词的嘴就改了口音:
+`-tion` 还埋了个雷:拼写一模一样,嘴巴却分两种念法。多数时候它温顺地读 `/ʃən/`(像"神"),可一到 `question`、`suggestion` /səɡˈdʒɛstʃən/ 嘴边,它忽然撅嘴读成 `/tʃən/`(像"晨")——同一个后缀,同一身行头,进了不同词的嘴就改了口音:
 
 | 发音 | 读法 | 例词 |
 | ------ | ------ | ------ |
 | 标准 `/ʃən/` | 读"神" | `nation`, `education`, `communication` |
-| 特殊 `/tʃən/` | 读"晨" | `question`, `suggestion`, `combustion` |
+| 特殊 `/tʃən/` | 读"晨" | `question`, `suggestion`, `combustion` /kəmˈbʌstʃən/ |
 
 > **规则**:
 > - 词根以 `s` 后接 `t` 的,常读 `/tʃən/`;

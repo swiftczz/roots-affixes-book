@@ -1,12 +1,12 @@
 # 第 6 章 罗马人的"投掷":jacere 家族
 
-> 罗马人负责"扔",英语负责接。两千年后,我们接到了一篮子 `inject`、`reject` 和 `project`。
+> 罗马人负责"扔",英语负责接。两千年后,我们接到了一篮子 `inject` /ɪnˈdʒɛkt/、`reject` /rɪˈdʒɛkt/ 和 `project`。
 
 > **词根**:`jac-` / `ject-`
 > **含义**:投、掷、扔、抛(to throw, to cast, to hurl)
 > **起源**:拉丁动词 ***iacere***("投掷";传统英语词源拼作 *jacere*)。另有拼写相近但不同的 ***iacēre***("躺着")
 
-jacere 家族生成了 `inject`(注射)、`reject`(拒绝)、`project`(投射/项目)、`eject`(弹出)、`subject`(主题/使服从)、`object`(物体/反对)——这些动词全是高频学术词。
+jacere 家族生成了 `inject`(注射)、`reject`(拒绝)、`project`(投射/项目)、`eject` /ɪˈdʒɛkt/(弹出)、`subject`(主题/使服从)、`object`(物体/反对)——这些动词全是高频学术词。
 
 这个家族的妙处在于:**每一次"投掷"的方向都不一样**,而方向常常决定词义。认前缀就像看抛物线,先判断东西往哪儿飞。
 
@@ -23,7 +23,7 @@ jacere 家族生成了 `inject`(注射)、`reject`(拒绝)、`project`(投射/�
 | 拉丁动词 | 含义 | 画面 / 来源 |
 | ------ | ------ | ------ |
 | iacere(投掷) | 投、掷 | 古罗马士兵投标枪 |
-| iacēre(躺着) | 躺着、位于 | adjacent "位于旁边" |
+| iacēre(躺着) | 躺着、位于 | adjacent /əˈdʒeɪsənt/ "位于旁边" |
 
 > **提示** 英语里的 `-ject-` 词族主要来自"投掷"动词;`adjacent` 则来自"躺着、位于"动词。拼写相似不能代替词源区分。
 
@@ -39,8 +39,8 @@ jacere 家族生成了 `inject`(注射)、`reject`(拒绝)、`project`(投射/�
 | `e-`/`ex-`(向外) | 投出去 | eject(弹出) |
 | `sub-`(向下) | 投向下 | subject(使服从) |
 | `ob-`(对向) | 投向对方 | object(反对/物体) |
-| `de-`(向下) | 丢下去 | dejected(沮丧:被丢下) |
-| `inter-`(之间) | 投在中间 | interject(插话) |
+| `de-`(向下) | 丢下去 | dejected /dɪˈdʒɛktɪd/(沮丧:被丢下) |
+| `inter-`(之间) | 投在中间 | interject /ˌɪntərˈdʒɛkt/(插话) |
 
 ### 两个词族为什么容易混淆
 
@@ -103,7 +103,7 @@ flowchart LR
 
 **派生词**:
 
-- `rejection`(拒绝)
+- `rejection` /rɪˈdʒɛkʃən/(拒绝)
 - `rejective`(拒绝的)
 
 ---
@@ -120,8 +120,8 @@ flowchart LR
 
 **派生词**:
 
-- `injection`(注射)
-- `injector`(注射器)
+- `injection` /ɪnˈdʒɛkʃən/(注射)
+- `injector` /ɪnˈdʒɛktɚ/(注射器)
 
 > **提示** **延伸**:`inject` 的引申义很常用,如 `inject money into the economy`(向经济注入资金)、`inject humor into a speech`(给演讲注入幽默)。
 
@@ -149,9 +149,9 @@ flowchart TD
 
 **派生词**:
 
-- `projection`(投射、投影)
-- `projector`(投影仪)
-- `projectile`(抛射物:被投掷出去的东西,如炮弹)
+- `projection` /prɑˈdʒɛkʃən/(投射、投影)
+- `projector` /prɑˈdʒɛktər/(投影仪)
+- `projectile` /prɑˈdʒɛktəl/(抛射物:被投掷出去的东西,如炮弹)
 
 ---
 
@@ -170,7 +170,7 @@ flowchart TD
 | 精神高昂状态 | ▲ 昂首 | 精神饱满 |
 | 精神被丢下后 | ▼ 低头 | 低垂、沮丧(dejected:被丢下 = 沮丧) |
 
-> **提示** **对照记忆**:`dejected`(沮丧,向下投)↔ `elated`(兴奋,向上抬)。情绪的高低,在拉丁词根里就是物理的高低。
+> **提示** **对照记忆**:`dejected`(沮丧,向下投)↔ `elated` /ɪˈleɪtɪd/(兴奋,向上抬)。情绪的高低,在拉丁词根里就是物理的高低。
 
 ---
 
@@ -191,7 +191,7 @@ flowchart LR
 
 所以 `jet` 字面义是"**被投掷出来的东西**"——喷出的气流、喷出的水流都是"投掷物"。喷气式飞机(jet)就是"靠投掷气体前进的飞机"。
 
-**同根兄弟**:`jet`(喷气)、`jettison`(抛弃货物:把货扔下船)、`jetsam`(抛弃的货物)
+**同根兄弟**:`jet`(喷气)、`jettison` /ˈdʒɛtɪsən/(抛弃货物:把货扔下船)、`jetsam`(抛弃的货物)
 
 ---
 
@@ -209,7 +209,7 @@ flowchart LR
 | `object` | ob- + ject | 投向对方 → 反对/物体 |
 | `interject` | inter- + ject | 投在中间 → 插话 |
 | `dejected` | de- + ject + -ed | 被丢下 → 沮丧 |
-| `trajectory` | tra-(trans)+ ject + -ory | 投越的 → 弹道 |
+| `trajectory` /trəˈdʒɛktəri/ | tra-(trans)+ ject + -ory | 投越的 → 弹道 |
 
 > **提示** **核心启示**:ject 家族和 duc 家族一样,**前缀 = 方向 = 词义**。看到 ject 词,先看前缀方向,十拿九稳。
 

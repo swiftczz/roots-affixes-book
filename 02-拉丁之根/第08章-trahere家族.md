@@ -6,7 +6,7 @@
 > **含义**:拉、拽、拖(to pull, to drag, to draw)
 > **起源**:拉丁动词 ***trahere***("拉、拽、拖"),过去分词 ***tractus***
 
-trahere 家族生成了 `attract`(吸引)、`distract`(分散)、`tractor`(拖拉机)、`extract`(提取)、`contract`(合同)、`retract`(撤回)等高频词。
+trahere 家族生成了 `attract` /əˈtrækt/(吸引)、`distract` /dɪˈstrækt/(分散)、`tractor` /ˈtræktər/(拖拉机)、`extract` /ɪkˈstrækt/(提取)、`contract`(合同)、`retract` /rɪˈtrækt/(撤回)等高频词。
 
 这个家族最有趣的,是它**从物理的"拉拽"演变出抽象的"吸引/处理"**——词义被一路拖进抽象世界,但绳子还看得见。
 
@@ -37,7 +37,7 @@ flowchart TD
 | ------ | ------ | ------ |
 | 现在时词干:`trah-` | 很少直接出现在英语里 | — |
 | 过去分词词干:`tract-` | 绝大多数英语派生词 | attract, distract, extract, contract, tractor |
-| 古法语路线:`treat-` | 经古法语 traitier 进入英语 | treat, treatment, treaty |
+| 古法语路线:`treat-` | 经古法语 traitier 进入英语 | treat, treatment, treaty /ˈtriti/ |
 
 ---
 
@@ -87,7 +87,7 @@ flowchart TD
 
 **派生词**:
 
-- `attraction`(吸引、吸引力)
+- `attraction` /əˈtrækʃən/(吸引、吸引力)
 - `attractive`(有吸引力的)
 - `attractor`(吸引子)
 
@@ -116,9 +116,9 @@ flowchart TD
 
 **派生词**:
 
-- `distraction`(分心、消遣)
-- `distracted`(心烦意乱的)
-- `distracting`(令人分心的)
+- `distraction` /dɪˈstrækʃən/(分心、消遣)
+- `distracted` /dɪˈstræktɪd/(心烦意乱的)
+- `distracting` /dɪˈstræktɪŋ/(令人分心的)
 
 ---
 
@@ -141,9 +141,9 @@ flowchart TD
 
 **派生词**:
 
-- `contraction`(收缩、缩写)
-- `contractor`(承包商:订立合同的人)
-- `contractual`(合同的)
+- `contraction` /kənˈtrækʃən/(收缩、缩写)
+- `contractor` /ˈkɑnˌtræktər/(承包商:订立合同的人)
+- `contractual` /kənˈtræktʃuəl/(合同的)
 
 ---
 
@@ -171,17 +171,17 @@ flowchart TD
 >
 > - `treat`(对待、治疗):处理人
 > - `treaty`(条约):国与国之间的"处理协议"
-> - `treatise`(论文):学者对某主题的"系统处理"
+> - `treatise` /ˈtritɪs/(论文):学者对某主题的"系统处理"
 >
 > 它们都经法语的"处理、商谈、论述"词族而来,再在英语中发生分化。
 
 ---
 
-## 【词源辨正】portrait(肖像)和 trahere 同根吗
+## 【词源辨正】portrait /ˈpɔrtrət/(肖像)和 trahere 同根吗
 
 **答案:是。**
 
-`portrait`(肖像)、`portray`(描绘)、`trace`(追溯)、`trace`(痕迹)全都来自 trahere,经过法语。
+`portrait`(肖像)、`portray` /pɔrˈtreɪ/(描绘)、`trace` /treɪs/(追溯)、`trace`(痕迹)全都来自 trahere,经过法语。
 
 ```mermaid
 flowchart TD
@@ -206,9 +206,9 @@ flowchart TD
 | `extract` | ex- + tract | 拉出 → 提取 |
 | `contract` | con- + tract | 拉到一起 → 合同/收缩 |
 | `retract` | re- + tract | 拉回 → 撤回 |
-| `subtract` | sub- + tract | 从下拉走 → 减去 |
+| `subtract` /səbˈtrækt/ | sub- + tract | 从下拉走 → 减去 |
 | `tractor` | tract + -or | 拉的东西 → 拖拉机 |
-| `traction` | tract + -ion | 拉 → 牵引(力) |
+| `traction` /ˈtrækʃən/ | tract + -ion | 拉 → 牵引(力) |
 | `treat` | 经法语,源自拉丁 *tractare* | 处理、对待 → 治疗等义 |
 | `treaty` | (法语)treat + -y | 共同处理 → 条约 |
 | `portrait` | (法语)por- + trait | 拉出形象 → 肖像 |

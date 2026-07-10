@@ -6,7 +6,7 @@
 > **含义**:死亡(death)
 > **起源**:拉丁名词 ***mors***(死亡),属格 ***mortis***(属格形式 mort- 进入英语),来自原始印欧语 *mer-(死亡、消失)
 
-mors 家族是拉丁词根里**很有戏剧性**的一支。它生成的词——`mortal`(必死的)、`immortal`(不朽的)、`mortgage`(抵押)、`morbid`(病态的)、`mortify`(使羞辱)——背后常能看到死亡或衰败的语义痕迹。
+mors 家族是拉丁词根里**很有戏剧性**的一支。它生成的词——`mortal` /ˈmɔrtəl/(必死的)、`immortal` /ˌɪˈmɔrtəl/(不朽的)、`mortgage` /ˈmɔrgɪdʒ/(抵押)、`morbid` /ˈmɔrbɪd/(病态的)、`mortify` /ˈmɔrtəfaɪ/(使羞辱)——背后常能看到死亡或衰败的语义痕迹。
 
 这一章你会发现:**围绕"死亡"的拉丁词族,如何进入今天一批看似无关的英语词。** 学完不保证长生不老,但大概率能认出 `mort-`。
 
@@ -95,10 +95,10 @@ flowchart TD
 
 **派生词**:
 
-- `mortality`(必死性、死亡率)
+- `mortality` /mɔrˈtæləti/(必死性、死亡率)
 - `immortal`(不朽的)
-- `immortality`(不朽、永生)
-- `mortician`(殡葬师:处理死者的人)
+- `immortality` /ˌɪmɔrˈtælɪti/(不朽、永生)
+- `mortician` /mɔrˈtɪʃən/(殡葬师:处理死者的人)
 
 ---
 
@@ -135,7 +135,7 @@ flowchart TD
 
 **宗教层面**:基督教语境用它表示"治死、克制肉体欲望",即通过禁食、苦修把欲望"处死"。这里的"死"对象换成了欲望。
 
-**心理层面**:由"压制、挫伤"再发展出"使受辱、使极度难堪"。现代 `mortified` 表示**羞愧得无地自容**——画面是:脸涨得通红,恨不得当场找个地缝钻进去、恨不得自己立刻"死掉"。这就是"羞得想死"的助记画面:羞辱感强烈到让人觉得死了算了。
+**心理层面**:由"压制、挫伤"再发展出"使受辱、使极度难堪"。现代 `mortified` /ˈmɔrtəfaɪd/ 表示**羞愧得无地自容**——画面是:脸涨得通红,恨不得当场找个地缝钻进去、恨不得自己立刻"死掉"。这就是"羞得想死"的助记画面:羞辱感强烈到让人觉得死了算了。
 
 ```mermaid
 flowchart LR
@@ -148,14 +148,14 @@ flowchart LR
 
 **派生词**:
 
-- `mortification`(羞辱、坏死)
+- `mortification` /ˌmɔrtəfɪˈkeɪʃən/(羞辱、坏死)
 - `mortifying`(令人羞愧的)
 
 > **提示** **生活场景**:`"I was mortified when my phone rang during the concert."`(音乐会上手机响了,我羞愧得想找个地缝钻进去)——这就是 mortified 的日常用法。
 
 ---
 
-### 词 4:`moribund`(垂死的、即将灭亡的)
+### 词 4:`moribund` /ˈmɔrəˌbʌnd/(垂死的、即将灭亡的)
 
 **历史构形**:拉丁 *mori*(死)+ `-bundus`(表示正处于或倾向于某动作的形容词成分)
 
@@ -197,7 +197,7 @@ flowchart LR
 | `mortgage` | mort + gage | 死抵押 → 抵押贷款 |
 | `mortify` | mort + -ify | 使死 → 使羞愧 |
 | `moribund` | mori + -bund | 正在死 → 垂死的 |
-| `amortize` | 经法语 *amortir/amortiss-* "使消灭、逐渐清偿" | 分期摊销或偿还 |
+| `amortize` /ˈæmərˌtaɪz/ | 经法语 *amortir/amortiss-* "使消灭、逐渐清偿" | 分期摊销或偿还 |
 | `rigor mortis` | (拉丁)rigor + mortis | 死亡僵硬 → 尸僵 |
 
 > **提示** **amortize 的记忆画面**:它经法语表示"使消灭、逐渐清偿"的词进入英语。把分期还款想成"让债务逐步消失"有助记忆,但"每期死一点"是现代比喻,不是独立的古代命名故事。

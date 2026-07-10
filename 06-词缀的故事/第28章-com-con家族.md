@@ -27,7 +27,7 @@ flowchart TD
     C["人"] --> D
 ```
 
-这个"一起"的画面一旦建立,很多看似无关的词忽然就眉目清楚了:`connect` 是把两段东西**系到一起**,`combine` 是让两样**成双凑一对**,`cooperate` 是几个伙计**一块儿干活**。最妙的是,你能从字面里直接读出动作的味道——
+这个"一起"的画面一旦建立,很多看似无关的词忽然就眉目清楚了:`connect` 是把两段东西**系到一起**,`combine` 是让两样**成双凑一对**,`cooperate` /koʊˈɑpəˌreɪt/ 是几个伙计**一块儿干活**。最妙的是,你能从字面里直接读出动作的味道——
 
 | 词 | 拆解 | 推义 |
 | ------ | ------ | ------ |
@@ -46,9 +46,9 @@ flowchart TD
 
 | 前缀 | 同化条件 | 结果 | 例词 |
 | ------ | ------ | ------ | ------ |
-| `com-` | 在 b/m/p 前(双唇音) | com- | combine(结合), commit(承诺), compose(组成) |
-| `col-` | 在 l 前 | col- | collaborate(合作), collapse(倒塌), collect(收集) |
-| `cor-` | 在 r 前 | cor- | correct(正确), correlate(相关), corrupt(腐败) |
+| `com-` | 在 b/m/p 前(双唇音) | com- | combine(结合), commit(承诺), compose /kəmˈpoʊz/(组成) |
+| `col-` | 在 l 前 | col- | collaborate /kəˈlæbəˌreɪt/(合作), collapse /kəˈlæps/(倒塌), collect(收集) |
+| `cor-` | 在 r 前 | cor- | correct(正确), correlate /ˈkɔrəˌleɪt/(相关), corrupt /kəˈrʌpt/(腐败) |
 | `co-` | 在元音或 h 前 | co- | cooperate(合作), coheir(共同继承人) |
 | `con-` | 其他(齿龈音、软腭音) | con- | connect(连接), conflict(冲突), confirm(确认) |
 
@@ -68,8 +68,8 @@ flowchart TD
 | `combat` | com + bat 打 | 战斗(一起打 = 战斗) |
 | `compose` | com + pose 放 | 组成(放在一起) |
 | `commit` | com + mit 送 | 承诺(送出自己) |
-| `compress` | com + press 压 | 压缩 |
-| `compassion` | com + pass 感受 | 同情(共同感受) |
+| `compress` /kəmˈprɛs/ | com + press 压 | 压缩 |
+| `compassion` /kəmˈpæʃən/ | com + pass 感受 | 同情(共同感受) |
 
 ### col-(在 l 前)
 
@@ -78,8 +78,8 @@ flowchart TD
 | `collaborate` | col + labor 劳动 | 合作 |
 | `collapse` | col + lapse 滑 | 倒塌 |
 | `collect` | col + lect 选 | 收集 |
-| `collide` | col + lid 撞 | 碰撞 |
-| `colloquial` | col + loqu 说 | 口语的 |
+| `collide` /kəˈlaɪd/ | col + lid 撞 | 碰撞 |
+| `colloquial` /kəˈloʊkwiəl/ | col + loqu 说 | 口语的 |
 
 ### cor-(在 r 前)
 
@@ -88,18 +88,18 @@ flowchart TD
 | `correct` | cor + rect 直 | 正确(使变直) |
 | `correlate` | cor + relate 关系 | 相关 |
 | `corrupt` | cor + rupt 破 | 彻底破坏、败坏 |
-| `correspond` | cor + respond 回应 | 通信/对应 |
-| `corroborate` | cor + robor 强 | 证实(加强) |
+| `correspond` /ˌkɔrəˈspɑnd/ | cor + respond 回应 | 通信/对应 |
+| `corroborate` /kəˈrɑbəˌreɪt/ | cor + robor 强 | 证实(加强) |
 
 ### co-(在元音前)
 
 | 词 | 拆解 | 推义 |
 | ------ | ------ | ------ |
 | `cooperate` | co + oper 工作 | 合作 |
-| `coexist` | co + exist 存在 | 共存 |
-| `cohabit` | co + habit 居住 | 同居 |
-| `coordinate` | co + ordin 顺序 | 协调 |
-| `coauthor` | co + author 作者 | 合著 |
+| `coexist` /ˌkoʊɪɡˈzɪst/ | co + exist 存在 | 共存 |
+| `cohabit` /koʊˈhæbɪt/ | co + habit 居住 | 同居 |
+| `coordinate` /koʊˈɔrdəˌneɪt/ | co + ordin 顺序 | 协调 |
+| `coauthor` /koʊˈɔθɚ/ | co + author 作者 | 合著 |
 
 ### con-(其他)
 
@@ -109,7 +109,7 @@ flowchart TD
 | `conflict` | con + flict 撞 | 冲突(一起撞) |
 | `confirm` | con + firm 坚 | 确认 |
 | `contest` | con + test 证 | 竞赛(一起作证) |
-| `convene` | con + ven 来 | 集合(一起来) |
+| `convene` /kənˈvin/ | con + ven 来 | 集合(一起来) |
 | `consent` | con + sent 感觉 | 同意(共同感觉) |
 
 ---
@@ -120,13 +120,13 @@ flowchart TD
 
 | 词 | 拆解 | 共同义? | 加强义 → 推义 |
 | ------ | ------ | ------ | ------ |
-| `confection` | con + fect(做) | 不是"一起做",而是"做得充分" | → 精致的糖果 |
+| `confection` /kənˈfɛkʃən/ | con + fect(做) | 不是"一起做",而是"做得充分" | → 精致的糖果 |
 | `consume` | con + sum(取) | 不是"一起取",而是"完全取" | → 完全用掉 |
 | `confute` | con + fute(倒) | 不是"一起倒",而是"彻底倒" | → 彻底驳倒 |
 
 ---
 
-## 28.5 一个有趣的远亲:`covenant`(契约)
+## 28.5 一个有趣的远亲:`covenant` /ˈkʌvənənt/(契约)
 
 这一节是 `com-` 家族里最有画面感的故事。
 
@@ -145,7 +145,7 @@ flowchart TD
 
 `covenant` 保存的就是这份原意:**走到一起,达成一致**。它后来在法律、宗教、圣经翻译里成了"圣约、盟约"的固定词。
 
-> **同根三兄弟**:同样源自 `con- + ven-`(一起来)的还有 `convene`(集合,字面"凑到一处")、`covenant`(契约,字面"走到一起"),以及最让人意想不到的 `convenient`(方便的)。`convenient` 为什么是"方便"?因为它的字面是"**凑得拢的**"——几个人时间对得上、能凑到一块儿,就是 convenient。从"凑得拢"到"方便",是顺水推舟的引申:大家都方便了,事就办成了。
+> **同根三兄弟**:同样源自 `con- + ven-`(一起来)的还有 `convene`(集合,字面"凑到一处")、`covenant`(契约,字面"走到一起"),以及最让人意想不到的 `convenient` /kənˈvinjənt/(方便的)。`convenient` 为什么是"方便"?因为它的字面是"**凑得拢的**"——几个人时间对得上、能凑到一块儿,就是 convenient。从"凑得拢"到"方便",是顺水推舟的引申:大家都方便了,事就办成了。
 
 ---
 

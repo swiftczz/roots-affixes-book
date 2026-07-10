@@ -6,7 +6,7 @@
 > **含义**:抓、取、拿、容纳、接收(to take, to seize, to hold, to receive)
 > **起源**:拉丁动词 ***capere***("取、抓、容纳")
 
-capere 家族是全书变体较多的词族之一——英语中常见 `cap/capt/cip/cept/ceiv` 等形态。它的家族成员很多:`capture`(捕获)、`receive`(接收)、`accept`(接受)、`concept`(概念)、`capable`(有能力的)、`except`(除外)、`perceive`(察觉)、`deceive`(欺骗)……
+capere 家族是全书变体较多的词族之一——英语中常见 `cap/capt/cip/cept/ceiv` 等形态。它的家族成员很多:`capture`(捕获)、`receive`(接收)、`accept`(接受)、`concept`(概念)、`capable`(有能力的)、`except`(除外)、`perceive` /pərˈsiv/(察觉)、`deceive` /dɪˈsiv/(欺骗)……
 
 学透这一根,就能成组理解一批高频词。它脸多,但不是五个词根开会,而是同一家族换了几套历史造型。
 
@@ -33,7 +33,7 @@ flowchart TD
 | 变体 | 来源 | 例子 |
 | ------ | ------ | ------ |
 | `cap-` / `capt-` | 基本词干及分词派生 | **cap**able 有能力的、**cap**acity 容量、**capt**ure 捕获 |
-| `cip-` | 复合词中的元音弱化 | re**cip**ient 接收者、in**cip**ient 初期的、prin**cip**al 主要的 |
+| `cip-` | 复合词中的元音弱化 | re**cip**ient 接收者、in**cip**ient /ɪnˈsɪpiənt/ 初期的、prin**cip**al 主要的 |
 | `cept-` | 复合词的分词形式 | con**cept** 概念、ac**cept** 接受、ex**cept** 除外、inter**cept** 拦截 |
 | `ceiv-` | capere 经古法语 | re**ceiv**e 接收、de**ceiv**e 欺骗、per**ceiv**e 察觉、con**ceiv**e 构思 |
 
@@ -106,11 +106,11 @@ flowchart LR
 
 **派生词**:
 
-- `receipt`(收据、收条)
-- `receiver`(接收者、接收器)
-- `reception`(接待、接收)
+- `receipt` /rɪˈsit/(收据、收条)
+- `receiver` /rɪˈsivər/(接收者、接收器)
+- `reception` /rɪˈsɛpʃən/(接待、接收)
 
-> **提示** **有意思的细节**:`recipe`(食谱、配方)也是同根!来自拉丁 *recipe* "取"——医生开处方时写 "Recipe"(取下列药材),后来变成"食谱"。
+> **提示** **有意思的细节**:`recipe` /ˈrɛsəpi/(食谱、配方)也是同根!来自拉丁 *recipe* "取"——医生开处方时写 "Recipe"(取下列药材),后来变成"食谱"。
 
 ---
 
@@ -131,10 +131,10 @@ flowchart LR
 
 **派生词**:
 
-- `conception`(概念、构思)
-- `conceptual`(概念的)
-- `conceptualize`(概念化)
-- `misconception`(误解:错误抓住)
+- `conception` /kənˈsɛpʃən/(概念、构思)
+- `conceptual` /kənˈsɛptʃuəl/(概念的)
+- `conceptualize` /kənˈsɛptʃuəlaɪz/(概念化)
+- `misconception` /mɪskənˈsɛpʃən/(误解:错误抓住)
 
 ---
 
@@ -155,8 +155,8 @@ flowchart LR
 
 **派生词**:
 
-- `capability`(能力)
-- `incapable`(无能力的)
+- `capability` /ˌkeɪpəˈbɪləti/(能力)
+- `incapable` /ˌɪnˈkeɪpəbəl/(无能力的)
 - `capacity`(容量)
 
 ---
@@ -178,11 +178,11 @@ flowchart LR
 
 **派生词**:
 
-- `perception`(感知、察觉)
-- `perceptive`(敏锐的)
-- `imperceptible`(难以察觉的)
+- `perception` /pərˈsɛpʃən/(感知、察觉)
+- `perceptive` /pərˈsɛptɪv/(敏锐的)
+- `imperceptible` /ˌɪmpərˈsɛptɪbəl/(难以察觉的)
 
-> **提示** **对照记忆**:`perceive`(察觉)vs `conceive`(构思)vs `deceive`(欺骗)vs `receive`(接收)——四个 `-ceive` 兄弟,前缀不同,词义分明。
+> **提示** **对照记忆**:`perceive`(察觉)vs `conceive` /kənˈsiv/(构思)vs `deceive`(欺骗)vs `receive`(接收)——四个 `-ceive` 兄弟,前缀不同,词义分明。
 
 ---
 
@@ -217,13 +217,13 @@ flowchart TD
 | `capacity` | cap + -acity | 能容纳的量 → 容量 |
 | `accept` | ac-(ad-)+ cept | 抓向自己 → 接受 |
 | `except` | ex-(出)+ cept | 抓出去 → 除外 |
-| `intercept` | inter-(中间)+ cept | 中间抓住 → 拦截 |
+| `intercept` /ˌɪntɚˈsɛpt/ | inter-(中间)+ cept | 中间抓住 → 拦截 |
 | `concept` | 拉丁 conceptum | 在心中构想 → 概念 |
 | `receive` | re-(回)+ ceiv + e | 取回 → 接收 |
 | `perceive` | per-(透过)+ ceiv + e | 透过抓住 → 察觉 |
 | `deceive` | de-(离开)+ ceiv + e | 抓走 → 欺骗 |
 | `conceive` | con-(共同)+ ceiv + e | 一起抓住 → 构思 |
-| `recipient` | re- + cip + -ent | 取回者 → 接收者 |
+| `recipient` /rɪˈsɪpiənt/ | re- + cip + -ent | 取回者 → 接收者 |
 | `principal` | prin-(primus 第一)+ cip + -al | 抓第一 → 主要的 |
 
 ---

@@ -6,7 +6,7 @@
 
 它俩本是希腊语法里一个不起眼的小零件,专门给词根贴"行为、状态"的小标签,安安静静待了两千年。然后 1789 年巴士底狱被攻陷了,整个 19 世纪的政治家、哲学家、社会活动家忽然都急需给自己的主张起名字——于是 `-ism` 从一个安静的词法小标签,被推上风口浪尖,变成了 19-20 世纪最政治化的语言现象。
 
-`socialism`、`communism`、`nationalism`、`feminism`、`capitalism`、`Marxism`、`racism`、`tourism`……一对希腊孪生兄弟,被推着走完了从"语法零件"到"政治命名机器"的奇妙旅程。这一章要讲的,就是这场旅程中最有戏剧性的几段路。
+`socialism` /ˈsoʊʃəˌlɪzəm/、`communism` /ˈkɑmjəˌnɪzəm/、`nationalism` /ˈnæʃənəˌlɪzəm/、`feminism` /ˈfɛməˌnɪzəm/、`capitalism` /ˈkæpətəˌlɪzəm/、`Marxism` /ˈmɑrksɪzəm/、`racism`、`tourism`……一对希腊孪生兄弟,被推着走完了从"语法零件"到"政治命名机器"的奇妙旅程。这一章要讲的,就是这场旅程中最有戏剧性的几段路。
 
 ---
 
@@ -42,7 +42,7 @@ flowchart TD
 
 为什么这个时代突然需要这么多 `-ism`?原因很现实:**一种政治运动必须先有一个名字,才能被讨论、被拥护、被攻击。** 18 世纪以前,大部分人讨论的是"该忠于哪个国王";1789 年之后,讨论的题目变成了"该信哪种制度、哪种社会蓝图"。每一种社会蓝图都需要一个标签才能在报纸上、辩论中、街头传单里被点名。`-ism` 恰好是一个现成的、轻便的、跨语言通用的命名工具——于是它从一个安静的希腊小标签,被一整代人同时叫醒,推上了政治命名的工位。
 
-需要说清的是:`-ism` 并非沉睡到 18 世纪才被发明。它早在 16 世纪就随拉丁、法语借入英语了——`baptism`(洗礼)、`martyrism`(殉道)这些词就是它默默干杂活时留下的旧账。1789 年只是把它从"语法零件"推成"政治命名机器"的转折点,不是它的出生证。
+需要说清的是:`-ism` 并非沉睡到 18 世纪才被发明。它早在 16 世纪就随拉丁、法语借入英语了——`baptism` /ˈbæpˌtɪzəm/(洗礼)、`martyrism`(殉道)这些词就是它默默干杂活时留下的旧账。1789 年只是把它从"语法零件"推成"政治命名机器"的转折点,不是它的出生证。
 
 ---
 
@@ -50,11 +50,11 @@ flowchart TD
 
 `-ism` 被政治家们叫醒之后,干起了三件差事——而且这三件差事的画风差别之大,足以让你怀疑它们是不是同一个后缀。
 
-第一件,也是最风光的:给**政治/哲学学说**命名。一个主张,贴上 `-ism`,就有了身份证。`capitalism`、`socialism`、`communism`、`feminism`、`liberalism`、`nationalism`、`Marxism`——这一票词把 `-ism` 推上了"主义制造机"的王座。
+第一件,也是最风光的:给**政治/哲学学说**命名。一个主张,贴上 `-ism`,就有了身份证。`capitalism`、`socialism`、`communism`、`feminism`、`liberalism` /ˈlɪbərəˌlɪzəm/、`nationalism`、`Marxism`——这一票词把 `-ism` 推上了"主义制造机"的王座。
 
-第二件,画风急转直下:给**歧视、偏见**命名。这是 20 世纪 `-ism` 的另一副面孔——`racism`、`sexism`、`ageism`、`ableism`。带 `-ism` 的词,在 20 世纪逐渐带上了贬义味儿,因为批判性的词最常被这样造出来:一个不公正的现象被识别出来,被命名,才能被公开反对。可以说,20 世纪的 `-ism` 是民权运动话语的副产物——它把社会里那些原本不被点名的不公,一个一个推上了被告席。
+第二件,画风急转直下:给**歧视、偏见**命名。这是 20 世纪 `-ism` 的另一副面孔——`racism`、`sexism` /ˈsɛkˌsɪzəm/、`ageism`、`ableism`。带 `-ism` 的词,在 20 世纪逐渐带上了贬义味儿,因为批判性的词最常被这样造出来:一个不公正的现象被识别出来,被命名,才能被公开反对。可以说,20 世纪的 `-ism` 是民权运动话语的副产物——它把社会里那些原本不被点名的不公,一个一个推上了被告席。
 
-第三件,回归本职:表示**状态、行为**。这部分是 `-ism` 最老实的差事——`tourism`(旅游业)、`alcoholism`(酗酒)、`magnetism`(磁性)、`heroism`(英雄主义)。这一类里也藏着几个本章稍后要细讲的好故事。
+第三件,回归本职:表示**状态、行为**。这部分是 `-ism` 最老实的差事——`tourism`(旅游业)、`alcoholism` /ˈælkəhɔˌlɪzəm/(酗酒)、`magnetism` /ˈmæɡnəˌtɪzəm/(磁性)、`heroism` /ˈhɛroʊˌɪzəm/(英雄主义)。这一类里也藏着几个本章稍后要细讲的好故事。
 
 三件差事,三副面孔——下面逐个看看 `-ism` 的工作台上都堆着什么货。
 
@@ -96,13 +96,13 @@ flowchart TD
 
 | 词基 | 后缀 | 整词 | 含义 | 类别 |
 | ------ | ------ | ------ | ------ | ------ |
-| `capital` | `-ist` | `capitalist` | 资本家 | 主义者 |
-| `social` | `-ist` | `socialist` | 社会主义者 | 主义者 |
-| `femin` | `-ist` | `feminist` | 女权主义者 | 主义者 |
+| `capital` | `-ist` | `capitalist` /ˈkæpətəlɪst/ | 资本家 | 主义者 |
+| `social` | `-ist` | `socialist` /ˈsoʊʃəlɪst/ | 社会主义者 | 主义者 |
+| `femin` | `-ist` | `feminist` /ˈfɛmənɪst/ | 女权主义者 | 主义者 |
 | `race` | `-ist` | `racist` | 种族主义者 | 主义者 |
 | `art` | `-ist` | `artist` | 艺术家 | 职业 |
-| `piano` | `-ist` | `pianist` | 钢琴家 | 职业 |
-| `novel` | `-ist` | `novelist` | 小说家 | 职业 |
+| `piano` | `-ist` | `pianist` /piˈænɪst/ | 钢琴家 | 职业 |
+| `novel` | `-ist` | `novelist` /ˈnɑvəlɪst/ | 小说家 | 职业 |
 | `science` | `-ist` | `scientist` | 科学家 | 职业 |
 
 注意 `-ist` 的两副面孔:在政治/哲学里,它是主张的人格化——`capitalist`(资本家)、`socialist`(社会主义者)、`feminist`(女权主义者)、`racist`(种族主义者);在职业里,它是手艺的持有者——`artist`(艺术家)、`pianist`(钢琴家)、`novelist`(小说家)、`scientist`(科学家)。同一个后缀,既能给人贴"我信什么"的标签,也能给人贴"我干什么"的标签,这就是 `-ist` 的灵活之处。
@@ -111,9 +111,9 @@ flowchart TD
 
 | 词基 | `-ism`(主义) | `-ist`(者) | `-ize`(化) |
 | ------ | ------ | ------ | ------ |
-| `capital` | `capitalism`(资本主义) | `capitalist`(资本家) | `capitalize`(资本化) |
-| `modern` | `modernism`(现代主义) | `modernist`(现代主义者) | `modernize`(现代化) |
-| `theory` | —(通常不说 theorism) | `theorist` | `theorize` |
+| `capital` | `capitalism`(资本主义) | `capitalist`(资本家) | `capitalize` /ˈkæpətəˌlaɪz/(资本化) |
+| `modern` | `modernism` /ˈmɑdɚˌnɪzəm/(现代主义) | `modernist` /ˈmɑdɚnɪst/(现代主义者) | `modernize` /ˈmɑdɚˌnaɪz/(现代化) |
+| `theory` | —(通常不说 theorism) | `theorist` /ˈθiərɪst/ | `theorize` /ˈθiəˌraɪz/ |
 
 这套三件套看起来很整齐,像是流水线上的标准套餐:一个主张(`-ism`),一个信徒(`-ist`),一个动作(`-ize`)。可惜语言不是工厂,并非每个词基都老老实实配齐全套——`theory` 就是个明摆着的例子:有 `theorist`(理论家)、有 `theorize`(理论化),却偏偏没人说 `theorism`。一个词基配齐没配齐三件套,得查实际词典,不能想当然地补货。
 
@@ -127,13 +127,13 @@ flowchart TD
 
 | 词基 | `-ism` 形式 | 是否通用 | 含义 |
 | ------ | ------ | ------ | ------ |
-| `multicultural` | `multiculturalism` | ✓ | 多元文化主义 |
-| `environmental` | `environmentalism` | ✓ | 环保主义 |
-| `consumer` | `consumerism` | ✓ | 消费主义 |
+| `multicultural` /ˌmʌltiˈkʌltʃərəl/ | `multiculturalism` /ˌmʌltiˈkʌltʃərəˌlɪzəm/ | ✓ | 多元文化主义 |
+| `environmental` | `environmentalism` /ɪnˌvaɪrənˈmɛntəˌlɪzəm/ | ✓ | 环保主义 |
+| `consumer` | `consumerism` /kənˈsuməˌrɪzəm/ | ✓ | 消费主义 |
 | `global` | `globalism` | ✓ | 全球主义 |
 | `Trump` | `Trumpism` | ✓ | 特朗普主义 |
 | `Brexit` | `Brexitism` | ✓ | 脱欧主义 |
-| `hubris` | — | ✗ 不存在 | — |
+| `hubris` /ˈhjubrɪs/ | — | ✗ 不存在 | — |
 
 `hubris`(傲慢)这种词,人人爱用,可没人给它加 `-ism`——它已经是个够完整的词了,加 `-ism` 反而画蛇添足。这说明 `-ism` 的能产性再强,也受语义和习惯的约束:能造的不一定成立,成立的不一定通用。
 
@@ -199,7 +199,7 @@ flowchart TD
 
 `tourist`(旅游者)这个词在 1772 年出现,`tourism`(旅游业)在 1811 年出现——这两个日期本身就讲完了一个故事:先有人去"转圈"旅游,然后才有人把"旅游这件事"打包成一门产业。`tourism` 诞生的那一刻,旅行从贵族的成年礼,变成了可以被规模化、被经营、被消费的商品。当然,在 `tourist` 出现之前人们也旅行——为贸易、朝圣、求学、外交、探险——但那都是"有目的的出行";`tourist` 标记的是一个新类别:**为了旅游本身而旅游的人。** `-ism` 在这里把一个行为提升成了一种现象、一个产业。
 
-### `serendipity`(机缘巧合):不是 -ism,但有造词人
+### `serendipity` /ˌsɛrənˈdɪpəti/(机缘巧合):不是 -ism,但有造词人
 
 最后一个故事,虽然不是 `-ism`,却因为"有造词人和造词日期"而在词汇史上格外有名,值得一讲。
 

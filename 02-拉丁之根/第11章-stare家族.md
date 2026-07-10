@@ -40,11 +40,11 @@ stare 的变体非常多,因为拉丁动词在不同形式下词干变化大,英
 
 | 词根变体 | 来源 | 例词 |
 | ---- | ---- | ---- |
-| `stat-` | 基本形式 | state, status, station, static, statistic |
-| `stit-` | 词干变体 | institute, constitution, substitute, restitution |
+| `stat-` | 基本形式 | state, status, station, static /ˈstætɪk/, statistic /stəˈtɪstɪk/ |
+| `stit-` | 词干变体 | institute, constitution, substitute, restitution /ˌrɛstəˈtuʃən/ |
 | `stant-` | 词干变体 | constant, instant, distant, substance |
 | `sta-` | 简化形式 | stable, establish |
-| `sist-` | 来自 stare 的另一种形式 sistere | exist, consist, persist, resist, assist |
+| `sist-` | 来自 stare 的另一种形式 sistere | exist, consist /kənˈsɪst/, persist /pərˈsɪst/, resist, assist |
 
 **记忆口诀**:**stat/stit/stant/sta/sist 都属于拉丁"站立、使站立"词族**。英语本族词 `stand`、`stay` 与它们有更早的印欧亲缘,但不是拉丁 *stare* 直接派生出的英语借词。
 
@@ -133,8 +133,8 @@ flowchart LR
 **派生词**:
 
 - `institute`(动词:设立;名词:研究所)
-- `institutional`(机构的)
-- `institutionalize`(使制度化)
+- `institutional` /ˌɪnstɪˈtuʃənəl/(机构的)
+- `institutionalize` /ˌɪnstɪˈtuʃənəˌlaɪz/(使制度化)
 
 ---
 
@@ -191,9 +191,9 @@ flowchart LR
 **派生词**:
 
 - `existence`(存在)
-- `existent`(存在的)
-- `coexist`(共存)
-- `existential`(存在的,存在主义的)
+- `existent` /ɛgˈzɪstənt/(存在的)
+- `coexist` /ˌkoʊəgˈzɪst/(共存)
+- `existential` /ˌɛgˌzɪˈstɛnʃəl/(存在的,存在主义的)
 
 ---
 
@@ -217,14 +217,14 @@ flowchart LR
 **派生词**:
 
 - `resistance`(抵抗、阻力)
-- `resistant`(有抵抗力的)
-- `irresistible`(不可抗拒的)
+- `resistant` /rɪˈzɪstənt/(有抵抗力的)
+- `irresistible` /ˌɪrɪˈzɪstəbəl/(不可抗拒的)
 
 #### 四个 sist 兄弟:同是"站",站法不同
 
 `resist` 不是孤零零一个词。拉丁语 *sistere*(使站立)配上前缀,长出了一组兄弟姐妹——四个都是"站",但站的姿势不一样,意思就不一样。给每个一个画面,你就忘不掉了:
 
-- **`insist`(坚持)**:*in-* 往里。一个人抱着柱子,身子往门里挤,嘴上喊"**我就是站在这儿不走**"——往里站,就是坚持己见、执意要求。
+- **`insist` /ɪnˈsɪst/(坚持)**:*in-* 往里。一个人抱着柱子,身子往门里挤,嘴上喊"**我就是站在这儿不走**"——往里站,就是坚持己见、执意要求。
 - **`persist`(坚持、持续)**:*per-* 一直、从头到尾。一个人从黎明站到天黑,从头站到尾,雷打不动——一直站,就是持续、不肯放弃。
 - **`consist`(由……组成)**:*con-* 一起。几个朋友肩并肩站成一排,合起来就成了一个团队——站在一起,就是"由这些构成"。
 - **`assist`(帮助)**:*as-*(*ad-*)到旁边。一个人蹲在路边喘气,另一个人**站到他身边**扶一把——站在旁边伸手,就是帮助。

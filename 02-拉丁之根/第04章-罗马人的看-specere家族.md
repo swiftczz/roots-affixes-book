@@ -8,7 +8,7 @@
 
 这是全书第一个完整展开的词根家族,也是**最值得花时间学的一条**。原因有两个:
 
-1. **它的高频词极多**:`inspect`、`respect`、`suspect`、`spectator`、`spectacle`、`aspect`、`perspective`、`introspection`……每一个都是学术英语的核心词。
+1. **它的高频词极多**:`inspect` /ɪnˈspɛkt/、`respect`、`suspect` /səˈspɛkt/、`spectator` /ˈspɛkteɪtər/、`spectacle` /ˈspɛktəkəl/、`aspect`、`perspective` /pərˈspɛktɪv/、`introspection` /ˌɪntrəˈspɛkʃən/……每一个都是学术英语的核心词。
 2. **它和英语本土的 `see` 占据同一片语义区**——两套"看"很适合对照记忆(至于它俩更早是不是亲戚,这事学界还没吵完,后面"词源辨正"再聊)。
 
 ---
@@ -19,7 +19,7 @@
 
 把镜头拉到公元前 1 世纪某个上午,罗马广场(forum)。这是全城最热闹的露天剧场,没有之一:
 
-政治家爬上演讲台,袍角一甩,开始滔滔不绝——台下的市民**盯着**他的嘴;商人把叙利亚来的香料摆上摊,和买家**互相对视**,无声地较劲;神庙门口,占卜官(augur)披着条纹长袍,仰头**注视**天空里划过的乌鸦,判断这一票生意能不能做。而在更远的斗兽场,五万观众**齐刷刷望向**场地中央,角斗士的生死,只看皇帝那根朝下的大拇指。
+政治家爬上演讲台,袍角一甩,开始滔滔不绝——台下的市民**盯着**他的嘴;商人把叙利亚来的香料摆上摊,和买家**互相对视**,无声地较劲;神庙门口,占卜官(augur /ˈɔgər/)披着条纹长袍,仰头**注视**天空里划过的乌鸦,判断这一票生意能不能做。而在更远的斗兽场,五万观众**齐刷刷望向**场地中央,角斗士的生死,只看皇帝那根朝下的大拇指。
 
 四个场景,一个动词。拉丁语管"看"叫 ***specere***(古典拼写 *specere*,变形 *spectare*),后来长出了一大堆"看"的子孙。它的核心义是**有目的地注视、观察**——不是漫不经心地瞥一眼,而是**认真看、存心看、看出点名堂来**。罗马人是真的相信"看"这件事能看出吉凶、看出品行、看出神的旨意——于是这个"看"字,顺理成章地繁衍成了拉丁语里子孙最旺的一支。
 
@@ -47,9 +47,9 @@ flowchart TD
 
 | 变体形式 | 来源 | 例词 |
 | ------ | ------ | ------ |
-| `spec-` | specere 的基本形式 | specimen, spectrum |
+| `spec-` | specere 的基本形式 | specimen /ˈspɛsəmən/, spectrum /ˈspɛktrəm/ |
 | `spect-` | spectare、spectus 等相关形式 | spectator, spectacle, inspect, respect |
-| `spic-` | 拉丁复合词的弱化形式 | suspicion, auspice, conspicuous |
+| `spic-` | 拉丁复合词的弱化形式 | suspicion /səˈspɪʃən/, auspice /ˈɔspɪs/, conspicuous /kənˈspɪkjuəs/ |
 | `speci-` | 来自 species(外观) | species, special |
 
 > **小提示**:`inspect`、`expect` 这些词在现代英语里的意思(检查、期待)是经过漫长语义漂移的,不是"已经被看/已经被期待"的简单直译。别拿拆字公式去套现代词义,会漏掉中间两千年。
@@ -115,9 +115,9 @@ flowchart LR
 
 **同根兄弟**:
 
-- `respectable`(值得尊重的)
-- `respectful`(恭敬的)
-- `disrespect`(不尊重:dis- + respect)
+- `respectable` /rɪˈspɛktəbəl/(值得尊重的)
+- `respectful` /rɪˈspɛktfəl/(恭敬的)
+- `disrespect` /ˌdɪsrɪˈspɛkt/(不尊重:dis- + respect)
 
 > 学会这个,你就不会再把 `respect` 当成无意义的字符串——它是"回头多看一眼",所以是尊重。
 
@@ -135,9 +135,9 @@ flowchart LR
 
 **派生词**:
 
-- `inspection`(检查)
-- `inspector`(检查员)
-- `inspectorate`(检查机构)
+- `inspection` /ˌɪnˈspɛkʃən/(检查)
+- `inspector` /ˌɪnˈspɛktər/(检查员)
+- `inspectorate` /ˌɪnˈspɛktərət/(检查机构)
 
 ---
 
@@ -149,7 +149,7 @@ flowchart LR
 
 这是 specere 家族里最有趣的一个。
 
-`suspect` 的 `su-` 是 `sub-` 在复合词里的同化形式——`sub-` 在别的辅音前常常"收起 b",只留下 `su-`(`succeed`、`suffice` 都是这一路货色)。拉丁 *suspicere* 的本义是"**从下面往上看**",名词 *suspectus* 后来长出"怀疑、猜疑"的意思。
+`suspect` 的 `su-` 是 `sub-` 在复合词里的同化形式——`sub-` 在别的辅音前常常"收起 b",只留下 `su-`(`succeed`、`suffice` /səˈfaɪs/ 都是这一路货色)。拉丁 *suspicere* 的本义是"**从下面往上看**",名词 *suspectus* 后来长出"怀疑、猜疑"的意思。
 
 画面请脑补清楚:你蹲在阴影里,眼珠**从下往上瞟**,目光里掺着怀疑、警惕和不信任——这就是 *suspicere*。*(传说)* 罗马作家笔下最经典的"从下偷看"角色,就是站在主人身后的奴隶:他低着头,眼皮却不老实,偷偷往上看,揣测主人的脸色。一束带着疑心的目光,从社会底层往权力上方攀爬——这就是 `suspect` 凝固在词里的画面。
 
@@ -162,7 +162,7 @@ flowchart LR
 - `suspect` (动词 /səˈspekt/):怀疑
 - `suspect` (名词 /ˈsʌspekt/):嫌疑犯(被怀疑的人)
 - `suspicion`(名词):怀疑
-- `suspicious`(形容词):可疑的
+- `suspicious` /səˈspɪʃəs/(形容词):可疑的
 
 ---
 
@@ -179,14 +179,14 @@ flowchart LR
 > **三个"向某方向看"的对照**:
 >
 > - `inspect`(向内看 → 检查外部事物)
-> - `introspect`(向内看 → 检查内心)
-> - `retrospect`(向后看 → 回顾)
+> - `introspect` /ˈɪntrəˌspɛkt/(向内看 → 检查内心)
+> - `retrospect` /ˈrɛtrəˌspɛkt/(向后看 → 回顾)
 >
 > 同一个 spec 词根 + 不同方向前缀 = 不同的"看"。
 
 ---
 
-## 【番外·高潮】auspice / auspicious:罗马人的"观神鸡"
+## 【番外·高潮】auspice / auspicious /ɑˈspɪʃəs/:罗马人的"观神鸡"
 
 前面四个词,都是普通人在"看"。但 specere 家族里有一条**最玄幻、最戏剧化、最能代表罗马人集体心理**的血脉——他们看的不是人,不是账本,而是**神派来的鸡**。
 
@@ -194,10 +194,10 @@ flowchart LR
 
 ### 词形怎么拆
 
-**`auspice`** /ˈɔːspɪs/:`avi-`(鸟)+ `specere`(看)= **看鸟**。
-**`auspicious`** /ɔːˈspɪʃəs/:"看鸟看出好兆头的" → 吉利的。
-**`augur`** /ˈɔːɡər/:占卜官,专司观鸟。
-**`inaugurate`** /ɪˈnɔːɡjəreɪt/:占卜官正式就位 → 就职典礼。
+**`auspice`**:`avi-`(鸟)+ `specere`(看)= **看鸟**。
+**`auspicious`**:"看鸟看出好兆头的" → 吉利的。
+**`augur`**:占卜官,专司观鸟。
+**`inaugurate` /ɪˈnɔɡjəreɪt/**:占卜官正式就位 → 就职典礼。
 
 别被 `au-` 这个前缀骗了。它不是"金"(那是 *aurum*)的缩写,而是 `avis`(鸟)被时光啃掉了 v。所以 **auspice 的字面意思,就是"观鸟"**。
 
@@ -263,7 +263,7 @@ flowchart LR
 
 > **金句**:罗马帝国的维稳预算,一半花在小麦上,一半花在 spectacle 上。两千年过去,配方没怎么变。
 
-`spectacle` 后来长出 `spectacular`(壮观的)——一个壮丽到值得全场起立的东西;`spectator` 至今还是体育赛事、剧院观众的标准词。下次你看球赛被人叫 spectator,别忘了你坐的是 21 世纪的"斗兽场看台"。
+`spectacle` 后来长出 `spectacular` /spɛkˈtækjələr/(壮观的)——一个壮丽到值得全场起立的东西;`spectator` 至今还是体育赛事、剧院观众的标准词。下次你看球赛被人叫 spectator,别忘了你坐的是 21 世纪的"斗兽场看台"。
 
 ---
 
@@ -297,11 +297,11 @@ flowchart LR
 | `aspect` | a- + spect | 朝着看 → 方面 |
 | `perspective` | per- + spect + -ive | 透过看 → 视角 |
 | `introspection` | intro- + spect + -ion | 向内看 → 内省 |
-| `retrospective` | retro- + spect + -ive | 向后看 → 回顾的 |
+| `retrospective` /ˌrɛtrəˈspɛktɪv/ | retro- + spect + -ive | 向后看 → 回顾的 |
 | `spectator` | spect + -ator | 看的人 → 观众 |
 | `spectacle` | spect + -acle | 值得看的 → 奇观 |
-| `circumspect` | circum- + spect | 环顾看 → 谨慎的 |
-| `prospect` | pro- + spect | 向前看 → 前景 |
+| `circumspect` /ˈsɝkəmˌspɛkt/ | circum- + spect | 环顾看 → 谨慎的 |
+| `prospect` /ˈprɑspɛkt/ | pro- + spect | 向前看 → 前景 |
 
 **12 个词,只记一个核心义**:`spec = 看`。
 
