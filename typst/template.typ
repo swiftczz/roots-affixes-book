@@ -4,10 +4,10 @@
 
 // Body CJK font stacks intentionally keep Latin glyphs in the same family so
 // mixed Chinese/Latin inline text does not disturb line height.
-#let latin-serif = ("Iowan Old Style", "Libertinus Serif", "New Computer Modern")
-#let cjk-serif = ("New Computer Modern", "Songti SC", "LiSong Pro", "STSong")
-#let cjk-kai = ("Kaiti SC", "STKaiti", "Kai")
-#let cjk-sans = ("PingFang SC", "Heiti SC", "STHeiti")
+#let latin-serif = ("Iowan Old Style", "Libertinus Serif", "New Computer Modern", "STIX Two Text", "Apple Symbols")
+#let cjk-serif = ("New Computer Modern", "Songti SC", "LiSong Pro", "STSong", "STIX Two Text", "Apple Symbols")
+#let cjk-kai = ("Kaiti SC", "STKaiti", "Kai", "STIX Two Text", "Apple Symbols")
+#let cjk-sans = ("PingFang SC", "Heiti SC", "STHeiti", "Apple Symbols")
 #let mono-font = ("Menlo", "Maple Mono", "FiraCode Nerd Font Mono", "Courier New")
 
 #let paper = rgb("#fbfaf6")
@@ -319,7 +319,7 @@
 
   show emph: it => text(size: 1em, fill: rgb("#303734"))[#it.body]
   show strong: it => text(size: 1em, fill: rgb("#30302c"))[#it.body]
-  show raw.where(block: false): it => text(font: cjk-serif, size: 10pt, fill: rgb("#303734"))[#it.text]
+  show raw.where(block: false): it => text(font: cjk-serif, size: 10pt, fill: accent-dark)[#it.text]
 
   show heading.where(level: 1): it => none
   show heading.where(level: 5): it => {
@@ -444,11 +444,24 @@
     margin: (left: 20mm, right: 18mm, top: 18mm, bottom: 18mm),
     numbering: "1",
     number-align: center,
-    header: block(width: 100%)[
-      #align(right)[#text(font: cjk-kai, size: 10pt, fill: muted)[#title]]
-      #v(2pt)
-      #line(length: 100%, stroke: 0.35pt + hairline)
-    ],
+    header: context {
+      let chapters = query(heading.where(level: 2))
+      let on-page = chapters.filter(h => h.location().page() == here().page())
+      let before-page = chapters.filter(h => h.location().page() < here().page())
+      let current = if on-page.len() > 0 { on-page.first() } else if before-page.len() > 0 {
+        before-page.last()
+      } else { none }
+      block(width: 100%)[
+        #grid(
+          columns: (1fr, auto),
+          column-gutter: 6mm,
+          align(left)[#text(font: cjk-kai, size: 9.5pt, fill: muted)[#if current != none [#current.body]]],
+          align(right)[#text(font: cjk-kai, size: 9.5pt, fill: muted)[#title]],
+        )
+        #v(2pt)
+        #line(length: 100%, stroke: 0.35pt + hairline)
+      ]
+    },
   )
   counter(page).update(1)
 

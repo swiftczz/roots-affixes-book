@@ -891,11 +891,11 @@ def manuscript_files() -> list[Path]:
 
 def volume_call(dirname: str) -> str | None:
     if dirname == "00-前言":
-        return "```{=typst}\n#part-entry(\"00 前言\")\n```\n"
+        return "```{=typst}\n#part-entry(\"前言\")\n```\n"
     if dirname not in VOLUMES:
         return None
     kicker, title, subtitle = VOLUMES[dirname]
-    outline_title = dirname.replace("-", " ", 1)
+    outline_title = f"{kicker} · {title}"
     return (
         "```{=typst}\n"
         f"#volume-page({q(kicker)}, {q(title)}, subtitle: {q(subtitle)}, outline-title: {q(outline_title)})\n"

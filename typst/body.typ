@@ -1,6 +1,6 @@
 #import "template.typ": part-entry, volume-page, horizontalrule, diagram-panel, d-node, d-flow, d-down, d-target, relation-group, timeline-date, timeline-entry, timeline-section, th, fnode, fedge, f-diagram
 
-#part-entry("00 前言")
+#part-entry("前言")
 == 前言：为什么要从"起源"学词根
 <前言为什么要从起源学词根>
 #quote(block: true)[
@@ -224,7 +224,7 @@
 
 准备好了吗？我们从"英语的曾祖父"------印欧语系------开始。
 
-#volume-page("第一卷", "阅读准备", subtitle: "英语词汇的历史坐标", outline-title: "01 阅读准备")
+#volume-page("第一卷", "阅读准备", subtitle: "英语词汇的历史坐标", outline-title: "第一卷 · 阅读准备")
 #pagebreak(weak: true)
 
 == 第 1 章印欧语系：英语的曾祖父
@@ -1015,7 +1015,7 @@
 + 为什么 `cow`（牛）和 `beef`（牛肉）成对出现，且一个是短词、一个是长词？
 + `tea` 最终来自哪一类汉语读音，又经过哪种欧洲语言进入英语？
 
-#volume-page("第二卷", "拉丁之根", subtitle: "古罗马留给英语的制度、法律与学术词汇", outline-title: "02 拉丁之根")
+#volume-page("第二卷", "拉丁之根", subtitle: "古罗马留给英语的制度、法律与学术词汇", outline-title: "第二卷 · 拉丁之根")
 #pagebreak(weak: true)
 
 == 第 3 章从台伯河到泰晤士河：拉丁语如何进入英语
@@ -4782,7 +4782,7 @@ fluere 是水的专用动词。说话流利(fluent)，是话像水一样淌出�
 
 #strong[下一卷，我们进入第 3 卷「希腊之光」] ------古希腊语给欧洲思想和国际科学术语留下了大量组合形式。我们将同时注意：现代科学词汇也大量使用拉丁语、现代语言、人名和缩略构词，不能把科学语言归结为单一来源。
 
-#volume-page("第三卷", "希腊之光", subtitle: "科学、哲学与学科命名的古典源头", outline-title: "03 希腊之光")
+#volume-page("第三卷", "希腊之光", subtitle: "科学、哲学与学科命名的古典源头", outline-title: "第三卷 · 希腊之光")
 #pagebreak(weak: true)
 
 == 第 14 章希腊语为什么成了"科学语"
@@ -7167,7 +7167,7 @@ logos 这词的传奇不在于它本义多朴素，而在于#strong[它是怎么
 
 #strong[下一卷，我们进入第 4 卷「日耳曼之骨」] ------古英语留给英语的日常骨架。这部分词你已经会了，但它们的故事同样精彩。
 
-#volume-page("第四卷", "日耳曼之骨", subtitle: "英语日常核心词的底层结构", outline-title: "04 日耳曼之骨")
+#volume-page("第四卷", "日耳曼之骨", subtitle: "英语日常核心词的底层结构", outline-title: "第四卷 · 日耳曼之骨")
 #pagebreak(weak: true)
 
 == 第 20 章为什么最常用的词最短：日耳曼词的特性
@@ -8188,7 +8188,7 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
 
 #strong[下一卷，我们进入第 5 卷「法语之饰」] ------1066 年诺曼征服如何重塑英语词汇，造成今天"双词汇层"的奇观。
 
-#volume-page("第五卷", "法语之饰", subtitle: "诺曼征服后的语体分层与双词汇系统", outline-title: "05 法语之饰")
+#volume-page("第五卷", "法语之饰", subtitle: "诺曼征服后的语体分层与双词汇系统", outline-title: "第五卷 · 法语之饰")
 #pagebreak(weak: true)
 
 == 第 23 章 1066 年的一件事，如何重塑英语词汇
@@ -9676,7 +9676,7 @@ soldier 与一种货币名称有关；salary 与拉丁 salarium 有关，细节�
 
 #strong[下一卷，我们进入第 6 卷「词缀的故事」] ------前缀和后缀本身也有来历，这一卷讲每个高频词缀的起源。
 
-#volume-page("第六卷", "词缀的故事", subtitle: "前缀、后缀与英语造词机制", outline-title: "06 词缀的故事")
+#volume-page("第六卷", "词缀的故事", subtitle: "前缀、后缀与英语造词机制", outline-title: "第六卷 · 词缀的故事")
 #pagebreak(weak: true)
 
 == 第 27 章否定前缀为什么这么多：un- / in- / dis- / a-
@@ -11926,7 +11926,7 @@ September 的旧账算完了，接下来轮到那些老老实实数数的前缀-
 
 #strong[到这里，全书主体内容（第 1-6 卷）全部完成！]下一卷是#strong[第 7 卷附录] ------词根索引、词缀索引、民间词源辨正、思考题答案。
 
-#volume-page("附录", "索引与辨正", subtitle: "词根、词缀、民间词源与思考题答案", outline-title: "07 附录")
+#volume-page("附录", "索引与辨正", subtitle: "词根、词缀、民间词源与思考题答案", outline-title: "附录 · 索引与辨正")
 #pagebreak(weak: true)
 
 == 附录 A：词根总索引（按字母）
