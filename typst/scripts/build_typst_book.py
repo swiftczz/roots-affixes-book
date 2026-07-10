@@ -180,6 +180,9 @@ def remove_typst_cjk_markup_spaces(value: str) -> str:
     return TYPST_CJK_MARKUP_SPACE.sub(r"\1]\2", value)
 
 
+CHAPTER_NUMERAL_SPACE = re.compile(r"(第 \d+ 章|附录 [A-E]) +")
+
+
 def normalize_segment(value: str) -> str:
     spans: list[str] = []
 
@@ -190,8 +193,12 @@ def normalize_segment(value: str) -> str:
     masked = INLINE_CODE.sub(stash, value)
     masked = fullwidth_parens(masked)
     masked = fullwidth_marks(masked)
-    masked = fullwidth_quotes(masked, DQUOTE_PAIR, "“", "”", False)
+    masked = fullwidth_quotes(masked, DQUOTE_PAIR, "\u201c", "\u201d", False)
+    # Protect the space after "第 N 章" / "附录 X" so CJK-space removal
+    # does not collapse "第 1 章 印欧语系" into "第 1 章印欧语系".
+    masked = CHAPTER_NUMERAL_SPACE.sub(lambda m: m.group(1) + "\x01", masked)
     masked = remove_cjk_spaces(masked)
+    masked = masked.replace("\x01", " ")
     masked = protect_markdown_strong_boundaries(masked)
     for span in spans:
         masked = masked.replace(CODE_SENTINEL, span, 1)
