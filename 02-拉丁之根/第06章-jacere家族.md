@@ -6,7 +6,7 @@
 > **含义**:投、掷、扔、抛(to throw, to cast, to hurl)
 > **起源**:拉丁动词 ***iacere***("投掷";传统英语词源拼作 *jacere*)。另有拼写相近但不同的 ***iacēre***("躺着")
 
-jacere 家族生成了 `inject`(注射)、`reject`(拒绝)、`project`(投射/项目)、`eject` /ɪˈdʒɛkt/(弹出)、`subject`(主题/使服从)、`object`(物体/反对)——这些动词全是高频学术词。
+jacere 家族生成了 `inject`(注射)、`reject`(拒绝)、`project`(投射/项目)、`eject` /ɪˈdʒɛkt/(弹出)、`subject` /səbˈdʒɛkt/(主题/使服从)、`object` /ˈɑbdʒɛkt/(物体/反对)——这些动词全是高频学术词。
 
 这个家族的妙处在于:**每一次"投掷"的方向都不一样**,而方向常常决定词义。认前缀就像看抛物线,先判断东西往哪儿飞。
 
@@ -25,7 +25,7 @@ jacere 家族生成了 `inject`(注射)、`reject`(拒绝)、`project`(投射/�
 | iacere(投掷) | 投、掷 | 古罗马士兵投标枪 |
 | iacēre(躺着) | 躺着、位于 | adjacent /əˈdʒeɪsənt/ "位于旁边" |
 
-> **提示** 英语里的 `-ject-` 词族主要来自"投掷"动词;`adjacent` 则来自"躺着、位于"动词。拼写相似不能代替词源区分。
+> **提示** 英语里的 `-ject-` 词族主要来自"投掷"动词;`adjacent` /əˈdʒeɪsənt/ 则来自"躺着、位于"动词。拼写相似不能代替词源区分。
 
 ### jacere 的核心智慧:方向决定词义
 
@@ -85,7 +85,7 @@ flowchart TD
 
 ## 【代表词深讲】四个词的故事
 
-### 词 1:`reject`(拒绝)
+### 词 1:`reject` /rɪˈdʒɛkt/(拒绝)
 
 **拆解**:`re-`(回)+ `ject`(投)= 投回去
 
@@ -108,7 +108,7 @@ flowchart LR
 
 ---
 
-### 词 2:`inject`(注射)
+### 词 2:`inject` /ˌɪnˈdʒɛkt/(注射)
 
 **拆解**:`in-`(进入)+ `ject`(投)= 投进去
 
@@ -155,7 +155,7 @@ flowchart TD
 
 ---
 
-### 词 4:`dejected`(沮丧的)
+### 词 4:`dejected` /dɪˈdʒɛktɪd/(沮丧的)
 
 **拆解**:`de-`(向下)+ `ject`(投)+ `-ed` = 被投下去的
 
@@ -178,7 +178,7 @@ flowchart TD
 
 **答案:是,而且这是 jacere 家族里最戏剧性的远房亲戚。**
 
-`jet`(喷气式飞机、喷流)来自法语 *jeter* "投掷、扔",其更早来源与拉丁 *iacere* 及反复动词 *iactare* 有关。
+`jet` /dʒɛt/(喷气式飞机、喷流)来自法语 *jeter* "投掷、扔",其更早来源与拉丁 *iacere* 及反复动词 *iactare* 有关。
 
 ```mermaid
 flowchart LR
@@ -201,14 +201,14 @@ flowchart LR
 
 | 词 | 拆解 | 推义 |
 | ---- | ------ | ------ |
-| `inject` | in- + ject | 投入 → 注射 |
-| `reject` | re- + ject | 投回 → 拒绝 |
-| `eject` | e- + ject | 投出 → 弹出 |
+| `inject` /ˌɪnˈdʒɛkt/ | in- + ject | 投入 → 注射 |
+| `reject` /rɪˈdʒɛkt/ | re- + ject | 投回 → 拒绝 |
+| `eject` /ɪˈdʒɛkt/ | e- + ject | 投出 → 弹出 |
 | `project` | pro- + ject | 投向前 → 投射/项目 |
-| `subject` | sub- + ject | 投向下 → 使服从/主题 |
-| `object` | ob- + ject | 投向对方 → 反对/物体 |
-| `interject` | inter- + ject | 投在中间 → 插话 |
-| `dejected` | de- + ject + -ed | 被丢下 → 沮丧 |
+| `subject` /səbˈdʒɛkt/ | sub- + ject | 投向下 → 使服从/主题 |
+| `object` /ˈɑbdʒɛkt/ | ob- + ject | 投向对方 → 反对/物体 |
+| `interject` /ˌɪntərˈdʒɛkt/ | inter- + ject | 投在中间 → 插话 |
+| `dejected` /dɪˈdʒɛktɪd/ | de- + ject + -ed | 被丢下 → 沮丧 |
 | `trajectory` /trəˈdʒɛktəri/ | tra-(trans)+ ject + -ory | 投越的 → 弹道 |
 
 > **提示** **核心启示**:ject 家族和 duc 家族一样,**前缀 = 方向 = 词义**。看到 ject 词,先看前缀方向,十拿九稳。
@@ -229,9 +229,9 @@ flowchart LR
 
 ### 【思考题】(答案见附录 A)
 
-1. `subject` 字面是"投向下",为什么引申为"主题"和"使服从"?(提示:被扔到下面的就是被支配的;论题被"放在下面"作为讨论基础)
-2. `object` 字面是"投向对方",为什么既指"反对"又指"物体"?(提示:把东西抛到对方面前表示异议;被抛在面前供观察的东西)
-3. `trajectory`(弹道)怎么拆?为什么"投越"等于弹道?
+1. `subject` /səbˈdʒɛkt/ 字面是"投向下",为什么引申为"主题"和"使服从"?(提示:被扔到下面的就是被支配的;论题被"放在下面"作为讨论基础)
+2. `object` /ˈɑbdʒɛkt/ 字面是"投向对方",为什么既指"反对"又指"物体"?(提示:把东西抛到对方面前表示异议;被抛在面前供观察的东西)
+3. `trajectory` /trəˈdʒɛktəri/(弹道)怎么拆?为什么"投越"等于弹道?
 
 ---
 

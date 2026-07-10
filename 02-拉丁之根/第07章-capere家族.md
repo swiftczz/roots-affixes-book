@@ -6,7 +6,7 @@
 > **含义**:抓、取、拿、容纳、接收(to take, to seize, to hold, to receive)
 > **起源**:拉丁动词 ***capere***("取、抓、容纳")
 
-capere 家族是全书变体较多的词族之一——英语中常见 `cap/capt/cip/cept/ceiv` 等形态。它的家族成员很多:`capture`(捕获)、`receive`(接收)、`accept`(接受)、`concept`(概念)、`capable`(有能力的)、`except`(除外)、`perceive` /pərˈsiv/(察觉)、`deceive` /dɪˈsiv/(欺骗)……
+capere 家族是全书变体较多的词族之一——英语中常见 `cap/capt/cip/cept/ceiv` 等形态。它的家族成员很多:`capture` /ˈkæptʃər/(捕获)、`receive` /rəˈsiv/(接收)、`accept` /ækˈsɛpt/(接受)、`concept` /ˈkɑnsɛpt/(概念)、`capable` /ˈkeɪpəbəl/(有能力的)、`except`(除外)、`perceive` /pərˈsiv/(察觉)、`deceive` /dɪˈsiv/(欺骗)……
 
 学透这一根,就能成组理解一批高频词。它脸多,但不是五个词根开会,而是同一家族换了几套历史造型。
 
@@ -89,7 +89,7 @@ flowchart TD
 
 ## 【代表词深讲】四个词的故事
 
-### 词 1:`receive`(接收)
+### 词 1:`receive` /rəˈsiv/(接收)
 
 **拆解**:`re-`(回)+ `ceiv`(取)+ `-e`(动词后缀)= 取回
 
@@ -114,7 +114,7 @@ flowchart LR
 
 ---
 
-### 词 2:`concept`(概念)
+### 词 2:`concept` /ˈkɑnsɛpt/(概念)
 
 **历史构造**:拉丁 *concipere/conceptum*,由 `con-` 与 *capere* 词族构成,表示"取入、构想、孕育"。
 
@@ -138,7 +138,7 @@ flowchart LR
 
 ---
 
-### 词 3:`capable`(有能力的)
+### 词 3:`capable` /ˈkeɪpəbəl/(有能力的)
 
 **历史构形**:经法语和拉丁 *capabilis* 进入英语;*capabilis* 来自 *capere*(取、容纳)词族
 
@@ -146,7 +146,7 @@ flowchart LR
 
 `capable` 早期有"能够容纳、足以承受"等意义,后来发展为"有能力的"。现代学习时可以识别 `cap-` 与 `-able`,但它不是把现代英语单词 `cap` 临时接上 `-able` 造出的词。
 
-这个词的核心是 capere 的第二层义——**容量**。一个容器能装多少水,叫它的 `capacity`(容量);一个人能"装下"多少任务、能力,叫他 `capable`(有能力的)。
+这个词的核心是 capere 的第二层义——**容量**。一个容器能装多少水,叫它的 `capacity` /kəˈpæsəti/(容量);一个人能"装下"多少任务、能力,叫他 `capable`(有能力的)。
 
 ```mermaid
 flowchart LR
@@ -161,7 +161,7 @@ flowchart LR
 
 ---
 
-### 词 4:`perceive`(察觉)
+### 词 4:`perceive` /pərˈsiv/(察觉)
 
 **拆解**:`per-`(透过)+ `ceiv`(取)= 透过……取得
 
@@ -182,7 +182,7 @@ flowchart LR
 - `perceptive` /pərˈsɛptɪv/(敏锐的)
 - `imperceptible` /ˌɪmpərˈsɛptɪbəl/(难以察觉的)
 
-> **提示** **对照记忆**:`perceive`(察觉)vs `conceive` /kənˈsiv/(构思)vs `deceive`(欺骗)vs `receive`(接收)——四个 `-ceive` 兄弟,前缀不同,词义分明。
+> **提示** **对照记忆**:`perceive`(察觉)vs `conceive` /kənˈsiv/(构思)vs `deceive` /dɪˈsiv/(欺骗)vs `receive` /rəˈsiv/(接收)——四个 `-ceive` 兄弟,前缀不同,词义分明。
 
 ---
 
@@ -190,7 +190,7 @@ flowchart LR
 
 **答案:是,这是 capere 最让人意外的远房亲戚。**
 
-`catch`(抓住)和 `chase`(追逐)看起来完全是英语本土词,但其实它们**都来自 capere**,经过了一条漫长曲折的路:
+`catch` /kætʃ/(抓住)和 `chase` /tʃeɪs/(追逐)看起来完全是英语本土词,但其实它们**都来自 capere**,经过了一条漫长曲折的路:
 
 ```mermaid
 flowchart TD
@@ -200,7 +200,7 @@ flowchart TD
     branch --> R2["古法语 chacier(方言变体)<br/>→ 诺曼法语 cachier<br/>→ 英语 catch<br/>(抓住)"]
 ```
 
-所以 `catch`、`chase`、`capture`、`receive` **全都来自拉丁 capere**。一个拉丁动词,在两千年里走出了多种路线,在英语里留下了多个看似无关的子孙。
+所以 `catch`、`chase`、`capture` /ˈkæptʃər/、`receive` /rəˈsiv/ **全都来自拉丁 capere**。一个拉丁动词,在两千年里走出了多种路线,在英语里留下了多个看似无关的子孙。
 
 > **注意** **注意区分**:`catch` 和 `chase` 在英语里形式相似、义也相关(都是"抓"),但用法有别——`catch` 强调"抓住结果",`chase` 强调"追逐过程"。
 
@@ -212,19 +212,19 @@ flowchart TD
 
 | 词 | 拆解 | 推义 |
 | ---- | ------ | ------ |
-| `capture` | capt + -ure | 抓住 → 捕获 |
-| `capable` | 经拉丁 *capabilis* | 能容纳、足以承受 → 有能力的 |
-| `capacity` | cap + -acity | 能容纳的量 → 容量 |
-| `accept` | ac-(ad-)+ cept | 抓向自己 → 接受 |
+| `capture` /ˈkæptʃər/ | capt + -ure | 抓住 → 捕获 |
+| `capable` /ˈkeɪpəbəl/ | 经拉丁 *capabilis* | 能容纳、足以承受 → 有能力的 |
+| `capacity` /kəˈpæsəti/ | cap + -acity | 能容纳的量 → 容量 |
+| `accept` /ækˈsɛpt/ | ac-(ad-)+ cept | 抓向自己 → 接受 |
 | `except` | ex-(出)+ cept | 抓出去 → 除外 |
 | `intercept` /ˌɪntɚˈsɛpt/ | inter-(中间)+ cept | 中间抓住 → 拦截 |
-| `concept` | 拉丁 conceptum | 在心中构想 → 概念 |
-| `receive` | re-(回)+ ceiv + e | 取回 → 接收 |
-| `perceive` | per-(透过)+ ceiv + e | 透过抓住 → 察觉 |
-| `deceive` | de-(离开)+ ceiv + e | 抓走 → 欺骗 |
-| `conceive` | con-(共同)+ ceiv + e | 一起抓住 → 构思 |
+| `concept` /ˈkɑnsɛpt/ | 拉丁 conceptum | 在心中构想 → 概念 |
+| `receive` /rəˈsiv/ | re-(回)+ ceiv + e | 取回 → 接收 |
+| `perceive` /pərˈsiv/ | per-(透过)+ ceiv + e | 透过抓住 → 察觉 |
+| `deceive` /dɪˈsiv/ | de-(离开)+ ceiv + e | 抓走 → 欺骗 |
+| `conceive` /kənˈsiv/ | con-(共同)+ ceiv + e | 一起抓住 → 构思 |
 | `recipient` /rɪˈsɪpiənt/ | re- + cip + -ent | 取回者 → 接收者 |
-| `principal` | prin-(primus 第一)+ cip + -al | 抓第一 → 主要的 |
+| `principal` /ˈprɪnsəpəl/ | prin-(primus 第一)+ cip + -al | 抓第一 → 主要的 |
 
 ---
 
@@ -243,8 +243,8 @@ flowchart TD
 ### 【思考题】(答案见附录 A)
 
 1. `except`(除外)字面是"抓出去",为什么等于"除外"?(提示:把某物从整体里抓出去)
-2. `intercept`(拦截)字面是"中间抓住",为什么引申为拦截?(提示:东西在传递过程中被抓)
-3. `recipe`(食谱)和 `receive` 同根,为什么"取"变成了"食谱"?(提示:医生处方开头写"取下列药材")
+2. `intercept` /ˌɪntərˈsɛpt/(拦截)字面是"中间抓住",为什么引申为拦截?(提示:东西在传递过程中被抓)
+3. `recipe` /ˈrɛsəpi/(食谱)和 `receive` /rəˈsiv/ 同根,为什么"取"变成了"食谱"?(提示:医生处方开头写"取下列药材")
 
 ---
 

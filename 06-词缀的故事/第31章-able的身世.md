@@ -53,13 +53,13 @@ flowchart TD
 
 `-able` 最常做的事,是给动词**翻一面**——把"做"变成"被做",把"能去做的能力"变成"能被做的可能性"。可以这样想象:**每一个动词里,都暗藏着一个被动等待的形容词,平时是潜伏状态;`-able` 一盖,它就被激活,显形成"能被……的"。**
 
-`read`(读)被盖一下,显出 `readable`(能被读的);`solve`(解决)被盖一下,显出 `solvable` /ˈsɑlvəbəl/(能被解决的)。核心语义是**"能被这个动作作用的"**——也就是**被动可能性**:
+`read`(读)被盖一下,显出 `readable` /ˈridəbəl/(能被读的);`solve` /sɑlv/(解决)被盖一下,显出 `solvable` /ˈsɑlvəbəl/(能被解决的)。核心语义是**"能被这个动作作用的"**——也就是**被动可能性**:
 
 | 动词 | 词基 + able | 形容词 | 释义 |
 | ------ | ------ | ------ | ------ |
 | `read`(读) | `read + able` | `readable` | 能被读的 |
-| `drink`(喝) | `drink + able` | `drinkable` | 能被喝的 |
-| `predict`(预测) | `predict + able` | `predictable` | 能被预测的 |
+| `drink`(喝) | `drink + able` | `drinkable` /ˈdrɪnkəbəl/ | 能被喝的 |
+| `predict` /prɪˈdɪkt/(预测) | `predict + able` | `predictable` /prɪˈdɪktəbəl/ | 能被预测的 |
 | `solve`(解决) | `solve + able` | `solvable` | 能被解决的 |
 | `love`(爱) | `love + able` | `lovable` /ˈlʌvəbəl/ | 能被爱的 |
 | `pay`(付) | `pay + able` | `payable` /ˈpeɪəbəl/ | 可支付的 |
@@ -70,9 +70,9 @@ flowchart TD
 
 | 语义类型 | 形容词 | 释义 |
 | ------ | ------ | ------ |
-| 被动义(大多数) | `readable` | 能被读的 |
-| 被动义(大多数) | `drinkable` | 能被喝的 |
-| 主动义(少数) | `comfortable` | 令人舒适的(能给人舒适) |
+| 被动义(大多数) | `readable` /ˈridəbəl/ | 能被读的 |
+| 被动义(大多数) | `drinkable` /ˈdrɪnkəbəl/ | 能被喝的 |
+| 主动义(少数) | `comfortable` /ˈkʌmfərtəbəl/ | 令人舒适的(能给人舒适) |
 | 主动义(少数) | `agreeable` /əˈɡriəbəl/ | 令人愉快的 |
 | 主动义(少数) | `changeable` /ˈtʃeɪndʒəbəl/ | 易变的(自己变) |
 
@@ -86,19 +86,19 @@ flowchart TD
 
 | 动词 | 形容词 |
 | ------ | ------ |
-| `read` | `readable` |
-| `predict` | `predictable` |
-| `avoid` | `avoidable` /əˈvɔɪdəbəl/ |
-| `accept` | `acceptable` |
+| `read` | `readable` /ˈridəbəl/ |
+| `predict` /prɪˈdɪkt/ | `predictable` /prɪˈdɪktəbəl/ |
+| `avoid` /əˈvɔɪd/ | `avoidable` /əˈvɔɪdəbəl/ |
+| `accept` /ækˈsɛpt/ | `acceptable` /ækˈsɛptəbəl/ |
 | `adore` | `adorable` /əˈdɔrəbəl/ |
-| `compare` | `comparable` /ˈkɑmpərəbəl/ |
+| `compare` /kəmˈpɛr/ | `comparable` /ˈkɑmpərəbəl/ |
 
 **前面再叠一层 `un-`,否定直接翻倍**:
 
 | 拆分 | 形容词 | 释义 |
 | ------ | ------ | ------ |
 | `un + read + able` | `unreadable` /ʌnˈridəbəl/ | 不可读的 |
-| `un + believ + able` | `unbelievable` | 难以置信的 |
+| `un + believ + able` | `unbelievable` /ˌʌnbəˈlivəbəl/ | 难以置信的 |
 | `un + avoid + able` | `unavoidable` /ˌʌnəˈvɔɪdəbəl/ | 不可避免的 |
 | `un + accept + able` | `unacceptable` /ˌʌnəkˈsɛptəbəl/ | 不可接受的 |
 
@@ -114,7 +114,7 @@ flowchart TD
 
 ### 用法 1:`-able` 表示"倾向、特性"
 
-有些 `-able` 词不强调"能被做",而是形容主语**天生爱干某事**——比如 `changeable`(易变的),说的是它自己老变,不是"能被变":
+有些 `-able` 词不强调"能被做",而是形容主语**天生爱干某事**——比如 `changeable` /ˈtʃeɪndʒəbəl/(易变的),说的是它自己老变,不是"能被变":
 
 | 词基 + able | 形容词 | 释义 |
 | ------ | ------ | ------ |
@@ -129,11 +129,11 @@ flowchart TD
 
 | 词基 + able | 形容词 | 释义 |
 | ------ | ------ | ------ |
-| `remark + able` | `remarkable` | 值得注意的 |
+| `remark + able` | `remarkable` /rɪˈmɑrkəbəl/ | 值得注意的 |
 | `notice + able` | `noticeable` /ˈnoʊtɪsəbəl/ | 值得注意的 |
 | `lament + able` | `lamentable` /ˈlæməntəbəl/ | 可悲的 |
 
-这里有个反差萌:**`remarkable`(非凡的)= 值得被谈论的**。`remark` 是"谈论、评论",`-able` 一盖,就是"值得被评论的"。所以一个 `remarkable` 的人,本意不过是"值得大家谈论的人"——能让人津津乐道,自然就非凡了。
+这里有个反差萌:**`remarkable`(非凡的)= 值得被谈论的**。`remark` /rɪˈmɑrk/ 是"谈论、评论",`-able` 一盖,就是"值得被评论的"。所以一个 `remarkable` 的人,本意不过是"值得大家谈论的人"——能让人津津乐道,自然就非凡了。
 
 ### 用法 3:`-able` 加在名词后(罕见但存在)
 
@@ -153,7 +153,7 @@ flowchart TD
 
 | 复合后缀 | 词基 + 后缀 | 结果 | 词性/用途 |
 | ------ | ------ | ------ | ------ |
-| `-ability` | `able + ity` | `ability` | 名词(能力) |
+| `-ability` | `able + ity` | `ability` /əˈbɪləˌti/ | 名词(能力) |
 | `-ability` | `read + ability` | `readability` /ˌridəˈbɪləti/ | 名词(可读性) |
 | `-ability` | `pay + ability` | `payability` | 名词(可支付性) |
 | `-ability` | `port + ability` | `portability` /ˌpɔrtəˈbɪləti/ | 名词(可移植性) |
@@ -170,7 +170,7 @@ flowchart TD
 
 讲到最后,留几个最能体现语义漂移的好故事。这些词的今天和它们的出生时,几乎是两个世界。
 
-### `comfortable`(舒适的)
+### `comfortable` /ˈkʌmfərtəbəl/(舒适的)
 
 `comfortable` 是语义漂移界的经典案例。它来自拉丁 ***comfortare***,字面意思是"**大力加强、加固**"——对,你没听错,你屁股底下那张柔软的沙发,祖先竟然是给城墙加固的。它经古法语 *conforter* 进入英语,本义是"**被强化的、铁壁铜墙的**"。
 
@@ -193,7 +193,7 @@ flowchart TD
     ENG -.今天.-> NEW["非常悲惨的"]
 ```
 
-### `horrible`(可怕的)vs `horrid` /ˈhɔrɪd/(恐怖的)
+### `horrible` /ˈhɔrəbəl/(可怕的)vs `horrid` /ˈhɔrɪd/(恐怖的)
 
 这两个词是一对**失散多年的兄弟**,共同的父亲是拉丁 ***horrere***——"**发抖、毛骨悚然**"。`horrible` 走的是 `horribilis`(`-ibilis` 那条线)的形容词路线,最终长成"可怕的";`horrid` 则从 `horridus` 那边出来,本义偏"粗糙、令人毛骨悚然"。哥俩同根而生,长大后长相有别、性格也略有不同,但你一听就知道是一家人——那种让人脊背发凉的感觉,他们都从父亲那里继承了。
 
@@ -213,8 +213,8 @@ flowchart TD
 
 | 后缀 | 语义 | 例词 |
 | ------ | ------ | ------ |
-| `-able` | 能被……的(被动可能性) | `readable`(能被读的)、`lovable`(能被爱的) |
-| `-ive` | 有……倾向的(主动特性) | `active`(有行动力的)、`creative`(有创造力的)、`talkative` /ˈtɔkətɪv/(爱说话的) |
+| `-able` | 能被……的(被动可能性) | `readable` /ˈridəbəl/(能被读的)、`lovable` /ˈlʌvəbəl/(能被爱的) |
+| `-ive` | 有……倾向的(主动特性) | `active` /ˈæktɪv/(有行动力的)、`creative` /kriˈeɪtɪv/(有创造力的)、`talkative` /ˈtɔkətɪv/(爱说话的) |
 
 一句话对照:**`-able` 管的是"能不能被做成",`-ive` 管的是"天生爱不爱干"**。前者是被动的能力,后者是主动的脾气。
 
@@ -223,8 +223,8 @@ flowchart TD
 ## 31.8 本章小结
 
 1. **`-able` 来自拉丁 -abilis,`-ible` 来自 -ibilis**——一对孪生兄弟,祖上同源,性格迥异:`-able` 开放外向、四处接活,`-ible` 封闭内敛、守着祖传名单。
-2. **`-able` 的核心义:"能被……的"**——多数情况是把动词翻成被动可能性(`readable` = 能被读)。每一个动词里,都蹲着一个隐形的被动形容词,`-able` 一盖就显形。
-3. **`-able` + `un-` = "不可……"**——这套三件套是英语最高频的否定形容词生产线,`unbelievable`、`unacceptable` 都是它的产品。
+2. **`-able` 的核心义:"能被……的"**——多数情况是把动词翻成被动可能性(`readable` /ˈridəbəl/ = 能被读)。每一个动词里,都蹲着一个隐形的被动形容词,`-able` 一盖就显形。
+3. **`-able` + `un-` = "不可……"**——这套三件套是英语最高频的否定形容词生产线,`unbelievable` /ˌʌnbəˈlivəbəl/、`unacceptable` /ˌʌnækˈsɛptəbəl/ 都是它的产品。
 
 ### 记忆锚点
 
@@ -237,17 +237,17 @@ flowchart TD
 劳模虽能干,也有不接的活——以下几个坑,专治"万物皆可 -able"：
 
 - **`-able` 爱接活,不等于来者不拒**。它比 `-ible` 开放得多,但你随手造的 `sleepable` 不一定有人买账。能不能成词,最终还是英语社区说了算。
-- **`-ible` 的拼写没有万能口诀**。它守着一份祖传名单,`visible`、`flexible`、`credible` /ˈkrɛdəbəl/……试图靠一条规则搞定所有,通常会收到几个例外寄来的投诉信。老老实实逐词记,反而最快。
-- **大多数 `-able` 词是被动,但少数会"叛变"**。`comfortable` 不是"能被舒适的",而是"令人舒适的"——盖章盖反了,自己动起来了。遇到具体词,结合用法判断,别只看后缀。
+- **`-ible` 的拼写没有万能口诀**。它守着一份祖传名单,`visible` /ˈvɪzəbəl/、`flexible`、`credible` /ˈkrɛdəbəl/……试图靠一条规则搞定所有,通常会收到几个例外寄来的投诉信。老老实实逐词记,反而最快。
+- **大多数 `-able` 词是被动,但少数会"叛变"**。`comfortable` /ˈkʌmfərtəbəl/ 不是"能被舒适的",而是"令人舒适的"——盖章盖反了,自己动起来了。遇到具体词,结合用法判断,别只看后缀。
 - **`-ability` 不能无限套公式**。`readable → readability` 很顺,但并非每个 `-able` 词都有对应名词,`capable → capability` 还夹着词干变化。想当然地补货,英语仓库不一定有存。
 
 ---
 
 ### 【思考题】(答案见附录 A)
 
-1. `readable`(可读的)字面是"能被读的",想想要满足什么条件一本书才 readable?
-2. 为什么 `unbelievable`(难以置信的)是 un + believ + able 的结构?(提示:否定 + 能 + 被信)
-3. `remarkable`(非凡的)字面是"值得谈论的",为什么这个意思引申为"非凡"?
+1. `readable` /ˈridəbəl/(可读的)字面是"能被读的",想想要满足什么条件一本书才 readable?
+2. 为什么 `unbelievable` /ˌʌnbəˈlivəbəl/(难以置信的)是 un + believ + able 的结构?(提示:否定 + 能 + 被信)
+3. `remarkable` /rɪˈmɑrkəbəl/(非凡的)字面是"值得谈论的",为什么这个意思引申为"非凡"?
 
 ---
 

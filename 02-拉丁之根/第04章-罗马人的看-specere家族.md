@@ -8,7 +8,7 @@
 
 这是全书第一个完整展开的词根家族,也是**最值得花时间学的一条**。原因有两个:
 
-1. **它的高频词极多**:`inspect` /ɪnˈspɛkt/、`respect`、`suspect` /səˈspɛkt/、`spectator` /ˈspɛkteɪtər/、`spectacle` /ˈspɛktəkəl/、`aspect`、`perspective` /pərˈspɛktɪv/、`introspection` /ˌɪntrəˈspɛkʃən/……每一个都是学术英语的核心词。
+1. **它的高频词极多**:`inspect` /ɪnˈspɛkt/、`respect`、`suspect` /səˈspɛkt/、`spectator` /ˈspɛkteɪtər/、`spectacle` /ˈspɛktəkəl/、`aspect` /ˈæˌspɛkt/、`perspective` /pərˈspɛktɪv/、`introspection` /ˌɪntrəˈspɛkʃən/……每一个都是学术英语的核心词。
 2. **它和英语本土的 `see` 占据同一片语义区**——两套"看"很适合对照记忆(至于它俩更早是不是亲戚,这事学界还没吵完,后面"词源辨正"再聊)。
 
 ---
@@ -36,7 +36,7 @@ flowchart TD
 > 拉丁 *specere* 与希腊 *skopein* 常被联系到表示观察的印欧语词族:
 >
 > - **拉丁 specere** → 英语 `spect` 家族(本书重点)
-> - **希腊 skopein**(看)→ 英语 `scope` 家族(telescope, microscope)
+> - **希腊 skopein**(看)→ 英语 `scope` /skoʊp/ 家族(telescope, microscope)
 > - **日耳曼 see** → 古英语 *sēon* → 英语 `see`;其更早词源与 *spek- 的关系存在争议
 >
 > 因此 `spect` 与 `scope` 可作历史亲缘比较;`see` 只能作为语义上的本族对应词,不应在争议未决时断言三者必定同根。
@@ -52,7 +52,7 @@ flowchart TD
 | `spic-` | 拉丁复合词的弱化形式 | suspicion /səˈspɪʃən/, auspice /ˈɔspɪs/, conspicuous /kənˈspɪkjuəs/ |
 | `speci-` | 来自 species(外观) | species, special |
 
-> **小提示**:`inspect`、`expect` 这些词在现代英语里的意思(检查、期待)是经过漫长语义漂移的,不是"已经被看/已经被期待"的简单直译。别拿拆字公式去套现代词义,会漏掉中间两千年。
+> **小提示**:`inspect` /ˌɪnˈspɛkt/、`expect` 这些词在现代英语里的意思(检查、期待)是经过漫长语义漂移的,不是"已经被看/已经被期待"的简单直译。别拿拆字公式去套现代词义,会漏掉中间两千年。
 
 **记忆口诀**:**看到 `spec/spic/spect/speci`,都是"看"**。不要被四种拼写吓到,核心义只有一个。
 
@@ -123,7 +123,7 @@ flowchart LR
 
 ---
 
-### 词 2:`inspect`(检查)
+### 词 2:`inspect` /ˌɪnˈspɛkt/(检查)
 
 **拆解**:`in-`(向内)+ `spect`(看) = 向内看
 
@@ -141,7 +141,7 @@ flowchart LR
 
 ---
 
-### 词 3:`suspect`(怀疑)
+### 词 3:`suspect` /səˈspɛkt/(怀疑)
 
 **历史构形**:`sub-`(从下、向上)+ `specere`(看),形成拉丁 *suspicere*(向上看、注意、怀疑)
 
@@ -161,12 +161,12 @@ flowchart LR
 
 - `suspect` (动词 /səˈspekt/):怀疑
 - `suspect` (名词 /ˈsʌspekt/):嫌疑犯(被怀疑的人)
-- `suspicion`(名词):怀疑
+- `suspicion` /səˈspɪʃən/(名词):怀疑
 - `suspicious` /səˈspɪʃəs/(形容词):可疑的
 
 ---
 
-### 词 4:`introspection`(内省)
+### 词 4:`introspection` /ˌɪntrəˈspɛkʃən/(内省)
 
 **拆解**:`intro-`(向内)+ `spect`(看)+ `-ion`(名词后缀) = 向内看
 
@@ -178,7 +178,7 @@ flowchart LR
 
 > **三个"向某方向看"的对照**:
 >
-> - `inspect`(向内看 → 检查外部事物)
+> - `inspect` /ˌɪnˈspɛkt/(向内看 → 检查外部事物)
 > - `introspect` /ˈɪntrəˌspɛkt/(向内看 → 检查内心)
 > - `retrospect` /ˈrɛtrəˌspɛkt/(向后看 → 回顾)
 >
@@ -194,9 +194,9 @@ flowchart LR
 
 ### 词形怎么拆
 
-**`auspice`**:`avi-`(鸟)+ `specere`(看)= **看鸟**。
-**`auspicious`**:"看鸟看出好兆头的" → 吉利的。
-**`augur`**:占卜官,专司观鸟。
+**`auspice` /ˈɔspɪs/**:`avi-`(鸟)+ `specere`(看)= **看鸟**。
+**`auspicious` /ɑˈspɪʃəs/**:"看鸟看出好兆头的" → 吉利的。
+**`augur` /ˈɔɡər/**:占卜官,专司观鸟。
 **`inaugurate` /ɪˈnɔɡjəreɪt/**:占卜官正式就位 → 就职典礼。
 
 别被 `au-` 这个前缀骗了。它不是"金"(那是 *aurum*)的缩写,而是 `avis`(鸟)被时光啃掉了 v。所以 **auspice 的字面意思,就是"观鸟"**。
@@ -228,9 +228,9 @@ Pulcher 怎么反应?他勃然大怒,抓起一只神鸡,当众把它扔进了海
 
 这个故事沉淀下来的,是两个高频词:
 
-- **`auspice`**(赞助、庇护):今天说"under the auspices of UNESCO"(在联合国教科文组织的赞助下),字面是"在……的吉兆之下"——本来是"在某次占卜的吉利征兆下办事",现在泛指"在……的支持下"。
-- **`auspicious`**(吉利的):"an auspicious start"(一个吉利的开端)——直译就是"神鸡吃得很香的那个开头"。
-- **`inaugurate`**(就职):*augur* 占卜官正式就位、为新城奠基、为新官主持仪式 → 今天美国总统的就职典礼还叫 *inauguration*。
+- **`auspice` /ˈɔspɪs/**(赞助、庇护):今天说"under the auspices of UNESCO"(在联合国教科文组织的赞助下),字面是"在……的吉兆之下"——本来是"在某次占卜的吉利征兆下办事",现在泛指"在……的支持下"。
+- **`auspicious` /ɑˈspɪʃəs/**(吉利的):"an auspicious start"(一个吉利的开端)——直译就是"神鸡吃得很香的那个开头"。
+- **`inaugurate` /ɪˈnɔɡjəreɪt/**(就职):*augur* 占卜官正式就位、为新城奠基、为新官主持仪式 → 今天美国总统的就职典礼还叫 *inauguration*。
 
 ```mermaid
 flowchart LR
@@ -248,7 +248,7 @@ flowchart LR
 
 `spec-` 家族另一条巨型血脉,不在庙堂,而在**斗兽场**。
 
-**拆解**:`spectacle` = `spect`(看)+ `-acle`(值得……的东西)= **值得一看的东西**。`spectator` = `spect` + `-ator`(专门干这事的人)= **专门来看的人**。
+**拆解**:`spectacle` /ˈspɛktəkəl/ = `spect`(看)+ `-acle`(值得……的东西)= **值得一看的东西**。`spectator` /ˈspɛkteɪtər/ = `spect` + `-ator`(专门干这事的人)= **专门来看的人**。
 
 公元 80 年,弗拉维圆形剧场——也就是我们今天叫的**罗马斗兽场(Colosseum)**——落成,提图斯皇帝办了**一百天的开幕庆典**。期间杀掉的野兽,光记录在案就有 **九千头**;角斗士成对厮杀,死伤无数。五万个座位的椭圆形看台挤得满满当当——这五万人,每一个都是 `spectator`(观众)。场地中央血腥的厮杀场面,每一个都是 `spectacle`(奇观)。
 
@@ -280,7 +280,7 @@ flowchart LR
 
  **稳妥的说法**:两者都是"看",但**不能确认同根**。我会把它们当作"语义同源",而非"词源同根"来处理。
 
-> **民间说法**:`spect` 和 `spy`(间谍)同根——这是**部分正确**。`spy` 是英语经**古法语 *espier*(窥探)**借入的,而 *espier* 上溯到日耳曼语 *spehōn*,再往上和拉丁 *specere* 一样,归到同一个原始印欧语 *spek-(观察)。所以 `spy` 和 `spect` 走的是两条不同的路,却**同出一个远祖**,确实是远房亲戚——只是别把 spy 想象成从古英语一路直接长出来的。
+> **民间说法**:`spect` 和 `spy` /spaɪ/(间谍)同根——这是**部分正确**。`spy` 是英语经**古法语 *espier*(窥探)**借入的,而 *espier* 上溯到日耳曼语 *spehōn*,再往上和拉丁 *specere* 一样,归到同一个原始印欧语 *spek-(观察)。所以 `spy` 和 `spect` 走的是两条不同的路,却**同出一个远祖**,确实是远房亲戚——只是别把 spy 想象成从古英语一路直接长出来的。
 
 ---
 
@@ -290,16 +290,16 @@ flowchart LR
 
 | 词 | 拆解 | 推义 |
 | ---- | ------ | ------ |
-| `inspect` | in- + spect | 向内看 → 检查 |
+| `inspect` /ˌɪnˈspɛkt/ | in- + spect | 向内看 → 检查 |
 | `respect` | re- + spect | 回头看 → 尊重 |
-| `suspect` | sub- + spect | 从下看 → 怀疑 |
+| `suspect` /səˈspɛkt/ | sub- + spect | 从下看 → 怀疑 |
 | `expect` | ex- + spect | 向外看 → 期待(向外张望等待) |
-| `aspect` | a- + spect | 朝着看 → 方面 |
-| `perspective` | per- + spect + -ive | 透过看 → 视角 |
-| `introspection` | intro- + spect + -ion | 向内看 → 内省 |
+| `aspect` /ˈæˌspɛkt/ | a- + spect | 朝着看 → 方面 |
+| `perspective` /pərˈspɛktɪv/ | per- + spect + -ive | 透过看 → 视角 |
+| `introspection` /ˌɪntrəˈspɛkʃən/ | intro- + spect + -ion | 向内看 → 内省 |
 | `retrospective` /ˌrɛtrəˈspɛktɪv/ | retro- + spect + -ive | 向后看 → 回顾的 |
-| `spectator` | spect + -ator | 看的人 → 观众 |
-| `spectacle` | spect + -acle | 值得看的 → 奇观 |
+| `spectator` /ˈspɛkteɪtər/ | spect + -ator | 看的人 → 观众 |
+| `spectacle` /ˈspɛktəkəl/ | spect + -acle | 值得看的 → 奇观 |
 | `circumspect` /ˈsɝkəmˌspɛkt/ | circum- + spect | 环顾看 → 谨慎的 |
 | `prospect` /ˈprɑspɛkt/ | pro- + spect | 向前看 → 前景 |
 
@@ -321,7 +321,7 @@ flowchart LR
 - **`see` 和 `spect` 是否同根,学界尚无定论**。`spect` 经拉丁 specere ← 原始印欧语 *spek-;`see` 经古英语 *sēon* ← *sek-。*spek- 与 *sek- 是否本就同一个更古老的根,有人赞成有人反对。本书把它们当作"语义同源"而非"词源同根"来处理。
 - **观神鸡、德里帕那海战、扔鸡入海是真的,但细节有版本差异**。西塞罗、老普林尼、苏维托尼乌斯、卡西乌斯·狄奥都有记载,但"原话怎么说的""扔了几只"各版本略有出入。"Bellum gerant, bibant!" 这一更狠的版本,部分学者认为是后人的演绎。
 - **斗兽场开幕"九千头野兽""庆典一百天"出自古代文献**,古人的统计向来爱凑整,数字本身不必当成精确计量。
-- **`suspect` 的"从下面偷看 → 怀疑"是可靠的词源脉络**,但"奴隶偷看主人"这一具体画面是罗马作家笔下的经典意象,属于 *(传说)* 级别的助记场景,不是某条词典定义。
+- **`suspect` /səˈspɛkt/ 的"从下面偷看 → 怀疑"是可靠的词源脉络**,但"奴隶偷看主人"这一具体画面是罗马作家笔下的经典意象,属于 *(传说)* 级别的助记场景,不是某条词典定义。
 - **auspice / inaugurate 之间确有词源联系**(都从观鸟占卜而来),但 augur 一词的更早来源在学界仍有不同说法,本书取主流观点。
 
 ---
@@ -341,8 +341,8 @@ flowchart LR
 ### 思考题(答案见附录 A)
 
 1. 拆解 `expect`(期待):它怎么从"向外看"变成"期待"的?(提示:向外张望、等待某人或某事)
-2. 拆解 `circumspect`(谨慎的):为什么"四面环顾看"等于"谨慎"?
-3. 思考:`spectacular`(壮观的)的 `spect` + `-acle` + `-ar`,字面义是什么?
+2. 拆解 `circumspect` /ˈsɜrkəmˌspɛkt/(谨慎的):为什么"四面环顾看"等于"谨慎"?
+3. 思考:`spectacular` /spɛkˈtækjələr/(壮观的)的 `spect` + `-acle` + `-ar`,字面义是什么?
 
 ---
 

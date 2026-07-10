@@ -27,13 +27,13 @@ flowchart TD
     C["人"] --> D
 ```
 
-这个"一起"的画面一旦建立,很多看似无关的词忽然就眉目清楚了:`connect` 是把两段东西**系到一起**,`combine` 是让两样**成双凑一对**,`cooperate` /koʊˈɑpəˌreɪt/ 是几个伙计**一块儿干活**。最妙的是,你能从字面里直接读出动作的味道——
+这个"一起"的画面一旦建立,很多看似无关的词忽然就眉目清楚了:`connect` /kəˈnɛkt/ 是把两段东西**系到一起**,`combine` /ˈkɑmbaɪn/ 是让两样**成双凑一对**,`cooperate` /koʊˈɑpəˌreɪt/ 是几个伙计**一块儿干活**。最妙的是,你能从字面里直接读出动作的味道——
 
 | 词 | 拆解 | 推义 |
 | ------ | ------ | ------ |
 | `connect` | `con` + `nect`(系) | 系在一起 |
 | `combine` | `com` + `bini`(成双) | 成双合在一起 |
-| `communicate` | `com` + `mun`(共享)+ `ate` | 共同分享 |
+| `communicate` /kəˈmjunəˌkeɪt/ | `com` + `mun`(共享)+ `ate` | 共同分享 |
 | `cooperate` | `co` + `oper`(工作)+ `ate` | 共同工作 |
 
 > **公式**:`con-`(共同) + 词根 = "一起做某事"
@@ -64,10 +64,10 @@ flowchart TD
 
 | 词 | 拆解 | 推义 |
 | ------ | ------ | ------ |
-| `combine` | com + bini 成双 | 结合 |
-| `combat` | com + bat 打 | 战斗(一起打 = 战斗) |
-| `compose` | com + pose 放 | 组成(放在一起) |
-| `commit` | com + mit 送 | 承诺(送出自己) |
+| `combine` /ˈkɑmbaɪn/ | com + bini 成双 | 结合 |
+| `combat` /ˈkɑmbæt/ | com + bat 打 | 战斗(一起打 = 战斗) |
+| `compose` /kəmˈpoʊz/ | com + pose 放 | 组成(放在一起) |
+| `commit` /kəˈmɪt/ | com + mit 送 | 承诺(送出自己) |
 | `compress` /kəmˈprɛs/ | com + press 压 | 压缩 |
 | `compassion` /kəmˈpæʃən/ | com + pass 感受 | 同情(共同感受) |
 
@@ -75,9 +75,9 @@ flowchart TD
 
 | 词 | 拆解 | 推义 |
 | ------ | ------ | ------ |
-| `collaborate` | col + labor 劳动 | 合作 |
-| `collapse` | col + lapse 滑 | 倒塌 |
-| `collect` | col + lect 选 | 收集 |
+| `collaborate` /kəˈlæbərˌeɪt/ | col + labor 劳动 | 合作 |
+| `collapse` /kəˈlæps/ | col + lapse 滑 | 倒塌 |
+| `collect` /kəˈlɛkt/ | col + lect 选 | 收集 |
 | `collide` /kəˈlaɪd/ | col + lid 撞 | 碰撞 |
 | `colloquial` /kəˈloʊkwiəl/ | col + loqu 说 | 口语的 |
 
@@ -85,9 +85,9 @@ flowchart TD
 
 | 词 | 拆解 | 推义 |
 | ------ | ------ | ------ |
-| `correct` | cor + rect 直 | 正确(使变直) |
-| `correlate` | cor + relate 关系 | 相关 |
-| `corrupt` | cor + rupt 破 | 彻底破坏、败坏 |
+| `correct` /kərˈɛkt/ | cor + rect 直 | 正确(使变直) |
+| `correlate` /ˈkɔrəˌleɪt/ | cor + relate 关系 | 相关 |
+| `corrupt` /kərˈʌpt/ | cor + rupt 破 | 彻底破坏、败坏 |
 | `correspond` /ˌkɔrəˈspɑnd/ | cor + respond 回应 | 通信/对应 |
 | `corroborate` /kəˈrɑbəˌreɪt/ | cor + robor 强 | 证实(加强) |
 
@@ -95,7 +95,7 @@ flowchart TD
 
 | 词 | 拆解 | 推义 |
 | ------ | ------ | ------ |
-| `cooperate` | co + oper 工作 | 合作 |
+| `cooperate` /koʊˈɑpərˌeɪt/ | co + oper 工作 | 合作 |
 | `coexist` /ˌkoʊɪɡˈzɪst/ | co + exist 存在 | 共存 |
 | `cohabit` /koʊˈhæbɪt/ | co + habit 居住 | 同居 |
 | `coordinate` /koʊˈɔrdəˌneɪt/ | co + ordin 顺序 | 协调 |
@@ -105,12 +105,12 @@ flowchart TD
 
 | 词 | 拆解 | 推义 |
 | ------ | ------ | ------ |
-| `connect` | con + nect 系 | 连接 |
-| `conflict` | con + flict 撞 | 冲突(一起撞) |
-| `confirm` | con + firm 坚 | 确认 |
-| `contest` | con + test 证 | 竞赛(一起作证) |
+| `connect` /kəˈnɛkt/ | con + nect 系 | 连接 |
+| `conflict` /ˈkɑnflɪkt/ | con + flict 撞 | 冲突(一起撞) |
+| `confirm` /kənˈfɜrm/ | con + firm 坚 | 确认 |
+| `contest` /ˈkɑntɛst/ | con + test 证 | 竞赛(一起作证) |
 | `convene` /kənˈvin/ | con + ven 来 | 集合(一起来) |
-| `consent` | con + sent 感觉 | 同意(共同感觉) |
+| `consent` /kənˈsɛnt/ | con + sent 感觉 | 同意(共同感觉) |
 
 ---
 
@@ -121,7 +121,7 @@ flowchart TD
 | 词 | 拆解 | 共同义? | 加强义 → 推义 |
 | ------ | ------ | ------ | ------ |
 | `confection` /kənˈfɛkʃən/ | con + fect(做) | 不是"一起做",而是"做得充分" | → 精致的糖果 |
-| `consume` | con + sum(取) | 不是"一起取",而是"完全取" | → 完全用掉 |
+| `consume` /kənˈsum/ | con + sum(取) | 不是"一起取",而是"完全取" | → 完全用掉 |
 | `confute` | con + fute(倒) | 不是"一起倒",而是"彻底倒" | → 彻底驳倒 |
 
 ---
@@ -130,7 +130,7 @@ flowchart TD
 
 这一节是 `com-` 家族里最有画面感的故事。
 
-`covenant`(契约、圣约)来自古法语 *covenant*,再往上追是拉丁 *convenire*——字面就是"**一起来、走到一起**",和 `convene`(集合)是同根亲兄弟。一份契约的最初画面,不是签字盖章,而是**两个人面对面走到一起,谈拢**。
+`covenant`(契约、圣约)来自古法语 *covenant*,再往上追是拉丁 *convenire*——字面就是"**一起来、走到一起**",和 `convene` /kənˈvin/(集合)是同根亲兄弟。一份契约的最初画面,不是签字盖章,而是**两个人面对面走到一起,谈拢**。
 
 ```mermaid
 flowchart TD
@@ -155,18 +155,18 @@ flowchart TD
 
 | 词 | 拆解 | 推义 |
 | ---- | ------ | ------ |
-| `combine` | com + bine | 成双 → 结合 |
-| `compose` | com + pose | 放一起 → 组成 |
-| `collaborate` | col + labor | 一起劳动 → 合作 |
-| `collect` | col + lect | 选一起 → 收集 |
-| `correct` | cor + rect | 使变直 → 正确 |
-| `corrupt` | cor- + rupt | 强化 + 破坏 → 彻底败坏、腐败 |
-| `cooperate` | co + oper | 一起工作 → 合作 |
-| `connect` | con + nect | 系一起 → 连接 |
-| `conflict` | con + flict | 一起撞 → 冲突 |
-| `consent` | con + sent | 共同感觉 → 同意 |
-| `convene` | con + ven | 一起来 → 集合 |
-| `compassion` | com + pass | 共同感受 → 同情 |
+| `combine` /ˈkɑmbaɪn/ | com + bine | 成双 → 结合 |
+| `compose` /kəmˈpoʊz/ | com + pose | 放一起 → 组成 |
+| `collaborate` /kəˈlæbərˌeɪt/ | col + labor | 一起劳动 → 合作 |
+| `collect` /kəˈlɛkt/ | col + lect | 选一起 → 收集 |
+| `correct` /kərˈɛkt/ | cor + rect | 使变直 → 正确 |
+| `corrupt` /kərˈʌpt/ | cor- + rupt | 强化 + 破坏 → 彻底败坏、腐败 |
+| `cooperate` /koʊˈɑpərˌeɪt/ | co + oper | 一起工作 → 合作 |
+| `connect` /kəˈnɛkt/ | con + nect | 系一起 → 连接 |
+| `conflict` /ˈkɑnflɪkt/ | con + flict | 一起撞 → 冲突 |
+| `consent` /kənˈsɛnt/ | con + sent | 共同感觉 → 同意 |
+| `convene` /kənˈvin/ | con + ven | 一起来 → 集合 |
+| `compassion` /kəmˈpæʃən/ | com + pass | 共同感受 → 同情 |
 
 ---
 
@@ -187,17 +187,17 @@ flowchart TD
 五张脸认全了,别急着到处认亲——以下几个坑,专治"见字母就归队"：
 
 - **五种同化形是拉丁旧衣裳,不是现场裁缝活**。`col-`、`cor-` 是拉丁语定型的成品,英语照搬进来的,不需要你对着新词当场改拼写。
-- **不是所有 com/con/col/cor/co 开头的词都属这个家族**。`cone`（圆锥）里的 `con` 跟"共同"毫无关系——认亲之前先查家谱,别只看门牌号。
-- **`con-` 的"加强"用法是看出来的,不是算出来的**。如果"共同 + 词根"讲不通（`consume` ≠ 一起取）,那它多半是在给词根喊"使劲！彻底！"。
-- **`consent` 字面"共同感觉"很浪漫,但现代 `informed consent` 是法律术语**——核心是知情后自愿同意,不是两个人心有灵犀。
+- **不是所有 com/con/col/cor/co 开头的词都属这个家族**。`cone` /koʊn/（圆锥）里的 `con` 跟"共同"毫无关系——认亲之前先查家谱,别只看门牌号。
+- **`con-` 的"加强"用法是看出来的,不是算出来的**。如果"共同 + 词根"讲不通（`consume` /kənˈsum/ ≠ 一起取）,那它多半是在给词根喊"使劲！彻底！"。
+- **`consent` /kənˈsɛnt/ 字面"共同感觉"很浪漫,但现代 `informed consent` 是法律术语**——核心是知情后自愿同意,不是两个人心有灵犀。
 
 ---
 
 ### 【思考题】(答案见附录 A)
 
-1. `compassion`(同情)字面是"共同感受",想想为什么"共感"等于同情?
-2. `consent`(同意)字面是"共同感觉",为什么"共感"引申为"同意"?
-3. `corrupt` 中的 `cor-` 为什么应理解为强化形式,而不是"一起"?
+1. `compassion` /kəmˈpæʃən/(同情)字面是"共同感受",想想为什么"共感"等于同情?
+2. `consent` /kənˈsɛnt/(同意)字面是"共同感觉",为什么"共感"引申为"同意"?
+3. `corrupt` /kərˈʌpt/ 中的 `cor-` 为什么应理解为强化形式,而不是"一起"?
 
 ---
 

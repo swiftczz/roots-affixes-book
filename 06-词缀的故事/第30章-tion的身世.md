@@ -1,6 +1,6 @@
 # 第 30 章 -tion 的身世:从拉丁名词后缀到英语常见名词后缀
 
-> `-tion` 是英语里最强的"名词信号"。一份政府公文从第一页翻到最后一页,`consideration` /kənˌsɪdəˈreɪʃən/、`investigation` /ɪnˌvɛstəˈɡeɪʃən/、`implementation` /ˌɪmpləmənˈteɪʃən/、`communication` 轰隆隆地排过去,纸面轰鸣如坦克履带。它不是后缀,它是**诺曼征服带来的学者制服**。
+> `-tion` 是英语里最强的"名词信号"。一份政府公文从第一页翻到最后一页,`consideration` /kənˌsɪdəˈreɪʃən/、`investigation` /ɪnˌvɛstəˈɡeɪʃən/、`implementation` /ˌɪmpləmənˈteɪʃən/、`communication` /kəˌmjunəˈkeɪʃən/ 轰隆隆地排过去,纸面轰鸣如坦克履带。它不是后缀,它是**诺曼征服带来的学者制服**。
 
 这一章讲英语里最强、最常见、也最"官腔"的名词后缀——`-tion`(还有它那个不太爱抛头露面的兄弟 `-sion`)。
 
@@ -18,7 +18,7 @@
 
 罗马人用它干什么?**给动词发一张"我已经是名词了"的工作证**。动词 `educare`(教育)是动作、是过程、是正在发生的事;可你总不能老让它在句子里跑来跑去。于是罗马人往它尾巴上拍一块 `-tiō`,动作就凝固成了 `educatio`——"教育这件事"。`-tiō` 的作用,就是把一个正在进行的动作,定格成一件可以点名、可以归档、可以写进公文的东西:动作、过程、状态、结果,它全收。
 
-但得说清楚:`-tiō` **不是拉丁动名词,也不是目的分词**。这三个是不同的拉丁家伙,各干各的活——动名词尾巴是 `-nd-`(像 `agenda` 字面就是"待办的事"),目的分词是 `-tum/-tū` 那一系。它们仨长相不同、来历不同,别因为都"长得像名词"就凑成一家人。
+但得说清楚:`-tiō` **不是拉丁动名词,也不是目的分词**。这三个是不同的拉丁家伙,各干各的活——动名词尾巴是 `-nd-`(像 `agenda` /əˈdʒɛndə/ 字面就是"待办的事"),目的分词是 `-tum/-tū` 那一系。它们仨长相不同、来历不同,别因为都"长得像名词"就凑成一家人。
 
 ```mermaid
 flowchart TD
@@ -35,7 +35,7 @@ flowchart TD
 
 ### 路 1:经法语(1066 年后)
 
-第一条路,是**权力的路**。诺曼征服之后,法语统治了英格兰的朝廷、法院、教会、文书的办公桌长达三百年。说英语的人写不动公文,写公文的人不说英语;而那些带着 `-tion` 的法语词——`nation`、`action`、`option`——就坐着权力的马车,一辆辆驶进英语的词汇马厩。它们进来时,身上还带着一股法庭和宫廷的味道:正式、严肃、不容置喙。这批早期 `-tion` 词,大多是在中古英语时期经法语这条权力通道进入的:
+第一条路,是**权力的路**。诺曼征服之后,法语统治了英格兰的朝廷、法院、教会、文书的办公桌长达三百年。说英语的人写不动公文,写公文的人不说英语;而那些带着 `-tion` 的法语词——`nation` /ˈneɪʃən/、`action`、`option` /ˈɑpʃən/——就坐着权力的马车,一辆辆驶进英语的词汇马厩。它们进来时,身上还带着一股法庭和宫廷的味道:正式、严肃、不容置喙。这批早期 `-tion` 词,大多是在中古英语时期经法语这条权力通道进入的:
 
 ```mermaid
 flowchart LR
@@ -53,7 +53,7 @@ flowchart LR
 | `civilizationem` | `civilization` | 文明 |
 | `educationem` | `education` | 教育 |
 | `informationem` | `information` | 信息 |
-| `organizationem` | `organization` | 组织 |
+| `organizationem` | `organization` /ˌɔrɡənəˈzeɪʃən/ | 组织 |
 
 ---
 
@@ -67,11 +67,11 @@ flowchart LR
 | ------ | ------ | ------ | ------ |
 | `-tion` | `educate + tion` | `education` | 标准形 |
 | `-tion` | `inform + ation` | `information` | 标准形 |
-| `-tion` | `organize + ation` | `organization` | 标准形 |
-| `-sion` | `decide` | `decision` | ← 拉丁 decidere / decisionem |
+| `-tion` | `organize + ation` | `organization` /ˌɔrɡənəˈzeɪʃən/ | 标准形 |
+| `-sion` | `decide` /ˌdɪˈsaɪd/ | `decision` | ← 拉丁 decidere / decisionem |
 | `-sion` | `invade` | `invasion` /ɪnˈveɪʒən/ | ← 拉丁 invadere / invasionem |
 | `-sion` | `comprehend + sion` | `comprehension` /ˌkɑmprəˈhɛnʃən/ | 继承另一历史词干 |
-| `-sion` | `confuse + sion` | `confusion` | 继承另一历史词干 |
+| `-sion` | `confuse + sion` | `confusion` /kənˈfjuʒən/ | 继承另一历史词干 |
 
 ---
 
@@ -79,7 +79,7 @@ flowchart LR
 
 认识了 `-tion` 的两条入英之路,接下来看它最拿手的团队作战——跟前缀、词根凑成一桌三件套,批量生产"红头文件词"。
 
-`-tion` 还擅长打配合战:它爱和前缀、词根凑成一桌——动词在中间干活,前缀在前面定方向,`-tion` 在尾巴上盖戳,一桌三件套,造出 `action`、`reaction`、`interaction` /ˌɪntərˈækʃən/、`transaction` /trænˈzækʃən/ 这种"一家子动词名"。但要泼盆冷水:这是**高频词族的既成模式,不是给任意动词套用的自动配方**。你不能把 `sleep` 拍个 `-tion` 就指望得到 `sleeption`——英语会当场给你退件。下面这组,都是拉丁来源、有血统可查的:
+`-tion` 还擅长打配合战:它爱和前缀、词根凑成一桌——动词在中间干活,前缀在前面定方向,`-tion` 在尾巴上盖戳,一桌三件套,造出 `action`、`reaction` /riˈækʃən/、`interaction` /ˌɪntərˈækʃən/、`transaction` /trænˈzækʃən/ 这种"一家子动词名"。但要泼盆冷水:这是**高频词族的既成模式,不是给任意动词套用的自动配方**。你不能把 `sleep` 拍个 `-tion` 就指望得到 `sleeption`——英语会当场给你退件。下面这组,都是拉丁来源、有血统可查的:
 
 ```mermaid
 flowchart TD
@@ -115,13 +115,13 @@ flowchart TD
 | ------ | ------ | ------ | ------ |
 | `-ation` | `educate + ion` | `education` | 动词后加 -ate 再加 -ion |
 | `-ation` | `determin + ation` | `determination` /dɪˌtɝməˈneɪʃən/ | 动词后加 -ate 再加 -ion |
-| `-ation` | `explor + ation` | `exploration` | 动词后加 -ate 再加 -ion |
+| `-ation` | `explor + ation` | `exploration` /ˌɛksplərˈeɪʃən/ | 动词后加 -ate 再加 -ion |
 | `-ition` | `add + ition` | `addition` | 拉丁源词根加 -ition |
-| `-ition` | `oppos + ition` | `opposition` | 拉丁源词根加 -ition |
+| `-ition` | `oppos + ition` | `opposition` /ˌɑpəˈzɪʃən/ | 拉丁源词根加 -ition |
 | `-ition` | `posit + ion` | `position` | 拉丁源词根加 -ition |
-| `-tion + -al` | `education + al` | `educational` | 形容词 |
+| `-tion + -al` | `education + al` | `educational` /ˌɛdʒəˈkeɪʃənəl/ | 形容词 |
 | `-tion + -al` | `nation + al` | `national` | 形容词 |
-| `-tion + -al` | `emotion + al` | `emotional` | 形容词 |
+| `-tion + -al` | `emotion + al` | `emotional` /ɪˈmoʊʃənəl/ | 形容词 |
 | `-ion + -ist` | `abolition + ist` | `abolitionist` /ˌæbəˈlɪʃənɪst/ | 人 |
 | `-ion + -ist` | `evolution + ist` | `evolutionist` | 人 |
 | `-ion + -ary` | `revolution + ary` | `revolutionary` | 形容词/名词 |
@@ -130,19 +130,19 @@ flowchart TD
 
 ## 30.6 一个有趣的发现:英语"名词膨胀"
 
-翻开一篇学术论文,你会撞见 `investigation`、`implementation`、`consideration` 一窝蜂涌出来——这就是英语的**名词膨胀**:`-tion` 把动词一个个打包成名词,塞进句子,纸面顿时厚重得像政府白皮书。但英语造抽象名词,从来不止 `-tion` 这一家。日耳曼血统的词走的是另一条更朴实的路——`happy` 变 `happiness`(加 `-ness`)、`grow` 变 `growth`(元音换个位),和拉丁这条 `-tion` 大道并排跑:
+翻开一篇学术论文,你会撞见 `investigation` /ˌɪnˌvɛstəɡˈeɪʃən/、`implementation` /ˌɪmpləmɛnˈteɪʃən/、`consideration` /kənˌsɪdərˈeɪʃən/ 一窝蜂涌出来——这就是英语的**名词膨胀**:`-tion` 把动词一个个打包成名词,塞进句子,纸面顿时厚重得像政府白皮书。但英语造抽象名词,从来不止 `-tion` 这一家。日耳曼血统的词走的是另一条更朴实的路——`happy` 变 `happiness` /ˈhæpinəs/(加 `-ness`)、`grow` /ɡroʊ/ 变 `growth`(元音换个位),和拉丁这条 `-tion` 大道并排跑:
 
-为什么学术和公文偏偏独宠 `-tion`?**因为它在"正式感"和"模糊性"之间,精准踩中了那个甜点**。`decide` 是谁拍板,一目了然;`decision` 听起来更含蓄、更可推诿、更像"集体的"产物。`investigate` 像有人撅着屁股在挖;`investigation` 像一份盖了章的报告。**`-tion` 把动作熨平,把责任稀释,把语气抬高**——这三样,正是正式文体最想要的。
+为什么学术和公文偏偏独宠 `-tion`?**因为它在"正式感"和"模糊性"之间,精准踩中了那个甜点**。`decide` /ˌdɪˈsaɪd/ 是谁拍板,一目了然;`decision` 听起来更含蓄、更可推诿、更像"集体的"产物。`investigate` /ˌɪnˈvɛstəɡˌeɪt/ 像有人撅着屁股在挖;`investigation` 像一份盖了章的报告。**`-tion` 把动作熨平,把责任稀释,把语气抬高**——这三样,正是正式文体最想要的。
 
 | 来源 | 动词/形容词 | 抽象名词 | 名词化方式 |
 | ------ | ------ | ------ | ------ |
 | 拉丁源 | `decide` | `decision` | `+ tion/sion` |
-| 拉丁源 | `communicate` | `communication` | `+ tion/sion` |
+| 拉丁源 | `communicate` /kəˈmjunəˌkeɪt/ | `communication` /kəˌmjunəˈkeɪʃən/ | `+ tion/sion` |
 | 拉丁源 | `investigate` | `investigation` | `+ tion/sion` |
-| 拉丁源 | `contribute` | `contribution` /ˌkɑntrəˈbjuʃən/ | `+ tion/sion` |
+| 拉丁源 | `contribute` /kənˈtrɪbjut/ | `contribution` /ˌkɑntrəˈbjuʃən/ | `+ tion/sion` |
 | 日耳曼源 | `happy` | `happiness` | `+ ness` |
 | 日耳曼源 | `grow` | `growth` | 元音变换 |
-| 日耳曼源 | `dark` | `darkness` | `+ ness` |
+| 日耳曼源 | `dark` | `darkness` /ˈdɑrknəs/ | `+ ness` |
 
 ---
 
@@ -152,7 +152,7 @@ flowchart TD
 
 | 发音 | 读法 | 例词 |
 | ------ | ------ | ------ |
-| 标准 `/ʃən/` | 读"神" | `nation`, `education`, `communication` |
+| 标准 `/ʃən/` | 读"神" | `nation` /ˈneɪʃən/, `education`, `communication` /kəˌmjunəˈkeɪʃən/ |
 | 特殊 `/tʃən/` | 读"晨" | `question`, `suggestion`, `combustion` /kəmˈbʌstʃən/ |
 
 > **规则**:
@@ -164,7 +164,7 @@ flowchart TD
 ## 30.8 本章小结
 
 1. **`-tion` 来自拉丁名词后缀 -tiō/-tiōnis**——它是动词的"工作证",不是动名词(那是 `-nd-`)或目的分词(那是 `-tum/-tū`)那一支的。
-2. **`-tion` 是英语里最强的"名词信号"**——但它能指的远不止抽象概念:`nation`(群体)、`station`(地点)、`question`(可数的"一个问题"),都是它签发的。
+2. **`-tion` 是英语里最强的"名词信号"**——但它能指的远不止抽象概念:`nation` /ˈneɪʃən/(群体)、`station`(地点)、`question`(可数的"一个问题"),都是它签发的。
 3. **`-sion` 是另一条腿,不是 `-tion` 的拼写事故**——`decide/decision` 里的 `s` 不是英语为发音顺手临时抠掉的 `d`,而是两个词各借入了同一拉丁词族的不同词干。
 
 ### 记忆锚点
@@ -179,7 +179,7 @@ flowchart TD
 
 - **别自行给任意动词追加 `-tion`**。`produce/production`、`create/creation` 是配好的成品套餐;`sleep` + `-tion` = `sleeption`？英语海关会当场退件,连包装都不拆。
 - **`-tion` 和 `-sion` 的分布没有万能口诀**。它们各自继承了不同的拉丁词干,不是看动词最后一个字母就能决定的。`decide/decision` 里的 `s` 是祖传的,不是英语为顺嘴临时抠掉 `d` 换上的。
-- **`-tion` 听起来正式,不等于一定更好**。满纸 `investigation`、`implementation` 的论文,读起来像坦克过马路——有时直接说 `investigate` 反而更清楚。正式感是工具,不是勋章。
+- **`-tion` 听起来正式,不等于一定更好**。满纸 `investigation` /ˌɪnˌvɛstəɡˈeɪʃən/、`implementation` /ˌɪmpləmɛnˈteɪʃən/ 的论文,读起来像坦克过马路——有时直接说 `investigate` /ˌɪnˈvɛstəɡˌeɪt/ 反而更清楚。正式感是工具,不是勋章。
 - **同样拼 `-tion`,嘴巴分两种**。`nation` 读 `/ʃən/`（"神"），`question` 读 `/tʃən/`（"晨"）——记词时连读音一起记,别让嘴巴替你即兴发挥。
 
 ---

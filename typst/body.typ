@@ -7,11 +7,15 @@
 放心，这不是一份披着书皮的拉丁语刑法条文。词根当然要讲准，但没有哪条规定说，讲准以后必须板着脸。
 ]
 
+#quote(block: true)[
+#strong[音标说明]：本书以约 2500 个常用英语词为阅读基准，较可能陌生或容易读错的英语词会在每章第一次出现时标注美式音标；同一词在本章后文不重复标注。
+]
+
 === 一个让我改变写法的故事
 <一个让我改变写法的故事>
 我本来想给你写一本规规矩矩的词根词缀手册：按字母排序，词根 + 含义 + 例词，整整齐齐，像超市货架一样一尘不染，也像超市货架一样让人只想拿了东西赶紧走。
 
-直到我读到 `salary`（薪水）这个词的两种讲法。
+直到我读到 `salary` /ˈsæləri/（薪水）这个词的两种讲法。
 
 一种是#strong[流行的故事]：古罗马士兵直接领取盐，或领取专门购买盐的津贴，因此有了#emph[salarium]。这个故事很有画面，却没有可靠的古代证据。
 
@@ -20,8 +24,8 @@
 这次查证让我记住了一串与盐有关的词，也记住了更重要的一课：#strong[好记的故事不一定是真实的历史]。
 
 - #strong[salt] 盐（与拉丁#emph[sal] 同源的日耳曼词）
-- #strong[salad] 沙拉（经法语、意大利语追溯到拉丁#emph[salata] "加盐的"）
-- #strong[salami] 萨拉米香肠（意大利语，与腌盐有关）
+- #strong[salad] /ˈsæləd/ 沙拉（经法语、意大利语追溯到拉丁#emph[salata] "加盐的"）
+- #strong[salami] /səˈlɑmi/ 萨拉米香肠（意大利语，与腌盐有关）
 - #strong[salary] 薪水（来自与盐有关的拉丁#emph[salarium]，具体语义路径仍有争议）
 
 #strong[一个经过辨正的故事，既能锚定词族，也能训练我们分辨证据和传说。]
@@ -77,8 +81,8 @@
 ]
 举三个例子让你感受这三层：
 
-==== 例 1：`disaster`（灾难）
-<例-1disaster灾难>
+==== 例 1：`disaster` /dɪˈzæstɚ/（灾难）
+<例-1disaster-dɪˈzæstɚ灾难>
 #table(
     columns: (1fr, 1fr),
     align: (left + horizon, left + horizon,),
@@ -91,8 +95,8 @@
 
 下次你写 `disaster`，脑子里会闪过一颗"灾星"。
 
-==== 例 2：`muscle`（肌肉）
-<例-2muscle肌肉>
+==== 例 2：`muscle` /ˈmʌsəl/（肌肉）
+<例-2muscle-ˈmʌsəl肌肉>
 #table(
     columns: (1fr, 1fr),
     align: (left + horizon, left + horizon,),
@@ -103,10 +107,10 @@
     [第 3 层], [#strong[古罗马人看胳膊上起伏的肌肉，觉得像一只在皮肤下蠕动的小老鼠] ------于是叫它"小老鼠"(musculus)。这个奇特的联想，穿越两千年，变成今天的 muscle],
   )
 
-所以 `muscle` 和 `mouse`（老鼠）是亲戚，都来自印欧语系词根 \*mus-。你也理解了为什么肌肉学叫 `myology`（希腊文 my- 也是"老鼠"）。
+所以 `muscle` 和 `mouse` /maʊs/（老鼠）是亲戚，都来自印欧语系词根 \*mus-。你也理解了为什么肌肉学叫 `myology`（希腊文 my- 也是"老鼠"）。
 
-==== 例 3：`companion`（同伴）
-<例-3companion同伴>
+==== 例 3：`companion` /kəmˈpænjən/（同伴）
+<例-3companion-kəmˈpænjən同伴>
 #table(
     columns: (1fr, 1fr),
     align: (left + horizon, left + horizon,),
@@ -118,7 +122,7 @@
   )
 
 #quote(block: true)[
-读完这三个故事，`disaster`、`muscle`、`companion` 这三个词，你大概一辈子忘不掉了。这就是起源的力量。
+读完这三个故事，`disaster` /dɪˈzæstər/、`muscle` /ˈmʌsəl/、`companion` 这三个词，你大概一辈子忘不掉了。这就是起源的力量。
 ]
 
 #horizontalrule
@@ -129,10 +133,10 @@
 
 有些词根的来历很平淡："它来自拉丁语 X,X 来自原始印欧语 \*Y，意思是 Z"。没有神话，没有皇帝，没有战争。
 
-更麻烦的是，#strong[很多广为流传的词源故事其实是假的] ------叫做"#strong[民间词源(folk etymology)] "。比如：
+更麻烦的是，#strong[很多广为流传的词源故事其实是假的] ------叫做"#strong[民间词源(folk etymology)] " /ˌɛtəˈmɑlədʒi/。比如：
 
 #quote(block: true)[
-#strong[民间说法]：`sincere`（真诚的）来自拉丁 `sine cera` "没有蜡"------据说罗马石匠用蜡填补大理石雕像的瑕疵，"没有蜡"就是"无瑕疵的、真诚的"。
+#strong[民间说法]：`sincere` /sɪnˈsɪr/（真诚的）来自拉丁 `sine cera` "没有蜡"------据说罗马石匠用蜡填补大理石雕像的瑕疵，"没有蜡"就是"无瑕疵的、真诚的"。
 
 #strong[真实词源]：这个词确实来自拉丁 `sincerus`，但"没有蜡"的解释#strong[没有古代文献证据]，是后人附会的。`sincerus` 的更可能词源与原始印欧语词根有关，表"整体的、未混合的"，但学者意见不一。
 ]
@@ -152,7 +156,7 @@
 诚实地说清楚边界：
 
 + #strong[不能让你不背单词] ------故事能帮你记词根，但具体单词的搭配、用法、辨析，还得在阅读中积累
-+ #strong[不能拆解所有英语词] ------借词(`tsunami`)、复合词(`blackbird`)、缩略词(`radar`)不在拆词法范围内
++ #strong[不能拆解所有英语词] ------借词(`tsunami` /tsuˈnɑmi/)、复合词(`blackbird` /ˈblækbɝd/)、缩略词(`radar` /ˈreɪdɑr/)不在拆词法范围内
 + #strong[不能保证词源 100% 准确] ------词源学本身是严谨但有限的学科，有些词的来源至今无法确定。我会标注不确定性
 
 #horizontalrule
@@ -218,7 +222,7 @@
 
 词根不是字母，是#strong[凝固的历史]。每一根背后，都有一群人、一段文明、一种生活方式在说话。
 
-当你知道 `salary` 与盐词族有关但"士兵领盐"缺乏证据，也理解 `companion` 和 `disaster` 的历史构造------你不只是在背单词，还在学习怎样重建、核验一条词源路径。
+当你知道 `salary` /ˈsæləri/ 与盐词族有关但"士兵领盐"缺乏证据，也理解 `companion` /kəmˈpænjən/ 和 `disaster` /dɪˈzæstər/ 的历史构造------你不只是在背单词，还在学习怎样重建、核验一条词源路径。
 
 这才是词根词缀本该有的样子。
 
@@ -235,7 +239,7 @@
 
 在读任何一个具体的词根之前，我们先建立一个宏大的坐标系：#strong[英语，从哪里来？]
 
-答案会出乎很多人意料------英语的"曾祖父"，不是不列颠岛上的原住民语言，而是一门#strong[约六千年前、没有直接文字记录、今天无人能听到其原始发音]的语言。它叫#strong[原始印欧语(Proto-Indo-European)] ，简称 PIE。这个 PIE 不能吃，不能烤，不能抹奶油，但它喂饱了一整本词源书、养活了两百年来的语言学家，而且越切越多------六千年来它被切成了几百种语言，每种还在继续分叉。和真正的馅饼相比，它唯一的缺点是不好消化：你得花几章的篇幅才能把它咽下去。
+答案会出乎很多人意料------英语的"曾祖父"，不是不列颠岛上的原住民语言，而是一门#strong[约六千年前、没有直接文字记录、今天无人能听到其原始发音]的语言。它叫#strong[原始印欧语(Proto-Indo-European)] /ˌproʊtoʊ ˌɪndoʊ ˌjʊrəˈpiən/，简称 PIE。这个 PIE 不能吃，不能烤，不能抹奶油，但它喂饱了一整本词源书、养活了两百年来的语言学家，而且越切越多------六千年来它被切成了几百种语言，每种还在继续分叉。和真正的馅饼相比，它唯一的缺点是不好消化：你得花几章的篇幅才能把它咽下去。
 
 这一章，我要讲清楚三件事：
 
@@ -329,14 +333,14 @@
 
 ==== 一百年后的"逆向工程"
 <一百年后的逆向工程>
-琼斯指出了方向，但真正"复原"那门母语的工作，花了一百多年。此后欧洲涌现出一代代语言学家（施莱格尔、拉斯克、葆朴、格林------对，就是下一节要讲的格林），他们用#strong[比较法(comparative method)] ：把梵语、希腊语、拉丁语、哥特语、古英语的同源词排成表格，像刑侦比对指纹一样，一点点倒推出那门没人听过、没人写过的六千年前母语。
+琼斯指出了方向，但真正"复原"那门母语的工作，花了一百多年。此后欧洲涌现出一代代语言学家（施莱格尔、拉斯克、葆朴、格林------对，就是下一节要讲的格林），他们用#strong[比较法(comparative method)] /kəmˈpærətɪv/：把梵语、希腊语、拉丁语、哥特语、古英语的同源词排成表格，像刑侦比对指纹一样，一点点倒推出那门没人听过、没人写过的六千年前母语。
 
 重建出来的词根前面要加星号（如 `*pəter`、`*kerd-`），按学术惯例表示：#strong["这是推出来的，不是从碑上抄的。"] 这就是为什么你会在本书里反复看到带星号的词------每一个星号，都是语言学家在证据不足时诚实的标记。
 
 #horizontalrule
 
-=== 1.3 关键证据：同源词(cognates)
-<13-关键证据同源词cognates>
+=== 1.3 关键证据：同源词(cognates /ˈkɑɡneɪts/)
+<13-关键证据同源词cognates-ˈkɑɡneɪts>
 证明这些语言同源的，是一组组#strong[同源词(cognates)] ------发音和意义都对应、来自同一个原始词根的词。
 
 请看这张表，注意 `p / t / k` 在不同语言里的对应规律：
@@ -376,7 +380,7 @@
 <为什么英语的-p-变成了-f>
 回到上面那张表的最后一行：古英语的 father，前面的 f 是哪来的？拉丁 pater 明明是 p，希腊 patēr 也是 p，梵语 pitar 还是 p------凭什么到了英语，就偷偷换成了 f?
 
-这是日耳曼语族独有的"叛逆"。而破解它的人，是 19 世纪德国学者#strong[雅各布·格林]\(Jacob Grimm)。
+这是日耳曼语族独有的"叛逆"。而破解它的人，是 19 世纪德国学者#strong[雅各布·格林]\(Jacob Grimm /ɡrɪm/)。
 
 是的，#strong[就是那个格林兄弟中的哥哥]。白天，他在书桌前比对日耳曼语和拉丁语的音变，冷静地记录#emph[p] 怎样在日耳曼人嘴里偷偷变成了#emph[f]；晚上，他和弟弟威廉一起搜集民间故事，编出了《白雪公主》《小红帽》《汉泽尔与格莱特》------也就是后来整个迪士尼帝国的精神源头。想象一下这个画面：一个人上午刚证明了#emph[pater] 和#emph[father] 是同一个词的两副面孔，下午就坐下来认真记录一只青蛙怎样被公主亲了一口变成王子。他的左脑在做刑侦比对，右脑在写童话剧本，而且两样都做到了顶级。这种反差本身就值得一本书------可惜他太忙了，没空写自传。
 
@@ -418,10 +422,10 @@
 #quote(block: true)[
 #strong[学习启示]：这就是为什么英语里同一个意思经常有"成对的词"------一个是日耳曼本土（短、口语），一个是拉丁/希腊借词（长、书面）：
 
-- `father`（本土）vs `paternal`（拉丁）
-- `tooth`（本土）vs `dental`（拉丁）
-- `heart`（本土）vs `cardiac`（希腊）
-- `three`（本土）vs `triple`（拉丁）
+- `father`（本土）vs `paternal` /pəˈtɝnəl/（拉丁）
+- `tooth`（本土）vs `dental` /ˈdɛntəl/（拉丁）
+- `heart`（本土）vs `cardiac` /ˈkɑrdiæk/（希腊）
+- `three`（本土）vs `triple` /ˈtrɪpəl/（拉丁）
 
 #strong[它们都是六千年前同一对词根的子孙，只是走了不同的演变路线。]
 ]
@@ -434,7 +438,7 @@
 
 ==== 他们骑马
 <他们骑马>
-原始印欧语重建的 `*ekwos`（马）一路演化：拉丁语#emph[equus] → 英语 `equine`（马的）、`equestrian`（骑手的）。罗马的骑士阶层叫#emph[equites]------字面就是"有马的人"，马在当时等于今天的跑车加军衔。同一个根在古英语里也曾有过#emph[eoh] 这个词，可惜后来消失了，把"马"的地盘让给了来自另一个词根的#emph[horse]。
+原始印欧语重建的 `*ekwos`（马）一路演化：拉丁语#emph[equus] → 英语 `equine` /ˈikwaɪn/（马的）、`equestrian` /ɪˈkwɛstriən/（骑手的）。罗马的骑士阶层叫#emph[equites]------字面就是"有马的人"，马在当时等于今天的跑车加军衔。同一个根在古英语里也曾有过#emph[eoh] 这个词，可惜后来消失了，把"马"的地盘让给了来自另一个词根的#emph[horse]。
 
 ==== 他们信奉一位天空之父
 <他们信奉一位天空之父>
@@ -442,13 +446,13 @@
 
 - 拉丁#emph[deus]（神）、#emph[Jupiter]（尤皮特）------后者字面拆开是#emph[dyeu-piter]，就是"天空之父"
 - 希腊#emph[Zeus]（宙斯）------众神之王，住在奥林匹斯山顶
-- 英语 `divine`（神圣的）、`Tuesday`------星期二，字面是 Tiw\'s day，纪念北欧战神 Tiw，而 Tiw 又和宙斯同根
+- 英语 `divine` /dɪˈvaɪn/（神圣的）、`Tuesday`------星期二，字面是 Tiw\'s day，纪念北欧战神 Tiw，而 Tiw 又和宙斯同根
 
 #strong[宙斯、尤皮特、北欧的 Tiw，本是同一个天空之父在不同语言里的化身。]一个词根，六千年的迁徙，分裂出整片大陆的天空神。
 
 ==== 他们会数到一百
 <他们会数到一百>
-重建词根 `*dkm̥tom`（百）留下了两条血脉：拉丁#emph[centum] → 英语 `cent-`（百分之一、century 百年）；古英语#emph[hund] → 现代 `hundred`。同一个意思，英语里硬是保留了两套写法，只因为它们一千年前走了不同的路。
+重建词根 `*dkm̥tom`（百）留下了两条血脉：拉丁#emph[centum] → 英语 `cent-`（百分之一、century 百年）；古英语#emph[hund] → 现代 `hundred` /ˈhʌndrəd/。同一个意思，英语里硬是保留了两套写法，只因为它们一千年前走了不同的路。
 
 ==== 他们有一套完整的亲属称谓
 <他们有一套完整的亲属称谓>
@@ -521,7 +525,7 @@
 举个例子。请看这五个词：
 
 #quote(block: true)[
-`father`（父亲）、`paternal`（父亲的）、`patriot`（爱国者）、`patron`（赞助人）、`patriarch`（家长）
+`father`（父亲）、`paternal` /pəˈtɜrnəl/（父亲的）、`patriot` /ˈpeɪtriət/（爱国者）、`patron` /ˈpeɪtrən/（赞助人）、`patriarch` /ˈpeɪtriɑrk/（家长）
 ]
 
 表面看，`father` 和 `paternal` 没关系。但一旦你知道它们都来自原始印欧语 \*pəter（父），并且经过了"格林定律"的 \*p→f 转换：
@@ -558,7 +562,7 @@
 本章为了讲故事，把一些复杂问题简化了。下面这些限定值得你记住：
 
 - #strong[琼斯不是印欧语系的"唯一发现者"] 。在他之前，施莱格尔等人已有相似观察；琼斯的贡献是公开、有力地系统阐述了这一假说，引爆了后续研究。他"会 28 种语言"的传说来自友人追忆，具体数字未必准确。
-- #strong[原始印欧语的"原乡"和扩散路径仍有争议]。目前草原假说(Kurgan hypothesis)支持较多，但安纳托利亚农业扩散假说等也有学者主张。本书不站在任何一方的绝对立场上。
+- #strong[原始印欧语的"原乡"和扩散路径仍有争议]。目前草原假说(Kurgan hypothesis /haɪˈpɑθəsɪs/)支持较多，但安纳托利亚农业扩散假说等也有学者主张。本书不站在任何一方的绝对立场上。
 - #strong[重建词根是推演，不是实证]。带星号的 `*pəter`、`*dyews` 是语言学家从后代语言倒推的最可能形式，并非从古代文献直接抄录。具体音值（怎么发音）学界也有分歧。
 - #strong[单个词根不能"证明"一整套社会制度]。说原始印欧人"养马"是基于 `*ekwos` 的重建 + 考古马拉战车证据共同支撑的假说，而不是一个词就能定案。神话、宗教、亲属制度的还原，都需要语言、考古、古 DNA 多重证据互证。
 - #strong[格林定律不是万能公式]。它解释了大部分日耳曼语音变，但也有例外（后来由弗纳定律补充）。遇到不规则的词，不能硬套。
@@ -569,7 +573,7 @@
 <18-本章小结>
 + #strong[英语有一个 6000 岁的曾祖父] ------原始印欧语，一门没有文字但被语言学家"重建"出来的幽灵语言。
 + #strong[从冰岛到印度的语言，大多是亲戚] ------梵语、希腊语、拉丁语、英语，同根同源，这是 1786 年琼斯法官的天才发现。
-+ #strong[格林定律解释了英语为何有"p/f 双词"] ------`father` 和 `paternal` 同根，只是日耳曼支走了 \*p→f 的路。
++ #strong[格林定律解释了英语为何有"p/f 双词"] ------`father` 和 `paternal` /pəˈtɜrnəl/ 同根，只是日耳曼支走了 \*p→f 的路。
 
 ==== 一个最重要的认知
 <一个最重要的认知>
@@ -582,8 +586,8 @@
 ==== 思考题（答案见附录 A）
 <思考题答案见附录-a>
 + 用格林定律，解释为什么英语的 `two`（二）和拉丁语的 `duo`、希腊语的 `duo` 是亲戚？
-+ `tooth`（牙齿）和 `dental`（牙的）看起来毫无关系，但它们其实同根。试着用格林定律解释(\*d → \*t)。
-+ 思考：为什么英语 `hound`（猎犬）和拉丁 `canis`、希腊 `kyōn` 同根？（提示：\*k → \*h）
++ `tooth`（牙齿）和 `dental` /ˈdɛntəl/（牙的）看起来毫无关系，但它们其实同根。试着用格林定律解释(\*d → \*t)。
++ 思考：为什么英语 `hound` /haʊnd/（猎犬）和拉丁 `canis`、希腊 `kyōn` 同根？（提示：\*k → \*h）
 
 #pagebreak(weak: true)
 
@@ -648,7 +652,7 @@
 
 "盎格鲁人的土地"古英语叫#strong[Engla land] ，后来变成#strong[England] 。而#strong[English] 来自古英语#emph[englisc]------"盎格鲁人的（语言）"。
 
-#strong[Angles] 的名称可能与今石勒苏益格的#strong[Angeln] 地区有关；再向前是否与"钩、弯曲"有关并无定论。一个有点讽刺的细节：#strong[盎格鲁人后来在老家反而消失了，却在陌生岛屿上留下了自己的名字------整个英格兰，都是用这群渡海佣兵命名的。]
+#strong[Angles] /ˈæŋɡəlz/ 的名称可能与今石勒苏益格的#strong[Angeln] 地区有关；再向前是否与"钩、弯曲"有关并无定论。一个有点讽刺的细节：#strong[盎格鲁人后来在老家反而消失了，却在陌生岛屿上留下了自己的名字------整个英格兰，都是用这群渡海佣兵命名的。]
 ]
 
 ==== 第一次输入带来了什么
@@ -692,7 +696,7 @@
 
 ==== 从抢劫到占地
 <从抢劫到占地>
-林迪斯法恩之后，维京人从#strong["抢劫"升级为"占地"] 。他们不再只是夏天来抢一票就走，而是开始过冬、建寨、娶妻生子。英格兰北部和东部逐渐被说#strong[古诺尔斯语(Old Norse)] 的丹麦人和挪威人占据，这片区域后来被叫做#strong[Danelaw（丹麦法区）] ------字面就是"丹麦法律管的地方"。至于这场三百年拉锯里两位最有故事的国王------烤糊蛋糕的阿尔弗雷德、命令潮水的克努特------留到第 21 章慢慢讲。
+林迪斯法恩之后，维京人从#strong["抢劫"升级为"占地"] 。他们不再只是夏天来抢一票就走，而是开始过冬、建寨、娶妻生子。英格兰北部和东部逐渐被说#strong[古诺尔斯语(Old Norse)] /oʊld nɔrs/ 的丹麦人和挪威人占据，这片区域后来被叫做#strong[Danelaw] /ˈdeɪnˌlɔ/（丹麦法区）------字面就是"丹麦法律管的地方"。至于这场三百年拉锯里两位最有故事的国王------烤糊蛋糕的阿尔弗雷德、命令潮水的克努特------留到第 21 章慢慢讲。
 
 ==== 这次接触带来了什么
 <这次接触带来了什么>
@@ -756,11 +760,11 @@
     align: (left + horizon, left + horizon, left + horizon,),
     table.header(th([古英语（农民养）]), th([法语（贵族吃）]), th([今天]),),
     table.hline(),
-    [#strong[pig] 猪], [#strong[pork] 猪肉], [porc（法）],
-    [#strong[cow] 牛], [#strong[beef] 牛肉], [boeuf（法）],
-    [#strong[calf] 小牛], [#strong[veal] 小牛肉], [veau（法）],
-    [#strong[sheep] 羊], [#strong[mutton] 羊肉], [mouton（法）],
-    [#strong[deer] 鹿], [#strong[venison] 鹿肉], [venaison（法）],
+    [#strong[pig] 猪], [#strong[pork] /pɔrk/ 猪肉], [porc（法）],
+    [#strong[cow] 牛], [#strong[beef] /bif/ 牛肉], [boeuf（法）],
+    [#strong[calf] /kæf/ 小牛], [#strong[veal] /vil/ 小牛肉], [veau（法）],
+    [#strong[sheep] 羊], [#strong[mutton] /ˈmʌtən/ 羊肉], [mouton（法）],
+    [#strong[deer] /dɪr/ 鹿], [#strong[venison] /ˈvɛnəsən/ 鹿肉], [venaison（法）],
   )
 
 #quote(block: true)[
@@ -776,12 +780,12 @@
     align: (left + horizon, left + horizon,),
     table.header(th([古英语（口语）]), th([法语（正式）]),),
     table.hline(),
-    [ask 问], [#strong[inquire] 询问],
-    [buy 买], [#strong[purchase] 购买],
-    [begin 开始], [#strong[commence] 开始],
-    [hearty 衷心的], [#strong[cordial] 热诚的],
-    [freedom 自由], [#strong[liberty] 自由],
-    [kingly 国王的], [#strong[royal] 王室的],
+    [ask 问], [#strong[inquire] /ˌɪnˈkwaɪr/ 询问],
+    [buy 买], [#strong[purchase] /ˈpɜrtʃəs/ 购买],
+    [begin 开始], [#strong[commence] /kəˈmɛns/ 开始],
+    [hearty 衷心的], [#strong[cordial] /ˈkɔrdʒəl/ 热诚的],
+    [freedom 自由], [#strong[liberty] /ˈlɪbərˌti/ 自由],
+    [kingly 国王的], [#strong[royal] /ˈrɔɪəl/ 王室的],
   )
 
 #quote(block: true)[
@@ -837,11 +841,11 @@
 <故事每一个词都是一段远洋旅程>
 大英帝国的殖民扩张，把英语带到了全世界；同时，#strong[全世界也把词借给了英语]。这是英语词汇来源最杂、也最有故事的一浪。挑几个词，你看看它们走过多少路：
 
-#strong[algebra（代数）。] 9 世纪的巴格达，#strong["智慧之家(Bayt al-Ḥikmah)"] ------这是阿拔斯王朝的国家级学术中心，翻译家们把希腊、波斯、印度的典籍潮水般译成阿拉伯语。其中有一位波斯数学家，叫#strong[花拉子密(al-Khwārizmī)] 。他写了一本系统解方程的著作，书名叫#emph[#strong[al-Jabr wa-l-Muqābala]]------"还原与对消"。几百年后，这本书传到欧洲，#strong[al-Jabr] 这个词被原样借入拉丁语再进入英语，变成了#strong[algebra] 。而花拉子密自己的名字，经过一系列音变，变成了另一个我们天天在用的词：#strong[algorithm（算法）]。一个人，送了英语两个词。
+#strong[algebra] /ˈældʒəbrə/（代数）。9 世纪的巴格达，#strong["智慧之家(Bayt al-Ḥikmah)"] ------这是阿拔斯王朝的国家级学术中心，翻译家们把希腊、波斯、印度的典籍潮水般译成阿拉伯语。其中有一位波斯数学家，叫#strong[花拉子密(al-Khwārizmī)] 。他写了一本系统解方程的著作，书名叫#emph[#strong[al-Jabr wa-l-Muqābala]]------"还原与对消"。几百年后，这本书传到欧洲，#strong[al-Jabr] 这个词被原样借入拉丁语再进入英语，变成了#strong[algebra] 。而花拉子密自己的名字，经过一系列音变，变成了另一个我们天天在用的词：#strong[algorithm] /ˈælɡəˌrɪðəm/（算法）。一个人，送了英语两个词。
 
 #strong[coffee（咖啡）。] #emph[（传说）]这个词的源头可以追到也门南端的#strong[摩卡港(Mocha)] ------中世纪阿拉伯世界最重要的咖啡出口港。也门的苏菲修士喝咖啡熬夜祈祷，商人则把它装船运出红海。之后，咖啡经#strong[奥斯曼帝国]传遍伊斯兰世界（伊斯坦布尔的咖啡馆一度被视为煽动言论的温床，被苏丹短暂查禁），再由威尼斯商人传入欧洲，最后一路喝到伦敦------英语里#strong[coffee] 这个词的拼写，就凝固了它从阿拉伯语#emph[qahwa] 经土耳其语#emph[kahve] 一路借来的语音痕迹。一杯咖啡，半部世界贸易史。
 
-#strong[typhoon（台风）和 ketchup（番茄酱）：两个"多源传说"。]这两个词特别好玩，因为它们身上#strong[同时叠了好几条语音线索]，学者至今还在吵：
+#strong[typhoon] /taɪˈfun/（台风）和#strong[ketchup] /ˈkɛtʃəp/（番茄酱）：两个"多源传说"。这两个词特别好玩，因为它们身上#strong[同时叠了好几条语音线索]，学者至今还在吵：
 
 - #strong[typhoon] ：最早进入欧洲时，词形同时沾着#strong[希腊语]（#emph[tuphōn]，旋风怪物）和#strong[阿拉伯语]（#emph[ṭūfān]，大风暴）的影子；后来到了远东，又可能被汉语粤语的"#strong[大风] "(#emph[daaih fung])重新"染"过一遍。三种语言，像三个人接力，共同把这个词塑成了今天的 typhoon。
 - #strong[ketchup] ：今天蘸薯条的红酱，其祖先却是一种#strong[闽南语的鱼酱] ------#emph[（待考证）]学界主流说法是它源自闽南语#emph["kê-tsiap"]（鳀鱼酱一类），经东南亚贸易语言进入英语，再传到美洲，被加进番茄，才变成今天你认识的番茄酱。从福建鱼酱到麦当劳小红盒，这条路也够远的。
@@ -859,15 +863,15 @@
     [#strong[闽南语（经荷兰语）]], [tea], [#emph[tê] 一类读音，经海上贸易进入欧洲语言],
     [#strong[来源交织]], [typhoon], [早期欧洲词形与希腊语、阿拉伯语有关，后来可能又受汉语"大风"影响],
     [], [ketchup], [可能经东南亚贸易语言追溯到闽南语鱼酱名称，路径有争议],
-    [#strong[日语]], [tsunami], [津波（港湾的波）],
-    [], [karaoke], [kara（空）+ oke（管弦乐）],
-    [#strong[印地语/乌尔都语，词源上来自波斯语]], [pajamas], [#emph[pāy-jāma]（腿衣）],
-    [#strong[印地语]], [shampoo], [#emph[chāmpo]（按压、按摩）],
-    [#strong[他加禄语]], [boondocks], [#emph[bundok]（山），美国军人在菲律宾接触后带入英语],
+    [#strong[日语]], [tsunami /tsuˈnɑmi/], [津波（港湾的波）],
+    [], [karaoke /ˌkæriˈoʊki/], [kara（空）+ oke（管弦乐）],
+    [#strong[印地语/乌尔都语，词源上来自波斯语]], [pajamas /pəˈdʒɑməz/], [#emph[pāy-jāma]（腿衣）],
+    [#strong[印地语]], [shampoo /ʃæmˈpu/], [#emph[chāmpo]（按压、按摩）],
+    [#strong[他加禄语]], [boondocks /ˈbunˌdɑks/], [#emph[bundok]（山），美国军人在菲律宾接触后带入英语],
   )
 
 #quote(block: true)[
-#strong[注意]：整词借入英语，不等于它在来源语言中不可分析。`algebra`、`tsunami` 等词不能按英语或拉丁、希腊词缀硬拆，但可以研究其来源语言内部的结构。
+#strong[注意]：整词借入英语，不等于它在来源语言中不可分析。`algebra`、`tsunami` /tsuˈnɑmi/ 等词不能按英语或拉丁、希腊词缀硬拆，但可以研究其来源语言内部的结构。
 ]
 
 #horizontalrule
@@ -927,7 +931,7 @@
     [古英语], [#strong[see]], [日常最常用],
     [法语], [#strong[view]], [较正式],
     [拉丁], [#strong[inspect / observe]], [学术、检查],
-    [希腊], [#strong[scope]\(telescope)], [仪器],
+    [希腊], [#strong[scope] /skoʊp/(telescope)], [仪器],
   )
 
 ==== "心"
@@ -938,8 +942,8 @@
     table.header(th([层]), th([词]), th([用法]),),
     table.hline(),
     [古英语], [#strong[heart]], [日常],
-    [法语], [#strong[courage]], [抽象义],
-    [拉丁], [#strong[cordial]], [抽象义（都来自 cor "心"）],
+    [法语], [#strong[courage] /ˈkɜrədʒ/], [抽象义],
+    [拉丁], [#strong[cordial] /ˈkɔrdʒəl/], [抽象义（都来自 cor "心"）],
     [希腊], [#strong[cardio-]], [医学（cardiology 心脏病学）],
   )
 
@@ -970,9 +974,9 @@
 五次输入讲完了，故事精彩，但历史比故事复杂------下面几条冷水，泼完心里更踏实：
 
 - #strong[传说归传说，年表归年表。] "公元 449 年"和"七国时代"是方便记忆的标签，不是精确到年的史实；本章凡标注#emph[（传说）]的细节（如威廉在黑斯廷斯摘盔呼喊），反映的历史背景是真的，但细节不能当纪录片看。
-- #strong[`pig/pork` 不是一顿饭就定下来的。]社会分工是常见解释，但 `pork`、`beef` 早期也能指活着的动物，词义分化经历了数百年------没有哪位贵族在餐桌上一锤定音说"从今往后，活的叫 pig，死的叫 pork"。
+- #strong[`pig/pork` 不是一顿饭就定下来的。]社会分工是常见解释，但 `pork` /pɔrk/、`beef` /bif/ 早期也能指活着的动物，词义分化经历了数百年------没有哪位贵族在餐桌上一锤定音说"从今往后，活的叫 pig，死的叫 pork"。
 - #strong[巴约挂毯上谁是哈罗德，学者还在吵。]挂毯是真的 11 世纪史料，"中箭穿眼"的画面也在，争议只在于画面里哪一个人影才是哈罗德。
-- #strong[借词词源经常"多源交织"。] `typhoon`、`ketchup` 同时沾着多种语言的痕迹，硬归给一个源头，就像争论一道混合咖喱到底算印度菜还是英国菜。
+- #strong[借词词源经常"多源交织"。] `typhoon` /ˌtaɪˈfun/、`ketchup` /ˈkɛtʃəp/ 同时沾着多种语言的痕迹，硬归给一个源头，就像争论一道混合咖喱到底算印度菜还是英国菜。
 
 #horizontalrule
 
@@ -1008,7 +1012,7 @@
 ==== 思考题（答案见附录 A）
 <思考题答案见附录-a-1>
 + `kingly / royal / regal` 三个词都表示"国王的"，它们分别来自哪一层？（提示：第一个日耳曼、第二个法语、第三个拉丁）
-+ 为什么 `cow`（牛）和 `beef`（牛肉）成对出现，且一个是短词、一个是长词？
++ 为什么 `cow`（牛）和 `beef` /bif/（牛肉）成对出现，且一个是短词、一个是长词？
 + `tea` 最终来自哪一类汉语读音，又经过哪种欧洲语言进入英语？
 
 #volume-page("第二卷", "拉丁之根", subtitle: "古罗马留给英语的制度、法律与学术词汇", outline-title: "第二卷 · 拉丁之根")
@@ -1110,7 +1114,7 @@
     align: (left + horizon, left + horizon, left + horizon,),
     table.header(th([拉丁词]), th([英语词]), th([含义]),),
     table.hline(),
-    [`episcopus`], [bishop], [主教（经过古英语音变）],
+    [`episcopus`], [bishop /ˈbɪʃəp/], [主教（经过古英语音变）],
     [`presbyter`], [priest], [神父（经过缩略）],
     [`monachus`], [monk], [修士],
     [`schola`], [school], [学校],
@@ -1121,14 +1125,14 @@
 特点：词义多集中于宗教、教育，词形已发生不同程度变化。
 
 #quote(block: true)[
-#strong[提示]这条路线里有个有趣现象：`bishop`（主教）最终追溯到希腊语#emph[epískopos]，经拉丁语及早期日耳曼语传播后进入古英语，词形已经大变；`episcopal` 后来经书面路线进入英语，保留了更明显的古典词形。两者是不同借入路径形成的同源双层词。
+#strong[提示]这条路线里有个有趣现象：`bishop` /ˈbɪʃəp/（主教）最终追溯到希腊语#emph[epískopos]，经拉丁语及早期日耳曼语传播后进入古英语，词形已经大变；`episcopal` /ɪˈpɪskəpəl/ 后来经书面路线进入英语，保留了更明显的古典词形。两者是不同借入路径形成的同源双层词。
 ]
 
 #horizontalrule
 
 === 3.3 第三条路线：诺曼征服后的法语中介
 <33-第三条路线诺曼征服后的法语中介>
-1066 年以后，大量拉丁来源词不是直接从古典拉丁语进入英语，而是先在法语中演变，再随诺曼法语、英法语和后来的中央法语进入英语。`judge`、`court`、`parliament`、`royal` 等都属于这条重要路线。
+1066 年以后，大量拉丁来源词不是直接从古典拉丁语进入英语，而是先在法语中演变，再随诺曼法语、英法语和后来的中央法语进入英语。`judge` /dʒʌdʒ/、`court`、`parliament` /ˈpɑrləmənt/、`royal` /ˈrɔɪəl/ 等都属于这条重要路线。
 
 这条路线说明：#strong["拉丁来源"不等于"直接借自拉丁语"] 。一个词可以有拉丁祖先、法语中间形态和英语中的新意义。
 
@@ -1142,7 +1146,7 @@
 
 #strong[1453 年 5 月 29 日，奥斯曼大军攻陷君士坦丁堡。]这座城市是东罗马帝国千年的首都，也是希腊古典学术在欧洲最后的堡垒。城破那一刻，教堂的钟声被攻城的号角盖过，宫廷里的学者来不及收拾细软，#strong[抱着成箱的羊皮纸手稿]冲向金角湾的港口。船帆一张，载着柏拉图、亚里士多德、荷马的希腊文原本，载着读懂它们的人，沿着地中海一路向西------佛罗伦萨、威尼斯、罗马，一座座意大利城市敞开城门接住了这批流亡学者。
 
-他们带来的，是西欧人几百年没怎么见过的东西------柏拉图、亚里士多德、荷马的希腊文原本，以及读懂它们的能力。意大利的人文主义者像发现了宝藏一样扑了上去，#strong[全欧洲掀起了一阵希腊语文献热]。学者们如饥似渴地翻译、研究，再用拉丁语把新概念重新打包，送往各国的大学和宫廷。后面英语里那一大批 `philosophy`、`physics`、`democracy`、`atmosphere`，根源都在这场文献大搬家。
+他们带来的，是西欧人几百年没怎么见过的东西------柏拉图、亚里士多德、荷马的希腊文原本，以及读懂它们的能力。意大利的人文主义者像发现了宝藏一样扑了上去，#strong[全欧洲掀起了一阵希腊语文献热]。学者们如饥似渴地翻译、研究，再用拉丁语把新概念重新打包，送往各国的大学和宫廷。后面英语里那一大批 `philosophy` /fəˈlɑsəfi/、`physics` /ˈfɪzɪks/、`democracy` /dɪˈmɑkrəsi/、`atmosphere` /ˈætməsˌfɪr/，根源都在这场文献大搬家。
 
 #emph[（文艺复兴的更广背景，见本章末"避坑提示"。）]
 
@@ -1216,7 +1220,7 @@
 
 === 3.6 为什么许多拉丁来源词较长
 <36-为什么许多拉丁来源词较长>
-很多人疑惑：为什么拉丁来源的词总是这么长？古英语的 `give` 一个音节，拉丁来源的 `donate` 三个音节------好像拉丁词根出门必须穿全套西装三件套，而日耳曼词穿件T恤就上街了。这背后有一个结构性的原因。
+很多人疑惑：为什么拉丁来源的词总是这么长？古英语的 `give` 一个音节，拉丁来源的 `donate` /ˈdoʊˌneɪt/ 三个音节------好像拉丁词根出门必须穿全套西装三件套，而日耳曼词穿件T恤就上街了。这背后有一个结构性的原因。
 
 拉丁语是高度屈折的语言，但英语借词通常不会把整套人称、格或时态词尾一起保留下来。许多拉丁来源词较长，更直接的原因是它们本来就是由前缀、词干和派生后缀组成的复杂词，而英语又在这些借词上继续派生。
 
@@ -1267,7 +1271,7 @@
     table.hline(),
     [`cap-`], [基本及派生形式], [capable, capacity],
     [`capt-`], [分词/名词形式], [capture, captive],
-    [`cip-`], [复合弱化形式], [recipient, incipient],
+    [`cip-`], [复合弱化形式], [recipient, incipient /ɪnˈsɪpiənt/],
     [`cept-`], [复合分词形式], [concept, accept, except],
     [`ceiv-`], [古法语路线], [receive, deceive, perceive],
   )
@@ -1337,7 +1341,7 @@
 
 这是全书第一个完整展开的词根家族，也是#strong[最值得花时间学的一条]。原因有两个：
 
-+ #strong[它的高频词极多]：`inspect`、`respect`、`suspect`、`spectator`、`spectacle`、`aspect`、`perspective`、`introspection`……每一个都是学术英语的核心词。
++ #strong[它的高频词极多]：`inspect` /ɪnˈspɛkt/、`respect`、`suspect` /səˈspɛkt/、`spectator` /ˈspɛkteɪtər/、`spectacle` /ˈspɛktəkəl/、`aspect` /ˈæˌspɛkt/、`perspective` /pərˈspɛktɪv/、`introspection` /ˌɪntrəˈspɛkʃən/……每一个都是学术英语的核心词。
 + #strong[它和英语本土的 `see` 占据同一片语义区] ------两套"看"很适合对照记忆（至于它俩更早是不是亲戚，这事学界还没吵完，后面"词源辨正"再聊）。
 
 #horizontalrule
@@ -1348,7 +1352,7 @@
 <一个核心词根的诞生>
 把镜头拉到公元前 1 世纪某个上午，罗马广场(forum)。这是全城最热闹的露天剧场，没有之一：
 
-政治家爬上演讲台，袍角一甩，开始滔滔不绝------台下的市民#strong[盯着]他的嘴；商人把叙利亚来的香料摆上摊，和买家#strong[互相对视]，无声地较劲；神庙门口，占卜官(augur)披着条纹长袍，仰头#strong[注视]天空里划过的乌鸦，判断这一票生意能不能做。而在更远的斗兽场，五万观众#strong[齐刷刷望向]场地中央，角斗士的生死，只看皇帝那根朝下的大拇指。
+政治家爬上演讲台，袍角一甩，开始滔滔不绝------台下的市民#strong[盯着]他的嘴；商人把叙利亚来的香料摆上摊，和买家#strong[互相对视]，无声地较劲；神庙门口，占卜官(augur /ˈɔgər/)披着条纹长袍，仰头#strong[注视]天空里划过的乌鸦，判断这一票生意能不能做。而在更远的斗兽场，五万观众#strong[齐刷刷望向]场地中央，角斗士的生死，只看皇帝那根朝下的大拇指。
 
 四个场景，一个动词。拉丁语管"看"叫#emph[#strong[specere]]（古典拼写#emph[specere]，变形#emph[spectare]），后来长出了一大堆"看"的子孙。它的核心义是#strong[有目的地注视、观察] ------不是漫不经心地瞥一眼，而是#strong[认真看、存心看、看出点名堂来]。罗马人是真的相信"看"这件事能看出吉凶、看出品行、看出神的旨意------于是这个"看"字，顺理成章地繁衍成了拉丁语里子孙最旺的一支。
 
@@ -1371,7 +1375,7 @@
 拉丁#emph[specere] 与希腊#emph[skopein] 常被联系到表示观察的印欧语词族：
 
 - #strong[拉丁 specere] → 英语 `spect` 家族（本书重点）
-- #strong[希腊 skopein] （看）→ 英语 `scope` 家族(telescope, microscope)
+- #strong[希腊 skopein] （看）→ 英语 `scope` /skoʊp/ 家族(telescope, microscope)
 - #strong[日耳曼 see] → 古英语#emph[sēon] → 英语 `see`；其更早词源与 \*spek- 的关系存在争议
 
 因此 `spect` 与 `scope` 可作历史亲缘比较；`see` 只能作为语义上的本族对应词，不应在争议未决时断言三者必定同根。
@@ -1386,14 +1390,14 @@
     align: (left + horizon, left + horizon, left + horizon,),
     table.header(th([变体形式]), th([来源]), th([例词]),),
     table.hline(),
-    [`spec-`], [specere 的基本形式], [specimen, spectrum],
+    [`spec-`], [specere 的基本形式], [specimen /ˈspɛsəmən/, spectrum /ˈspɛktrəm/],
     [`spect-`], [spectare、spectus 等相关形式], [spectator, spectacle, inspect, respect],
-    [`spic-`], [拉丁复合词的弱化形式], [suspicion, auspice, conspicuous],
+    [`spic-`], [拉丁复合词的弱化形式], [suspicion /səˈspɪʃən/, auspice /ˈɔspɪs/, conspicuous /kənˈspɪkjuəs/],
     [`speci-`], [来自 species（外观）], [species, special],
   )
 
 #quote(block: true)[
-#strong[小提示]：`inspect`、`expect` 这些词在现代英语里的意思（检查、期待）是经过漫长语义漂移的，不是"已经被看/已经被期待"的简单直译。别拿拆字公式去套现代词义，会漏掉中间两千年。
+#strong[小提示]：`inspect` /ˌɪnˈspɛkt/、`expect` 这些词在现代英语里的意思（检查、期待）是经过漫长语义漂移的，不是"已经被看/已经被期待"的简单直译。别拿拆字公式去套现代词义，会漏掉中间两千年。
 ]
 
 #strong[记忆口诀]：#strong[看到 `spec/spic/spect/speci`，都是"看"] 。不要被四种拼写吓到，核心义只有一个。
@@ -1500,9 +1504,9 @@
 ]
 #strong[同根兄弟]：
 
-- `respectable`（值得尊重的）
-- `respectful`（恭敬的）
-- `disrespect`（不尊重：dis- + respect）
+- `respectable` /rɪˈspɛktəbəl/（值得尊重的）
+- `respectful` /rɪˈspɛktfəl/（恭敬的）
+- `disrespect` /ˌdɪsrɪˈspɛkt/（不尊重：dis- + respect）
 
 #quote(block: true)[
 学会这个，你就不会再把 `respect` 当成无意义的字符串------它是"回头多看一眼"，所以是尊重。
@@ -1510,8 +1514,8 @@
 
 #horizontalrule
 
-==== 词 2：`inspect`（检查）
-<词-2inspect检查>
+==== 词 2：`inspect` /ˌɪnˈspɛkt/（检查）
+<词-2inspect-ˌɪnˈspɛkt检查>
 #strong[拆解]：`in-`（向内）+ `spect`（看） = 向内看
 
 #strong[故事]：
@@ -1522,21 +1526,21 @@
 
 #strong[派生词]：
 
-- `inspection`（检查）
-- `inspector`（检查员）
-- `inspectorate`（检查机构）
+- `inspection` /ˌɪnˈspɛkʃən/（检查）
+- `inspector` /ˌɪnˈspɛktər/（检查员）
+- `inspectorate` /ˌɪnˈspɛktərət/（检查机构）
 
 #horizontalrule
 
-==== 词 3：`suspect`（怀疑）
-<词-3suspect怀疑>
+==== 词 3：`suspect` /səˈspɛkt/（怀疑）
+<词-3suspect-səˈspɛkt怀疑>
 #strong[历史构形]：`sub-`（从下、向上）+ `specere`（看），形成拉丁#emph[suspicere]（向上看、注意、怀疑）
 
 #strong[故事]：
 
 这是 specere 家族里最有趣的一个。
 
-`suspect` 的 `su-` 是 `sub-` 在复合词里的同化形式------`sub-` 在别的辅音前常常"收起 b"，只留下 `su-`（`succeed`、`suffice` 都是这一路货色）。拉丁#emph[suspicere] 的本义是"#strong[从下面往上看] "，名词#emph[suspectus] 后来长出"怀疑、猜疑"的意思。
+`suspect` 的 `su-` 是 `sub-` 在复合词里的同化形式------`sub-` 在别的辅音前常常"收起 b"，只留下 `su-`（`succeed`、`suffice` /səˈfaɪs/ 都是这一路货色）。拉丁#emph[suspicere] 的本义是"#strong[从下面往上看] "，名词#emph[suspectus] 后来长出"怀疑、猜疑"的意思。
 
 画面请脑补清楚：你蹲在阴影里，眼珠#strong[从下往上瞟]，目光里掺着怀疑、警惕和不信任------这就是#emph[suspicere]。#emph[（传说）]罗马作家笔下最经典的"从下偷看"角色，就是站在主人身后的奴隶：他低着头，眼皮却不老实，偷偷往上看，揣测主人的脸色。一束带着疑心的目光，从社会底层往权力上方攀爬------这就是 `suspect` 凝固在词里的画面。
 
@@ -1550,13 +1554,13 @@
 
 - `suspect` （动词 /səˈspekt/）：怀疑
 - `suspect` （名词 /ˈsʌspekt/）：嫌疑犯（被怀疑的人）
-- `suspicion`（名词）：怀疑
-- `suspicious`（形容词）：可疑的
+- `suspicion` /səˈspɪʃən/（名词）：怀疑
+- `suspicious` /səˈspɪʃəs/（形容词）：可疑的
 
 #horizontalrule
 
-==== 词 4：`introspection`（内省）
-<词-4introspection内省>
+==== 词 4：`introspection` /ˌɪntrəˈspɛkʃən/（内省）
+<词-4introspection-ˌɪntrəˈspɛkʃən内省>
 #strong[拆解]：`intro-`（向内）+ `spect`（看）+ `-ion`（名词后缀） = 向内看
 
 #strong[故事]：
@@ -1568,17 +1572,17 @@
 #quote(block: true)[
 #strong[三个"向某方向看"的对照]：
 
-- `inspect`（向内看 → 检查外部事物）
-- `introspect`（向内看 → 检查内心）
-- `retrospect`（向后看 → 回顾）
+- `inspect` /ˌɪnˈspɛkt/（向内看 → 检查外部事物）
+- `introspect` /ˈɪntrəˌspɛkt/（向内看 → 检查内心）
+- `retrospect` /ˈrɛtrəˌspɛkt/（向后看 → 回顾）
 
 同一个 spec 词根 + 不同方向前缀 = 不同的"看"。
 ]
 
 #horizontalrule
 
-=== 【番外·高潮】auspice / auspicious：罗马人的"观神鸡"
-<番外高潮auspice--auspicious罗马人的观神鸡>
+=== 【番外·高潮】auspice / auspicious /ɑˈspɪʃəs/：罗马人的"观神鸡"
+<番外高潮auspice--auspicious-ɑˈspɪʃəs罗马人的观神鸡>
 前面四个词，都是普通人在"看"。但 specere 家族里有一条#strong[最玄幻、最戏剧化、最能代表罗马人集体心理]的血脉------他们看的不是人，不是账本，而是#strong[神派来的鸡]。
 
 #quote(block: true)[
@@ -1587,7 +1591,7 @@
 
 ==== 词形怎么拆
 <词形怎么拆>
-#strong[`auspice`] /ˈɔːspɪs/:`avi-`（鸟）+ `specere`（看）= #strong[看鸟]。#strong[`auspicious`] /ɔːˈspɪʃəs/:"看鸟看出好兆头的" → 吉利的。#strong[`augur`] /ˈɔːɡər/：占卜官，专司观鸟。#strong[`inaugurate`] /ɪˈnɔːɡjəreɪt/：占卜官正式就位 → 就职典礼。
+#strong[`auspice` /ˈɔspɪs/]:`avi-`（鸟）+ `specere`（看）= #strong[看鸟]。#strong[`auspicious` /ɑˈspɪʃəs/]:"看鸟看出好兆头的" → 吉利的。#strong[`augur` /ˈɔɡər/] ：占卜官，专司观鸟。#strong[`inaugurate` /ɪˈnɔɡjəreɪt/] ：占卜官正式就位 → 就职典礼。
 
 别被 `au-` 这个前缀骗了。它不是"金"（那是#emph[aurum]）的缩写，而是 `avis`（鸟）被时光啃掉了 v。所以#strong[auspice 的字面意思，就是"观鸟"] 。
 
@@ -1621,9 +1625,9 @@ Pulcher 怎么反应？他勃然大怒，抓起一只神鸡，当众把它扔进
 <auspice--auspicious-今天怎么用>
 这个故事沉淀下来的，是两个高频词：
 
-- #strong[`auspice`] （赞助、庇护）：今天说"under the auspices of UNESCO"（在联合国教科文组织的赞助下），字面是"在……的吉兆之下"------本来是"在某次占卜的吉利征兆下办事"，现在泛指"在……的支持下"。
-- #strong[`auspicious`] （吉利的）："an auspicious start"（一个吉利的开端）------直译就是"神鸡吃得很香的那个开头"。
-- #strong[`inaugurate`] （就职）：#emph[augur] 占卜官正式就位、为新城奠基、为新官主持仪式 → 今天美国总统的就职典礼还叫#emph[inauguration]。
+- #strong[`auspice` /ˈɔspɪs/] （赞助、庇护）：今天说"under the auspices of UNESCO"（在联合国教科文组织的赞助下），字面是"在……的吉兆之下"------本来是"在某次占卜的吉利征兆下办事"，现在泛指"在……的支持下"。
+- #strong[`auspicious` /ɑˈspɪʃəs/] （吉利的）："an auspicious start"（一个吉利的开端）------直译就是"神鸡吃得很香的那个开头"。
+- #strong[`inaugurate` /ɪˈnɔɡjəreɪt/] （就职）：#emph[augur] 占卜官正式就位、为新城奠基、为新官主持仪式 → 今天美国总统的就职典礼还叫#emph[inauguration]。
 
 #diagram-panel(title: "图示 17 · 关系图", breakable: false)[
   #align(center)[
@@ -1651,7 +1655,7 @@ Pulcher 怎么反应？他勃然大怒，抓起一只神鸡，当众把它扔进
 <番外高潮spectacle--spectator斗兽场里的看>
 `spec-` 家族另一条巨型血脉，不在庙堂，而在#strong[斗兽场]。
 
-#strong[拆解]：`spectacle` = `spect`（看）+ `-acle`（值得……的东西）= #strong[值得一看的东西]。`spectator` = `spect` + `-ator`（专门干这事的人）= #strong[专门来看的人]。
+#strong[拆解]：`spectacle` /ˈspɛktəkəl/ = `spect`（看）+ `-acle`（值得……的东西）= #strong[值得一看的东西]。`spectator` /ˈspɛkteɪtər/ = `spect` + `-ator`（专门干这事的人）= #strong[专门来看的人]。
 
 公元 80 年，弗拉维圆形剧场------也就是我们今天叫的#strong[罗马斗兽场(Colosseum)] ------落成，提图斯皇帝办了#strong[一百天的开幕庆典]。期间杀掉的野兽，光记录在案就有#strong[九千头]；角斗士成对厮杀，死伤无数。五万个座位的椭圆形看台挤得满满当当------这五万人，每一个都是 `spectator`（观众）。场地中央血腥的厮杀场面，每一个都是 `spectacle`（奇观）。
 
@@ -1671,7 +1675,7 @@ Pulcher 怎么反应？他勃然大怒，抓起一只神鸡，当众把它扔进
 #strong[金句]：罗马帝国的维稳预算，一半花在小麦上，一半花在 spectacle 上。两千年过去，配方没怎么变。
 ]
 
-`spectacle` 后来长出 `spectacular`（壮观的）------一个壮丽到值得全场起立的东西；`spectator` 至今还是体育赛事、剧院观众的标准词。下次你看球赛被人叫 spectator，别忘了你坐的是 21 世纪的"斗兽场看台"。
+`spectacle` 后来长出 `spectacular` /spɛkˈtækjələr/（壮观的）------一个壮丽到值得全场起立的东西；`spectator` 至今还是体育赛事、剧院观众的标准词。下次你看球赛被人叫 spectator，别忘了你坐的是 21 世纪的"斗兽场看台"。
 
 #horizontalrule
 
@@ -1689,7 +1693,7 @@ Pulcher 怎么反应？他勃然大怒，抓起一只神鸡，当众把它扔进
 #strong[稳妥的说法]：两者都是"看"，但#strong[不能确认同根]。我会把它们当作"语义同源"，而非"词源同根"来处理。
 
 #quote(block: true)[
-#strong[民间说法]：`spect` 和 `spy`（间谍）同根------这是#strong[部分正确]。`spy` 是英语经#strong[古法语#emph[espier]（窥探）]借入的，而#emph[espier] 上溯到日耳曼语#emph[spehōn]，再往上和拉丁#emph[specere] 一样，归到同一个原始印欧语 \*spek-（观察）。所以 `spy` 和 `spect` 走的是两条不同的路，却#strong[同出一个远祖]，确实是远房亲戚------只是别把 spy 想象成从古英语一路直接长出来的。
+#strong[民间说法]：`spect` 和 `spy` /spaɪ/（间谍）同根------这是#strong[部分正确]。`spy` 是英语经#strong[古法语#emph[espier]（窥探）]借入的，而#emph[espier] 上溯到日耳曼语#emph[spehōn]，再往上和拉丁#emph[specere] 一样，归到同一个原始印欧语 \*spek-（观察）。所以 `spy` 和 `spect` 走的是两条不同的路，却#strong[同出一个远祖]，确实是远房亲戚------只是别把 spy 想象成从古英语一路直接长出来的。
 ]
 
 #horizontalrule
@@ -1703,18 +1707,18 @@ Pulcher 怎么反应？他勃然大怒，抓起一只神鸡，当众把它扔进
     align: (left + horizon, left + horizon, left + horizon,),
     table.header(th([词]), th([拆解]), th([推义]),),
     table.hline(),
-    [`inspect`], [in- + spect], [向内看 → 检查],
+    [`inspect` /ˌɪnˈspɛkt/], [in- + spect], [向内看 → 检查],
     [`respect`], [re- + spect], [回头看 → 尊重],
-    [`suspect`], [sub- + spect], [从下看 → 怀疑],
+    [`suspect` /səˈspɛkt/], [sub- + spect], [从下看 → 怀疑],
     [`expect`], [ex- + spect], [向外看 → 期待（向外张望等待）],
-    [`aspect`], [a- + spect], [朝着看 → 方面],
-    [`perspective`], [per- + spect + -ive], [透过看 → 视角],
-    [`introspection`], [intro- + spect + -ion], [向内看 → 内省],
-    [`retrospective`], [retro- + spect + -ive], [向后看 → 回顾的],
-    [`spectator`], [spect + -ator], [看的人 → 观众],
-    [`spectacle`], [spect + -acle], [值得看的 → 奇观],
-    [`circumspect`], [circum- + spect], [环顾看 → 谨慎的],
-    [`prospect`], [pro- + spect], [向前看 → 前景],
+    [`aspect` /ˈæˌspɛkt/], [a- + spect], [朝着看 → 方面],
+    [`perspective` /pərˈspɛktɪv/], [per- + spect + -ive], [透过看 → 视角],
+    [`introspection` /ˌɪntrəˈspɛkʃən/], [intro- + spect + -ion], [向内看 → 内省],
+    [`retrospective` /ˌrɛtrəˈspɛktɪv/], [retro- + spect + -ive], [向后看 → 回顾的],
+    [`spectator` /ˈspɛkteɪtər/], [spect + -ator], [看的人 → 观众],
+    [`spectacle` /ˈspɛktəkəl/], [spect + -acle], [值得看的 → 奇观],
+    [`circumspect` /ˈsɝkəmˌspɛkt/], [circum- + spect], [环顾看 → 谨慎的],
+    [`prospect` /ˈprɑspɛkt/], [pro- + spect], [向前看 → 前景],
   )
 
 #strong[12 个词，只记一个核心义]：`spec = 看`。
@@ -1739,7 +1743,7 @@ Pulcher 怎么反应？他勃然大怒，抓起一只神鸡，当众把它扔进
 - #strong[`see` 和 `spect` 是否同根，学界尚无定论]。`spect` 经拉丁 specere ← 原始印欧语 \*spek-;`see` 经古英语#emph[sēon] ← \*sek-。\*spek- 与 \*sek- 是否本就同一个更古老的根，有人赞成有人反对。本书把它们当作"语义同源"而非"词源同根"来处理。
 - #strong[观神鸡、德里帕那海战、扔鸡入海是真的，但细节有版本差异]。西塞罗、老普林尼、苏维托尼乌斯、卡西乌斯·狄奥都有记载，但"原话怎么说的""扔了几只"各版本略有出入。"Bellum gerant, bibant!"这一更狠的版本，部分学者认为是后人的演绎。
 - #strong[斗兽场开幕"九千头野兽""庆典一百天"出自古代文献]，古人的统计向来爱凑整，数字本身不必当成精确计量。
-- #strong[`suspect` 的"从下面偷看 → 怀疑"是可靠的词源脉络]，但"奴隶偷看主人"这一具体画面是罗马作家笔下的经典意象，属于#emph[（传说）]级别的助记场景，不是某条词典定义。
+- #strong[`suspect` /səˈspɛkt/ 的"从下面偷看 → 怀疑"是可靠的词源脉络]，但"奴隶偷看主人"这一具体画面是罗马作家笔下的经典意象，属于#emph[（传说）]级别的助记场景，不是某条词典定义。
 - #strong[auspice / inaugurate 之间确有词源联系]（都从观鸟占卜而来），但 augur 一词的更早来源在学界仍有不同说法，本书取主流观点。
 
 #horizontalrule
@@ -1761,8 +1765,8 @@ Pulcher 怎么反应？他勃然大怒，抓起一只神鸡，当众把它扔进
 ==== 思考题（答案见附录 A）
 <思考题答案见附录-a-2>
 + 拆解 `expect`（期待）：它怎么从"向外看"变成"期待"的？（提示：向外张望、等待某人或某事）
-+ 拆解 `circumspect`（谨慎的）：为什么"四面环顾看"等于"谨慎"?
-+ 思考：`spectacular`（壮观的）的 `spect` + `-acle` + `-ar`，字面义是什么？
++ 拆解 `circumspect` /ˈsɜrkəmˌspɛkt/（谨慎的）：为什么"四面环顾看"等于"谨慎"?
++ 思考：`spectacular` /spɛkˈtækjələr/（壮观的）的 `spect` + `-acle` + `-ar`，字面义是什么？
 
 #pagebreak(weak: true)
 
@@ -1776,7 +1780,7 @@ Pulcher 怎么反应？他勃然大怒，抓起一只神鸡，当众把它扔进
 #strong[词根]：`duc-` / `duct-` #strong[含义]：引导、带领、拉(to lead, to guide, to bring) #strong[起源]：拉丁动词#emph[#strong[ducere]]（"引导、带领"），来自原始印欧语 \*deuk-（"带领"）
 ]
 
-ducere 家族是英语里#strong[高频的拉丁词根家族之一]。它生成的词出现在教育(`educate`)、生产(`produce`)、传导(`conduct`)、介绍(`introduce`)、减少(`reduce`)等大量核心词里，一位司机同时跑教育、工业和社交三条线。
+ducere 家族是英语里#strong[高频的拉丁词根家族之一]。它生成的词出现在教育(`educate` /ˈɛdʒəkeɪt/)、生产(`produce` /prəˈdus/)、传导(`conduct` /kənˈdʌkt/)、介绍(`introduce` /ˌɪntrəˈdus/)、减少(`reduce` /rəˈdus/)等大量核心词里，一位司机同时跑教育、工业和社交三条线。
 
 更妙的是，ducere 的派生逻辑#strong[相当清晰] ------前缀通常告诉你"引导到哪里去"，理解了方向，词义就容易浮现。偶尔有历史语义绕路，也别怪司机，那是路线用了两千年。
 
@@ -1832,9 +1836,9 @@ ducere 家族最大的特点，是它的派生词#strong[高度依赖前缀的�
     [`pro-`（向前）], [引导向前], [produce], [生产],
     [`e-`/`ex-`（向外）], [引导向外], [educe], [引出],
     [`re-`（回）], [引导回原处], [reduce], [减少、引回],
-    [`in-`（入）], [引导进入], [induce], [诱导],
-    [`de-`（向下）], [向下引导], [deduce], [推断],
-    [`se-`（分开）], [引导开], [seduce], [引诱开],
+    [`in-`（入）], [引导进入], [induce /ˌɪnˈdus/], [诱导],
+    [`de-`（向下）], [向下引导], [deduce /dɪˈdus/], [推断],
+    [`se-`（分开）], [引导开], [seduce /sɪˈdus/], [引诱开],
     [`intro-`（向内）], [引导向内], [introduce], [介绍：引入],
   )
 
@@ -1850,7 +1854,7 @@ ducere 家族最大的特点，是它的派生词#strong[高度依赖前缀的�
     table.header(th([词干]), th([形态类型]), th([例词]),),
     table.hline(),
     [`duc-`], [现在时词干], [produce, reduce, induce, educe],
-    [`duct-`], [过去分词词干], [conduct, product, deduct, aqueduct],
+    [`duct-`], [过去分词词干], [conduct, product, deduct /dɪˈdʌkt/, aqueduct /ˈækwəˌdəkt/],
   )
 
 规律：
@@ -1896,15 +1900,15 @@ ducere 家族最大的特点，是它的派生词#strong[高度依赖前缀的�
   ]
 ]
 #quote(block: true)[
-注：`doctor`（医生/博士）和 `doctrine`（学说）来自另一拉丁动词#emph[docere]（教），其更早来源通常重建为 \*dek-，不要与#emph[ducere] 的 \*deuk- 合并。第 13 章将单独讲解。
+注：`doctor` /ˈdɑktər/（医生/博士）和 `doctrine` /ˈdɑktrɪn/（学说）来自另一拉丁动词#emph[docere]（教），其更早来源通常重建为 \*dek-，不要与#emph[ducere] 的 \*deuk- 合并。第 13 章将单独讲解。
 ]
 
 #horizontalrule
 
 === 【代表词深讲】四个词的故事
 <代表词深讲四个词的故事-1>
-==== 词 1：`educate`（教育）
-<词-1educate教育>
+==== 词 1：`educate` /ˈɛdʒəˌkeɪt/（教育）
+<词-1educate-ˈɛdʒəˌkeɪt教育>
 #strong[历史来源]：英语经中古英语和拉丁语借入#emph[educare]（养育、训练、教育）。
 
 #strong[故事]：
@@ -1939,7 +1943,7 @@ ducere 家族最大的特点，是它的派生词#strong[高度依赖前缀的�
 #strong[怎么看待这个误会？]别急着拆穿它------它是个#strong[精彩的民间教育哲学]，只是不该被当成词源学的结论。下次有人对你说"education 就是 leading out"，你可以微微一笑："理念我赞同，词源上呢，它其实更接近\'把孩子养大\'。"
 ]
 
-#strong[同根派生]：`education`（教育）、`educator`（教育者）、`educated`（受过教育的）
+#strong[同根派生]：`education`（教育）、`educator` /ˈɛdʒəˌkeɪtər/（教育者）、`educated` /ˈɛdʒəˌkeɪtɪd/（受过教育的）
 
 #quote(block: true)[
 #strong[两个长得很像的兄弟，别搞混]：
@@ -1952,8 +1956,8 @@ ducere 家族最大的特点，是它的派生词#strong[高度依赖前缀的�
 
 #horizontalrule
 
-==== 词 2：`produce`（生产）
-<词-2produce生产>
+==== 词 2：`produce` /prəˈdus/（生产）
+<词-2produce-prəˈdus生产>
 #strong[拆解]：`pro-`（向前）+ `duc`（引导）+ `-e`（动词后缀）= 向前引导
 
 #strong[故事]：
@@ -1968,16 +1972,16 @@ ducere 家族最大的特点，是它的派生词#strong[高度依赖前缀的�
 
 #strong[派生词]：
 
-- `product`（产品：被带出来的东西）
+- `product` /ˈprɑdəkt/（产品：被带出来的东西）
 - `production`（生产）
-- `productive`（多产的）
-- `reproduce`（再生产：re- + produce）
+- `productive` /prəˈdʌktɪv/（多产的）
+- `reproduce` /ˌriprəˈdus/（再生产：re- + produce）
 - `by-product`（副产品）
 
 #horizontalrule
 
-==== 词 3：`reduce`（减少）
-<词-3reduce减少>
+==== 词 3：`reduce` /rəˈdus/（减少）
+<词-3reduce-rəˈdus减少>
 #strong[拆解]：`re-`（回）+ `duc`（引导）+ `-e`（动词后缀）= 引导回原处
 
 #strong[故事]：
@@ -1992,8 +1996,8 @@ ducere 家族最大的特点，是它的派生词#strong[高度依赖前缀的�
 
 #strong[派生词]：
 
-- `reduction`（减少）
-- `reducible`（可减少的）
+- `reduction` /rɪˈdʌkʃən/（减少）
+- `reducible` /rɪˈdusəbəl/（可减少的）
 - `irreducible`（不可减少的）
 
 #quote(block: true)[
@@ -2002,8 +2006,8 @@ ducere 家族最大的特点，是它的派生词#strong[高度依赖前缀的�
 
 #horizontalrule
 
-==== 词 4：`introduce`（介绍）
-<词-4introduce介绍>
+==== 词 4：`introduce` /ˌɪntrəˈdus/（介绍）
+<词-4introduce-ˌɪntrəˈdus介绍>
 #strong[拆解]：`intro-`（向内）+ `duc`（引导）+ `-e`（动词后缀）= 引导向内
 
 #strong[故事]：
@@ -2014,14 +2018,14 @@ ducere 家族最大的特点，是它的派生词#strong[高度依赖前缀的�
 
 #strong[派生词]：
 
-- `introduction`（介绍、导论：书的开头，把读者"引入"主题）
-- `introductory`（介绍的、开篇的）
+- `introduction` /ˌɪntrəˈdʌkʃən/（介绍、导论：书的开头，把读者"引入"主题）
+- `introductory` /ˌɪntrəˈdʌktəri/（介绍的、开篇的）
 
 #horizontalrule
 
 === 【番外·高潮】aqueduct：罗马人把山"引"进城
 <番外高潮aqueduct罗马人把山引进城>
-前面四个词都偏抽象。但 ducere 家族里有一个词，#strong[至今还立在欧洲的大地上]，两千岁高龄，依然在水里倒映着罗马的影子------它就是#strong[`aqueduct`（罗马水道、渡槽）]。
+前面四个词都偏抽象。但 ducere 家族里有一个词，#strong[至今还立在欧洲的大地上]，两千岁高龄，依然在水里倒映着罗马的影子------它就是#strong[`aqueduct` /ˈækwəˌdʌkt/（罗马水道、渡槽）]。
 
 #strong[拆解]：`aque`（水，#emph[aqua] 的变体）+ `duct`（引导）= #strong[把水引导过来]。
 
@@ -2062,7 +2066,7 @@ ducere 家族最大的特点，是它的派生词#strong[高度依赖前缀的�
 #strong[金句]：今天我们拧开水龙头就有水，觉得很平常。其实这份"平常"，是罗马人两千年前用石头和重力，把一座山"引"进城的结果。
 ]
 
-#strong[同根亲戚]：`viaduct`（高架桥，#emph[via] 路 + #emph[duct] 引导------把路引导过山谷）、`aqueduct` 的近亲#emph[aqueous]（水的）。`duct` 本身也是个独立词（管道、导管），所有"引导水/气/电的通道"，都归这个家族管。
+#strong[同根亲戚]：`viaduct` /ˈvaɪədəkt/（高架桥，#emph[via] 路 + #emph[duct] 引导------把路引导过山谷）、`aqueduct` /ˈækwəˌdʌkt/ 的近亲#emph[aqueous] /ˈeɪkwiəs/（水的）。`duct` 本身也是个独立词（管道、导管），所有"引导水/气/电的通道"，都归这个家族管。
 
 #horizontalrule
 
@@ -2070,7 +2074,7 @@ ducere 家族最大的特点，是它的派生词#strong[高度依赖前缀的�
 <词源辨正ducere-和-duke公爵是亲戚吗>
 #strong[答案：是。]
 
-`duke`（公爵）来自拉丁#emph[dux]（领袖、统帅），与#emph[ducere] 同族------它表示#strong[带领者]，不是"被引导者"。
+`duke` /duk/（公爵）来自拉丁#emph[dux]（领袖、统帅），与#emph[ducere] 同族------它表示#strong[带领者]，不是"被引导者"。
 
 #diagram-panel(title: "图示 22 · 关系图", breakable: false)[
   #align(center)[
@@ -2085,11 +2089,11 @@ ducere 家族最大的特点，是它的派生词#strong[高度依赖前缀的�
     )
   ]
 ]
-所以 `duke` 字面义是"#strong[引导者] "。欧洲的公爵(duchy)就是"由公爵领导"的领地。
+所以 `duke` 字面义是"#strong[引导者] "。欧洲的公爵(duchy /ˈdʌtʃi/)就是"由公爵领导"的领地。
 
-==== 番外：威尼斯总督(Doge)与"婚海礼"
-<番外威尼斯总督doge与婚海礼>
-ducere 这条血脉里，还有一位#strong[最浪漫的"引导者"] ------威尼斯总督，#strong[Doge] 。
+==== 番外：威尼斯总督(Doge /doʊdʒ/)与"婚海礼"
+<番外威尼斯总督doge-doʊdʒ与婚海礼>
+ducere 这条血脉里，还有一位#strong[最浪漫的"引导者"] ------威尼斯总督，#strong[Doge] /doʊdʒ/。
 
 `Doge` 这个词来自威尼斯方言，从拉丁#emph[dux]（领袖）变来，字面就是"#strong[引导威尼斯共和国的那个人] "。从公元 7 世纪到 1797 年拿破仑废掉这个共和国，一千多年里，威尼斯的元首都叫 Doge。#emph[（顺便说一句，加密货币圈那个"狗狗币"也叫 Dogecoin------但那个 Doge 来自一只柴犬的表情包 meme，和威尼斯总督只是"撞了名字"，词源上毫无关系。）]
 
@@ -2109,7 +2113,7 @@ ducere 这条血脉里，还有一位#strong[最浪漫的"引导者"] ------威�
 
 ducere 的"引导"走到这里，从将军牵马、牧人赶羊，一路引到了一个海上共和国对自己领土的诗意宣誓------#strong[一个动词，引出了一座城邦的命运]。
 
-#strong[同根兄弟]：`duct`（管道，引导水/气的通道）、`duchess`（女公爵）、`duchy`（公爵领地）、`Doge`（威尼斯总督）
+#strong[同根兄弟]：`duct`（管道，引导水/气的通道）、`duchess` /ˈdʌtʃəs/（女公爵）、`duchy` /ˈdʌtʃi/（公爵领地）、`Doge`（威尼斯总督）
 
 #horizontalrule
 
@@ -2122,16 +2126,16 @@ ducere 的"引导"走到这里，从将军牵马、牧人赶羊，一路引到�
     align: (left + horizon, left + horizon, left + horizon,),
     table.header(th([词]), th([拆解]), th([推义]),),
     table.hline(),
-    [`conduct`], [con- + duct], [引导到一起 → 指挥、传导],
-    [`produce`], [pro- + duce], [向前引导 → 生产],
-    [`reduce`], [re- + duce], [引导回 → 减少],
-    [`educate`], [拉丁 educare], [养育、训练 → 教育（引出潜能是美丽误会）],
-    [`introduce`], [intro- + duce], [向内引导 → 介绍],
-    [`deduce`], [de- + duce], [向下引导 → 推断（从一般到特殊）],
-    [`induce`], [in- + duce], [引导进入 → 诱导],
-    [`seduce`], [se- + duce], [引导分开 → 引诱],
-    [`aqueduct`], [aque（水）+ duct], [引导水的 → 水道、渡槽],
-    [`viaduct`], [via（路）+ duct], [引导路的 → 高架桥],
+    [`conduct` /ˈkɑndəkt/], [con- + duct], [引导到一起 → 指挥、传导],
+    [`produce` /prəˈdus/], [pro- + duce], [向前引导 → 生产],
+    [`reduce` /rəˈdus/], [re- + duce], [引导回 → 减少],
+    [`educate` /ˈɛdʒəˌkeɪt/], [拉丁 educare], [养育、训练 → 教育（引出潜能是美丽误会）],
+    [`introduce` /ˌɪntrəˈdus/], [intro- + duce], [向内引导 → 介绍],
+    [`deduce` /dɪˈdus/], [de- + duce], [向下引导 → 推断（从一般到特殊）],
+    [`induce` /ˌɪnˈdus/], [in- + duce], [引导进入 → 诱导],
+    [`seduce` /sɪˈdus/], [se- + duce], [引导分开 → 引诱],
+    [`aqueduct` /ˈækwəˌdʌkt/], [aque（水）+ duct], [引导水的 → 水道、渡槽],
+    [`viaduct` /ˈvaɪədəkt/], [via（路）+ duct], [引导路的 → 高架桥],
   )
 
 #quote(block: true)[
@@ -2144,10 +2148,10 @@ ducere 的"引导"走到这里，从将军牵马、牧人赶羊，一路引到�
 <避坑提示-1>
 这个家族虽然是词根界的模范生，也有几处容易翻车的弯道：
 
-- #strong[`educate` 来自#emph[educare]（养育），不是#emph[educere]（引出）]。"教育 = 引出潜能"是一段优美但流传过广的民间解释------教育哲学家爱讲，语言学家摇头。详见本章"词 1"。
-- #strong[`ducere` 与 `docere`（教）不是一家]。#emph[docere] → `doctor`、`doctrine`，来自 \*dek-;#emph[ducere] 来自 \*deuk-。两家人门牌号像，姓不一样，别并户。
-- #strong[前缀 = 方向，不等于全部词义]。`conduct` 的"传导电/热"、`seduce` 的"性诱惑"，都是方向义经过两千年绕弯后的样子------前缀只是导航起点，终点得逐词确认。
-- #strong[化学 `reduction`（还原）是术语演变]，不是字面"把氧化物引回金属"。词源提供画面，术语有自己的后半生。
+- #strong[`educate` /ˈɛdʒəˌkeɪt/ 来自#emph[educare]（养育），不是#emph[educere]（引出）]。"教育 = 引出潜能"是一段优美但流传过广的民间解释------教育哲学家爱讲，语言学家摇头。详见本章"词 1"。
+- #strong[`ducere` 与 `docere`（教）不是一家]。#emph[docere] → `doctor` /ˈdɑktər/、`doctrine` /ˈdɑktrən/，来自 \*dek-;#emph[ducere] 来自 \*deuk-。两家人门牌号像，姓不一样，别并户。
+- #strong[前缀 = 方向，不等于全部词义]。`conduct` /ˈkɑndəkt/ 的"传导电/热"、`seduce` /sɪˈdus/ 的"性诱惑"，都是方向义经过两千年绕弯后的样子------前缀只是导航起点，终点得逐词确认。
+- #strong[化学 `reduction` /rəˈdʌkʃən/（还原）是术语演变]，不是字面"把氧化物引回金属"。词源提供画面，术语有自己的后半生。
 
 #horizontalrule
 
@@ -2167,23 +2171,23 @@ ducere 的"引导"走到这里，从将军牵马、牧人赶羊，一路引到�
 
 ==== 【思考题】（答案见附录 A）
 <思考题答案见附录-a-3>
-+ `aqueduct`（渡槽）怎么拆？为什么"引导水的"等于渡槽？
-+ `seduce`（引诱）字面义是"引导分开"------为什么引诱等于"引开"？（提示：把人从正道上引开）
-+ `deduce`（推断）字面义是"向下引导"------为什么推断等于"向下"？（提示：从普遍原则向下推导到具体）
++ `aqueduct` /ˈækwəˌdʌkt/（渡槽）怎么拆？为什么"引导水的"等于渡槽？
++ `seduce` /sɪˈdus/（引诱）字面义是"引导分开"------为什么引诱等于"引开"？（提示：把人从正道上引开）
++ `deduce` /dɪˈdus/（推断）字面义是"向下引导"------为什么推断等于"向下"？（提示：从普遍原则向下推导到具体）
 
 #pagebreak(weak: true)
 
 == 第 6 章罗马人的"投掷":jacere 家族
 <第-6-章罗马人的投掷jacere-家族>
 #quote(block: true)[
-罗马人负责"扔"，英语负责接。两千年后，我们接到了一篮子 `inject`、`reject` 和 `project`。
+罗马人负责"扔"，英语负责接。两千年后，我们接到了一篮子 `inject` /ɪnˈdʒɛkt/、`reject` /rɪˈdʒɛkt/ 和 `project`。
 ]
 
 #quote(block: true)[
 #strong[词根]：`jac-` / `ject-` #strong[含义]：投、掷、扔、抛(to throw, to cast, to hurl) #strong[起源]：拉丁动词#emph[#strong[iacere]]（"投掷"；传统英语词源拼作#emph[jacere]）。另有拼写相近但不同的#emph[#strong[iacēre]]（"躺着"）
 ]
 
-jacere 家族生成了 `inject`（注射）、`reject`（拒绝）、`project`（投射/项目）、`eject`（弹出）、`subject`（主题/使服从）、`object`（物体/反对）------这些动词全是高频学术词。
+jacere 家族生成了 `inject`（注射）、`reject`（拒绝）、`project`（投射/项目）、`eject` /ɪˈdʒɛkt/（弹出）、`subject` /səbˈdʒɛkt/（主题/使服从）、`object` /ˈɑbdʒɛkt/（物体/反对）------这些动词全是高频学术词。
 
 这个家族的妙处在于：#strong[每一次"投掷"的方向都不一样]，而方向常常决定词义。认前缀就像看抛物线，先判断东西往哪儿飞。
 
@@ -2203,11 +2207,11 @@ jacere 家族生成了 `inject`（注射）、`reject`（拒绝）、`project`�
     table.header(th([拉丁动词]), th([含义]), th([画面 / 来源]),),
     table.hline(),
     [iacere（投掷）], [投、掷], [古罗马士兵投标枪],
-    [iacēre（躺着）], [躺着、位于], [adjacent "位于旁边"],
+    [iacēre（躺着）], [躺着、位于], [adjacent /əˈdʒeɪsənt/ "位于旁边"],
   )
 
 #quote(block: true)[
-#strong[提示]英语里的 `-ject-` 词族主要来自"投掷"动词；`adjacent` 则来自"躺着、位于"动词。拼写相似不能代替词源区分。
+#strong[提示]英语里的 `-ject-` 词族主要来自"投掷"动词；`adjacent` /əˈdʒeɪsənt/ 则来自"躺着、位于"动词。拼写相似不能代替词源区分。
 ]
 
 ==== jacere 的核心智慧：方向决定词义
@@ -2225,8 +2229,8 @@ jacere 家族生成了 `inject`（注射）、`reject`（拒绝）、`project`�
     [`e-`/`ex-`（向外）], [投出去], [eject（弹出）],
     [`sub-`（向下）], [投向下], [subject（使服从）],
     [`ob-`（对向）], [投向对方], [object（反对/物体）],
-    [`de-`（向下）], [丢下去], [dejected（沮丧：被丢下）],
-    [`inter-`（之间）], [投在中间], [interject（插话）],
+    [`de-`（向下）], [丢下去], [dejected /dɪˈdʒɛktɪd/（沮丧：被丢下）],
+    [`inter-`（之间）], [投在中间], [interject /ˌɪntərˈdʒɛkt/（插话）],
   )
 
 ==== 两个词族为什么容易混淆
@@ -2290,8 +2294,8 @@ jacere 家族生成了 `inject`（注射）、`reject`（拒绝）、`project`�
 
 === 【代表词深讲】四个词的故事
 <代表词深讲四个词的故事-2>
-==== 词 1：`reject`（拒绝）
-<词-1reject拒绝>
+==== 词 1：`reject` /rɪˈdʒɛkt/（拒绝）
+<词-1reject-rɪˈdʒɛkt拒绝>
 #strong[拆解]：`re-`（回）+ `ject`（投）= 投回去
 
 #strong[故事]：
@@ -2312,13 +2316,13 @@ jacere 家族生成了 `inject`（注射）、`reject`（拒绝）、`project`�
 ]
 #strong[派生词]：
 
-- `rejection`（拒绝）
+- `rejection` /rɪˈdʒɛkʃən/（拒绝）
 - `rejective`（拒绝的）
 
 #horizontalrule
 
-==== 词 2：`inject`（注射）
-<词-2inject注射>
+==== 词 2：`inject` /ˌɪnˈdʒɛkt/（注射）
+<词-2inject-ˌɪnˈdʒɛkt注射>
 #strong[拆解]：`in-`（进入）+ `ject`（投）= 投进去
 
 #strong[故事]：
@@ -2329,8 +2333,8 @@ jacere 家族生成了 `inject`（注射）、`reject`（拒绝）、`project`�
 
 #strong[派生词]：
 
-- `injection`（注射）
-- `injector`（注射器）
+- `injection` /ɪnˈdʒɛkʃən/（注射）
+- `injector` /ɪnˈdʒɛktɚ/（注射器）
 
 #quote(block: true)[
 #strong[提示] #strong[延伸]：`inject` 的引申义很常用，如 `inject money into the economy`（向经济注入资金）、`inject humor into a speech`（给演讲注入幽默）。
@@ -2367,14 +2371,14 @@ jacere 家族生成了 `inject`（注射）、`reject`（拒绝）、`project`�
 
 #strong[派生词]：
 
-- `projection`（投射、投影）
-- `projector`（投影仪）
-- `projectile`（抛射物：被投掷出去的东西，如炮弹）
+- `projection` /prɑˈdʒɛkʃən/（投射、投影）
+- `projector` /prɑˈdʒɛktər/（投影仪）
+- `projectile` /prɑˈdʒɛktəl/（抛射物：被投掷出去的东西，如炮弹）
 
 #horizontalrule
 
-==== 词 4：`dejected`（沮丧的）
-<词-4dejected沮丧的>
+==== 词 4：`dejected` /dɪˈdʒɛktɪd/（沮丧的）
+<词-4dejected-dɪˈdʒɛktɪd沮丧的>
 #strong[拆解]：`de-`（向下）+ `ject`（投）+ `-ed` = 被投下去的
 
 #strong[故事]：
@@ -2393,7 +2397,7 @@ jacere 家族生成了 `inject`（注射）、`reject`（拒绝）、`project`�
   )
 
 #quote(block: true)[
-#strong[提示] #strong[对照记忆]：`dejected`（沮丧，向下投）↔ `elated`（兴奋，向上抬）。情绪的高低，在拉丁词根里就是物理的高低。
+#strong[提示] #strong[对照记忆]：`dejected`（沮丧，向下投）↔ `elated` /ɪˈleɪtɪd/（兴奋，向上抬）。情绪的高低，在拉丁词根里就是物理的高低。
 ]
 
 #horizontalrule
@@ -2402,7 +2406,7 @@ jacere 家族生成了 `inject`（注射）、`reject`（拒绝）、`project`�
 <词源辨正jet喷气式飞机和-jacere-同根吗>
 #strong[答案：是，而且这是 jacere 家族里最戏剧性的远房亲戚。]
 
-`jet`（喷气式飞机、喷流）来自法语#emph[jeter] "投掷、扔"，其更早来源与拉丁#emph[iacere] 及反复动词#emph[iactare] 有关。
+`jet` /dʒɛt/（喷气式飞机、喷流）来自法语#emph[jeter] "投掷、扔"，其更早来源与拉丁#emph[iacere] 及反复动词#emph[iactare] 有关。
 
 #diagram-panel(title: "图示 27 · 关系图", breakable: false)[
   #align(center)[
@@ -2423,7 +2427,7 @@ jacere 家族生成了 `inject`（注射）、`reject`（拒绝）、`project`�
 ]
 所以 `jet` 字面义是"#strong[被投掷出来的东西] "------喷出的气流、喷出的水流都是"投掷物"。喷气式飞机(jet)就是"靠投掷气体前进的飞机"。
 
-#strong[同根兄弟]：`jet`（喷气）、`jettison`（抛弃货物：把货扔下船）、`jetsam`（抛弃的货物）
+#strong[同根兄弟]：`jet`（喷气）、`jettison` /ˈdʒɛtɪsən/（抛弃货物：把货扔下船）、`jetsam`（抛弃的货物）
 
 #horizontalrule
 
@@ -2436,15 +2440,15 @@ jacere 家族生成了 `inject`（注射）、`reject`（拒绝）、`project`�
     align: (left + horizon, left + horizon, left + horizon,),
     table.header(th([词]), th([拆解]), th([推义]),),
     table.hline(),
-    [`inject`], [in- + ject], [投入 → 注射],
-    [`reject`], [re- + ject], [投回 → 拒绝],
-    [`eject`], [e- + ject], [投出 → 弹出],
+    [`inject` /ˌɪnˈdʒɛkt/], [in- + ject], [投入 → 注射],
+    [`reject` /rɪˈdʒɛkt/], [re- + ject], [投回 → 拒绝],
+    [`eject` /ɪˈdʒɛkt/], [e- + ject], [投出 → 弹出],
     [`project`], [pro- + ject], [投向前 → 投射/项目],
-    [`subject`], [sub- + ject], [投向下 → 使服从/主题],
-    [`object`], [ob- + ject], [投向对方 → 反对/物体],
-    [`interject`], [inter- + ject], [投在中间 → 插话],
-    [`dejected`], [de- + ject + -ed], [被丢下 → 沮丧],
-    [`trajectory`], [tra-(trans)+ ject + -ory], [投越的 → 弹道],
+    [`subject` /səbˈdʒɛkt/], [sub- + ject], [投向下 → 使服从/主题],
+    [`object` /ˈɑbdʒɛkt/], [ob- + ject], [投向对方 → 反对/物体],
+    [`interject` /ˌɪntərˈdʒɛkt/], [inter- + ject], [投在中间 → 插话],
+    [`dejected` /dɪˈdʒɛktɪd/], [de- + ject + -ed], [被丢下 → 沮丧],
+    [`trajectory` /trəˈdʒɛktəri/], [tra-(trans)+ ject + -ory], [投越的 → 弹道],
   )
 
 #quote(block: true)[
@@ -2469,9 +2473,9 @@ jacere 家族生成了 `inject`（注射）、`reject`（拒绝）、`project`�
 
 ==== 【思考题】（答案见附录 A）
 <思考题答案见附录-a-4>
-+ `subject` 字面是"投向下"，为什么引申为"主题"和"使服从"？（提示：被扔到下面的就是被支配的；论题被"放在下面"作为讨论基础）
-+ `object` 字面是"投向对方"，为什么既指"反对"又指"物体"？（提示：把东西抛到对方面前表示异议；被抛在面前供观察的东西）
-+ `trajectory`（弹道）怎么拆？为什么"投越"等于弹道？
++ `subject` /səbˈdʒɛkt/ 字面是"投向下"，为什么引申为"主题"和"使服从"？（提示：被扔到下面的就是被支配的；论题被"放在下面"作为讨论基础）
++ `object` /ˈɑbdʒɛkt/ 字面是"投向对方"，为什么既指"反对"又指"物体"？（提示：把东西抛到对方面前表示异议；被抛在面前供观察的东西）
++ `trajectory` /trəˈdʒɛktəri/（弹道）怎么拆？为什么"投越"等于弹道？
 
 #pagebreak(weak: true)
 
@@ -2485,7 +2489,7 @@ jacere 家族生成了 `inject`（注射）、`reject`（拒绝）、`project`�
 #strong[词根]：`cap-` / `capt-` / `cip-` / `cept-` / `ceiv-` #strong[含义]：抓、取、拿、容纳、接收(to take, to seize, to hold, to receive) #strong[起源]：拉丁动词#emph[#strong[capere]]（"取、抓、容纳"）
 ]
 
-capere 家族是全书变体较多的词族之一------英语中常见 `cap/capt/cip/cept/ceiv` 等形态。它的家族成员很多：`capture`（捕获）、`receive`（接收）、`accept`（接受）、`concept`（概念）、`capable`（有能力的）、`except`（除外）、`perceive`（察觉）、`deceive`（欺骗）……
+capere 家族是全书变体较多的词族之一------英语中常见 `cap/capt/cip/cept/ceiv` 等形态。它的家族成员很多：`capture` /ˈkæptʃər/（捕获）、`receive` /rəˈsiv/（接收）、`accept` /ækˈsɛpt/（接受）、`concept` /ˈkɑnsɛpt/（概念）、`capable` /ˈkeɪpəbəl/（有能力的）、`except`（除外）、`perceive` /pərˈsiv/（察觉）、`deceive` /dɪˈsiv/（欺骗）……
 
 学透这一根，就能成组理解一批高频词。它脸多，但不是五个词根开会，而是同一家族换了几套历史造型。
 
@@ -2520,7 +2524,7 @@ capere 家族是全书变体较多的词族之一------英语中常见 `cap/capt
     table.header(th([变体]), th([来源]), th([例子]),),
     table.hline(),
     [`cap-` / `capt-`], [基本词干及分词派生], [#strong[cap]able 有能力的、#strong[cap]acity 容量、#strong[capt]ure 捕获],
-    [`cip-`], [复合词中的元音弱化], [re#strong[cip]ient 接收者、in#strong[cip]ient 初期的、prin#strong[cip]al 主要的],
+    [`cip-`], [复合词中的元音弱化], [re#strong[cip]ient 接收者、in#strong[cip]ient /ɪnˈsɪpiənt/ 初期的、prin#strong[cip]al 主要的],
     [`cept-`], [复合词的分词形式], [con#strong[cept] 概念、ac#strong[cept] 接受、ex#strong[cept] 除外、inter#strong[cept] 拦截],
     [`ceiv-`], [capere 经古法语], [re#strong[ceiv]e 接收、de#strong[ceiv]e 欺骗、per#strong[ceiv]e 察觉、con#strong[ceiv]e 构思],
   )
@@ -2607,8 +2611,8 @@ capere 之所以派生能力这么强，是因为它#strong[本身就有三个�
 
 === 【代表词深讲】四个词的故事
 <代表词深讲四个词的故事-3>
-==== 词 1：`receive`（接收）
-<词-1receive接收>
+==== 词 1：`receive` /rəˈsiv/（接收）
+<词-1receive-rəˈsiv接收>
 #strong[拆解]：`re-`（回）+ `ceiv`（取）+ `-e`（动词后缀）= 取回
 
 #strong[故事]：
@@ -2630,18 +2634,18 @@ capere 之所以派生能力这么强，是因为它#strong[本身就有三个�
 ]
 #strong[派生词]：
 
-- `receipt`（收据、收条）
-- `receiver`（接收者、接收器）
-- `reception`（接待、接收）
+- `receipt` /rɪˈsit/（收据、收条）
+- `receiver` /rɪˈsivər/（接收者、接收器）
+- `reception` /rɪˈsɛpʃən/（接待、接收）
 
 #quote(block: true)[
-#strong[提示] #strong[有意思的细节]：`recipe`（食谱、配方）也是同根！来自拉丁#emph[recipe] "取"------医生开处方时写"Recipe"（取下列药材），后来变成"食谱"。
+#strong[提示] #strong[有意思的细节]：`recipe` /ˈrɛsəpi/（食谱、配方）也是同根！来自拉丁#emph[recipe] "取"------医生开处方时写"Recipe"（取下列药材），后来变成"食谱"。
 ]
 
 #horizontalrule
 
-==== 词 2：`concept`（概念）
-<词-2concept概念>
+==== 词 2：`concept` /ˈkɑnsɛpt/（概念）
+<词-2concept-ˈkɑnsɛpt概念>
 #strong[历史构造]：拉丁#emph[concipere/conceptum]，由 `con-` 与#emph[capere] 词族构成，表示"取入、构想、孕育"。
 
 #strong[故事]：
@@ -2663,22 +2667,22 @@ capere 之所以派生能力这么强，是因为它#strong[本身就有三个�
 ]
 #strong[派生词]：
 
-- `conception`（概念、构思）
-- `conceptual`（概念的）
-- `conceptualize`（概念化）
-- `misconception`（误解：错误抓住）
+- `conception` /kənˈsɛpʃən/（概念、构思）
+- `conceptual` /kənˈsɛptʃuəl/（概念的）
+- `conceptualize` /kənˈsɛptʃuəlaɪz/（概念化）
+- `misconception` /mɪskənˈsɛpʃən/（误解：错误抓住）
 
 #horizontalrule
 
-==== 词 3：`capable`（有能力的）
-<词-3capable有能力的>
+==== 词 3：`capable` /ˈkeɪpəbəl/（有能力的）
+<词-3capable-ˈkeɪpəbəl有能力的>
 #strong[历史构形]：经法语和拉丁#emph[capabilis] 进入英语；#emph[capabilis] 来自#emph[capere]（取、容纳）词族
 
 #strong[故事]：
 
 `capable` 早期有"能够容纳、足以承受"等意义，后来发展为"有能力的"。现代学习时可以识别 `cap-` 与 `-able`，但它不是把现代英语单词 `cap` 临时接上 `-able` 造出的词。
 
-这个词的核心是 capere 的第二层义------#strong[容量]。一个容器能装多少水，叫它的 `capacity`（容量）；一个人能"装下"多少任务、能力，叫他 `capable`（有能力的）。
+这个词的核心是 capere 的第二层义------#strong[容量]。一个容器能装多少水，叫它的 `capacity` /kəˈpæsəti/（容量）；一个人能"装下"多少任务、能力，叫他 `capable`（有能力的）。
 
 #diagram-panel(title: "图示 32 · 词源路径", breakable: false)[
   #table(
@@ -2695,14 +2699,14 @@ capere 之所以派生能力这么强，是因为它#strong[本身就有三个�
 ]
 #strong[派生词]：
 
-- `capability`（能力）
-- `incapable`（无能力的）
+- `capability` /ˌkeɪpəˈbɪləti/（能力）
+- `incapable` /ˌɪnˈkeɪpəbəl/（无能力的）
 - `capacity`（容量）
 
 #horizontalrule
 
-==== 词 4：`perceive`（察觉）
-<词-4perceive察觉>
+==== 词 4：`perceive` /pərˈsiv/（察觉）
+<词-4perceive-pərˈsiv察觉>
 #strong[拆解]：`per-`（透过）+ `ceiv`（取）= 透过……取得
 
 #strong[故事]：
@@ -2724,12 +2728,12 @@ capere 之所以派生能力这么强，是因为它#strong[本身就有三个�
 ]
 #strong[派生词]：
 
-- `perception`（感知、察觉）
-- `perceptive`（敏锐的）
-- `imperceptible`（难以察觉的）
+- `perception` /pərˈsɛpʃən/（感知、察觉）
+- `perceptive` /pərˈsɛptɪv/（敏锐的）
+- `imperceptible` /ˌɪmpərˈsɛptɪbəl/（难以察觉的）
 
 #quote(block: true)[
-#strong[提示] #strong[对照记忆]：`perceive`（察觉）vs `conceive`（构思）vs `deceive`（欺骗）vs `receive`（接收）------四个 `-ceive` 兄弟，前缀不同，词义分明。
+#strong[提示] #strong[对照记忆]：`perceive`（察觉）vs `conceive` /kənˈsiv/（构思）vs `deceive` /dɪˈsiv/（欺骗）vs `receive` /rəˈsiv/（接收）------四个 `-ceive` 兄弟，前缀不同，词义分明。
 ]
 
 #horizontalrule
@@ -2738,7 +2742,7 @@ capere 之所以派生能力这么强，是因为它#strong[本身就有三个�
 <词源辨正capere-和-catch--chase-是亲戚吗>
 #strong[答案：是，这是 capere 最让人意外的远房亲戚。]
 
-`catch`（抓住）和 `chase`（追逐）看起来完全是英语本土词，但其实它们#strong[都来自 capere] ，经过了一条漫长曲折的路：
+`catch` /kætʃ/（抓住）和 `chase` /tʃeɪs/（追逐）看起来完全是英语本土词，但其实它们#strong[都来自 capere] ，经过了一条漫长曲折的路：
 
 #diagram-panel(title: "图示 34 · 关系图", breakable: false)[
   #align(center)[
@@ -2755,7 +2759,7 @@ capere 之所以派生能力这么强，是因为它#strong[本身就有三个�
     )
   ]
 ]
-所以 `catch`、`chase`、`capture`、`receive` #strong[全都来自拉丁 capere] 。一个拉丁动词，在两千年里走出了多种路线，在英语里留下了多个看似无关的子孙。
+所以 `catch`、`chase`、`capture` /ˈkæptʃər/、`receive` /rəˈsiv/ #strong[全都来自拉丁 capere] 。一个拉丁动词，在两千年里走出了多种路线，在英语里留下了多个看似无关的子孙。
 
 #quote(block: true)[
 #strong[注意] #strong[注意区分]：`catch` 和 `chase` 在英语里形式相似、义也相关（都是"抓"），但用法有别------`catch` 强调"抓住结果",`chase` 强调"追逐过程"。
@@ -2772,19 +2776,19 @@ capere 之所以派生能力这么强，是因为它#strong[本身就有三个�
     align: (left + horizon, left + horizon, left + horizon,),
     table.header(th([词]), th([拆解]), th([推义]),),
     table.hline(),
-    [`capture`], [capt + -ure], [抓住 → 捕获],
-    [`capable`], [经拉丁#emph[capabilis]], [能容纳、足以承受 → 有能力的],
-    [`capacity`], [cap + -acity], [能容纳的量 → 容量],
-    [`accept`], [ac-(ad-)+ cept], [抓向自己 → 接受],
+    [`capture` /ˈkæptʃər/], [capt + -ure], [抓住 → 捕获],
+    [`capable` /ˈkeɪpəbəl/], [经拉丁#emph[capabilis]], [能容纳、足以承受 → 有能力的],
+    [`capacity` /kəˈpæsəti/], [cap + -acity], [能容纳的量 → 容量],
+    [`accept` /ækˈsɛpt/], [ac-(ad-)+ cept], [抓向自己 → 接受],
     [`except`], [ex-（出）+ cept], [抓出去 → 除外],
-    [`intercept`], [inter-（中间）+ cept], [中间抓住 → 拦截],
-    [`concept`], [拉丁 conceptum], [在心中构想 → 概念],
-    [`receive`], [re-（回）+ ceiv + e], [取回 → 接收],
-    [`perceive`], [per-（透过）+ ceiv + e], [透过抓住 → 察觉],
-    [`deceive`], [de-（离开）+ ceiv + e], [抓走 → 欺骗],
-    [`conceive`], [con-（共同）+ ceiv + e], [一起抓住 → 构思],
-    [`recipient`], [re- + cip + -ent], [取回者 → 接收者],
-    [`principal`], [prin-（primus 第一）+ cip + -al], [抓第一 → 主要的],
+    [`intercept` /ˌɪntɚˈsɛpt/], [inter-（中间）+ cept], [中间抓住 → 拦截],
+    [`concept` /ˈkɑnsɛpt/], [拉丁 conceptum], [在心中构想 → 概念],
+    [`receive` /rəˈsiv/], [re-（回）+ ceiv + e], [取回 → 接收],
+    [`perceive` /pərˈsiv/], [per-（透过）+ ceiv + e], [透过抓住 → 察觉],
+    [`deceive` /dɪˈsiv/], [de-（离开）+ ceiv + e], [抓走 → 欺骗],
+    [`conceive` /kənˈsiv/], [con-（共同）+ ceiv + e], [一起抓住 → 构思],
+    [`recipient` /rɪˈsɪpiənt/], [re- + cip + -ent], [取回者 → 接收者],
+    [`principal` /ˈprɪnsəpəl/], [prin-（primus 第一）+ cip + -al], [抓第一 → 主要的],
   )
 
 #horizontalrule
@@ -2806,8 +2810,8 @@ capere 之所以派生能力这么强，是因为它#strong[本身就有三个�
 ==== 【思考题】（答案见附录 A）
 <思考题答案见附录-a-5>
 + `except`（除外）字面是"抓出去"，为什么等于"除外"？（提示：把某物从整体里抓出去）
-+ `intercept`（拦截）字面是"中间抓住"，为什么引申为拦截？（提示：东西在传递过程中被抓）
-+ `recipe`（食谱）和 `receive` 同根，为什么"取"变成了"食谱"？（提示：医生处方开头写"取下列药材"）
++ `intercept` /ˌɪntərˈsɛpt/（拦截）字面是"中间抓住"，为什么引申为拦截？（提示：东西在传递过程中被抓）
++ `recipe` /ˈrɛsəpi/（食谱）和 `receive` /rəˈsiv/ 同根，为什么"取"变成了"食谱"？（提示：医生处方开头写"取下列药材"）
 
 #pagebreak(weak: true)
 
@@ -2821,7 +2825,7 @@ capere 之所以派生能力这么强，是因为它#strong[本身就有三个�
 #strong[词根]：`tract-` / `trah-` / `treat-` #strong[含义]：拉、拽、拖(to pull, to drag, to draw) #strong[起源]：拉丁动词#emph[#strong[trahere]]（"拉、拽、拖"），过去分词#emph[#strong[tractus]]
 ]
 
-trahere 家族生成了 `attract`（吸引）、`distract`（分散）、`tractor`（拖拉机）、`extract`（提取）、`contract`（合同）、`retract`（撤回）等高频词。
+trahere 家族生成了 `attract` /əˈtrækt/（吸引）、`distract` /dɪˈstrækt/（分散）、`tractor` /ˈtræktər/（拖拉机）、`extract` /ɪkˈstrækt/（提取）、`contract` /ˈkɑnˌtrækt/（合同）、`retract` /rɪˈtrækt/（撤回）等高频词。
 
 这个家族最有趣的，是它#strong[从物理的"拉拽"演变出抽象的"吸引/处理"] ------词义被一路拖进抽象世界，但绳子还看得见。
 
@@ -2865,7 +2869,7 @@ trahere 家族生成了 `attract`（吸引）、`distract`（分散）、`tracto
     table.hline(),
     [现在时词干：`trah-`], [很少直接出现在英语里], [---],
     [过去分词词干：`tract-`], [绝大多数英语派生词], [attract, distract, extract, contract, tractor],
-    [古法语路线：`treat-`], [经古法语 traitier 进入英语], [treat, treatment, treaty],
+    [古法语路线：`treat-`], [经古法语 traitier 进入英语], [treat, treatment, treaty /ˈtriti/],
   )
 
 #horizontalrule
@@ -2914,8 +2918,8 @@ trahere 家族生成了 `attract`（吸引）、`distract`（分散）、`tracto
 
 === 【代表词深讲】四个词的故事
 <代表词深讲四个词的故事-4>
-==== 词 1：`attract`（吸引）
-<词-1attract吸引>
+==== 词 1：`attract` /əˈtrækt/（吸引）
+<词-1attract-əˈtrækt吸引>
 #strong[拆解]：`at-`（ad- 朝向）+ `tract`（拉）= 拉向自己
 
 #strong[故事]：
@@ -2937,14 +2941,14 @@ trahere 家族生成了 `attract`（吸引）、`distract`（分散）、`tracto
 ]
 #strong[派生词]：
 
-- `attraction`（吸引、吸引力）
-- `attractive`（有吸引力的）
+- `attraction` /əˈtrækʃən/（吸引、吸引力）
+- `attractive` /əˈtræktɪv/（有吸引力的）
 - `attractor`（吸引子）
 
 #horizontalrule
 
-==== 词 2：`distract`（分散注意力）
-<词-2distract分散注意力>
+==== 词 2：`distract` /dɪˈstrækt/（分散注意力）
+<词-2distract-dɪˈstrækt分散注意力>
 #strong[拆解]：`dis-`（分开）+ `tract`（拉）= 拉向不同方向
 
 #strong[故事]：
@@ -2972,14 +2976,14 @@ trahere 家族生成了 `attract`（吸引）、`distract`（分散）、`tracto
 ]
 #strong[派生词]：
 
-- `distraction`（分心、消遣）
-- `distracted`（心烦意乱的）
-- `distracting`（令人分心的）
+- `distraction` /dɪˈstrækʃən/（分心、消遣）
+- `distracted` /dɪˈstræktɪd/（心烦意乱的）
+- `distracting` /dɪˈstræktɪŋ/（令人分心的）
 
 #horizontalrule
 
-==== 词 3：`contract`（合同 / 收缩）
-<词-3contract合同--收缩>
+==== 词 3：`contract` /ˈkɑnˌtrækt/（合同 / 收缩）
+<词-3contract-ˈkɑnˌtrækt合同--收缩>
 #strong[拆解]：`con-`（共同、一起）+ `tract`（拉）= 拉到一起
 
 #strong[故事]：
@@ -3001,14 +3005,14 @@ trahere 家族生成了 `attract`（吸引）、`distract`（分散）、`tracto
 
 #strong[派生词]：
 
-- `contraction`（收缩、缩写）
-- `contractor`（承包商：订立合同的人）
-- `contractual`（合同的）
+- `contraction` /kənˈtrækʃən/（收缩、缩写）
+- `contractor` /ˈkɑnˌtræktər/（承包商：订立合同的人）
+- `contractual` /kənˈtræktʃuəl/（合同的）
 
 #horizontalrule
 
-==== 词 4：`treat`（对待、治疗）------经法语的远亲
-<词-4treat对待治疗经法语的远亲>
+==== 词 4：`treat` /trit/（对待、治疗）------经法语的远亲
+<词-4treat-trit对待治疗经法语的远亲>
 #strong[历史路径]：拉丁#emph[trahere]（拉）→ 反复/加强形式#emph[tractare]（处理、操持）→ 法语 → 英语 `treat`
 
 #strong[故事]：
@@ -3040,19 +3044,19 @@ trahere 家族生成了 `attract`（吸引）、`distract`（分散）、`tracto
 #strong[提示] #strong[同根三兄弟]：
 
 - `treat`（对待、治疗）：处理人
-- `treaty`（条约）：国与国之间的"处理协议"
-- `treatise`（论文）：学者对某主题的"系统处理"
+- `treaty` /ˈtriti/（条约）：国与国之间的"处理协议"
+- `treatise` /ˈtritɪs/（论文）：学者对某主题的"系统处理"
 
 它们都经法语的"处理、商谈、论述"词族而来，再在英语中发生分化。
 ]
 
 #horizontalrule
 
-=== 【词源辨正】portrait（肖像）和 trahere 同根吗
-<词源辨正portrait肖像和-trahere-同根吗>
+=== 【词源辨正】portrait /ˈpɔrtrət/（肖像）和 trahere 同根吗
+<词源辨正portrait-ˈpɔrtrət肖像和-trahere-同根吗>
 #strong[答案：是。]
 
-`portrait`（肖像）、`portray`（描绘）、`trace`（追溯）、`trace`（痕迹）全都来自 trahere，经过法语。
+`portrait` /ˈpɔrtrət/（肖像）、`portray` /pɔrˈtreɪ/（描绘）、`trace` /treɪs/（追溯）、`trace`（痕迹）全都来自 trahere，经过法语。
 
 #diagram-panel(title: "图示 40 · 关系图", breakable: false)[
   #align(center)[
@@ -3082,17 +3086,17 @@ trahere 家族生成了 `attract`（吸引）、`distract`（分散）、`tracto
     align: (left + horizon, left + horizon, left + horizon,),
     table.header(th([词]), th([拆解]), th([推义]),),
     table.hline(),
-    [`attract`], [at- + tract], [拉向 → 吸引],
-    [`distract`], [dis- + tract], [分拉 → 分心],
-    [`extract`], [ex- + tract], [拉出 → 提取],
-    [`contract`], [con- + tract], [拉到一起 → 合同/收缩],
-    [`retract`], [re- + tract], [拉回 → 撤回],
-    [`subtract`], [sub- + tract], [从下拉走 → 减去],
-    [`tractor`], [tract + -or], [拉的东西 → 拖拉机],
-    [`traction`], [tract + -ion], [拉 → 牵引（力）],
-    [`treat`], [经法语，源自拉丁#emph[tractare]], [处理、对待 → 治疗等义],
-    [`treaty`], [（法语）treat + -y], [共同处理 → 条约],
-    [`portrait`], [（法语）por- + trait], [拉出形象 → 肖像],
+    [`attract` /əˈtrækt/], [at- + tract], [拉向 → 吸引],
+    [`distract` /dɪˈstrækt/], [dis- + tract], [分拉 → 分心],
+    [`extract` /ˈɛkˌstrækt/], [ex- + tract], [拉出 → 提取],
+    [`contract` /ˈkɑnˌtrækt/], [con- + tract], [拉到一起 → 合同/收缩],
+    [`retract` /riˈtrækt/], [re- + tract], [拉回 → 撤回],
+    [`subtract` /səbˈtrækt/], [sub- + tract], [从下拉走 → 减去],
+    [`tractor` /ˈtræktər/], [tract + -or], [拉的东西 → 拖拉机],
+    [`traction` /ˈtrækʃən/], [tract + -ion], [拉 → 牵引（力）],
+    [`treat` /trit/], [经法语，源自拉丁#emph[tractare]], [处理、对待 → 治疗等义],
+    [`treaty` /ˈtriti/], [（法语）treat + -y], [共同处理 → 条约],
+    [`portrait` /ˈpɔrtrət/], [（法语）por- + trait], [拉出形象 → 肖像],
   )
 
 #horizontalrule
@@ -3113,9 +3117,9 @@ trahere 家族生成了 `attract`（吸引）、`distract`（分散）、`tracto
 
 ==== 【思考题】（答案见附录 A）
 <思考题答案见附录-a-6>
-+ `subtract`（减去）字面是"从下拉走"，为什么等于减法？（提示：从总数里"拉走"一部分）
-+ `retract`（撤回）字面是"拉回来"，试想这个动作在哪种情境下意味着撤回言论？
-+ `treaty`（条约）和 `treat` 同根，为什么"处理"变成了"条约"？（提示：国与国"处理"分歧的结果）
++ `subtract` /səbˈtrækt/（减去）字面是"从下拉走"，为什么等于减法？（提示：从总数里"拉走"一部分）
++ `retract` /riˈtrækt/（撤回）字面是"拉回来"，试想这个动作在哪种情境下意味着撤回言论？
++ `treaty` /ˈtriti/（条约）和 `treat` /trit/ 同根，为什么"处理"变成了"条约"？（提示：国与国"处理"分歧的结果）
 
 #pagebreak(weak: true)
 
@@ -3144,9 +3148,9 @@ trahere 家族生成了 `attract`（吸引）、`distract`（分散）、`tracto
     align: (left + horizon, left + horizon, left + horizon,),
     table.header(th([词根]), th([含义]), th([例词]),),
     table.hline(),
-    [`cor`（心）], [情感、勇气], [cordial, courage],
+    [`cor`（心）], [情感、勇气], [cordial /ˈkɔrdʒəl/, courage],
     [`mens`（心智）], [思考、理性], [mental, comment],
-    [`animus`（精神）], [灵魂、生命气息], [unanimous, magnanimous],
+    [`animus`（精神）], [灵魂、生命气息], [unanimous /juˈnænəməs/, magnanimous /mægˈnænəməs/],
   )
 
 为便于记忆，可以把这三个员工概括成三层：#strong[心（情感）、脑（理智）、气（灵魂）]。这是学习模型，不是一张能覆盖所有拉丁语境的古罗马心理学诊断表------真要较真，拉丁语里#emph[cor] 也兼管过记忆和理智，#emph[animus] 也兼管过勇气，三位员工的工位偶尔会重叠。但我们先按主流分工记，后面讲词再说例外。
@@ -3157,7 +3161,7 @@ trahere 家族生成了 `attract`（吸引）、`distract`（分散）、`tracto
 <词根-1cor--cord-心情感>
 ==== 【起源故事】
 <起源故事>
-拉丁语#emph[#strong[cor]]（心），来自原始印欧语 \*kerd-（心）。注意：#strong[它的英语本土亲戚是 `heart`] ------经过格林定律(\*k→h,\*d→d)，原始印欧语的 \*kerd 在日耳曼语里变成了 `heart`。所以这条血脉很特别：它#strong[一分为二]，一支走拉丁路线（变成 `cor`，后来生出 cordial、courage、record），一支走日耳曼路线（变成 `heart`，后来在英语里坐稳了"心"的本族词位置）。两支隔着两千年再见面，谁也没认出谁是亲戚------但骨子里，`heart` 和 `cordial` 共享同一个曾祖父。
+拉丁语#emph[#strong[cor]]（心），来自原始印欧语 \*kerd-（心）。注意：#strong[它的英语本土亲戚是 `heart`] ------经过格林定律(\*k→h,\*d→t)，原始印欧语的 \*kerd 在日耳曼语里变成了 `heart`。所以这条血脉很特别：它#strong[一分为二]，一支走拉丁路线（变成 `cor`，后来生出 cordial、courage、record），一支走日耳曼路线（变成 `heart`，后来在英语里坐稳了"心"的本族词位置）。两支隔着两千年再见面，谁也没认出谁是亲戚------但骨子里，`heart` 和 `cordial` /ˈkɔrdʒəl/ 共享同一个曾祖父。
 
 #diagram-panel(title: "图示 41 · 关系图", breakable: false)[
   #align(center)[
@@ -3180,7 +3184,7 @@ trahere 家族生成了 `attract`（吸引）、`distract`（分散）、`tracto
 
 ==== 【代表词深讲】
 <代表词深讲>
-#strong[`cordial`（热诚的、衷心的）] ------字面义"#strong[心的] "。
+#strong[`cordial` /ˈkɔrdʒəl/（热诚的、衷心的）] ------字面义"#strong[心的] "。
 
 回到那场元老院演说。执政官说完最后一句"为罗马！"，台下一位老元老站起来，走到台前，握住他的双手，久久不放。他什么也没说------但那一刻，握手的力道、眼眶里的湿润、压低的嗓音，全部从胸腔里直冲上来。这就是罗马人说的#emph[cordialis]：#strong[从心底里冒出来的]。
 
@@ -3188,7 +3192,7 @@ trahere 家族生成了 `attract`（吸引）、`distract`（分散）、`tracto
 
 #horizontalrule
 
-#strong[`courage`（勇气）] ------经古法语#emph[corage] 追溯到拉丁#emph[cor]（心）词族，字面义是#strong[心里有的东西]。
+#strong[`courage` /ˈkɜrədʒ/（勇气）] ------经古法语#emph[corage] 追溯到拉丁#emph[cor]（心）词族，字面义是#strong[心里有的东西]。
 
 一个罗马士兵，出征前站在营门口，盔甲还没扣紧，腿肚子在打颤。他怎么给自己壮胆？不是深呼吸，不是默念口诀------他#strong[把手按在胸口]，感觉心跳，"#strong[心里有的东西] "还在。这种"心里有"的东西，中世纪骑士叫它#emph[coraggio]，后来法语叫#emph[courage]，最后落脚成英语的 courage。
 
@@ -3222,7 +3226,7 @@ trahere 家族生成了 `attract`（吸引）、`distract`（分散）、`tracto
 
 #horizontalrule
 
-#strong[`accord`（一致、协议）] ------ `ac-`（ad- 朝向）+ `cord`（心）= #strong[心朝向同一处]。
+#strong[`accord` /əˈkɔrd/（一致、协议）] ------ `ac-`（ad- 朝向）+ `cord`（心）= #strong[心朝向同一处]。
 
 元老院里两派人吵了半天，谁也不让谁。突然有个人站起来说了句公道话，两边都点头------所有人的心，慢慢"朝向同一处"拧了。这种"心往一处想"的状态，就是#emph[accordare]，后来凝固成 accord（一致、协议）。所以"达成协议"叫 reach an accord，字面是"我们的心终于走到一起了"。比"双方签字画押"温情多了，对吧？
 
@@ -3234,7 +3238,7 @@ trahere 家族生成了 `attract`（吸引）、`distract`（分散）、`tracto
 <起源故事-1>
 拉丁语#emph[#strong[mens]]（心智、思想），来自原始印欧语 \*men-（思考）。注意：#strong[它的英语本土亲戚是 `mind`] ------同一个印欧词根 \*men-，拉丁一支长成了 mens，日耳曼一支长成了 mind。所以英语里同时有 mental（来自拉丁）和 mind（来自本族），哥俩一个穿西装一个穿便装，但翻开族谱是亲的。
 
-`mental`、`mentality` 明确来自 mens 这个名词；`comment`、`mention` 等则通过相关的拉丁词族追溯到"思考、记住"这一更早语义群。
+`mental`、`mentality` /mɛnˈtælɪti/ 明确来自 mens 这个名词；`comment` /ˈkɑmɛnt/、`mention` /ˈmɛnʃən/ 等则通过相关的拉丁词族追溯到"思考、记住"这一更早语义群。
 
 #diagram-panel(title: "图示 43 · 关系图", breakable: false)[
   #align(center)[
@@ -3256,18 +3260,18 @@ trahere 家族生成了 `attract`（吸引）、`distract`（分散）、`tracto
   ]
 ]
 #quote(block: true)[
-#strong[注意] #strong[不要混淆]：英语名词后缀 `-ment` 经法语追溯到拉丁后缀#emph[\-mentum]，与 `mens` 不是同一个语素。因此 `development`、`movement`、`agreement` 不能解释成"心智活动的产物"。字母 `ment` 相同，不等于词源相同。
+#strong[注意] #strong[不要混淆]：英语名词后缀 `-ment` 经法语追溯到拉丁后缀#emph[\-mentum]，与 `mens` 不是同一个语素。因此 `development`、`movement` /ˈmuvmənt/、`agreement` /əɡˈrimənt/ 不能解释成"心智活动的产物"。字母 `ment` 相同，不等于词源相同。
 ]
 
 ==== 【代表词深讲】
 <代表词深讲-1>
-#strong[`mental`（心智的）] ------直接来自 mens，指"和心智、思考相关的"。
+#strong[`mental` /ˈmɛntəl/（心智的）] ------直接来自 mens，指"和心智、思考相关的"。
 
-这个最直白：凡是从脑子里出来的、跟思考沾边的，都贴 mens 的标签。`mental health`（心理健康）管的不是心脏，是脑子；`mental effort`（脑力）花的不是体力，是脑力；`mental arithmetic`（心算）算的不是心情，是数字。罗马人把脑子的活儿单独拎出来归一个词根，这件事本身就说明他们已经分清了"心管情绪，脑管思考"。两千年前的分工意识，比你想象的清楚。
+这个最直白：凡是从脑子里出来的、跟思考沾边的，都贴 mens 的标签。`mental health`（心理健康）管的不是心脏，是脑子；`mental effort`（脑力）花的不是体力，是脑力；`mental arithmetic` /əˈrɪθmətɪk/（心算）算的不是心情，是数字。罗马人把脑子的活儿单独拎出来归一个词根，这件事本身就说明他们已经分清了"心管情绪，脑管思考"。两千年前的分工意识，比你想象的清楚。
 
 #horizontalrule
 
-#strong[`dementia`（痴呆）] ------ `de-`（离开）+ `ment`（心智）+ `-ia`（病症）= #strong[心智离开了]。
+#strong[`dementia` /dɪˈmɛnʃə/（痴呆）] ------ `de-`（离开）+ `ment`（心智）+ `-ia`（病症）= #strong[心智离开了]。
 
 这个词是 mens 家族里#strong[最精准也最残酷]的一个。
 
@@ -3281,13 +3285,13 @@ trahere 家族生成了 `attract`（吸引）、`distract`（分散）、`tracto
 
 #horizontalrule
 
-#strong[`comment`（评论）] ------来自拉丁#emph[commentum / commentari] 一组表示"构思、注解"的词，更早与"思考"词族有关。
+#strong[`comment` /ˈkɑmɛnt/（评论）] ------来自拉丁#emph[commentum / commentari] 一组表示"构思、注解"的词，更早与"思考"词族有关。
 
 一位罗马文士坐在书桌前，捧着前人的手稿，眉头紧锁。他不是在抄写------他#strong[在思考怎么解释这段话]。读完一段，他在边上写下自己的见解；再读一段，再写一段。这种"把思考结果一条条记下来"的注解行为，就是#emph[commentari]。今天你在网上给帖子留言、给论文写 review，做的事跟那位文士一模一样------#strong[先思考，再下笔，把心智的产物留给别人]。可以用"表达经过思考的意见"帮助记忆，但要注意现代拼写不要机械切成 `com- + ment`。
 
 #horizontalrule
 
-#strong[`mention`（提及）] ------让某个想法#strong[进入心智]。
+#strong[`mention` /ˈmɛnʃən/（提及）] ------让某个想法#strong[进入心智]。
 
 这个词很轻：宴会上有人随口提了一嘴"听说老加图昨晚又骂人了"，整桌人的注意力唰地一下被拽过去。#strong[一个想法进入了所有人的 mens（心智）] ------哪怕只是一闪而过，哪怕没说几句。这就是 mention：轻、短、点到为止，但确确实实在你脑子里亮了一下。古法语#emph[mention]，来自拉丁#emph[mentionem]。
 
@@ -3319,7 +3323,7 @@ trahere 家族生成了 `attract`（吸引）、`distract`（分散）、`tracto
 ]
 ==== 【代表词深讲】
 <代表词深讲-2>
-#strong[`animal`（动物）] ------来自拉丁#emph[animal / animalis]（有生命的存在、动物），与#emph[anima]（气息、生命、灵魂）同族。
+#strong[`animal` /ˈænəməl/（动物）] ------来自拉丁#emph[animal / animalis]（有生命的存在、动物），与#emph[anima]（气息、生命、灵魂）同族。
 
 那么，罗马人怎么定义"动物"？答案朴素得可爱------#strong[会呼吸的东西]。
 
@@ -3327,13 +3331,13 @@ trahere 家族生成了 `attract`（吸引）、`distract`（分散）、`tracto
 
 #horizontalrule
 
-#strong[`animate`（使有生命）] ------ `anim`（呼吸/精神）+ `-ate`= #strong[赋予呼吸]。
+#strong[`animate` /ˈænəˌmeɪt/（使有生命）] ------ `anim`（呼吸/精神）+ `-ate`= #strong[赋予呼吸]。
 
 这个场景对今天的人再熟悉不过：皮克斯的画师在电脑前，给一只画出来的小恐龙加上眨眼、加上呼吸起伏的胸口------它突然就"活"了。让没有生命的东西"呼吸起来"，就是 animate（使生动、做动画）。你做出来的东西一旦看起来会喘气，观众就当它活着------这就是 anima 在 21 世纪还活在影棚里的方式。所以"动画"叫 animation，#strong[让静止的东西呼吸起来，这门手艺从古罗马到现在没变过]。
 
 #horizontalrule
 
-#strong[`unanimous`（一致的）] ------ `un-`（一）+ `anim`（精神/心意）+ `-ous`= #strong[心意合一]。
+#strong[`unanimous` /juˈnænəməs/（一致的）] ------ `un-`（一）+ `anim`（精神/心意）+ `-ous`= #strong[心意合一]。
 
 这是 animus 家族里#strong[最壮观的场面词]。回到元老院------
 
@@ -3359,7 +3363,7 @@ trahere 家族生成了 `attract`（吸引）、`distract`（分散）、`tracto
 
 #horizontalrule
 
-#strong[`magnanimous`（宽宏大量的）] ------ `magn-`（大）+ `anim`（精神）+ `-ous`= #strong[精神大]。
+#strong[`magnanimous` /mæɡˈnænəməs/（宽宏大量的）] ------ `magn-`（大）+ `anim`（精神）+ `-ous`= #strong[精神大]。
 
 这个词最能体现拉丁构词的精妙。一个"精神大"的人长什么样？他被人冒犯，不还手，因为他"装得下"；他赢了对手，不羞辱，因为他"容得下"；他听见闲言碎语，一笑而过，因为他"懒得计较"。他的灵魂是#emph[magnus]（大）的------大到能装下别人的小。
 
@@ -3367,7 +3371,7 @@ trahere 家族生成了 `attract`（吸引）、`distract`（分散）、`tracto
 
 #horizontalrule
 
-#strong[`animosity`（敌意）] ------同根，但意义转向了负面。
+#strong[`animosity` /ˌænəˈmɑsəti/（敌意）] ------同根，但意义转向了负面。
 
 注意这条血脉的转弯：#strong[同一个 animus（精神），既能聚成 unanimous 的同心，也能烧成 animosity 的敌意]。当一个人的"精神"全部倾注在"恨"上，那股劲儿就不再叫 courage，叫 animosity。animosity 不是普通的不喜欢，是#strong[那种让你咬牙、让你失眠、让你盯着对方后脑勺发狠的强烈敌对精神]。同一个灵魂，可以朝光明走，也可以朝阴暗走------词根不挑方向，看你怎么用它。
 
@@ -3382,12 +3386,12 @@ trahere 家族生成了 `attract`（吸引）、`distract`（分散）、`tracto
     align: (left + horizon, left + horizon, left + horizon, left + horizon,),
     table.header(th([词根]), th([拉丁]), th([古英语]), th([希腊]),),
     table.hline(),
-    [心（情感）], [cor / cordial], [heart / hearty], [kardia / cardiac],
+    [心（情感）], [cor / cordial], [heart / hearty], [kardia / cardiac /ˈkɑrdiæk/],
     [心智（理智）], [mens / mental], [mind / mindful], [menos / ─],
     [精神/气（灵魂）], [animus / animal], [─ / ─], [anemos / ─（风）],
   )
 
-注意#strong[heart / cor / kardia] 是一组经典的印欧同源词------它们都来自原始印欧语 \*kerd-。这就是为什么英语同时有 `heart`（本土）、`cardiac`（希腊）、`cordial`（拉丁）三个"心"的词：#strong[同一颗心，三个民族各自养大，长得不像，但血脉同源]。今天你去医院看心脏病，挂的是 cardiac 科（希腊）；写贺卡祝人"衷心问候"，用 cordial（拉丁）；捂着胸口说"my heart"，用的是本族最老的词。三套"心"在英语里和平共处，各有各的活儿------这就是印欧语系两千年前分家后留下的遗产。
+注意#strong[heart / cor / kardia] 是一组经典的印欧同源词------它们都来自原始印欧语 \*kerd-。这就是为什么英语同时有 `heart`（本土）、`cardiac` /ˈkɑrdiˌæk/（希腊）、`cordial` /ˈkɔrdʒəl/（拉丁）三个"心"的词：#strong[同一颗心，三个民族各自养大，长得不像，但血脉同源]。今天你去医院看心脏病，挂的是 cardiac 科（希腊）；写贺卡祝人"衷心问候"，用 cordial（拉丁）；捂着胸口说"my heart"，用的是本族最老的词。三套"心"在英语里和平共处，各有各的活儿------这就是印欧语系两千年前分家后留下的遗产。
 
 #horizontalrule
 
@@ -3400,17 +3404,17 @@ trahere 家族生成了 `attract`（吸引）、`distract`（分散）、`tracto
     align: (left + horizon, left + horizon, left + horizon,),
     table.header(th([词]), th([拆解]), th([推义]),),
     table.hline(),
-    [`cordial`], [cord + -ial], [心的 → 衷心的],
-    [`courage`], [cour(cor) + -age], [心的状态 → 勇气],
-    [`accord`], [ac- + cord], [心朝一处 → 一致],
+    [`cordial` /ˈkɔrdʒəl/], [cord + -ial], [心的 → 衷心的],
+    [`courage` /ˈkɜrədʒ/], [cour(cor) + -age], [心的状态 → 勇气],
+    [`accord` /əˈkɔrd/], [ac- + cord], [心朝一处 → 一致],
     [`record`], [re- + cord], [放回心里 → 记录],
-    [`mental`], [ment + -al], [心智的 → 精神的],
-    [`comment`], [拉丁 commentari], [构思、注解 → 评论],
-    [`dementia`], [de- + ment + -ia], [心智离开 → 痴呆],
-    [`animal`], [anim + -al], [会呼吸的 → 动物],
-    [`animate`], [anim + -ate], [赋予呼吸 → 使生动],
-    [`unanimous`], [un + anim + -ous], [心意合一 → 一致的],
-    [`magnanimous`], [magn + anim + -ous], [精神大 → 宽宏的],
+    [`mental` /ˈmɛntəl/], [ment + -al], [心智的 → 精神的],
+    [`comment` /ˈkɑmɛnt/], [拉丁 commentari], [构思、注解 → 评论],
+    [`dementia` /dɪˈmɛnʃiə/], [de- + ment + -ia], [心智离开 → 痴呆],
+    [`animal` /ˈænəməl/], [anim + -al], [会呼吸的 → 动物],
+    [`animate` /ˈænəˌmeɪt/], [anim + -ate], [赋予呼吸 → 使生动],
+    [`unanimous` /juˈnænəməs/], [un + anim + -ous], [心意合一 → 一致的],
+    [`magnanimous` /mæɡˈnænəməs/], [magn + anim + -ous], [精神大 → 宽宏的],
   )
 
 #horizontalrule
@@ -3431,8 +3435,8 @@ trahere 家族生成了 `attract`（吸引）、`distract`（分散）、`tracto
 
 ==== 【思考题】（答案见附录 A）
 <思考题答案见附录-a-7>
-+ `encourage`（鼓励）拆开是 en- + courage，为什么"使有勇气"等于鼓励？（提示：把"心里有的东西"再往心里灌一点）
-+ `unanimous`（一致）字面是"心意合一"，想象一下元老院几百人齐刷刷点头的场面------为什么这是最高级别的同意？
++ `encourage` /ɛnˈkɜrɪdʒ/（鼓励）拆开是 en- + courage，为什么"使有勇气"等于鼓励？（提示：把"心里有的东西"再往心里灌一点）
++ `unanimous` /juˈnænəməs/（一致）字面是"心意合一"，想象一下元老院几百人齐刷刷点头的场面------为什么这是最高级别的同意？
 + `record`（记录）字面是"放回心里"，为什么这等于记录？（提示：在没有提词器的年代，西塞罗靠什么连讲四个小时？）
 
 #pagebreak(weak: true)
@@ -3447,7 +3451,7 @@ trahere 家族生成了 `attract`（吸引）、`distract`（分散）、`tracto
 #strong[词根]：`mort-` #strong[含义]：死亡(death) #strong[起源]：拉丁名词#emph[#strong[mors]]（死亡），属格#emph[#strong[mortis]]（属格形式 mort- 进入英语），来自原始印欧语 \*mer-（死亡、消失）
 ]
 
-mors 家族是拉丁词根里#strong[很有戏剧性]的一支。它生成的词------`mortal`（必死的）、`immortal`（不朽的）、`mortgage`（抵押）、`morbid`（病态的）、`mortify`（使羞辱）------背后常能看到死亡或衰败的语义痕迹。
+mors 家族是拉丁词根里#strong[很有戏剧性]的一支。它生成的词------`mortal` /ˈmɔrtəl/（必死的）、`immortal` /ˌɪˈmɔrtəl/（不朽的）、`mortgage` /ˈmɔrgɪdʒ/（抵押）、`morbid` /ˈmɔrbɪd/（病态的）、`mortify` /ˈmɔrtəfaɪ/（使羞辱）------背后常能看到死亡或衰败的语义痕迹。
 
 这一章你会发现：#strong[围绕"死亡"的拉丁词族，如何进入今天一批看似无关的英语词。]学完不保证长生不老，但大概率能认出 `mort-`。
 
@@ -3475,7 +3479,7 @@ mors 家族是拉丁词根里#strong[很有戏剧性]的一支。它生成的词
   ]
 ]
 #quote(block: true)[
-#strong[提示] #strong[最有意思的远房亲戚]：`murder`（谋杀）也来自原始印欧语 \*mer-！它经过日耳曼路线，在古英语里变成#emph[morþor]，后来变成 `murder`。所以 `mortal` 和 `murder` 是亲戚，都来自"死"这个原始概念。
+#strong[提示] #strong[最有意思的远房亲戚]：`murder` /ˈmɜrdər/（谋杀）也来自原始印欧语 \*mer-！它经过日耳曼路线，在古英语里变成#emph[morþor]，后来变成 `murder`。所以 `mortal` /ˈmɔrtəl/ 和 `murder` 是亲戚，都来自"死"这个原始概念。
 ]
 
 ==== 拉丁 mors 在古罗马的特殊地位
@@ -3487,9 +3491,9 @@ mors 家族是拉丁词根里#strong[很有戏剧性]的一支。它生成的词
     align: (left + horizon, left + horizon, left + horizon,),
     table.header(th([角度]), th([命题]), th([对应词]),),
     table.hline(),
-    [① 生物学], [人都会死], [`mortal`（必死的）],
-    [② 宗教], [神不会死], [`immortal`（不朽的）],
-    [③ 法律], ["死抵押"与"活抵押"对照], [`mortgage`（抵押贷款）],
+    [① 生物学], [人都会死], [`mortal` /ˈmɔrtəl/（必死的）],
+    [② 宗教], [神不会死], [`immortal` /ˌɪˈmɔrtəl/（不朽的）],
+    [③ 法律], ["死抵押"与"活抵押"对照], [`mortgage` /ˈmɔrɡədʒ/（抵押贷款）],
   )
 
 第三个角度尤其精彩------它解释了为什么"抵押贷款"里藏着一个"死"字。
@@ -3534,15 +3538,15 @@ mors 家族是拉丁词根里#strong[很有戏剧性]的一支。它生成的词
   ]
 ]
 #quote(block: true)[
-注：`morbid`（病态的）来自拉丁#emph[morbus]（疾病），它和#emph[mors]（死亡）#strong[是否同根有争议]。一些学者认为#emph[morbus] 与 mors 同源（病 = 走向死），另一些认为它们只是形似。本书标注：词源关系有争议。
+注：`morbid` /ˈmɔrbəd/（病态的）来自拉丁#emph[morbus]（疾病），它和#emph[mors]（死亡）#strong[是否同根有争议]。一些学者认为#emph[morbus] 与 mors 同源（病 = 走向死），另一些认为它们只是形似。本书标注：词源关系有争议。
 ]
 
 #horizontalrule
 
 === 【代表词深讲】四个词的故事
 <代表词深讲四个词的故事-5>
-==== 词 1：`mortal`（必死的）
-<词-1mortal必死的>
+==== 词 1：`mortal` /ˈmɔrtəl/（必死的）
+<词-1mortal-ˈmɔrtəl必死的>
 #strong[拆解]：`mort-`（死）+ `-al`（形容词）= 会死的
 
 #strong[故事]：
@@ -3563,21 +3567,21 @@ mors 家族是拉丁词根里#strong[很有戏剧性]的一支。它生成的词
     table.header(th([]), th([人]), th([神]),),
     table.hline(),
     [特征], [会死], [不朽],
-    [对应词], [`mortal`], [`immortal`],
+    [对应词], [`mortal`], [`immortal` /ˌɪˈmɔrtəl/],
   )
 
 #strong[派生词]：
 
-- `mortality`（必死性、死亡率）
+- `mortality` /mɔrˈtæləti/（必死性、死亡率）
 - `immortal`（不朽的）
-- `immortality`（不朽、永生）
-- `mortician`（殡葬师：处理死者的人）
+- `immortality` /ˌɪmɔrˈtælɪti/（不朽、永生）
+- `mortician` /mɔrˈtɪʃən/（殡葬师：处理死者的人）
 
 #horizontalrule
 
-==== 词 2：`mortgage`（抵押贷款）------全书最戏剧性的词源
-<词-2mortgage抵押贷款全书最戏剧性的词源>
-#strong[拆解]：`mort-`（死）+ `gage`（抵押）= #strong[死抵押]
+==== 词 2：`mortgage` /ˈmɔrɡədʒ/（抵押贷款）------全书最戏剧性的词源
+<词-2mortgage-ˈmɔrɡədʒ抵押贷款全书最戏剧性的词源>
+#strong[拆解]：`mort-`（死）+ `gage` /ɡeɪdʒ/（抵押）= #strong[死抵押]
 
 #strong[故事]：
 
@@ -3598,8 +3602,8 @@ mors 家族是拉丁词根里#strong[很有戏剧性]的一支。它生成的词
 
 #horizontalrule
 
-==== 词 3：`mortify`（使羞辱、使坏死）
-<词-3mortify使羞辱使坏死>
+==== 词 3：`mortify` /ˈmɔrtɪˌfaɪ/（使羞辱、使坏死）
+<词-3mortify-ˈmɔrtɪˌfaɪ使羞辱使坏死>
 #strong[拆解]：`mort-`（死）+ `-ify`（使……）= 使死
 
 #strong[故事]：
@@ -3610,7 +3614,7 @@ mors 家族是拉丁词根里#strong[很有戏剧性]的一支。它生成的词
 
 #strong[宗教层面]：基督教语境用它表示"治死、克制肉体欲望"，即通过禁食、苦修把欲望"处死"。这里的"死"对象换成了欲望。
 
-#strong[心理层面]：由"压制、挫伤"再发展出"使受辱、使极度难堪"。现代 `mortified` 表示#strong[羞愧得无地自容] ------画面是：脸涨得通红，恨不得当场找个地缝钻进去、恨不得自己立刻"死掉"。这就是"羞得想死"的助记画面：羞辱感强烈到让人觉得死了算了。
+#strong[心理层面]：由"压制、挫伤"再发展出"使受辱、使极度难堪"。现代 `mortified` /ˈmɔrtəfaɪd/ 表示#strong[羞愧得无地自容] ------画面是：脸涨得通红，恨不得当场找个地缝钻进去、恨不得自己立刻"死掉"。这就是"羞得想死"的助记画面：羞辱感强烈到让人觉得死了算了。
 
 #diagram-panel(title: "图示 48 · 关系图", breakable: false)[
   #align(center)[
@@ -3630,7 +3634,7 @@ mors 家族是拉丁词根里#strong[很有戏剧性]的一支。它生成的词
 ]
 #strong[派生词]：
 
-- `mortification`（羞辱、坏死）
+- `mortification` /ˌmɔrtəfɪˈkeɪʃən/（羞辱、坏死）
 - `mortifying`（令人羞愧的）
 
 #quote(block: true)[
@@ -3639,15 +3643,15 @@ mors 家族是拉丁词根里#strong[很有戏剧性]的一支。它生成的词
 
 #horizontalrule
 
-==== 词 4：`moribund`（垂死的、即将灭亡的）
-<词-4moribund垂死的即将灭亡的>
+==== 词 4：`moribund` /ˈmɔrəˌbʌnd/（垂死的、即将灭亡的）
+<词-4moribund-ˈmɔrəˌbʌnd垂死的即将灭亡的>
 #strong[历史构形]：拉丁#emph[mori]（死）+ `-bundus`（表示正处于或倾向于某动作的形容词成分）
 
 #strong[故事]：
 
 `moribund` 字面义是"#strong[正在死亡的过程中] "。
 
-这个词常用于形容#strong[正在衰落、即将灭亡]的事物------一个垂死的王朝、一个垂死的产业、一种垂死的文化。它比 `dying` 更书面、更带悲凉感。
+这个词常用于形容#strong[正在衰落、即将灭亡]的事物------一个垂死的王朝、一个垂死的产业、一种垂死的文化。它比 `dying` /ˈdaɪɪŋ/ 更书面、更带悲凉感。
 
 #quote(block: true)[
 #strong[moribund 的画面]：还活着，但已经在死------活力一点点流失(▓▓▓▓▓▓ → ▓▓▓ → ▓)。可用于一个垂死的产业 / 语言 / 王朝。
@@ -3674,7 +3678,7 @@ mors 家族是拉丁词根里#strong[很有戏剧性]的一支。它生成的词
     )
   ]
 ]
-所以 `mortal`（必死的）和 `murder`（谋杀）是远房亲戚，都来自"死"这个最原始的概念。一个走了拉丁路线，进入学术词；一个走了日耳曼路线，进入法律词。
+所以 `mortal` /ˈmɔrtəl/（必死的）和 `murder` /ˈmɜrdər/（谋杀）是远房亲戚，都来自"死"这个最原始的概念。一个走了拉丁路线，进入学术词；一个走了日耳曼路线，进入法律词。
 
 #horizontalrule
 
@@ -3685,14 +3689,14 @@ mors 家族是拉丁词根里#strong[很有戏剧性]的一支。它生成的词
     align: (left + horizon, left + horizon, left + horizon,),
     table.header(th([词]), th([拆解]), th([推义]),),
     table.hline(),
-    [`mortal`], [mort + -al], [会死的 → 必死的],
-    [`immortal`], [im- + mort + -al], [不会死 → 不朽的],
-    [`mortality`], [mort + -ality], [死的特性 → 死亡率],
-    [`mortician`], [mort + -ician], [处理死者的人 → 殡葬师],
-    [`mortgage`], [mort + gage], [死抵押 → 抵押贷款],
-    [`mortify`], [mort + -ify], [使死 → 使羞愧],
-    [`moribund`], [mori + -bund], [正在死 → 垂死的],
-    [`amortize`], [经法语#emph[amortir/amortiss-] "使消灭、逐渐清偿"], [分期摊销或偿还],
+    [`mortal` /ˈmɔrtəl/], [mort + -al], [会死的 → 必死的],
+    [`immortal` /ˌɪˈmɔrtəl/], [im- + mort + -al], [不会死 → 不朽的],
+    [`mortality` /mɔrˈtæləti/], [mort + -ality], [死的特性 → 死亡率],
+    [`mortician` /mɔrˈtɪʃən/], [mort + -ician], [处理死者的人 → 殡葬师],
+    [`mortgage` /ˈmɔrɡədʒ/], [mort + gage], [死抵押 → 抵押贷款],
+    [`mortify` /ˈmɔrtɪˌfaɪ/], [mort + -ify], [使死 → 使羞愧],
+    [`moribund` /ˈmɔrəbənd/], [mori + -bund], [正在死 → 垂死的],
+    [`amortize` /ˈæmərˌtaɪz/], [经法语#emph[amortir/amortiss-] "使消灭、逐渐清偿"], [分期摊销或偿还],
     [`rigor mortis`], [（拉丁）rigor + mortis], [死亡僵硬 → 尸僵],
   )
 
@@ -3707,8 +3711,8 @@ mors 家族是拉丁词根里#strong[很有戏剧性]的一支。它生成的词
 故事讲完，冷水照泼------词源学不是讲故事比赛，虽然本章差点变成：
 
 - #strong[mortgage 的"两头都会死"是最流行的助记说法，但法史学界更倾向于"活抵押 vs 死抵押"的对照解释] ------活抵押(vivum vadium)的收益冲减本金，死抵押(mortgage)的收益不冲减。先记画面，再补这层修正，两不耽误。
-- #strong[`morbid` 来自拉丁#emph[morbus]（疾病），和#emph[mors]（死亡）是否同根有争议]。本书把它们当可能的远亲，但不绑死------毕竟人家自己也没签过亲子鉴定。
-- #strong[`mortify` 的"羞愧得想死"是助记画面，不是历史原义]。它从医学"使坏死"走到宗教"治死欲望"再到"使极度难堪"，记住演变路径即可。
+- #strong[`morbid` /ˈmɔrbəd/ 来自拉丁#emph[morbus]（疾病），和#emph[mors]（死亡）是否同根有争议]。本书把它们当可能的远亲，但不绑死------毕竟人家自己也没签过亲子鉴定。
+- #strong[`mortify` /ˈmɔrtɪˌfaɪ/ 的"羞愧得想死"是助记画面，不是历史原义]。它从医学"使坏死"走到宗教"治死欲望"再到"使极度难堪"，记住演变路径即可。
 
 #horizontalrule
 
@@ -3728,9 +3732,9 @@ mors 家族是拉丁词根里#strong[很有戏剧性]的一支。它生成的词
 
 ==== 【思考题】（答案见附录 A）
 <思考题答案见附录-a-8>
-+ `immortal`（不朽的）字面是"不会死"，想想哪些东西被认为是 immortal？（神、艺术作品、伟大思想）
-+ 为什么古罗马哲学家认为人是 `mortal` 而神是 `immortal`？这种区分对西方文化有什么影响？
-+ `mortgage` 里为什么藏着"死"？用一句话解释给没学过词根的朋友听。
++ `immortal` /ˌɪˈmɔrtəl/（不朽的）字面是"不会死"，想想哪些东西被认为是 immortal？（神、艺术作品、伟大思想）
++ 为什么古罗马哲学家认为人是 `mortal` /ˈmɔrtəl/ 而神是 `immortal`？这种区分对西方文化有什么影响？
++ `mortgage` /ˈmɔrɡədʒ/ 里为什么藏着"死"？用一句话解释给没学过词根的朋友听。
 
 #pagebreak(weak: true)
 
@@ -3744,7 +3748,7 @@ mors 家族是拉丁词根里#strong[很有戏剧性]的一支。它生成的词
 #strong[词根]：`stat-` / `stit-` / `stant-` / `sta-` #strong[含义]：站、站立、使站立、放置(to stand, to set, to place) #strong[起源]：拉丁动词#emph[#strong[stare]]（站），来自原始印欧语 \*stā-（站）
 ]
 
-stare 家族是#strong[英语里派生能力很强]的拉丁词根家族之一。具体数量会随词源口径而变化，但常见成员已经排成一条长队：`state`（国家）、`station`（车站）、`status`（地位）、`stable`（稳定的）、`institution`（机构）、`constitution`（宪法）、`substance`（物质）、`exist`（存在）、`resist`（抵抗）……
+stare 家族是#strong[英语里派生能力很强]的拉丁词根家族之一。具体数量会随词源口径而变化，但常见成员已经排成一条长队：`state`（国家）、`station`（车站）、`status` /ˈstætəs/（地位）、`stable` /ˈsteɪbəl/（稳定的）、`institution` /ˌɪnstɪˈtuʃən/（机构）、`constitution` /ˌkɑnstəˈtuʃən/（宪法）、`substance` /ˈsʌbstəns/（物质）、`exist` /ɪɡˈzɪst/（存在）、`resist` /rɪˈzɪst/（抵抗）……
 
 为什么这一根派生能力这么强？因为#strong["站立"是一个极其基础的物理动作]，从它引申出"建立、稳定、存在、状态、坚持"等大量抽象义。一个简单动作就这样搭起了政治、法律和哲学词汇中的不少脚手架。
 
@@ -3790,11 +3794,11 @@ stare 的变体非常多，因为拉丁动词在不同形式下词干变化大�
     align: (left + horizon, left + horizon, left + horizon,),
     table.header(th([词根变体]), th([来源]), th([例词]),),
     table.hline(),
-    [`stat-`], [基本形式], [state, status, station, static, statistic],
-    [`stit-`], [词干变体], [institute, constitution, substitute, restitution],
+    [`stat-`], [基本形式], [state, status, station, static /ˈstætɪk/, statistic /stəˈtɪstɪk/],
+    [`stit-`], [词干变体], [institute, constitution, substitute, restitution /ˌrɛstəˈtuʃən/],
     [`stant-`], [词干变体], [constant, instant, distant, substance],
     [`sta-`], [简化形式], [stable, establish],
-    [`sist-`], [来自 stare 的另一种形式 sistere], [exist, consist, persist, resist, assist],
+    [`sist-`], [来自 stare 的另一种形式 sistere], [exist, consist /kənˈsɪst/, persist /pərˈsɪst/, resist, assist],
   )
 
 #strong[记忆口诀]：#strong[stat/stit/stant/sta/sist 都属于拉丁"站立、使站立"词族]。英语本族词 `stand`、`stay` 与它们有更早的印欧亲缘，但不是拉丁#emph[stare] 直接派生出的英语借词。
@@ -3875,7 +3879,7 @@ stare 的变体非常多，因为拉丁动词在不同形式下词干变化大�
 
 #strong[故事]：
 
-黄昏时分，罗马广场中央立着一尊铜像------某位早已作古的执政官，大理石的脚踩在底座上，一立就是几百年。罗马人管这种"立着的东西"叫#emph[#strong[statua]]（英语 `statue` 雕像）；管它立在那儿这个事实叫#emph[#strong[status]]（英语 `status` 状态、地位）；管它所站的那块地、那个固定位置叫#emph[#strong[statio]]（英语 `station` 车站、岗位）。一尊雕像，派生出三个英语词------因为它们共享同一个画面：#strong[有东西，稳稳地，站着]。
+黄昏时分，罗马广场中央立着一尊铜像------某位早已作古的执政官，大理石的脚踩在底座上，一立就是几百年。罗马人管这种"立着的东西"叫#emph[#strong[statua]]（英语 `statue` /ˈstæˌtʃu/ 雕像）；管它立在那儿这个事实叫#emph[#strong[status] /ˈstætəs/]（英语 `status` 状态、地位）；管它所站的那块地、那个固定位置叫#emph[#strong[statio]]（英语 `station` 车站、岗位）。一尊雕像，派生出三个英语词------因为它们共享同一个画面：#strong[有东西，稳稳地，站着]。
 
 而最大的"站立者"，是 `state` 本身。一个国家凭什么算个国家？罗马人的回答藏在词里：它得#strong[站起来]。一帮人散着、乱着、各过各的，那不叫国家；一旦他们立起法律、立起政府、立起一面共同的旗帜------这堆人就"立"成了一个#strong[state] （国家）。
 
@@ -3898,15 +3902,15 @@ stare 的变体非常多，因为拉丁动词在不同形式下词干变化大�
 
 #horizontalrule
 
-==== 词 2：`institution`（机构、制度）
-<词-2institution机构制度>
+==== 词 2：`institution` /ˌɪnstɪˈtuʃən/（机构、制度）
+<词-2institution-ˌɪnstɪˈtuʃən机构制度>
 #strong[历史路径]：拉丁#emph[instituere]（设立、建立、教导）→ #emph[institutio]→ 英语 `institution`
 
 #strong[故事]：
 
 罗马城外有一块荒地，杂草丛生。某天，一群元老带着测量员、带着石匠来了。他们插下界碑，立起第一根柱子，然后一根接一根，把一座神庙或议事厅从地上"立"了起来。这个"立起来"的动作，拉丁语叫#emph[#strong[instituere]]（in- 向内 + statuere 使站立）。等柱子立完、规矩立完、人马入驻，这块荒地上就多了一个会持续几百年的东西------`institution`。
 
-大学、医院、教会、婚姻、议会------这些一听就沉甸甸的词，在词源里全是同一件事：#strong[有人把某种做法或组织，从无到有地"立起来"，让它站得住、活得久]。`institute`（动词：设立）是那个立柱子的动作，`institution`（名词：机构）是立完之后那座矗立的建筑。
+大学、医院、教会、婚姻、议会------这些一听就沉甸甸的词，在词源里全是同一件事：#strong[有人把某种做法或组织，从无到有地"立起来"，让它站得住、活得久]。`institute` /ˈɪnstəˌtut/（动词：设立）是那个立柱子的动作，`institution`（名词：机构）是立完之后那座矗立的建筑。
 
 `institute` 的历史核心是"设立、建立"，后来可指被建立的制度或机构。`stit/stat` 能帮助识别亲缘，但 `-ution` 不是可随意附加的现代英语后缀。
 
@@ -3924,13 +3928,13 @@ stare 的变体非常多，因为拉丁动词在不同形式下词干变化大�
 #strong[派生词]：
 
 - `institute`（动词：设立；名词：研究所）
-- `institutional`（机构的）
-- `institutionalize`（使制度化）
+- `institutional` /ˌɪnstɪˈtuʃənəl/（机构的）
+- `institutionalize` /ˌɪnstɪˈtuʃənəˌlaɪz/（使制度化）
 
 #horizontalrule
 
-==== 词 3：`substance`（物质、本质）
-<词-3substance物质本质>
+==== 词 3：`substance` /ˈsʌbstəns/（物质、本质）
+<词-3substance-ˈsʌbstəns物质本质>
 #strong[拆解]：`sub-`（在下面）+ `stant`（站）+ `-ce`= #strong[在下面站着的]
 
 #strong[故事]：
@@ -3960,8 +3964,8 @@ stare 的变体非常多，因为拉丁动词在不同形式下词干变化大�
 
 #horizontalrule
 
-==== 词 4：`exist`（存在）
-<词-4exist存在>
+==== 词 4：`exist` /ɪɡˈzɪst/（存在）
+<词-4exist-ɪɡˈzɪst存在>
 #strong[拆解]：`ex-`（出）+ `sist`（站）= 站出来
 
 #strong[故事]：
@@ -3992,20 +3996,20 @@ stare 的变体非常多，因为拉丁动词在不同形式下词干变化大�
   )
 ]
 #quote(block: true)[
-#strong[提示]这就是为什么 `existence`（存在）和 `stand`（站）、`state`（状态）同根------#strong[古罗马人把"存在"理解为"站立"] 。一个东西存在，就是它"立在那里"。
+#strong[提示]这就是为什么 `existence` /ɛɡˈzɪstəns/（存在）和 `stand`（站）、`state`（状态）同根------#strong[古罗马人把"存在"理解为"站立"] 。一个东西存在，就是它"立在那里"。
 ]
 
 #strong[派生词]：
 
 - `existence`（存在）
-- `existent`（存在的）
-- `coexist`（共存）
-- `existential`（存在的，存在主义的）
+- `existent` /ɛgˈzɪstənt/（存在的）
+- `coexist` /ˌkoʊəgˈzɪst/（共存）
+- `existential` /ˌɛgˌzɪˈstɛnʃəl/（存在的，存在主义的）
 
 #horizontalrule
 
-==== 词 5：`resist`（抵抗）
-<词-5resist抵抗>
+==== 词 5：`resist` /rɪˈzɪst/（抵抗）
+<词-5resist-rɪˈzɪst抵抗>
 #strong[拆解]：`re-`（回、对抗）+ `sist`（站）= 反着站
 
 #strong[故事]：
@@ -4029,18 +4033,18 @@ stare 的变体非常多，因为拉丁动词在不同形式下词干变化大�
 ]
 #strong[派生词]：
 
-- `resistance`（抵抗、阻力）
-- `resistant`（有抵抗力的）
-- `irresistible`（不可抗拒的）
+- `resistance` /rɪˈzɪstəns/（抵抗、阻力）
+- `resistant` /rɪˈzɪstənt/（有抵抗力的）
+- `irresistible` /ˌɪrɪˈzɪstəbəl/（不可抗拒的）
 
 ===== 四个 sist 兄弟：同是"站"，站法不同
 <四个-sist-兄弟同是站站法不同>
 `resist` 不是孤零零一个词。拉丁语#emph[sistere]（使站立）配上前缀，长出了一组兄弟姐妹------四个都是"站"，但站的姿势不一样，意思就不一样。给每个一个画面，你就忘不掉了：
 
-- #strong[`insist`（坚持）]：#emph[in-] 往里。一个人抱着柱子，身子往门里挤，嘴上喊"#strong[我就是站在这儿不走] "------往里站，就是坚持己见、执意要求。
-- #strong[`persist`（坚持、持续）]：#emph[per-] 一直、从头到尾。一个人从黎明站到天黑，从头站到尾，雷打不动------一直站，就是持续、不肯放弃。
-- #strong[`consist`（由……组成）]：#emph[con-] 一起。几个朋友肩并肩站成一排，合起来就成了一个团队------站在一起，就是"由这些构成"。
-- #strong[`assist`（帮助）]：#emph[as-]\(#emph[ad-])到旁边。一个人蹲在路边喘气，另一个人#strong[站到他身边]扶一把------站在旁边伸手，就是帮助。
+- #strong[`insist` /ɪnˈsɪst/（坚持）]：#emph[in-] 往里。一个人抱着柱子，身子往门里挤，嘴上喊"#strong[我就是站在这儿不走] "------往里站，就是坚持己见、执意要求。
+- #strong[`persist` /pərˈsɪst/（坚持、持续）]：#emph[per-] 一直、从头到尾。一个人从黎明站到天黑，从头站到尾，雷打不动------一直站，就是持续、不肯放弃。
+- #strong[`consist` /kənˈsɪst/（由……组成）]：#emph[con-] 一起。几个朋友肩并肩站成一排，合起来就成了一个团队------站在一起，就是"由这些构成"。
+- #strong[`assist` /əˈsɪst/（帮助）]：#emph[as-]\(#emph[ad-])到旁边。一个人蹲在路边喘气，另一个人#strong[站到他身边]扶一把------站在旁边伸手，就是帮助。
 
 #quote(block: true)[
 #strong[提示] #strong[同根兄弟]（都用 sist- 形式）：一组五个 `-sist` 兄弟，都是"站"，但前缀方向决定意义。
@@ -4073,7 +4077,7 @@ stare 的变体非常多，因为拉丁动词在不同形式下词干变化大�
     )
   ]
 ]
-所以英语里 `stand`（本土）和 `state` / `exist` / `stable`（拉丁）是同根兄弟。这就是为什么它们都和"站、立、稳"相关。
+所以英语里 `stand`（本土）和 `state` / `exist` /ɪɡˈzɪst/ / `stable` /ˈsteɪbəl/（拉丁）是同根兄弟。这就是为什么它们都和"站、立、稳"相关。
 
 #horizontalrule
 
@@ -4087,20 +4091,20 @@ stare 的变体非常多，因为拉丁动词在不同形式下词干变化大�
     table.header(th([词]), th([拆解]), th([推义]),),
     table.hline(),
     [`state`], [stat + -e], [站立的 → 国家/状态],
-    [`status`], [stat + -us], [站的位置 → 地位],
-    [`stable`], [sta + -able], [能站的 → 稳定的],
+    [`status` /ˈstætəs/], [stat + -us], [站的位置 → 地位],
+    [`stable` /ˈsteɪbəl/], [sta + -able], [能站的 → 稳定的],
     [`station`], [stat + -ion], [站的地方 → 车站],
-    [`static`], [stat + -ic], [站着不动 → 静态的],
-    [`statistic`], [stat + -istic], [（国家统计的）→ 统计],
-    [`institution`], [in- + stit + -ution], [使站立 → 机构],
-    [`constitution`], [con- + stit + -ution], [一起立起 → 宪法],
-    [`substance`], [sub- + stant + -ce], [下面站的 → 物质/本质],
-    [`exist`], [ex- + sist], [站出来 → 存在],
-    [`resist`], [re- + sist], [反着站 → 抵抗],
-    [`persist`], [per- + sist], [一直站 → 坚持],
-    [`consist`], [con- + sist], [站一起 → 组成],
-    [`assist`], [as- + sist], [站旁边 → 帮助],
-    [`establish`], [e- + stab + lish], [使稳固 → 建立],
+    [`static` /ˈstætɪk/], [stat + -ic], [站着不动 → 静态的],
+    [`statistic` /stəˈtɪstɪk/], [stat + -istic], [（国家统计的）→ 统计],
+    [`institution` /ˌɪnstɪˈtuʃən/], [in- + stit + -ution], [使站立 → 机构],
+    [`constitution` /ˌkɑnstəˈtuʃən/], [con- + stit + -ution], [一起立起 → 宪法],
+    [`substance` /ˈsʌbstəns/], [sub- + stant + -ce], [下面站的 → 物质/本质],
+    [`exist` /ɪɡˈzɪst/], [ex- + sist], [站出来 → 存在],
+    [`resist` /rɪˈzɪst/], [re- + sist], [反着站 → 抵抗],
+    [`persist` /pərˈsɪst/], [per- + sist], [一直站 → 坚持],
+    [`consist` /kənˈsɪst/], [con- + sist], [站一起 → 组成],
+    [`assist` /əˈsɪst/], [as- + sist], [站旁边 → 帮助],
+    [`establish` /ɪˈstæblɪʃ/], [e- + stab + lish], [使稳固 → 建立],
   )
 
 #horizontalrule
@@ -4110,7 +4114,7 @@ stare 的变体非常多，因为拉丁动词在不同形式下词干变化大�
 站了一整章，该坐下来泼点冷水了：
 
 - #strong["卢克莱修看嫩苗悟 exist"是本书搭的助记场景] #emph[（传说）]。词源脉络可靠，但卢克莱修本人没留下这段庭院顿悟的记载------他讨论存在靠的是长篇哲理诗，不是蹲在花盆边发呆。
-- #strong[`substance` 译希腊#emph[ousia] 是学界共识]，但"哲学家指着橡树讲解"是简化版画面。亚里士多德原文严密得多（也枯燥得多），且 `substance` 不等于 `matter`（质料）。
+- #strong[`substance` /ˈsʌbstəns/ 译希腊#emph[ousia] 是学界共识]，但"哲学家指着橡树讲解"是简化版画面。亚里士多德原文严密得多（也枯燥得多），且 `substance` 不等于 `matter`（质料）。
 - #strong[斯巴达克斯起义是真的]，但用 `resistere` 命名他们的姿态是词源助记------斯巴达克斯当年可没喊过"我们在 resist"，他忙着打仗呢。
 
 #horizontalrule
@@ -4131,9 +4135,9 @@ stare 的变体非常多，因为拉丁动词在不同形式下词干变化大�
 
 ==== 【思考题】（答案见附录 A）
 <思考题答案见附录-a-9>
-+ `persist`（坚持）字面是"一直站着"，想象一个人在风暴中站着不倒的画面。
-+ `constitution`（宪法）字面是"一起立起来"，为什么国家根本大法叫"立起来"？（提示：国家被"立"在它之上）
-+ `substance`（本质）字面是"底下站着的"，想想这个词如何体现"本质"的含义？（提示：支撑表面的根基）
++ `persist` /pərˈsɪst/（坚持）字面是"一直站着"，想象一个人在风暴中站着不倒的画面。
++ `constitution` /ˌkɑnstəˈtuʃən/（宪法）字面是"一起立起来"，为什么国家根本大法叫"立起来"？（提示：国家被"立"在它之上）
++ `substance` /ˈsʌbstəns/（本质）字面是"底下站着的"，想想这个词如何体现"本质"的含义？（提示：支撑表面的根基）
 
 #pagebreak(weak: true)
 
@@ -4147,15 +4151,15 @@ stare 的变体非常多，因为拉丁动词在不同形式下词干变化大�
 #strong[词根]：`lex` / `legis-`（法律）和 `jus` / `jur-`（法、权利、宣誓）#strong[含义]：法律、正义、宣誓(law, justice, oath) #strong[起源]：拉丁名词#emph[#strong[lex]]（法律）、#emph[#strong[jus]]（正义、法权）、动词#emph[#strong[jurare]]（宣誓）
 ]
 
-这一章讲两个常见的拉丁法律词族。罗马法深刻影响了欧洲大陆法和教会法；英格兰普通法走的是不同制度路线，但其法律词汇仍通过拉丁语和法语吸收了大量相关词。#strong[词汇借用不等于制度直接继承]，否则背会 `jury` 就自动通过司法考试了。
+这一章讲两个常见的拉丁法律词族。罗马法深刻影响了欧洲大陆法和教会法；英格兰普通法走的是不同制度路线，但其法律词汇仍通过拉丁语和法语吸收了大量相关词。#strong[词汇借用不等于制度直接继承]，否则背会 `jury` /ˈdʒʊri/ 就自动通过司法考试了。
 
 #table(
     columns: (1fr, 1fr, 1fr, 1fr),
     align: (left + horizon, left + horizon, left + horizon, left + horizon,),
     table.header(th([词根]), th([含义]), th([关注点]), th([代表词]),),
     table.hline(),
-    [`lex` / `legis-`], [法律、制定法], [成文法], [legal, legislate, legitimate],
-    [`jus` / `jur-`], [正义、法权], [公正、权利、宣誓], [justice, jury, juror, jurisdiction],
+    [`lex` / `legis-`], [法律、制定法], [成文法], [legal, legislate /ˈlɛdʒɪsleɪt/, legitimate /lɪˈdʒɪtəmət/],
+    [`jus` / `jur-`], [正义、法权], [公正、权利、宣誓], [justice, jury, juror /ˈdʒʊrɚ/, jurisdiction /ˌdʒʊrɪsˈdɪkʃən/],
   )
 
 #horizontalrule
@@ -4183,7 +4187,7 @@ stare 的变体非常多，因为拉丁动词在不同形式下词干变化大�
 #strong[提示] #strong[几个外形相近、可能有更早亲缘的家族]：
 
 - `lex` / `leg-`（法律）：legal, legislate
-- `leg-`（选、读）：lect, legible, legend, intellect
+- `leg-`（选、读）：lect, legible /ˈlɛdʒəbəl/, legend, intellect /ˈɪntəˌlɛkt/
 - `log-`（希腊版）：logic, dialogue
 
 不应把这三个家族简单合并成一个现代英语词根，更不能用"选出来的话就是阅读"一类故事代替语音和文献证据。
@@ -4193,11 +4197,11 @@ stare 的变体非常多，因为拉丁动词在不同形式下词干变化大�
 <代表词深讲-3>
 #strong[`legal`（法律的）] ------来自 lex 的形容词形式#emph[legalis]。"和法律相关的"。
 
-#strong[`legislate`（立法）] ------英语动词由 `legislation` 反向形成；后者追溯到拉丁#emph[legis] "法律的"和#emph[latio] "提出、带来"。可以理解为"提出法律"，但现代英语中没有一个可自由使用、表示"携带"的 `-late` 后缀。
+#strong[`legislate` /ˈlɛdʒɪˌsleɪt/（立法）] ------英语动词由 `legislation` /ˌlɛdʒəˈsleɪʃən/ 反向形成；后者追溯到拉丁#emph[legis] "法律的"和#emph[latio] "提出、带来"。可以理解为"提出法律"，但现代英语中没有一个可自由使用、表示"携带"的 `-late` 后缀。
 
-#strong[`legitimate`（合法的）] ------来自#emph[legitimus] "合乎法律的"。一个合法的政府、一个合法的孩子，都是"合乎法律"的。
+#strong[`legitimate` /ləˈdʒɪtəmət/（合法的）] ------来自#emph[legitimus] "合乎法律的"。一个合法的政府、一个合法的孩子，都是"合乎法律"的。
 
-#strong[`privilege`（特权）] ------ `priv-`（私人）+ `leg-`（法律）= #strong[私人法律]。一种只针对某个人的特殊法律，就是特权。这个词完美展示了拉丁构词的精妙：特权 = 私人的法律。
+#strong[`privilege` /ˈprɪvəlɪdʒ/（特权）] ------ `priv-`（私人）+ `leg-`（法律）= #strong[私人法律]。一种只针对某个人的特殊法律，就是特权。这个词完美展示了拉丁构词的精妙：特权 = 私人的法律。
 
 #table(
     columns: (1fr, 1fr, 1fr),
@@ -4213,7 +4217,7 @@ stare 的变体非常多，因为拉丁动词在不同形式下词干变化大�
 
 === 易混词族：`līs` / `līt-`（诉讼、争端）
 <易混词族līs--līt-诉讼争端>
-`litigation`、`litigate` 追溯到拉丁#emph[#strong[līs]]，属格#emph[#strong[lītis]]，意思是"诉讼、争端"。它与 `lex / legis-` 不是同一个词，不能把 `lis-` 放在 `lex` 的变体表里。
+`litigation` /ˌlɪtəˈgeɪʃən/、`litigate` /ˈlɪtɪˌgeɪt/ 追溯到拉丁#emph[#strong[līs]]，属格#emph[#strong[lītis]]，意思是"诉讼、争端"。它与 `lex / legis-` 不是同一个词，不能把 `lis-` 放在 `lex` 的变体表里。
 
 #horizontalrule
 
@@ -4223,7 +4227,7 @@ stare 的变体非常多，因为拉丁动词在不同形式下词干变化大�
 <起源故事-4>
 拉丁语#emph[#strong[jus]]（正义、法权），是古罗马法学最核心的概念。罗马法学家 Celsus 留下名言：#emph["Jus est ars boni et aequi"]（法律是关于善与平等的艺术）。
 
-这个词族在英语里保留了两组常见形态：`jus-/just-` 多见于 `justice/just`,`jur-` 多见于 `jury/juror/perjury/jurisdiction`。拉丁#emph[#strong[jurare]]（宣誓）是从#emph[jus/juris] 词族形成的动词；誓言与法定权利、法律程序相连，但"把自己绑在正义上"只是助记隐喻。
+这个词族在英语里保留了两组常见形态：`jus-/just-` 多见于 `justice/just`,`jur-` 多见于 `jury` /ˈdʒʊri/、`juror`、`perjury` /ˈpɝdʒəri/ 和 `jurisdiction` /ˌdʒʊrəsˈdɪkʃən/。拉丁#emph[#strong[jurare]]（宣誓）是从#emph[jus/juris] 词族形成的动词；誓言与法定权利、法律程序相连，但"把自己绑在正义上"只是助记隐喻。
 
 #diagram-panel(title: "图示 58 · 词源路径", breakable: false)[
   #table(
@@ -4240,9 +4244,9 @@ stare 的变体非常多，因为拉丁动词在不同形式下词干变化大�
 ]
 ==== 【代表词深讲】
 <代表词深讲-4>
-#strong[`justice`（正义、司法）] ------经法语追溯到拉丁#emph[justitia]，而#emph[justitia] 来自#emph[justus]（正当的、合乎法的），同属#emph[jus/juris] 词族。不能把现代英语 `-ice` 当作可自由表示"……的事"的后缀。
+#strong[`justice` /ˈdʒʌstəs/（正义、司法）] ------经法语追溯到拉丁#emph[justitia]，而#emph[justitia] 来自#emph[justus]（正当的、合乎法的），同属#emph[jus/juris] 词族。不能把现代英语 `-ice` 当作可自由表示"……的事"的后缀。
 
-#strong[`jury`（陪审团）] ------来自 jurare（宣誓）。陪审团成员#strong[先宣誓]，然后审理案件。所以 jury 字面义是"#strong[宣誓者团体] "。
+#strong[`jury` /ˈdʒʊri/（陪审团）] ------来自 jurare（宣誓）。陪审团成员#strong[先宣誓]，然后审理案件。所以 jury 字面义是"#strong[宣誓者团体] "。
 
 #quote(block: true)[
 #strong[jury 的画面]：12 个公民先宣誓(jurare)说真话，再审理案件。
@@ -4250,11 +4254,11 @@ stare 的变体非常多，因为拉丁动词在不同形式下词干变化大�
 jury = 宣誓者
 ]
 
-#strong[`jurisdiction`（司法权、管辖范围）] ------ `juris`（法权）+ `dict`（说）= #strong[说法权]。一个法庭有权"就法律事务发言"，就是它的管辖范围。
+#strong[`jurisdiction` /ˌdʒʊrəsˈdɪkʃən/（司法权、管辖范围）] ------ `juris`（法权）+ `dict`（说）= #strong[说法权]。一个法庭有权"就法律事务发言"，就是它的管辖范围。
 
-#strong[`jurist`（法学家）] ------研究法律、懂法律的人。
+#strong[`jurist` /ˈdʒʊrɪst/（法学家）] ------研究法律、懂法律的人。
 
-#strong[`injure`（伤害）] ------ `in-`（不）+ `jur`（正义）= #strong[不正义]。对一个人做不正义的事，就是伤害他。所以 injury（伤害）字面义是"不正义的行为"。
+#strong[`injure` /ˈɪndʒər/（伤害）] ------ `in-`（不）+ `jur`（正义）= #strong[不正义]。对一个人做不正义的事，就是伤害他。所以 injury（伤害）字面义是"不正义的行为"。
 
 #diagram-panel(title: "图示 59 · 词源路径", breakable: false)[
   #table(
@@ -4270,10 +4274,10 @@ jury = 宣誓者
   )
 ]
 #quote(block: true)[
-#strong[提示]这个词源能帮助理解 `injury` 为什么既可指身体损害，也可指法律上的权利受损。但现代各义由长期使用形成，不能概括成所有古罗马人对伤害的统一哲学定义。
+#strong[提示]这个词源能帮助理解 `injury` /ˈɪndʒəri/ 为什么既可指身体损害，也可指法律上的权利受损。但现代各义由长期使用形成，不能概括成所有古罗马人对伤害的统一哲学定义。
 ]
 
-#strong[`perjury`（伪证）] ------ `per-`（彻底、背离）+ `jur`（宣誓）= #strong[彻底背离宣誓]。在法庭上宣了誓还说谎，就是伪证罪。
+#strong[`perjury` /ˈpɜrdʒəri/（伪证）] ------ `per-`（彻底、背离）+ `jur`（宣誓）= #strong[彻底背离宣誓]。在法庭上宣了誓还说谎，就是伪证罪。
 
 #horizontalrule
 
@@ -4342,7 +4346,7 @@ jury = 宣誓者
 <词源辨正law-和-lex-是亲戚吗>
 #strong[答案：不是，虽然它们意思相同。]
 
-`law`（法律）经古诺尔斯语#emph[lag/lǫg] "被放置、确立的事物/规则"进入英语------与英语 `lay`（放置）有日耳曼语亲缘。
+`law`（法律）经古诺尔斯语#emph[lag/lǫg] "被放置、确立的事物/规则"进入英语------与英语 `lay` /leɪ/（放置）有日耳曼语亲缘。
 
 #diagram-panel(title: "图示 62 · 词源路径", breakable: false)[
   #table(
@@ -4361,8 +4365,8 @@ jury = 宣誓者
 #strong[提示] #strong[有趣对比]：
 
 - `lex` / `legal`（拉丁）：成文法、法律
-- `law`（古诺斯）：法律 = "放置"的规矩
-- `jus` / `justice`（拉丁）：法律 = "正义"
+- `law`（古诺尔斯语）：法律 = "放置"的规矩
+- `jus` / `justice` /ˈdʒʌstəs/（拉丁）：法律 = "正义"
 
 这些词提供不同的历史图像，但不应把推测性的字面联想当成古人的法律哲学定义。
 ]
@@ -4379,19 +4383,19 @@ jury = 宣誓者
     table.header(th([词]), th([拆解]), th([推义]),),
     table.hline(),
     [`legal`], [leg + -al], [法律的],
-    [`legislate`], [由 legislation 反向形成], [提出、制定法律],
-    [`legitimate`], [legitim + -ate], [合法的],
-    [`legislature`], [legis + lat + -ure], [立法机构],
-    [`privilege`], [priv + leg], [私人法律 → 特权],
-    [`illegal`], [il- + leg], [不法律 → 违法],
-    [`justice`], [经法语，源自拉丁#emph[justitia]], [正义、司法],
-    [`jury`], [jur（宣誓）+ -y], [宣誓者 → 陪审团],
-    [`jurisdiction`], [juris + dict], [说法权 → 管辖],
-    [`jurist`], [jur + -ist], [法律人 → 法学家],
-    [`injure`], [in- + jur], [不正义 → 伤害],
-    [`injury`], [in- + jur + -y], [不正义行为 → 伤害],
-    [`perjury`], [per- + jur + -y], [背弃宣誓 → 伪证],
-    [`litigation`], [拉丁#emph[līs/līt-]→ #emph[litigare/litigatio]], [争讼 → 诉讼程序],
+    [`legislate` /ˈlɛdʒɪˌsleɪt/], [由 legislation 反向形成], [提出、制定法律],
+    [`legitimate` /ləˈdʒɪtəmət/], [legitim + -ate], [合法的],
+    [`legislature` /ˈlɛdʒɪsleɪtʃɚ/], [legis + lat + -ure], [立法机构],
+    [`privilege` /ˈprɪvlədʒ/], [priv + leg], [私人法律 → 特权],
+    [`illegal` /ˌɪˈliɡəl/], [il- + leg], [不法律 → 违法],
+    [`justice` /ˈdʒʌstəs/], [经法语，源自拉丁#emph[justitia]], [正义、司法],
+    [`jury` /ˈdʒʊri/], [jur（宣誓）+ -y], [宣誓者 → 陪审团],
+    [`jurisdiction` /ˌdʒʊrəsˈdɪkʃən/], [juris + dict], [说法权 → 管辖],
+    [`jurist` /ˈdʒʊrəst/], [jur + -ist], [法律人 → 法学家],
+    [`injure` /ˈɪndʒər/], [in- + jur], [不正义 → 伤害],
+    [`injury` /ˈɪndʒəri/], [in- + jur + -y], [不正义行为 → 伤害],
+    [`perjury` /ˈpɜrdʒəri/], [per- + jur + -y], [背弃宣誓 → 伪证],
+    [`litigation` /ˌlɪtəɡˈeɪʃən/], [拉丁#emph[līs/līt-]→ #emph[litigare/litigatio]], [争讼 → 诉讼程序],
   )
 
 #horizontalrule
@@ -4412,9 +4416,9 @@ jury = 宣誓者
 
 ==== 【思考题】（答案见附录 A）
 <思考题答案见附录-a-10>
-+ `privilege`（特权）字面是"私人法律"，想一想现代社会哪些东西是 privilege？（免税、特殊准入、世袭权利）
-+ `jury`（陪审团）字面是"宣誓者"，为什么陪审要先宣誓？（提示：用誓言约束按正义说话）
-+ `injure`（伤害）字面是"不正义"，这种理解把伤害从物理层面提升到了什么层面？（提示：道德/法律层面）
++ `privilege` /ˈprɪvlədʒ/（特权）字面是"私人法律"，想一想现代社会哪些东西是 privilege？（免税、特殊准入、世袭权利）
++ `jury` /ˈdʒʊri/（陪审团）字面是"宣誓者"，为什么陪审要先宣誓？（提示：用誓言约束按正义说话）
++ `injure` /ˈɪndʒər/（伤害）字面是"不正义"，这种理解把伤害从物理层面提升到了什么层面？（提示：道德/法律层面）
 
 #pagebreak(weak: true)
 
@@ -4438,13 +4442,13 @@ jury = 宣誓者
 
 + #strong[历史动作或概念]，如#emph[mittere] 的"送出、放行"。
 + #strong[常见引申方向]，如"送走"发展为解散，"让通过"发展为允许。
-+ #strong[现代整词义]，如 `dismiss` 是"解散、驳回"，不能只译成"离开 + 送"。
++ #strong[现代整词义]，如 `dismiss` /dɪsˈmɪs/ 是"解散、驳回"，不能只译成"离开 + 送"。
 
 #horizontalrule
 
 === 13.1 docere / doc- / doct-：教导、说明与传授
 <131-docere--doc---doct-教导说明与传授>
-先讲个反差：今天你喊 `doctor` 的那位，多半穿白大褂、拿听诊器。可这个词最初的岗位是#strong[站在讲台上]的------doctor 的本义是"教导者"，跟手术刀毫无关系。
+先讲个反差：今天你喊 `doctor` /ˈdɑktər/ 的那位，多半穿白大褂、拿听诊器。可这个词最初的岗位是#strong[站在讲台上]的------doctor 的本义是"教导者"，跟手术刀毫无关系。
 
 #strong[起源]：拉丁动词#emph[#strong[docere]]（教、指示），通常追溯到原始印欧语 \*dek-（接受、合适）。它与 `ducere` 的 \*deuk-（引导）不是同一个重建词根。
 
@@ -4466,9 +4470,9 @@ jury = 宣誓者
 【代表词】：
 
 - `doctor`（医生、博士）：拉丁语本义是"教师、教导者"。中世纪大学把它发展为高级学位称号；英语中的"医生"义来自医学博士这一称号。
-- `doctrine`（学说）：一套被系统传授的教导或理论。
-- `document`（文件）：经拉丁#emph[documentum]"教训、例证、证明"发展为能够说明、证明事实的书面材料，不宜只译成"教具"。
-- `docile`（温顺的、易驾驭的）：早期核心是"容易受教"，后来侧重顺从、容易管理。
+- `doctrine` /ˈdɑktrɪn/（学说）：一套被系统传授的教导或理论。
+- `document` /ˈdɑkjəmɛnt/（文件）：经拉丁#emph[documentum]"教训、例证、证明"发展为能够说明、证明事实的书面材料，不宜只译成"教具"。
+- `docile` /ˈdɑsəl/（温顺的、易驾驭的）：早期核心是"容易受教"，后来侧重顺从、容易管理。
 
 【记忆锚点】：#strong[`doc/doct` 的共同点是"把知识或证据展示给人"：doctor 原是教导者，doctrine 是教导体系，document 是说明或证明材料。]
 
@@ -4487,22 +4491,22 @@ jury = 宣誓者
     align: (left + horizon, left + horizon, left + horizon, left + horizon,),
     table.header(th([历史构形]), th([方向或关系]), th([代表词]), th([怎样理解现代词义]),),
     table.hline(),
-    [`e-` + `mit-`], [向外送], [`emit`], [发出光、热、声音或物质],
-    [`trans-` + `mit-`], [送到另一边], [`transmit`], [传送信息、信号或疾病],
-    [`sub-` + `mit-`], [放到下面、置于支配之下], [`submit`], [提交供审查；也表示屈服],
-    [`ad-` + `mit-`], [让其朝向、允许进入], [`admit`], [准许进入；进一步表示承认事实],
-    [`per-` + `mit-`], [让其通过], [`permit`], [允许、许可],
-    [`dis-` + `miss-`], [送开、送走], [`dismiss`], [解散、让离开；也可指驳回意见或案件],
-    [`com-` + `mit-`], [托付、使投入其中], [`commit`], [承诺、投入、委托；也可指实施某行为],
-    [`inter-` + `mit-`], [在中间停止或留下间隔], [`intermittent`], [断断续续的、间歇发生的],
-    [`missio` / `mission`], [派遣、被派出的任务], [`mission`], [使命、任务；也指传教或军事行动],
+    [`e-` + `mit-`], [向外送], [`emit` /ɪˈmɪt/], [发出光、热、声音或物质],
+    [`trans-` + `mit-`], [送到另一边], [`transmit` /trænzˈmɪt/], [传送信息、信号或疾病],
+    [`sub-` + `mit-`], [放到下面、置于支配之下], [`submit` /səbˈmɪt/], [提交供审查；也表示屈服],
+    [`ad-` + `mit-`], [让其朝向、允许进入], [`admit` /ədˈmɪt/], [准许进入；进一步表示承认事实],
+    [`per-` + `mit-`], [让其通过], [`permit` /pərˈmɪt/], [允许、许可],
+    [`dis-` + `miss-`], [送开、送走], [`dismiss` /dɪˈsmɪs/], [解散、让离开；也可指驳回意见或案件],
+    [`com-` + `mit-`], [托付、使投入其中], [`commit` /kəˈmɪt/], [承诺、投入、委托；也可指实施某行为],
+    [`inter-` + `mit-`], [在中间停止或留下间隔], [`intermittent` /ˌɪntərˈmɪtənt/], [断断续续的、间歇发生的],
+    [`missio` / `mission` /ˈmɪʃən/], [派遣、被派出的任务], [`mission`], [使命、任务；也指传教或军事行动],
   )
 
 【代表词故事】：
 
 - `mission`（使命、任务、传教）：经拉丁#emph[missio]"派遣"而来，可以指被派出去完成的任务，也可指执行任务的人员或行动。
-- `promise`（承诺）：追溯到拉丁#emph[promittere]"向前送出、保证"。"把话送出去"可以助记，但现代"承诺"义来自完整拉丁词长期形成的用法。
-- `compromise`（妥协）：来自拉丁#emph[compromissum]，原指双方共同承诺把争议交给仲裁并接受裁决，后来发展为通过相互让步达成协议。它不是简单由三个现代英语词块现场拼出的"共同向前送"。
+- `promise` /ˈprɑməs/（承诺）：追溯到拉丁#emph[promittere]"向前送出、保证"。"把话送出去"可以助记，但现代"承诺"义来自完整拉丁词长期形成的用法。
+- `compromise` /ˈkɑmprəˌmaɪz/（妥协）：来自拉丁#emph[compromissum]，原指双方共同承诺把争议交给仲裁并接受裁决，后来发展为通过相互让步达成协议。它不是简单由三个现代英语词块现场拼出的"共同向前送"。
 
 【记忆锚点】：#strong[`mit/miss` 的历史核心是"送、放、派"：transmit 是送过界，permit 是让通过，dismiss 是送走。英语本族词 `miss`（错过）不属于这条拉丁构词链。]
 
@@ -4521,19 +4525,19 @@ jury = 宣誓者
     align: (left + horizon, left + horizon, left + horizon, left + horizon,),
     table.header(th([历史构形]), th([关系]), th([代表词]), th([怎样理解现代词义]),),
     table.hline(),
-    [`pre-` + `scrib-`], [预先写下、规定], [`prescribe`], [医生开处方；也可指正式规定],
-    [`sub-` + `scrib-`], [在下面签名], [`subscribe`], [签名同意；后来发展出订阅、认购],
-    [`de-` + `scrib-`], [写下、描画出来], [`describe`], [用语言描写事物的特征],
-    [`manu-` + `scrip-`], [用手书写], [`manuscript`], [手稿；现代也指尚未出版的书稿],
-    [`post-` + `script`], [正文之后所写], [`postscript`], [信件或文章末尾的附言],
+    [`pre-` + `scrib-`], [预先写下、规定], [`prescribe` /prəˈskraɪb/], [医生开处方；也可指正式规定],
+    [`sub-` + `scrib-`], [在下面签名], [`subscribe` /səbˈskraɪb/], [签名同意；后来发展出订阅、认购],
+    [`de-` + `scrib-`], [写下、描画出来], [`describe` /dɪˈskraɪb/], [用语言描写事物的特征],
+    [`manu-` + `scrip-`], [用手书写], [`manuscript` /ˈmænjəˌskrɪpt/], [手稿；现代也指尚未出版的书稿],
+    [`post-` + `script`], [正文之后所写], [`postscript` /ˈpoʊˌskrɪpt/], [信件或文章末尾的附言],
   )
 
 【代表词故事】：
 
-- `script`（脚本）：被写下的文字。`scripture`（经文）：专指宗教圣典。
-- `scribe`（抄写员）：古代专门负责抄写的人------在印刷术发明前，知识靠 scribe 一笔笔抄。
+- `script`（脚本）：被写下的文字。`scripture` /ˈskrɪptʃər/（经文）：专指宗教圣典。
+- `scribe` /skraɪb/（抄写员）：古代专门负责抄写的人------在印刷术发明前，知识靠 scribe 一笔笔抄。
 - `prescribe`（开处方、规定）：医生写下用药指示只是常见专业义；这个词也可表示由权威正式规定。
-- `proscribe`（禁止、取缔）：追溯到拉丁#emph[proscribere]"公开张贴、公布名单"，后来表示宣布某人为法外之人或正式禁止。它与 `prescribe` 不能只靠 `pre-/pro-` 的现代单字义区分。
+- `proscribe` /proʊˈskraɪb/（禁止、取缔）：追溯到拉丁#emph[proscribere]"公开张贴、公布名单"，后来表示宣布某人为法外之人或正式禁止。它与 `prescribe` 不能只靠 `pre-/pro-` 的现代单字义区分。
 
 【记忆锚点】：#strong[`scrib/scrip` 的共同动作是"把内容留下来"：describe 用文字呈现，subscribe 以签名确认，manuscript 是写成的稿件。]
 
@@ -4541,7 +4545,7 @@ jury = 宣誓者
 
 === 13.4 audire / audi- / audit-：听取、聆听与听觉
 <134-audire--audi---audit-听取聆听与听觉>
-从一个"听"字能走出多远？走进剧院，你是 audience（听众）；走进会计事务所，你在做 audit（审计）；甚至走到"服从"------obey 的字面意思，不过是"朝着某人听"。
+从一个"听"字能走出多远？走进剧院，你是 audience（听众）；走进会计事务所，你在做 audit（审计）；甚至走到"服从"------obey /oʊˈbeɪ/ 的字面意思，不过是"朝着某人听"。
 
 #strong[起源]：拉丁动词#emph[#strong[audire]]（听），来自原始印欧语 \*au-（感知）。
 
@@ -4552,11 +4556,11 @@ jury = 宣誓者
     align: (left + horizon, left + horizon, left + horizon, left + horizon,),
     table.header(th([历史构形]), th([关系]), th([代表词]), th([怎样理解现代词义]),),
     table.hline(),
-    [`audi-`], [听、声音], [`audio`, `auditory`], [音频；听觉的],
-    [`audient-`], [正在听、听取], [`audience`], [听众；后来也泛指观看演出或节目的人],
-    [否定 `in-` + `audible`], [不能被听见], [`inaudible`], [声音太小或不清楚，听不见],
-    [`ob-` + `audire`], [朝向某人听取], [`obey`], [经拉丁、法语路线发展为服从、遵从],
-    [`audit-`], [听取、核查], [`audit`], [审计、审核；现已不限于口头听账],
+    [`audi-`], [听、声音], [`audio`, `auditory` /ˈɔdɪˌtɔri/], [音频；听觉的],
+    [`audient-`], [正在听、听取], [`audience` /ˈɑdiəns/], [听众；后来也泛指观看演出或节目的人],
+    [否定 `in-` + `audible` /ˈɑdəbəl/], [不能被听见], [`inaudible` /ˌɪˈnɔdəbəl/], [声音太小或不清楚，听不见],
+    [`ob-` + `audire`], [朝向某人听取], [`obey` /oʊˈbeɪ/], [经拉丁、法语路线发展为服从、遵从],
+    [`audit-`], [听取、核查], [`audit` /ˈɔdɪt/], [审计、审核；现已不限于口头听账],
   )
 
 【代表词故事】：
@@ -4571,7 +4575,7 @@ jury = 宣誓者
 
 === 13.5 venire / ven- / vent-：来到、到达与发生
 <135-venire--ven---vent-来到到达与发生>
-venire 只干一件事：#strong[来]。但"来"能来出花样------来到中间(intervene)是干预，来到一起(convene)是开会，钱"流回来"(revenue)就成了收入。
+venire 只干一件事：#strong[来]。但"来"能来出花样------来到中间(intervene /ˌɪntərˈvin/)是干预，来到一起(convene /kənˈvin/)是开会，钱"流回来"(revenue)就成了收入。
 
 #strong[起源]：拉丁动词#emph[#strong[venire]]（来），来自原始印欧语 \*gʷem-（来）。英语本土的 `come` 也来自同一原始印欧语词根。
 
@@ -4582,18 +4586,18 @@ venire 只干一件事：#strong[来]。但"来"能来出花样------来到中�
     align: (left + horizon, left + horizon, left + horizon, left + horizon,),
     table.header(th([历史构形]), th([方向或关系]), th([代表词]), th([怎样理解现代词义]),),
     table.hline(),
-    [`inter-` + `ven-`], [来到两者之间], [`intervene`], [介入、干预],
-    [`con-` + `ven-`], [来到一起], [`convene`], [集合、召集会议],
-    [`in-` + `ven-`], [来到、碰到、发现], [`invent`], [由发现、构想发展为发明],
-    [`ad-` + `vent-`], [朝某处到来], [`advent`], [到来、出现],
+    [`inter-` + `ven-`], [来到两者之间], [`intervene` /ˌɪntərˈvin/], [介入、干预],
+    [`con-` + `ven-`], [来到一起], [`convene` /kənˈvin/], [集合、召集会议],
+    [`in-` + `ven-`], [来到、碰到、发现], [`invent` /ɪnˈvɛnt/], [由发现、构想发展为发明],
+    [`ad-` + `vent-`], [朝某处到来], [`advent` /ˈædˌvɛnt/], [到来、出现],
     [`e-/ex-` + `vent-`], [出现、发生], [`event`], [发生的事情、事件],
-    [`re-` + 法语 `venue`], [回来、返回], [`revenue`], [原指回流的收益，现指收入],
-    [`pro-` + `ven-`], [预先来到、抢先发生], [`prevent`], [先行阻挡，后来表示预防、阻止],
+    [`re-` + 法语 `venue` /ˈvɛnju/], [回来、返回], [`revenue` /ˈrɛvəˌnu/], [原指回流的收益，现指收入],
+    [`pro-` + `ven-`], [预先来到、抢先发生], [`prevent` /prɪˈvɛnt/], [先行阻挡，后来表示预防、阻止],
   )
 
 【代表词故事】：
 
-- `convention`（大会、惯例、约定）：经拉丁#emph[conventio] 表示会合、协议；由"共同达成的做法"发展出惯例义。
+- `convention` /kənˈvɛnʃən/（大会、惯例、约定）：经拉丁#emph[conventio] 表示会合、协议；由"共同达成的做法"发展出惯例义。
 - `invent`（发明）：经拉丁#emph[invenire]（遇到、发现）及其词族发展而来，后来由"发现、构想"走向"发明"。它与#emph[venire]（来）同族，但"把创意召唤到现实"只是现代助记。
 - `intervene`（介入）：`inter-`（中间）+ `venire`（来）= 来到中间------插手别人之间。
 
@@ -4603,7 +4607,7 @@ venire 只干一件事：#strong[来]。但"来"能来出花样------来到中�
 
 === 13.6 pellere / pell- / puls-：推动、驱赶与撞击
 <136-pellere--pell---puls-推动驱赶与撞击>
-pellere 是纯出力气的一根：#strong[推]。你的脉搏(pulse)是心脏一下下把血往外推；冲动(impulse)是心里有东西在推你；把人推出门(expel)，就是开除。
+pellere 是纯出力气的一根：#strong[推]。你的脉搏(pulse)是心脏一下下把血往外推；冲动(impulse /ˈɪmpʌls/)是心里有东西在推你；把人推出门(expel /ɪkˈspɛl/)，就是开除。
 
 #strong[起源]：拉丁动词#emph[#strong[pellere]]（推、驱赶），过去分词 \*#strong[pulsus] 。
 
@@ -4614,13 +4618,13 @@ pellere 是纯出力气的一根：#strong[推]。你的脉搏(pulse)是心脏�
     align: (left + horizon, left + horizon, left + horizon, left + horizon,),
     table.header(th([历史构形]), th([方向或力度]), th([代表词]), th([怎样理解现代词义]),),
     table.hline(),
-    [`ex-` + `pell/puls`], [向外推], [`expel`, `expulsion`], [驱逐、排出],
-    [`re-` + `pell/puls`], [推回去], [`repel`, `repulse`], [击退；也可表示令人反感],
-    [加强作用的 `com-` + `pell`], [用力推动], [`compel`], [强迫某人行动],
-    [`pro-` + `pell`], [向前推], [`propel`], [推进、驱动],
-    [`dis-` + `pell`], [向不同方向推散], [`dispel`], [驱散疑虑、恐惧、烟雾等],
-    [`im-` + `puls`], [推入、施加冲击], [`impulse`], [冲量；引申为促使行动的冲动],
-    [`pulsus`], [击打、跳动], [`pulse`], [脉搏、规律的搏动或脉冲],
+    [`ex-` + `pell/puls`], [向外推], [`expel`, `expulsion` /ɪkˈspʌlʃən/], [驱逐、排出],
+    [`re-` + `pell/puls`], [推回去], [`repel` /rɪˈpɛl/, `repulse` /rɪˈpʌls/], [击退；也可表示令人反感],
+    [加强作用的 `com-` + `pell`], [用力推动], [`compel` /kəmˈpɛl/], [强迫某人行动],
+    [`pro-` + `pell`], [向前推], [`propel` /prəˈpɛl/], [推进、驱动],
+    [`dis-` + `pell`], [向不同方向推散], [`dispel` /dɪˈspɛl/], [驱散疑虑、恐惧、烟雾等],
+    [`im-` + `puls`], [推入、施加冲击], [`impulse` /ˈɪmpəls/], [冲量；引申为促使行动的冲动],
+    [`pulsus`], [击打、跳动], [`pulse` /pʌls/], [脉搏、规律的搏动或脉冲],
   )
 
 【代表词故事】：
@@ -4635,23 +4639,23 @@ pellere 是纯出力气的一根：#strong[推]。你的脉搏(pulse)是心脏�
 
 === 13.7 fluere / flu- / flux-：流动、汇入与连续变化
 <137-fluere--flu---flux-流动汇入与连续变化>
-fluere 是水的专用动词。说话流利(fluent)，是话像水一样淌出来；多余(superfluous)，是水多到漫出边；而最浪漫的是影响(influence)------中世纪占星家真以为，那是星光"流"进你身体的一股力量。
+fluere 是水的专用动词。说话流利(fluent /ˈfluənt/)，是话像水一样淌出来；多余(superfluous /suˈpɝfluəs/)，是水多到漫出边；而最浪漫的是影响(influence)------中世纪占星家真以为，那是星光"流"进你身体的一股力量。
 
 #strong[起源]：拉丁动词#emph[#strong[fluere]]（流），来自原始印欧语 \*bhleug-（流出）。
 
-#strong[核心语义]：`flu-/flux-` 表示液体流动，也可比喻语言、人口、力量或状态持续移动。`flux` 尤其常表示流量或不断变化的状态。
+#strong[核心语义]：`flu-/flux-` 表示液体流动，也可比喻语言、人口、力量或状态持续移动。`flux` /flʌks/ 尤其常表示流量或不断变化的状态。
 
 #table(
     columns: (1fr, 1fr, 1fr, 1fr),
     align: (left + horizon, left + horizon, left + horizon, left + horizon,),
     table.header(th([历史构形]), th([流动关系]), th([代表词]), th([怎样理解现代词义]),),
     table.hline(),
-    [`in-` + `flux`], [流入], [`influx`], [人、资金或事物大量涌入],
-    [`in-` + `flu`], [流入、施加流体般作用], [`influence`], [从占星术中的"流入之力"发展为影响],
-    [`con-` + `flu`], [一起流动], [`confluence`], [河流汇合处；也可指因素汇合],
+    [`in-` + `flux`], [流入], [`influx` /ˈɪnflʌks/], [人、资金或事物大量涌入],
+    [`in-` + `flu` /flu/], [流入、施加流体般作用], [`influence` /ˈɪnfluəns/], [从占星术中的"流入之力"发展为影响],
+    [`con-` + `flu`], [一起流动], [`confluence` /ˈkɑnfluəns/], [河流汇合处；也可指因素汇合],
     [`inter-` + `fluve`], [位于水流之间], [`interfluve`], [两条相邻河流之间的高地],
-    [`super-` + `flu`], [流过、溢出], [`superfluous`], [超出需要的、多余的],
-    [`fluere` 的派生形式], [容易流动], [`fluid`, `fluent`], [流体；流畅、流利的],
+    [`super-` + `flu`], [流过、溢出], [`superfluous` /ˈsupərflˌwʌs/], [超出需要的、多余的],
+    [`fluere` 的派生形式], [容易流动], [`fluid` /ˈfluəd/, `fluent` /ˈfluənt/], [流体；流畅、流利的],
   )
 
 【代表词故事】：
@@ -4675,31 +4679,31 @@ fluere 是水的专用动词。说话流利(fluent)，是话像水一样淌出�
     align: (left + horizon, left + horizon, left + horizon, left + horizon,),
     table.header(th([词根]), th([核心含义与常见引申]), th([代表词及理解路径]), th([使用边界或记忆锚点]),),
     table.hline(),
-    [`frangere` / `frag-` / `fract-`], [打破、折断；引申到碎片、裂缝、脆弱和违反规则], [`fraction` 被分出的一部分；`fracture` 断裂；`fragile` 易碎的；`infringe` 侵犯、违反], [共同画面是"完整体被破开"，但 `infringe` 的现代义要按整词记],
-    [`fundere` / `fus-`], [倾倒、灌注、熔化；引申到混合、扩散和输送液体], [`infuse` 注入；`diffuse` 扩散；`transfuse` 输注；`confuse` 使混乱], [可用"液体被倒向不同方向"串联，不要把英语名词 `fund`"基金"混入此词族],
-    [`gradi` / `grad-` / `gress-`], [迈步、行走；引申到前进、后退、阶段和等级], [`progress` 前进；`regress` 后退；`congress` 会合；`grade` 等级/阶段], [`grad-` 和 `gress-` 是相关历史形式，不是现代英语自由替换规则],
-    [`tenere` / `ten-` / `tent-` / `tin-`], [握住、保持、占有；引申到容纳、维持和承担], [`contain` 容纳；`retain` 保留；`sustain` 支撑；`tenant` 租用并占有者], ["持有"不限于用手握，也可指空间容纳、法律占有或状态维持],
-    [`vendere` / `vend-`], [出售、拿去卖；与商品交易和卖方有关], [`vendor` 卖方；`vend` 出售；`vending machine` 自动售货机], [拉丁#emph[vendere] 通常分析为与#emph[venum dare]"拿去出售"有关；不是 `ven-`"来"的普通派生],
-    [`vocare` / `voc-` / `vok-`], [呼叫、发声、命名；引申到召唤、撤销和激起], [`invoke` 援引/祈求；`revoke` 撤销；`provoke` 激起；`vocal` 声音的], [核心是"发出呼唤或声音"，但 `provoke` 已不等于简单的"向前叫"],
-    [`pangere` / `pact-`], [固定、钉牢；由"固定下来"引申到约定和契约], [`pact` 协定；`compact` 契约/紧密的；`impact` 冲击], ["协议被固定"可作助记，各词还经历了不同的拉丁复合形式],
-    [`rapere` / `rap-` / `rapt-`], [抓住、夺走、迅速带走；引申到被强烈情绪攫住], [`rapture` 狂喜；`rapacious` 贪婪攫取的；`rapid` 快速的], [`rapture` 的情绪义经宗教和文学发展，不只是"物理抓走"],
-    [`sequi` / `sequ-` / `secut-`], [跟随、接续；引申到顺序、结果和贯彻执行], [`sequence` 依次跟随；`consequence` 随后而来的结果；`execute` 执行；`pursue` 追求], ["后一个跟着前一个"能串联顺序与结果；执行义来自"跟进到底"],
-    [`vertere` / `vert-` / `vers-`], [转动、改变方向；引申到转化、反向和不同朝向], [`convert` 转换；`reverse` 反转；`diverse` 多样的；`universe` 宇宙], [`vert/vers` 共享"转"义，但 `universe` 应按历史整词理解，不能译成"全部旋转"],
-    [`pendere` / `pend-` / `pens-`], [悬挂、称量；引申到依赖、权衡、支付], [`suspend` 悬挂；`depend` 依赖；`ponder` 权衡思考；`expense` 费用], [从"挂着"理解依赖，从"称重"理解权衡和支付],
-    [`scrutari` / `scrut-`], [翻检、搜寻；引申到仔细检查和审视], [`scrutiny` 仔细审查；`scrutinize` 细看、详查], [与拉丁#emph[scruta]"杂物、废物"有关；重点是彻底翻查，不是普通地看一眼],
+    [`frangere` / `frag-` / `fract-`], [打破、折断；引申到碎片、裂缝、脆弱和违反规则], [`fraction` /ˈfrækʃən/ 被分出的一部分；`fracture` /ˈfræktʃɚ/ 断裂；`fragile` /ˈfrædʒəl/ 易碎的；`infringe` /ˌɪnˈfrɪndʒ/ 侵犯、违反], [共同画面是"完整体被破开"，但 `infringe` 的现代义要按整词记],
+    [`fundere` / `fus-`], [倾倒、灌注、熔化；引申到混合、扩散和输送液体], [`infuse` /ɪnˈfjuz/ 注入；`diffuse` /dɪˈfjuz/ 扩散；`transfuse` /trænsˈfjuz/ 输注；`confuse` /kənˈfjuz/ 使混乱], [可用"液体被倒向不同方向"串联，不要把英语名词 `fund` /fʌnd/"基金"混入此词族],
+    [`gradi` / `grad-` / `gress-`], [迈步、行走；引申到前进、后退、阶段和等级], [`progress` 前进；`regress` /rɪˈɡrɛs/ 后退；`congress` /ˈkɑŋɡrəs/ 会合；`grade` /ɡreɪd/ 等级/阶段], [`grad-` 和 `gress-` 是相关历史形式，不是现代英语自由替换规则],
+    [`tenere` / `ten-` / `tent-` / `tin-`], [握住、保持、占有；引申到容纳、维持和承担], [`contain` 容纳；`retain` /rɪˈteɪn/ 保留；`sustain` /səˈsteɪn/ 支撑；`tenant` /ˈtɛnənt/ 租用并占有者], ["持有"不限于用手握，也可指空间容纳、法律占有或状态维持],
+    [`vendere` / `vend-`], [出售、拿去卖；与商品交易和卖方有关], [`vendor` /ˈvɛndər/ 卖方；`vend` 出售；`vending machine` /ˈvɛndɪŋ/ 自动售货机], [拉丁#emph[vendere] 通常分析为与#emph[venum dare]"拿去出售"有关；不是 `ven-`"来"的普通派生],
+    [`vocare` / `voc-` / `vok-`], [呼叫、发声、命名；引申到召唤、撤销和激起], [`invoke` /ˌɪnˈvoʊk/ 援引/祈求；`revoke` /rɪˈvoʊk/ 撤销；`provoke` /prəˈvoʊk/ 激起；`vocal` /ˈvoʊkəl/ 声音的], [核心是"发出呼唤或声音"，但 `provoke` 已不等于简单的"向前叫"],
+    [`pangere` / `pact-`], [固定、钉牢；由"固定下来"引申到约定和契约], [`pact` 协定；`compact` /ˈkɑmpækt/ 契约/紧密的；`impact` /ˌɪmˈpækt/ 冲击], ["协议被固定"可作助记，各词还经历了不同的拉丁复合形式],
+    [`rapere` / `rap-` / `rapt-`], [抓住、夺走、迅速带走；引申到被强烈情绪攫住], [`rapture` /ˈræptʃər/ 狂喜；`rapacious` /rəˈpæʃɪs/ 贪婪攫取的；`rapid` /ˈræpəd/ 快速的], [`rapture` 的情绪义经宗教和文学发展，不只是"物理抓走"],
+    [`sequi` / `sequ-` / `secut-`], [跟随、接续；引申到顺序、结果和贯彻执行], [`sequence` /ˈsikwəns/ 依次跟随；`consequence` /ˈkɑnsəkwəns/ 随后而来的结果；`execute` /ˈɛksəˌkjut/ 执行；`pursue` /pərˈsu/ 追求], ["后一个跟着前一个"能串联顺序与结果；执行义来自"跟进到底"],
+    [`vertere` / `vert-` / `vers-`], [转动、改变方向；引申到转化、反向和不同朝向], [`convert` /kənˈvɝt/ 转换；`reverse` 反转；`diverse` /daɪˈvɝs/ 多样的；`universe` /ˈjunəˌvɜrs/ 宇宙], [`vert/vers` 共享"转"义，但 `universe` 应按历史整词理解，不能译成"全部旋转"],
+    [`pendere` / `pend-` / `pens-`], [悬挂、称量；引申到依赖、权衡、支付], [`suspend` /səˈspɛnd/ 悬挂；`depend` 依赖；`ponder` /ˈpɑndər/ 权衡思考；`expense` /ɪkˈspɛns/ 费用], [从"挂着"理解依赖，从"称重"理解权衡和支付],
+    [`scrutari` / `scrut-`], [翻检、搜寻；引申到仔细检查和审视], [`scrutiny` /ˈskrutəni/ 仔细审查；`scrutinize` /ˈskrutəˌnaɪz/ 细看、详查], [与拉丁#emph[scruta]"杂物、废物"有关；重点是彻底翻查，不是普通地看一眼],
   )
 
 ==== 几个特别值得记的故事
 <几个特别值得记的故事>
 表格吃完了？那来几道甜点------下面这几个词的身世，比表格里那一行格子能装的要精彩得多。
 
-#strong[`rapture`（狂喜）] ------经拉丁#emph[raptura/raptus] 的"夺走、被攫住"意义进入宗教和文学语境，可指精神被强烈体验带走，后来形成"狂喜"义。`-ture` 在这里属于历史词形，不能当作统一表示"被……"的现代后缀。
+#strong[`rapture` /ˈræptʃər/（狂喜）] ------经拉丁#emph[raptura/raptus] 的"夺走、被攫住"意义进入宗教和文学语境，可指精神被强烈体验带走，后来形成"狂喜"义。`-ture` 在这里属于历史词形，不能当作统一表示"被……"的现代后缀。
 
-#strong[`universe`（宇宙）] ------经拉丁#emph[universum]"整体、全体"而来，其中#emph[uni-] 表示一，#emph[vers-] 与"转"有关。可以用"转合为一体"助记，但不能据此概括成古罗马人关于宇宙的统一哲学定义。
+#strong[`universe` /ˈjunəˌvɜrs/（宇宙）] ------经拉丁#emph[universum]"整体、全体"而来，其中#emph[uni-] 表示一，#emph[vers-] 与"转"有关。可以用"转合为一体"助记，但不能据此概括成古罗马人关于宇宙的统一哲学定义。
 
-#strong[`expense`（花费）] ------经拉丁#emph[expendere]"称出、支付"及法语路线进入英语。金属按重量计价能帮助理解"称量 → 支付"的联系，现代 `expense` 指支出或费用。
+#strong[`expense` /ɪkˈspɛns/（花费）] ------经拉丁#emph[expendere]"称出、支付"及法语路线进入英语。金属按重量计价能帮助理解"称量 → 支付"的联系，现代 `expense` 指支出或费用。
 
-#strong[`scrutiny`（仔细审查）] ------来自拉丁#emph[scrutari]"搜寻、翻检"，与#emph[scruta]"杂物、废物"有关。今天指严密检查；"在杂物中彻底翻找"是较稳妥的记忆画面。
+#strong[`scrutiny` /ˈskrutəni/（仔细审查）] ------来自拉丁#emph[scrutari]"搜寻、翻检"，与#emph[scruta]"杂物、废物"有关。今天指严密检查；"在杂物中彻底翻找"是较稳妥的记忆画面。
 
 #horizontalrule
 
@@ -4740,9 +4744,9 @@ fluere 是水的专用动词。说话流利(fluent)，是话像水一样淌出�
 
 ==== 【思考题】（答案见附录 A）
 <思考题答案见附录-a-11>
-+ `compromise` 早期与双方共同承诺接受仲裁有关，它怎样发展出今天"相互让步、达成妥协"的含义？
-+ `prescribe` 和 `proscribe` 都来自"写"词族，为什么一个表示规定/开处方，另一个表示禁止/取缔？
-+ `influence` 的历史构形与"流入"有关，占星术中的"流入之力"怎样发展成现代"影响"？
++ `compromise` /ˈkɑmprəˌmaɪz/ 早期与双方共同承诺接受仲裁有关，它怎样发展出今天"相互让步、达成妥协"的含义？
++ `prescribe` /prəˈskraɪb/ 和 `proscribe` /proʊˈskraɪb/ 都来自"写"词族，为什么一个表示规定/开处方，另一个表示禁止/取缔？
++ `influence` /ˈɪnfluəns/ 的历史构形与"流入"有关，占星术中的"流入之力"怎样发展成现代"影响"？
 
 #horizontalrule
 
@@ -4786,10 +4790,10 @@ fluere 是水的专用动词。说话流利(fluent)，是话像水一样淌出�
 所以这一卷真正要回答的问题是：
 
 #quote(block: true)[
-#strong[为什么今天 biology、psychology、telephone、astronaut 这些国际科学术语，几乎全是希腊词根拼出来的？]
+#strong[为什么今天 biology、psychology、telephone、astronaut] /ˈæstrəˌnɑt/ #strong[这些国际科学术语，几乎全是希腊词根拼出来的？]
 ]
 
-打开任何一本科学杂志，希腊成分排着队来报到：`biology`（生物学）、`psychology`（心理学）、`physics`（物理学，希腊#emph[physis]）、`mathematics`（数学，希腊#emph[mathēma]）、`philosophy`（哲学，希腊#emph[philosophia]）、`telephone`（电话，希腊#emph[tele] + #emph[phone]）、`astronaut`（宇航员，希腊#emph[astron] + #emph[nautes]）……
+打开任何一本科学杂志，希腊成分排着队来报到：`biology` /baɪˈɑlədʒi/（生物学）、`psychology` /saɪˈkɑlədʒi/（心理学）、`physics` /ˈfɪzɪks/（物理学，希腊#emph[physis]）、`mathematics` /ˌmæθəˈmætɪks/（数学，希腊#emph[mathēma]）、`philosophy` /fəˈlɑsəfi/（哲学，希腊#emph[philosophia]）、`telephone` /ˈtɛləˌfoʊn/（电话，希腊#emph[tele] + #emph[phone]）、`astronaut` /ˈæstrəˌnɑt/（宇航员，希腊#emph[astron] + #emph[nautes]）……
 
 答案不是"古希腊人提前发明了所有现代学科"------历史没那么会押题。真相是：一桩两千多年前的文化反征服，加上几场学术传统的接力，让希腊词根成了一代代科学家最顺手的那只"零件箱"。
 
@@ -4817,7 +4821,7 @@ fluere 是水的专用动词。说话流利(fluent)，是话像水一样淌出�
 
 === 14.2 希腊语的独特性质：组合形式 + 连接元音
 <142-希腊语的独特性质组合形式--连接元音>
-希腊词根还有一个让初学者发愣的小机关：#strong[组合形式(combining form)] 。简单说，希腊词根经常两两拼接成复合词，拼接处往往插一个 `-o-` 当"螺丝"------比如 `bio-`（生命）遇上 `-logy`（学科），中间那颗 `-o-` 一拧，就成了 `biology`。这只"螺丝"的来历和用法，先用下面两张图看个大概，细节留到 14.4 边拆边讲。
+希腊词根还有一个让初学者发愣的小机关：#strong[组合形式(combining form)] 。简单说，希腊词根经常两两拼接成复合词，拼接处往往插一个 `-o-` 当"螺丝"------比如 `bio-`（生命）遇上 `-logy`（学科），中间那颗 `-o-` 一拧，就成了 `biology` /baɪˈɑlədʒi/。这只"螺丝"的来历和用法，先用下面两张图看个大概，细节留到 14.4 边拆边讲。
 
 ==== 什么是连接元音
 <什么是连接元音>
@@ -4922,7 +4926,7 @@ fluere 是水的专用动词。说话流利(fluent)，是话像水一样淌出�
     timeline-date("20 世纪"), timeline-entry("宇航员\nastronaut = astro（星） + naut（水手）"),
   )
 ]
-想象这样一个画面：一位 18 世纪的博物学家，坐在烛光下的书房，面前摊开一本希腊语词典。他正为一种巨型爬行动物的化石发愁------又大又吓人，叫什么好？他翻到#emph[deinos]（恐怖），再翻到#emph[sauros]（蜥蜴），两下一拼：#strong[dinosaur] （恐龙），字面"恐怖的蜥蜴"。隔壁屋的发明家正琢磨一种能隔着老远传声音的装置，他从#emph[tele]（远）和#emph[phōnē]（声音）里捞出两个零件：#strong[telephone] （电话）。研究神经的医生、拍照的化学家、做梦都想着飞天的工程师，几乎在同一时间、干着同一件事------伸手进希腊词典，捞两个零件，拧在一起。
+想象这样一个画面：一位 18 世纪的博物学家，坐在烛光下的书房，面前摊开一本希腊语词典。他正为一种巨型爬行动物的化石发愁------又大又吓人，叫什么好？他翻到#emph[deinos]（恐怖），再翻到#emph[sauros]（蜥蜴），两下一拼：#strong[dinosaur] /ˈdaɪnəˌsɔr/（恐龙），字面"恐怖的蜥蜴"。隔壁屋的发明家正琢磨一种能隔着老远传声音的装置，他从#emph[tele]（远）和#emph[phōnē]（声音）里捞出两个零件：#strong[telephone] /ˈtɛləˌfoʊn/（电话）。研究神经的医生、拍照的化学家、做梦都想着飞天的工程师，几乎在同一时间、干着同一件事------伸手进希腊词典，捞两个零件，拧在一起。
 
 #quote(block: true)[
 #strong[全是希腊词根。]这不是巧合，是一场延续三百年的造词习惯。
@@ -4932,7 +4936,7 @@ fluere 是水的专用动词。说话流利(fluent)，是话像水一样淌出�
 <第四棒19-世纪的会议厅为什么大家都认-biology>
 到了 19 世纪，这套零件箱迎来了高光时刻。欧洲各国科学家开始频繁开会、联名发表，他们急需一种#strong[谁都能看懂的命名系统] ------法国人写的词，德国人得秒懂；德国人造的词，英国人不能翻译错。
 
-希腊词根因为来自整个欧洲共同尊崇的古典传统，成了天然的最大公约数。无论你是巴黎人还是普鲁士人，都认得 `bio`、`logy`、`tele`、`phone`------谁也不觉得这是"外语"。
+希腊词根因为来自整个欧洲共同尊崇的古典传统，成了天然的最大公约数。无论你是巴黎人还是普鲁士人，都认得 `bio` /ˌbaɪˈoʊ/、`logy`、`tele`、`phone`------谁也不觉得这是"外语"。
 
 #table(
     columns: (1fr, 1fr),
@@ -4963,14 +4967,14 @@ fluere 是水的专用动词。说话流利(fluent)，是话像水一样淌出�
     table.hline(),
     [`bio-`（生命）], [bio + logy], [biology], [生物学],
     [`bio-`（生命）], [bio + graphy], [biography], [传记：写人生],
-    [`bio-`（生命）], [bio + metric], [biometrics], [生物识别],
-    [`bio-`（生命）], [bio + diversity], [biodiversity], [生物多样性],
-    [`bio-`（生命）], [bio + ethics], [bioethics], [生命伦理学],
+    [`bio-`（生命）], [bio + metric], [biometrics /ˌbaɪoʊˈmɛtrɪks/], [生物识别],
+    [`bio-`（生命）], [bio + diversity], [biodiversity /ˌbaɪoʊdaɪˈvɝsəti/], [生物多样性],
+    [`bio-`（生命）], [bio + ethics], [bioethics /ˌbaɪoʊˈɛθɪks/], [生命伦理学],
     [`-logy`（论说、学科）], [bio + logy], [biology], [生物学],
     [`-logy`（论说、学科）], [psych + logy], [psychology], [心理学],
     [`-logy`（论说、学科）], [geo + logy], [geology], [地质学],
-    [`-logy`（论说、学科）], [the + logy], [theology], [神学],
-    [`-logy`（论说、学科）], [philo + logy], [philology], [语文学],
+    [`-logy`（论说、学科）], [the + logy], [theology /θiˈɑlədʒi/], [神学],
+    [`-logy`（论说、学科）], [philo + logy], [philology /fɪˈlɑlədʒi/], [语文学],
   )
 
 #quote(block: true)[
@@ -5024,16 +5028,16 @@ fluere 是水的专用动词。说话流利(fluent)，是话像水一样淌出�
 
 ==== 【思考题】（答案见附录 A）
 <思考题答案见附录-a-12>
-+ `telephone`（电话）拆成 tele + phone，为什么"远 + 声"等于电话？
++ `telephone` /ˈtɛləˌfoʊn/（电话）拆成 tele + phone，为什么"远 + 声"等于电话？
 + 为什么许多近代科学术语采用古典组合形式？（提示：既有学术传统和跨语言复用）
-+ `biology` 可以用哪两种一致的方法分析 `o`？（提示：`bi- + -o-` 或完整组合形式 `bio-`）
++ `biology` /baɪˈɑlədʒi/ 可以用哪两种一致的方法分析 `o`？（提示：`bi- + -o-` 或完整组合形式 `bio-`）
 
 #pagebreak(weak: true)
 
 == 第 15 章哲学的诞生：philo + sophia
 <第-15-章哲学的诞生philo--sophia>
 #quote(block: true)[
-`philosophy` 的字面组合不是"我已经很聪明"，而是"我还在追智慧"。这个命名很谦虚，也很适合写在读书拖延清单顶端。
+`philosophy` /fəˈlɑsəfi/ 的字面组合不是"我已经很聪明"，而是"我还在追智慧"。这个命名很谦虚，也很适合写在读书拖延清单顶端。
 ]
 
 #quote(block: true)[
@@ -5104,8 +5108,8 @@ fluere 是水的专用动词。说话流利(fluent)，是话像水一样淌出�
     table.hline(),
     [philo + sophia], [philosophy], [哲学：爱智慧],
     [philo + logos], [philology], [语文学：爱言辞],
-    [philo + anthropos], [philanthropy], [慈善：爱人类],
-    [philo + harmonia], [philharmonic], [爱乐的：爱和声],
+    [philo + anthropos], [philanthropy /fɪˈlænθrəpi/], [慈善：爱人类],
+    [philo + harmonia], [philharmonic /ˌfɪlhɑrˈmɑnɪk/], [爱乐的：爱和声],
     [biblion + philo], [bibliophile], [爱书人（philo- 也可挪到词尾作 -phile）],
   )
 
@@ -5124,7 +5128,7 @@ fluere 是水的专用动词。说话流利(fluent)，是话像水一样淌出�
     table.hline(),
     [philosophy], [哲学：爱智慧],
     [theosophy], [神智学],
-    [sophisticated], [经"诡辩、掺假"义发展为复杂、精密],
+    [sophisticated /səˈfɪstəˌkeɪtɪd/], [经"诡辩、掺假"义发展为复杂、精密],
   )
 
 #table(
@@ -5133,7 +5137,7 @@ fluere 是水的专用动词。说话流利(fluent)，是话像水一样淌出�
     table.header(th([负面]), th([sophistēs = 诡辩者]),),
     table.hline(),
     [sophist], [诡辩家],
-    [sophistry], [诡辩],
+    [sophistry /ˈsɑfɪstri/], [诡辩],
   )
 
 ==== 一个关键故事：为什么 sophia 既有正面也有负面
@@ -5157,7 +5161,7 @@ fluere 是水的专用动词。说话流利(fluent)，是话像水一样淌出�
 #table(
     columns: (1fr, 1fr),
     align: (left + horizon, left + horizon,),
-    table.header(th([苏格拉底(philosopher)]), th([智者派(sophist)]),),
+    table.header(th([苏格拉底(philosopher /fəˈlɑsəfər/)]), th([智者派(sophist)]),),
     table.hline(),
     [承认自己无知], [自称拥有智慧],
     [不收费], [收费教学],
@@ -5174,8 +5178,8 @@ fluere 是水的专用动词。说话流利(fluent)，是话像水一样淌出�
 
 古典哲学论战 + 后世接受史，共同把#strong[sophist] 从"有智慧的教师"推向了"诡辩者"。所以今天：
 
-- `philosophy`（哲学）= 正面的爱智慧
-- `sophistry`（诡辩）= 负面的伪智慧
+- `philosophy` /fəˈlɑsəfi/（哲学）= 正面的爱智慧
+- `sophistry` /ˈsɔfɪˌstri/（诡辩）= 负面的伪智慧
 
 #horizontalrule
 
@@ -5226,8 +5230,8 @@ fluere 是水的专用动词。说话流利(fluent)，是话像水一样淌出�
 
 === 【代表词深讲】四个词的故事
 <代表词深讲四个词的故事-6>
-==== 词 1：`philosophy`（哲学）
-<词-1philosophy哲学>
+==== 词 1：`philosophy` /fəˈlɑsəfi/（哲学）
+<词-1philosophy-fəˈlɑsəfi哲学>
 #strong[拆解]：`philo-`（爱）+ `-o-`（连接元音）+ `soph`（智慧）+ `-y`（名词后缀）= 爱智慧
 
 #strong[故事]：
@@ -5249,14 +5253,14 @@ fluere 是水的专用动词。说话流利(fluent)，是话像水一样淌出�
 ]
 #strong[派生词]：
 
-- `philosopher`（哲学家：爱智慧的人）
-- `philosophical`（哲学的、达观的）
+- `philosopher` /fəˈlɑsəfər/（哲学家：爱智慧的人）
+- `philosophical` /ˌfɪləˈsɑfɪkəl/（哲学的、达观的）
 - `philosophize`（进行哲学思考）
 
 #horizontalrule
 
-==== 词 2：`philanthropy`（慈善）
-<词-2philanthropy慈善>
+==== 词 2：`philanthropy` /fɪˈlænθrəpi/（慈善）
+<词-2philanthropy-fɪˈlænθrəpi慈善>
 #strong[拆解]：`philo-`（爱）+ `anthropos`（人类）= 爱人类
 
 #strong[故事]：
@@ -5280,9 +5284,9 @@ fluere 是水的专用动词。说话流利(fluent)，是话像水一样淌出�
 ]
 #strong[派生词]：
 
-- `philanthropist`（慈善家）
-- `philanthropic`（慈善的）
-- `misanthrope`（厌恶人类者：希腊#emph[misos] "憎恨" + #emph[anthrōpos] "人"）
+- `philanthropist` /fɪˈlænθrəpɪst/（慈善家）
+- `philanthropic` /ˌfɪlənθˈrɑpɪk/（慈善的）
+- `misanthrope` /ˈmɪsənθˌroʊp/（厌恶人类者：希腊#emph[misos] "憎恨" + #emph[anthrōpos] "人"）
 
 #quote(block: true)[
 #strong[提示] #strong[对照记忆]：`philanthropist`（爱人类）vs `misanthrope`（恨人类）。一个爱，一个恨，用同一个 `anthrop` 词根构成完美反义。
@@ -5290,8 +5294,8 @@ fluere 是水的专用动词。说话流利(fluent)，是话像水一样淌出�
 
 #horizontalrule
 
-==== 词 3：`sophisticated`（复杂的、精明的）
-<词-3sophisticated复杂的精明的>
+==== 词 3：`sophisticated` /səˈfɪstəˌkeɪtɪd/（复杂的、精明的）
+<词-3sophisticated-səˈfɪstəˌkeɪtɪd复杂的精明的>
 #strong[历史来源]：经中古拉丁#emph[sophisticatus]，与#emph[sophisticare] "用诡辩蒙骗、掺假"有关。
 
 #strong[故事]：
@@ -5339,8 +5343,8 @@ fluere 是水的专用动词。说话流利(fluent)，是话像水一样淌出�
     table.header(th([-phile 后缀（爱某物的人）]), th([产物]), th([释义]),),
     table.hline(),
     [biblio + phile], [bibliophile], [爱书人],
-    [Anglo + phile], [Anglophile], [亲英派],
-    [Franco + phile], [Francophile], [亲法派],
+    [Anglo + phile], [Anglophile /ˈæŋɡləˌfaɪl/], [亲英派],
+    [Franco + phile], [Francophile /ˈfræŋkəˌfaɪl/], [亲法派],
     [pedo + phile], [pedophile], [恋童者，负面],
     [cine + phile], [cinephile], [影迷],
   )
@@ -5348,15 +5352,15 @@ fluere 是水的专用动词。说话流利(fluent)，是话像水一样淌出�
 #quote(block: true)[
 #strong[提示] `-phile`（爱……者）和 `-phobe`（怕/恨……者）是一对反义后缀：
 
-- `Anglophile`（亲英派）↔ `Anglophobe`（恐英派）
+- `Anglophile` /ˈænɡləˌfaɪl/（亲英派）↔ `Anglophobe`（恐英派）
 - `xenophile`（爱外者）↔ `xenophobe`（排外者）
-- `francophile`（亲法派）↔ `francophobe`（恐法派）
+- `francophile` /ˈfræŋkəˌfaɪl/（亲法派）↔ `francophobe`（恐法派）
 ]
 
 #horizontalrule
 
-=== 【词源辨正】Philadelphia（费城）和 philo- 同根吗
-<词源辨正philadelphia费城和-philo--同根吗>
+=== 【词源辨正】Philadelphia /ˌfɪləˈdɛlfiə/（费城）和 philo- 同根吗
+<词源辨正philadelphia-ˌfɪləˈdɛlfiə费城和-philo--同根吗>
 #strong[答案：是。]
 
 美国城市#strong[费城 Philadelphia] 名字直接来自希腊文，#emph[philos]（爱）+ #emph[adelphos]（兄弟）= #strong["兄弟之爱"] 。
@@ -5379,10 +5383,10 @@ fluere 是水的专用动词。说话流利(fluent)，是话像水一样淌出�
 #quote(block: true)[
 #strong[提示] #strong[同根兄弟]：
 
-- `philosophy`（爱智）------爱 + 智
-- `philanthropy`（慈善）------爱 + 人类
-- `Philadelphia`（费城）------爱 + 兄弟
-- `philharmonic`（爱乐）------爱 + 音乐
+- `philosophy` /fəˈlɑsəfi/（爱智）------爱 + 智
+- `philanthropy` /fɪˈlænθrəpi/（慈善）------爱 + 人类
+- `Philadelphia` /ˌfɪləˈdɛlfiə/（费城）------爱 + 兄弟
+- `philharmonic` /ˌfɪlˌhɑrˈmɑnɪk/（爱乐）------爱 + 音乐
 
 一个 philo- 词根，串起哲学、慈善、地名、音乐。
 ]
@@ -5396,18 +5400,18 @@ fluere 是水的专用动词。说话流利(fluent)，是话像水一样淌出�
     align: (left + horizon, left + horizon, left + horizon,),
     table.header(th([词]), th([拆解]), th([推义]),),
     table.hline(),
-    [`philosophy`], [philo + soph + y], [爱智慧 → 哲学],
-    [`philosopher`], [philo + soph + er], [爱智者 → 哲学家],
-    [`philanthropy`], [philo + anthrop + y], [爱人类 → 慈善],
-    [`philanthropist`], [philo + anthrop + ist], [爱人者 → 慈善家],
-    [`philharmonic`], [philo + harmon + ic], [爱和谐 → 爱乐],
+    [`philosophy` /fəˈlɑsəfi/], [philo + soph + y], [爱智慧 → 哲学],
+    [`philosopher` /fəˈlɑsəfər/], [philo + soph + er], [爱智者 → 哲学家],
+    [`philanthropy` /fɪˈlænθrəpi/], [philo + anthrop + y], [爱人类 → 慈善],
+    [`philanthropist` /fəˈlænθrəpəst/], [philo + anthrop + ist], [爱人者 → 慈善家],
+    [`philharmonic` /ˌfɪlˌhɑrˈmɑnɪk/], [philo + harmon + ic], [爱和谐 → 爱乐],
     [`philology`], [philo + log + y], [爱言辞 → 语文学],
     [`bibliophile`], [biblio + phile], [爱书 → 藏书家],
     [`sophist`], [soph + ist], [智者（→ 诡辩者）],
-    [`sophistry`], [soph + ist + ry], [智术 → 诡辩],
-    [`sophisticated`], [soph + ist + ic + ate + ed], [智化 → 复杂精明],
+    [`sophistry` /ˈsɔfɪˌstri/], [soph + ist + ry], [智术 → 诡辩],
+    [`sophisticated` /səˈfɪstəˌkeɪtɪd/], [soph + ist + ic + ate + ed], [智化 → 复杂精明],
     [`theosophy`], [theo（神）+ soph + y], [神智 → 神智学],
-    [`sophomore`], [soph + more], [希腊 sophos + moros（愚蠢）= 聪明又蠢的 → 大二生],
+    [`sophomore` /ˈsɑfəˌmɔr/], [soph + more], [希腊 sophos + moros（愚蠢）= 聪明又蠢的 → 大二生],
   )
 
 #quote(block: true)[
@@ -5442,9 +5446,9 @@ fluere 是水的专用动词。说话流利(fluent)，是话像水一样淌出�
 
 ==== 【思考题】（答案见附录 A）
 <思考题答案见附录-a-13>
-+ `philanthropist`（慈善家）字面是"爱人类者"，想想这个词如何体现富人对社会的责任？
++ `philanthropist` /fəˈlænθrəpəst/（慈善家）字面是"爱人类者"，想想这个词如何体现富人对社会的责任？
 + 为什么 `sophist` 从"智者"变成"诡辩者"？用苏格拉底的故事解释。
-+ `sophomore`（大二生）拆开是 soph + moros（聪明 + 愚蠢），这种命名带着什么微妙的态度？
++ `sophomore` /ˈsɑfˌmɔr/（大二生）拆开是 soph + moros（聪明 + 愚蠢），这种命名带着什么微妙的态度？
 
 #pagebreak(weak: true)
 
@@ -5460,7 +5464,7 @@ fluere 是水的专用动词。说话流利(fluent)，是话像水一样淌出�
 
 这一章讲#strong[民主(democracy)] 这个词的来历。它把古希腊政治词汇中的"公民群体"与"权力"组合在一起，后来成为影响极大的国际政治术语。
 
-`demo-` 和 `crat-` 也#strong[各自发展出一批词] ------它们出现在 `epidemic`（流行病）、`demagogue`（煽动者）、`aristocrat`（贵族）、`technocrat`（技术官僚）等词中。不过它们不是见谁都能拼的万能接口，具体构词仍要逐词核对。
+`demo-` 和 `crat-` 也#strong[各自发展出一批词] ------它们出现在 `epidemic` /ˌɛpəˈdɛmɪk/（流行病）、`demagogue` /ˈdɛməɡɑɡ/（煽动者）、`aristocrat` /əˈrɪstəˌkræt/（贵族）、`technocrat` /ˈtɛknəˌkræt/（技术官僚）等词中。不过它们不是见谁都能拼的万能接口，具体构词仍要逐词核对。
 
 #horizontalrule
 
@@ -5489,7 +5493,7 @@ fluere 是水的专用动词。说话流利(fluent)，是话像水一样淌出�
 ]
 ==== 陶片放逐法：民主最戏剧的仪式
 <陶片放逐法民主最戏剧的仪式>
-克里斯提尼改革还留下了一项仪式，可能是历史上最戏剧化的投票------#strong[陶片放逐法(ostracism)] 。
+克里斯提尼改革还留下了一项仪式，可能是历史上最戏剧化的投票------#strong[陶片放逐法(ostracism)] /ˈɑstrəˌsɪzəm/。
 
 每年春天，公民大会先投一次票："今年要不要放逐人？"如果通过，几周后再来一次正式投票。这一次，#strong[几千名公民聚集在雅典广场(Agora)上，每人手里拿着一块碎陶片(ostrakon)] 。
 
@@ -5499,7 +5503,7 @@ fluere 是水的专用动词。说话流利(fluent)，是话像水一样淌出�
 
 这套机制的设计初衷很妙：防止任何一个人权力大到想当独裁者（僭主）。只要有人冒头、有人开始"功高震主"，公民们就用碎陶片把他投出去。#strong[公元前 482 年，雅典人就这么把名声过大的地米斯托克利(Themistocles)投走了] ------正是后来打赢波斯的关键将领。民主有时候也挺无情。
 
-这个词根留下了两份遗产：一个是 `ostracism`（放逐、排斥），直接来自那块 ostrakon（碎陶片）；另一个是这套仪式本身的画面------#strong[几千人在广场上，用破罐子碎片决定一个人的命运]。
+这个词根留下了两份遗产：一个是 `ostracism` /ˈɔstrəˌsɪzəm/（放逐、排斥），直接来自那块 ostrakon（碎陶片）；另一个是这套仪式本身的画面------#strong[几千人在广场上，用破罐子碎片决定一个人的命运]。
 
 #diagram-panel(title: "图示 76 · 词源路径", breakable: false)[
   #table(
@@ -5539,8 +5543,8 @@ fluere 是水的专用动词。说话流利(fluent)，是话像水一样淌出�
     table.header(th([派生词]), th([含义]),),
     table.hline(),
     [`biocrat`], [❌ 不成立],
-    [`democrat`], [人民的力量 → 民主],
-    [`aristocrat`], [最好的力量 → 贵族],
+    [`democrat` /ˈdɛməˌkræt/], [人民的力量 → 民主],
+    [`aristocrat` /ərˈɪstəˌkræt/], [最好的力量 → 贵族],
     [`theocrat`], [神的力量 → 神权],
   )
 
@@ -5567,15 +5571,15 @@ fluere 是水的专用动词。说话流利(fluent)，是话像水一样淌出�
     table.header(th([拆解]), th([例词]), th([含义]),),
     table.hline(),
     [`demo` + `cracy`], [democracy], [民主：人民统治],
-    [`demo` + `graphy`], [demography], [人口学：描写人民],
+    [`demo` + `graphy`], [demography /dɪˈmɑgrəfi/], [人口学：描写人民],
     [`demo` + `gogue`], [demagogue], [煽动者：带领人民],
     [`epi` + `demic`], [epidemic], [在人群中流行的],
-    [`pan` + `demic`], [pandemic], [遍及广泛人群的],
+    [`pan` + `demic`], [pandemic /pænˈdɛmɪk/], [遍及广泛人群的],
   )
 
 #strong[几个代表词的故事]：
 
-#strong[`epidemic`（流行的；流行病）] ------来自希腊#emph[epidēmios] "在人民中、在本地流行的"，由 `epi-` 与#emph[dēmos] 相关形式构成。重点是"在人群中普遍存在"，不是"疾病压在人民头上"。
+#strong[`epidemic` /ˌɛpəˈdɛmɪk/（流行的；流行病）] ------来自希腊#emph[epidēmios] "在人民中、在本地流行的"，由 `epi-` 与#emph[dēmos] 相关形式构成。重点是"在人群中普遍存在"，不是"疾病压在人民头上"。
 
 #diagram-panel(title: "图示 77 · 词源路径", breakable: false)[
   #table(
@@ -5590,9 +5594,9 @@ fluere 是水的专用动词。说话流利(fluent)，是话像水一样淌出�
     d-node("epidemic", kind: "node"),
   )
 ]
-#strong[`pandemic`（大流行的；大流行病）] ------ `pan-`（全、广泛）+ `dēm-`（人民）+ `-ic`，表示跨越多个国家或大陆、影响广泛人群的流行。它不必字面覆盖"全人类"。
+#strong[`pandemic` /pænˈdɛmɪk/（大流行的；大流行病）] ------ `pan-`（全、广泛）+ `dēm-`（人民）+ `-ic`，表示跨越多个国家或大陆、影响广泛人群的流行。它不必字面覆盖"全人类"。
 
-#strong[`demagogue`（煽动者、蛊惑家）] ------ `demo`（人民）+ `agogue`（带领）= #strong[带领人民的人]。字面听起来挺正面，像是人民的领路人？但这个词几乎永远带贬义------指用谎言、情绪和空洞承诺煽动民众、谋取权力的政客。希特勒、墨索里尼都是典型的 demagogue。
+#strong[`demagogue` /ˈdɛməɡˌɑɡ/（煽动者、蛊惑家）] ------ `demo`（人民）+ `agogue`（带领）= #strong[带领人民的人]。字面听起来挺正面，像是人民的领路人？但这个词几乎永远带贬义------指用谎言、情绪和空洞承诺煽动民众、谋取权力的政客。希特勒、墨索里尼都是典型的 demagogue。
 
 这个词的经典原型，是雅典的#strong[克里昂(Cleon)] 。
 
@@ -5616,12 +5620,12 @@ demo- 家族讲完了"谁是人民"，现在轮到 -cracy 家族来回答"谁说
     table.header(th([拆解]), th([例词]), th([含义]),),
     table.hline(),
     [`demo` + `cracy`], [democracy], [民主制],
-    [`aristo` + `cracy`], [aristocracy], [贵族制：最好的统治],
-    [`pluto` + `cracy`], [plutocracy], [财阀制：富人统治],
-    [`theo` + `cracy`], [theocracy], [神权制：神统治],
-    [`bureau` + `cracy`], [bureaucracy], [官僚制：办公桌统治],
+    [`aristo` + `cracy`], [aristocracy /ˌærəˈstɑkrəsi/], [贵族制：最好的统治],
+    [`pluto` /ˈplutoʊ/ + `cracy`], [plutocracy], [财阀制：富人统治],
+    [`theo` + `cracy`], [theocracy /θiˈɑkrəsi/], [神权制：神统治],
+    [`bureau` /ˈbjʊroʊ/ + `cracy`], [bureaucracy /bjʊˈrɑkrəsi/], [官僚制：办公桌统治],
     [`techno` + `cracy`], [technocracy], [技术统治],
-    [`merit` + `cracy`], [meritocracy], [精英制：能者统治],
+    [`merit` /ˈmɛrət/ + `cracy`], [meritocracy /ˌmɛrəˈtɑkrəsi/], [精英制：能者统治],
   )
 
 #strong[X + -crat（统治者）= 某种统治者]：
@@ -5631,19 +5635,19 @@ demo- 家族讲完了"谁是人民"，现在轮到 -cracy 家族来回答"谁说
     align: (left + horizon, left + horizon,),
     table.header(th([例词]), th([含义]),),
     table.hline(),
-    [`democrat`], [民主派],
-    [`aristocrat`], [贵族],
-    [`plutocrat`], [财阀],
-    [`bureaucrat`], [官僚],
-    [`technocrat`], [技术官僚],
+    [`democrat` /ˈdɛməˌkræt/], [民主派],
+    [`aristocrat` /ərˈɪstəˌkræt/], [贵族],
+    [`plutocrat` /ˈplutəˌkræt/], [财阀],
+    [`bureaucrat` /ˈbjʊrəˌkræt/], [官僚],
+    [`technocrat` /ˈtɛknəˌkræt/], [技术官僚],
   )
 
 #strong[几个代表词的故事]：
 
-#strong[`aristocracy`（贵族制）] ------ `aristo-`（最好）+ `-cracy`（统治）= #strong[最好的统治]。希腊文#emph[aristos] 意为"最好的"。所以 aristocracy 字面义是"#strong[让最优秀的人来统治] "------这种制度在雅典民主之前主导希腊，由血统高贵、品德优秀的贵族掌权。
+#strong[`aristocracy` /ˌɛrəˈstɑkrəsi/（贵族制）] ------ `aristo-`（最好）+ `-cracy`（统治）= #strong[最好的统治]。希腊文#emph[aristos] 意为"最好的"。所以 aristocracy 字面义是"#strong[让最优秀的人来统治] "------这种制度在雅典民主之前主导希腊，由血统高贵、品德优秀的贵族掌权。
 
 #quote(block: true)[
-#strong[提示] #strong[同一根 aristos 的其他派生]：`Aristotle`（亚里士多德，名字字面义"最好的目的"）、`aristocrat`（贵族）、`aristocratic`（贵族气的）。
+#strong[提示] #strong[同一根 aristos 的其他派生]：`Aristotle` /ˈærəˌstɑtəl/（亚里士多德，名字字面义"最好的目的"）、`aristocrat`（贵族）、`aristocratic` /əˌrɪstəˈkrætɪk/（贵族气的）。
 ]
 
 #strong[`plutocracy`（财阀制）] ------ `pluto-`（财富）+ `-cracy`（统治）= #strong[富人的统治]。希腊文#emph[ploutos] 意为"财富"。
@@ -5669,7 +5673,7 @@ demo- 家族讲完了"谁是人民"，现在轮到 -cracy 家族来回答"谁说
     )
   ]
 ]
-#strong[`bureaucracy`（官僚制）] ------ `bureau`（办公桌，法语借词）+ `-cracy`（统治）= #strong[办公桌统治]。这个词的词源本身就是个微型讽刺剧。`bureau` 原义是法语的"粗羊毛布"（late Latin #emph[bura]，粗糙的羊毛）------因为当年法国官员办公的桌子，就铺着这么一块粗布。后来语义层层漂移："铺着粗布的桌子" → "办公桌" → "办公的机构" → "层层叠叠的官僚机构"。于是#strong[bureaucracy 字面义就是"办公桌在统治"] ------一桌布，统治了你办事的全过程。这个命名带着辛辣的讽刺：#strong[真正管着你的不是哪个具体的人，而是那套桌子、表格、印章和窗口组成的机器。]你去办个证要跑五个窗口盖六个章，那就是 bureau 在 cracy（统治）你。
+#strong[`bureaucracy` /bjʊˈrɑkrəsi/（官僚制）] ------ `bureau`（办公桌，法语借词）+ `-cracy`（统治）= #strong[办公桌统治]。这个词的词源本身就是个微型讽刺剧。`bureau` 原义是法语的"粗羊毛布"（late Latin #emph[bura]，粗糙的羊毛）------因为当年法国官员办公的桌子，就铺着这么一块粗布。后来语义层层漂移："铺着粗布的桌子" → "办公桌" → "办公的机构" → "层层叠叠的官僚机构"。于是#strong[bureaucracy 字面义就是"办公桌在统治"] ------一桌布，统治了你办事的全过程。这个命名带着辛辣的讽刺：#strong[真正管着你的不是哪个具体的人，而是那套桌子、表格、印章和窗口组成的机器。]你去办个证要跑五个窗口盖六个章，那就是 bureau 在 cracy（统治）你。
 
 #horizontalrule
 
@@ -5767,19 +5771,19 @@ demo- 家族讲完了"谁是人民"，现在轮到 -cracy 家族来回答"谁说
     align: (left + horizon, left + horizon, left + horizon,),
     table.header(th([词]), th([拆解]), th([推义]),),
     table.hline(),
-    [`democracy`], [demo + cracy], [人民统治 → 民主],
-    [`democrat`], [demo + crat], [人民统治者 → 民主派],
-    [`demographic`], [demo + graph + ic], [描写人民的 → 人口的],
-    [`demography`], [demo + graphy], [描写人民 → 人口学],
-    [`demagogue`], [demo + agogue], [带领人民 → 煽动者],
-    [`epidemic`], [epi + dēm + ic], [在人群中普遍出现 → 流行的、流行病],
-    [`pandemic`], [pan + dēm + ic], [遍及广泛人群 → 大流行],
-    [`aristocracy`], [aristo + cracy], [最好者统治 → 贵族制],
+    [`democracy` /dɪˈmɑkrəsi/], [demo + cracy], [人民统治 → 民主],
+    [`democrat` /ˈdɛməˌkræt/], [demo + crat], [人民统治者 → 民主派],
+    [`demographic` /ˌdɛməˈgræfɪk/], [demo + graph + ic], [描写人民的 → 人口的],
+    [`demography` /dɪˈmɑɡrəfi/], [demo + graphy], [描写人民 → 人口学],
+    [`demagogue` /ˈdɛməɡˌɑɡ/], [demo + agogue], [带领人民 → 煽动者],
+    [`epidemic` /ˌɛpəˈdɛmɪk/], [epi + dēm + ic], [在人群中普遍出现 → 流行的、流行病],
+    [`pandemic` /pænˈdɛmɪk/], [pan + dēm + ic], [遍及广泛人群 → 大流行],
+    [`aristocracy` /ˌɛrəˈstɑkrəsi/], [aristo + cracy], [最好者统治 → 贵族制],
     [`plutocracy`], [pluto + cracy], [富人统治 → 财阀制],
-    [`theocracy`], [theo + cracy], [神统治 → 神权制],
-    [`bureaucracy`], [bureau + cracy], [办公桌统治 → 官僚制],
-    [`meritocracy`], [merit + cracy], [能者统治 → 精英制],
-    [`technocrat`], [techno + crat], [技术统治者 → 技术官僚],
+    [`theocracy` /θiˈɑkrəsi/], [theo + cracy], [神统治 → 神权制],
+    [`bureaucracy` /bjʊˈrɑkrəsi/], [bureau + cracy], [办公桌统治 → 官僚制],
+    [`meritocracy` /mɛrɪˈtɔkrəsi/], [merit + cracy], [能者统治 → 精英制],
+    [`technocrat` /ˈtɛknəˌkræt/], [techno + crat], [技术统治者 → 技术官僚],
   )
 
 #quote(block: true)[
@@ -5815,9 +5819,9 @@ demo- 家族讲完了"谁是人民"，现在轮到 -cracy 家族来回答"谁说
 
 ==== 【思考题】（答案见附录 A）
 <思考题答案见附录-a-14>
-+ `epidemic` 为什么不能解释成"压在人民头上的病"？它的历史核心义是什么？
-+ `aristocracy`（贵族制）字面是"最好的统治"，这种命名带着什么样的政治理想？（提示：让最优秀的人治国）
-+ `bureaucracy`（官僚制）字面是"办公桌统治"，这种命名带着什么讽刺意味？
++ `epidemic` /ˌɛpəˈdɛmɪk/ 为什么不能解释成"压在人民头上的病"？它的历史核心义是什么？
++ `aristocracy` /ˌɛrəˈstɑkrəsi/（贵族制）字面是"最好的统治"，这种命名带着什么样的政治理想？（提示：让最优秀的人治国）
++ `bureaucracy` /bjʊˈrɑkrəsi/（官僚制）字面是"办公桌统治"，这种命名带着什么讽刺意味？
 
 #pagebreak(weak: true)
 
@@ -5836,14 +5840,14 @@ demo- 家族讲完了"谁是人民"，现在轮到 -cracy 家族来回答"谁说
     align: (left + horizon, left + horizon, left + horizon,),
     table.header(th([词或神名]), th([关系]), th([英语例词]),),
     table.hline(),
-    [`chronos`], [普通词"时间"被人格化], [chronic, chronology],
-    [`psyche`], [普通词"灵魂"也是神话人名], [psychology, psychiatry],
-    [`morphē`], [普通词"形态"产生 Morpheus], [morphology; morphine 来自神名],
-    [King Atlas], [Mercator 题名对象], [atlas（地图集）],
-    [Nemesis], [报应], [nemesis（宿敌）],
-    [Echo], [回声], [echo],
-    [Tantalus], [受折磨], [tantalize],
-    [Hyacinth], [风信子], [hyacinth],
+    [`chronos`], [普通词"时间"被人格化], [chronic /ˈkrɑnɪk/, chronology /krəˈnɑlədʒi/],
+    [`psyche` /ˈsaɪki/], [普通词"灵魂"也是神话人名], [psychology /saɪˈkɑlədʒi/, psychiatry /saɪˈkaɪətri/],
+    [`morphē`], [普通词"形态"产生 Morpheus], [morphology /mɔrˈfɑlədʒi/; morphine /ˈmɔrfin/ 来自神名],
+    [King Atlas /ˈætləs/], [Mercator 题名对象], [atlas（地图集）],
+    [Nemesis /ˈnɛməsɪs/], [报应], [nemesis（宿敌）],
+    [Echo /ˈɛkoʊ/], [回声], [echo],
+    [Tantalus], [受折磨], [tantalize /ˈtæntəlaɪz/],
+    [Hyacinth /ˈhaɪəˌsɪnθ/], [风信子], [hyacinth],
   )
 
 这一章重点讲五组有代表性的神话词汇关系。众神负责剧情，我们负责把"普通词、神名、后世命名"三条线分清。
@@ -5856,7 +5860,7 @@ demo- 家族讲完了"谁是人民"，现在轮到 -cracy 家族来回答"谁说
 <起源故事-5>
 希腊文#emph[#strong[chronos]] 首先是普通名词"时间"，英语组合形式 `chrono-` 由这个词而来。希腊及后来的神话传统也把时间人格化为#strong[Chronos] ；这说明神名来自"时间"概念，而不是 `chrono-` 词根来自神名。
 
-Chronos 还经常与泰坦#strong[Cronus/Kronos] 混同------这位 Cronus 是宙斯他爸，干过一件惊天大事：把自己的孩子一个个吞进肚子（怕儿子抢班夺权）。后世艺术家觉得"时间吞噬万物"和"老爸吞噬孩子"简直是天造地设的一对隐喻，于是心安理得地把两位合并了。从此画作里那个拿镰刀、吞孩子的老人，名牌上写着 Chronos 还是 Cronus，全看画家心情。记住这个画面有助于记忆，但别把两位的身份证真搞混了：`chronic`、`chronology` 的直接词源是普通词#emph[chronos]（时间），不是那位吞儿子的泰坦。
+Chronos 还经常与泰坦#strong[Cronus/Kronos] 混同------这位 Cronus 是宙斯他爸，干过一件惊天大事：把自己的孩子一个个吞进肚子（怕儿子抢班夺权）。后世艺术家觉得"时间吞噬万物"和"老爸吞噬孩子"简直是天造地设的一对隐喻，于是心安理得地把两位合并了。从此画作里那个拿镰刀、吞孩子的老人，名牌上写着 Chronos 还是 Cronus，全看画家心情。记住这个画面有助于记忆，但别把两位的身份证真搞混了：`chronic` /ˈkrɑnɪk/、`chronology` /krəˈnɑlədʒi/ 的直接词源是普通词#emph[chronos]（时间），不是那位吞儿子的泰坦。
 
 #diagram-panel(title: "图示 81 · 关系图", breakable: false)[
   #align(center)[
@@ -5879,34 +5883,34 @@ Chronos 还经常与泰坦#strong[Cronus/Kronos] 混同------这位 Cronus 是�
 ]
 ==== 【代表词深讲】
 <代表词深讲-5>
-#strong[`chronic`（慢性的、长期的）] ------字面义"#strong[与时间相关的] "。医学上指"#strong[长期持续的]病"（慢性病），区别于 acute（急性的）。引申为"长期存在的、积习难改的"------`chronic liar`（老惯骗）。
+#strong[`chronic` /ˈkrɑnɪk/（慢性的、长期的）] ------字面义"#strong[与时间相关的] "。医学上指"#strong[长期持续的]病"（慢性病），区别于 acute（急性的）。引申为"长期存在的、积习难改的"------`chronic liar`（老惯骗）。
 
-#strong[`chronology`（年代学）] ------ `chrono`（时间）+ `logy`（学科）= #strong[研究时间的学科]。排出历史事件的时间顺序，就是 chronology。
+#strong[`chronology` /krəˈnɑlədʒi/（年代学）] ------ `chrono`（时间）+ `logy`（学科）= #strong[研究时间的学科]。排出历史事件的时间顺序，就是 chronology。
 
-#strong[`synchronize`（同步）] ------ `syn-`（共同）+ `chrono`（时间）+ `-ize`= #strong[时间相同]。两个事件在同一时间发生，就是同步。
+#strong[`synchronize` /ˈsɪŋkrəˌnaɪz/（同步）] ------ `syn-`（共同）+ `chrono`（时间）+ `-ize`= #strong[时间相同]。两个事件在同一时间发生，就是同步。
 
 #quote(block: true)[
 #strong[提示] #strong[对照记忆]：
 
-- `synchronous`（同步的）↔ `asynchronous`（异步的）；动词还可用 `desynchronize`
-- `chronological`（按时间顺序的）↔ `anachronistic`（时代错误的）
+- `synchronous` /ˈsɪŋkrənəs/（同步的）↔ `asynchronous` /eɪˈsɪŋkrənəs/（异步的）；动词还可用 `desynchronize`
+- `chronological` /ˌkrɑnəˈlɑdʒɪkəl/（按时间顺序的）↔ `anachronistic` /əˌnækrəˈnɪstɪk/（时代错误的）
 
-`anachronism`（时代错误）字面义是"#strong[逆时间] "------比如电影里古罗马将军戴手表，就是 anachronism。
+`anachronism` /əˈnækrəˌnɪzəm/（时代错误）字面义是"#strong[逆时间] "------比如电影里古罗马将军戴手表，就是 anachronism。
 ]
 
 #horizontalrule
 
-=== 词根 2：`psych-` / `psyche`（灵魂）------普通名词与神话人物
-<词根-2psych---psyche灵魂普通名词与神话人物>
+=== 词根 2：`psych-` / `psyche` /ˈsaɪki/（灵魂）------普通名词与神话人物
+<词根-2psych---psyche-ˈsaɪki灵魂普通名词与神话人物>
 ==== 【起源故事】
 <起源故事-6>
 这是希腊神话里最动人的爱情故事之一，完整版本保存在罗马作家阿普列尤斯(Apuleius)的《金驴记》里。
 
-先说词：希腊文#emph[#strong[psychē]] 原本是普通名词，意思是"呼吸、生命、灵魂"------后来也用来指蝴蝶。这个词先于神话存在。然后，罗马时代广为流传的 Cupid 与 Psyche 故事，把#strong[Psyche] 这个名字塑造成一位凡间公主，同时也成了"灵魂"的拟人形象。
+先说词：希腊文#emph[#strong[psychē]] 原本是普通名词，意思是"呼吸、生命、灵魂"------后来也用来指蝴蝶。这个词先于神话存在。然后，罗马时代广为流传的 Cupid 与 Psyche 故事，把#strong[Psyche] /ˈsaɪki/ 这个名字塑造成一位凡间公主，同时也成了"灵魂"的拟人形象。
 
 #emph[（神话）]故事是这样的：
 
-从前有个国王，生了三个女儿，最小的叫#strong[Psyche] （灵魂）。她美得离谱，美到人们不再去爱神阿芙洛狄忒（Aphrodite，即罗马的维纳斯）的神庙------大家都跑去看 Psyche 了。爱神妒火中烧，命令儿子#strong[Cupid] （即希腊的 Eros，爱神）：去，让你妈的箭戳中这丫头，让她爱上一只怪物。
+从前有个国王，生了三个女儿，最小的叫#strong[Psyche] （灵魂）。她美得离谱，美到人们不再去爱神阿芙洛狄忒（Aphrodite，即罗马的维纳斯）的神庙------大家都跑去看 Psyche 了。爱神妒火中烧，命令儿子#strong[Cupid] /ˈkjupɪd/（即希腊的 Eros，爱神）：去，让你妈的箭戳中这丫头，让她爱上一只怪物。
 
 Cupid 领命而去。可他靠近 Psyche 时，一不小心被自己的箭划了一下------#strong[结果他先爱上了她]。这下计划全乱。Cupid 把 Psyche 带到一座神秘宫殿，每天夜里来看她，但有一个条件：#strong[她绝不能看他的脸]。
 
@@ -5920,7 +5924,7 @@ Psyche 悲痛欲绝，满世界找他。爱神阿芙洛狄忒趁机刁难，给�
 
 最终是 Cupid 救了她。他伤已养好，挣脱了母亲的禁锢，找到沉睡的 Psyche，关上了死亡的盒子，带她去见宙斯。宙斯被感动，赐 Psyche 一杯神酒------她喝下后成了不朽的神。#strong[凡间的"灵魂"，终于和"爱"在奥林匹斯山上团圆。]
 
-这个故事是寓言：`psychē`（灵魂）想要幸福，必须经历苦难与考验；而"爱"(Eros/Cupid)会在灵魂保持信任时回来。希腊词 psychē 同时是"灵魂"和这位公主的名字------`psychology`（心理学）等词来自这个普通名词，不是来自公主的户籍登记。
+这个故事是寓言：`psychē`（灵魂）想要幸福，必须经历苦难与考验；而"爱"(Eros/Cupid)会在灵魂保持信任时回来。希腊词 psychē 同时是"灵魂"和这位公主的名字------`psychology` /saɪˈkɑlədʒi/（心理学）等词来自这个普通名词，不是来自公主的户籍登记。
 
 #diagram-panel(title: "图示 82 · 关系图", breakable: false)[
   #align(center)[
@@ -5938,21 +5942,21 @@ Psyche 悲痛欲绝，满世界找他。爱神阿芙洛狄忒趁机刁难，给�
 ]
 ==== 【代表词深讲】
 <代表词深讲-6>
-#strong[`psychology`（心理学）] ------ `psych-`（气息、生命、灵魂、心灵）+ `-o-`（连接元音）+ `-logy`（研究、学科）= #strong[心灵之学]。从 Psyche 那个"灵魂"一路演到现代心理学的"心理"，意义早已扩容。
+#strong[`psychology` /saɪˈkɑlədʒi/（心理学）] ------ `psych-`（气息、生命、灵魂、心灵）+ `-o-`（连接元音）+ `-logy`（研究、学科）= #strong[心灵之学]。从 Psyche 那个"灵魂"一路演到现代心理学的"心理"，意义早已扩容。
 
-#strong[`psychiatry`（精神病学）] ------ `psych-`（心灵、精神）+ `-iatry`（医疗）= #strong[灵魂治疗]。今天叫精神医学，精神科医生可别照字面叫"灵魂治疗师"。
+#strong[`psychiatry` /saɪˈkaɪətri/（精神病学）] ------ `psych-`（心灵、精神）+ `-iatry`（医疗）= #strong[灵魂治疗]。今天叫精神医学，精神科医生可别照字面叫"灵魂治疗师"。
 
-#strong[`psyche`（心灵、精神）] ------直接借自希腊，指人的精神整体。
+#strong[`psyche` /ˈsaɪki/（心灵、精神）] ------直接借自希腊，指人的精神整体。
 
 #quote(block: true)[
 #strong[提示] #strong[派生词群]：
 
 - `psychology`（心理学）
-- `psychological`（心理的）
+- `psychological` /ˌsaɪkəˈlɑdʒɪkəl/（心理的）
 - `psychiatry`（精神病学）
-- `psychiatrist`（精神科医生）
-- `psychopath`（精神变态者：psycho + path 病）
-- `psychosomatic`（心身的：psycho + somatic 身体）
+- `psychiatrist` /saɪˈkaɪətrɪst/（精神科医生）
+- `psychopath` /ˈsaɪkoʊˌpæθ/（精神变态者：psycho + path 病）
+- `psychosomatic` /saɪˌkoʊsəˈmætɪk/（心身的：psycho + somatic 身体）
 ]
 
 #horizontalrule
@@ -5963,11 +5967,11 @@ Psyche 悲痛欲绝，满世界找他。爱神阿芙洛狄忒趁机刁难，给�
 <起源故事-7>
 先把梦神的家族谱系摆清楚------这是希腊神话里最"催眠"的一个家族。
 
-#emph[（神话）]夜女神#strong[Nyx] （夜）独自生下一对双胞胎儿子：哥哥叫#strong[Hypnos] （睡神，希腊文 hypnos 就是"睡眠"），弟弟叫#strong[Thanatos] （死神）。这对兄弟形影不离------在希腊人的想象里，睡眠和死亡本来就是一对：都是闭上眼、离开现世，只是一个明天醒来，一个不再醒来。所以 `hypnotic`（催眠的）、`hypnosis`（催眠状态）来自睡神 Hypnos，而 `euthanasia`（安乐死：eu 好 + thanatos 死）里藏着死神 Thanatos 的名字。
+#emph[（神话）]夜女神#strong[Nyx] /nɪks/（夜）独自生下一对双胞胎儿子：哥哥叫#strong[Hypnos] （睡神，希腊文 hypnos 就是"睡眠"），弟弟叫#strong[Thanatos] （死神）。这对兄弟形影不离------在希腊人的想象里，睡眠和死亡本来就是一对：都是闭上眼、离开现世，只是一个明天醒来，一个不再醒来。所以 `hypnotic` /hɪpˈnɑtɪk/（催眠的）、`hypnosis` /hɪpˈnoʊsɪs/（催眠状态）来自睡神 Hypnos，而 `euthanasia` /ˌjuθəˈneɪʒə/（安乐死：eu 好 + thanatos 死）里藏着死神 Thanatos 的名字。
 
 睡神 Hypnos 自己也有儿子，其中最出名的就是#strong[梦神 Morpheus] 。Morpheus 的职责，是在人的梦里#strong[塑造形象] ------把人或神的模样"演"给睡梦中的人看。所以他的名字由希腊文#emph[#strong[morphē]]（形态）而来：#strong[他是"造形态的人"] 。
 
-这就解释了因果方向：是先有普通词#emph[morphē]（形态），梦神才据它得名。`morphology`（形态学）来自普通词，而 `morphine`（吗啡）才是直接借梦神命名------绕了一圈，终于借到了神。
+这就解释了因果方向：是先有普通词#emph[morphē]（形态），梦神才据它得名。`morphology` /mɔrˈfɑlədʒi/（形态学）来自普通词，而 `morphine` /ˈmɔrfin/（吗啡）才是直接借梦神命名------绕了一圈，终于借到了神。
 
 #diagram-panel(title: "图示 83 · 关系图", breakable: false)[
   #align(center)[
@@ -6002,17 +6006,17 @@ Psyche 悲痛欲绝，满世界找他。爱神阿芙洛狄忒趁机刁难，给�
 
 ==== 【代表词深讲】
 <代表词深讲-7>
-#strong[`metamorphosis`（变形、变态）] ------ `meta-`（改变）+ `morph`（形态）+ `-osis`（过程）= #strong[形态改变的过程]。卡夫卡的小说《变形记》英文就是 Metamorphosis；生物学里蝴蝶从蛹变蝴蝶也叫 metamorphosis。
+#strong[`metamorphosis` /ˌmɛtəˈmɔrfəsɪs/（变形、变态）] ------ `meta-`（改变）+ `morph`（形态）+ `-osis`（过程）= #strong[形态改变的过程]。卡夫卡的小说《变形记》英文就是 Metamorphosis；生物学里蝴蝶从蛹变蝴蝶也叫 metamorphosis。
 
-#strong[`morphology`（形态学）] ------ `morph`（形态）+ `logy`（学科）。语言学里研究词形变化，生物学里研究生物形态，地质学里研究地貌------都叫 morphology。
+#strong[`morphology` /mɔrˈfɑlədʒi/（形态学）] ------ `morph`（形态）+ `logy`（学科）。语言学里研究词形变化，生物学里研究生物形态，地质学里研究地貌------都叫 morphology。
 
 #horizontalrule
 
-=== 词根 4：`atlas`（地图集）------ Mercator 指向哪位 Atlas
-<词根-4atlas地图集-mercator-指向哪位-atlas>
+=== 词根 4：`atlas` /ˈætləs/（地图集）------ Mercator 指向哪位 Atlas
+<词根-4atlas-ˈætləs地图集-mercator-指向哪位-atlas>
 ==== 【起源故事】
 <起源故事-8>
-#emph[（神话）]泰坦神族大战(Titanomachy)里，巨人#strong[Atlas] 站错了队------他帮泰坦对抗宙斯。宙斯赢了，对他下了个狠罚：#strong[永远用双肩扛着天空]。注意，是扛"天空"，不是扛"地球"------后来"扛地球"的形象是讹传，但流传太广，如今图库里 Atlas 几乎都顶着个地球仪。
+#emph[（神话）]泰坦神族大战(Titanomachy)里，巨人#strong[Atlas] /ˈætləs/ 站错了队------他帮泰坦对抗宙斯。宙斯赢了，对他下了个狠罚：#strong[永远用双肩扛着天空]。注意，是扛"天空"，不是扛"地球"------后来"扛地球"的形象是讹传，但流传太广，如今图库里 Atlas 几乎都顶着个地球仪。
 
 这个罚有多难受？扛天扛了几千年，Atlas 大概只想找个替班。#strong[机会还真来了。]
 
@@ -6034,24 +6038,24 @@ Psyche 悲痛欲绝，满世界找他。爱神阿芙洛狄忒趁机刁难，给�
 
 ==== 【代表词】
 <代表词>
-#strong[`atlas`（地图集）] ------作为书名用法来自 Mercator 对传奇国王 Atlas 的致意，随后泛化为"地图集"。把它解释成"扛天巨人的书"是后世容易形成的联想。
+#strong[`atlas` /ˈætləs/（地图集）] ------作为书名用法来自 Mercator 对传奇国王 Atlas 的致意，随后泛化为"地图集"。把它解释成"扛天巨人的书"是后世容易形成的联想。
 
-#strong[`Atlantic`（大西洋）] ------来自 Atlas 的形容词形式。希腊人认为大西洋在 Atlas 扛天的山脉（阿特拉斯山）之外，所以叫"Atlas 之海",Atlantic Ocean。
+#strong[`Atlantic` /əˈtlæntɪk/（大西洋）] ------来自 Atlas 的形容词形式。希腊人认为大西洋在 Atlas 扛天的山脉（阿特拉斯山）之外，所以叫"Atlas 之海",Atlantic Ocean。
 
 #quote(block: true)[
-#strong[提示] #strong[同根延伸]：`Atlantis`（亚特兰蒂斯）------柏拉图虚构的沉没大陆，字面义"Atlas 的岛"。
+#strong[提示] #strong[同根延伸]：`Atlantis` /ətˈlæntɪs/（亚特兰蒂斯）------柏拉图虚构的沉没大陆，字面义"Atlas 的岛"。
 ]
 
 #horizontalrule
 
 === 词根 5：几个戏剧性的神话词根
 <词根-5几个戏剧性的神话词根>
-==== `nemesis`（宿敌、报应）------来自报应女神
-<nemesis宿敌报应来自报应女神>
+==== `nemesis` /ˈnɛməsɪs/（宿敌、报应）------来自报应女神
+<nemesis-ˈnɛməsɪs宿敌报应来自报应女神>
 希腊女神#strong[Nemesis] 是报应女神，专门惩罚傲慢自大的人。今天英语里 `nemesis` 指"#strong[宿敌] "------那个注定要让你付出代价的人。蝙蝠侠的 nemesis 是小丑。
 
-==== `echo`（回声）------来自回声女神
-<echo回声来自回声女神>
+==== `echo` /ˈɛkoʊ/（回声）------来自回声女神
+<echo-ˈɛkoʊ回声来自回声女神>
 这是奥维德(Ovid)《变形记》里最令人心碎的故事。
 
 #emph[（神话）]仙女#strong[Echo] 原本是个能说会道的姑娘------其实太能说了，喋喋不休。这给她招来祸端。天后赫拉(Hera)怀疑丈夫宙斯又去山林里和仙女们鬼混，跑来盘问。Echo 被仙女们推出来挡驾，就拉着赫拉东拉西扯、讲个没完，给同伴们争取逃跑的时间。
@@ -6064,7 +6068,7 @@ Psyche 悲痛欲绝，满世界找他。爱神阿芙洛狄忒趁机刁难，给�
 
 Echo 从此再也不能主动表达自己------别人不说，她就开不了口。
 
-偏偏这时候，她遇见了少年#strong[Narcissus] （纳西索斯，自恋的化身）。Narcissus 美得惊人，但谁都不爱。Echo 一见钟情，想表白，想冲上去说"我喜欢你"------可诅咒让她发不出声音。她只能等。
+偏偏这时候，她遇见了少年#strong[Narcissus] /nɑrˈsɪsəs/（纳西索斯，自恋的化身）。Narcissus 美得惊人，但谁都不爱。Echo 一见钟情，想表白，想冲上去说"我喜欢你"------可诅咒让她发不出声音。她只能等。
 
 #emph[（神话）] Narcissus 在林中迷路，大喊："有人吗？(Is anyone here?)" Echo 躲在树后，只能跟着重复："……这里(here)。" Narcissus 四下张望："来！(Come!)" Echo 心跳如鼓，只能应："……来！(Come!)"------她多么想冲过去，可她说不出"我在这，我来了"。 Narcissus 终于看到一个身影，冷冷地拒绝了她："我宁可死，也不让你占有我。" Echo 只能心碎地复述最后几个字："……占有我（……you may possess me）。"
 
@@ -6072,9 +6076,9 @@ Echo 从此再也不能主动表达自己------别人不说，她就开不了口
 
 `echo`（回声）这个词，就是这位仙女最后的、也是唯一的遗产。
 
-==== `tantalize`（逗弄、吊胃口）------来自受折磨的国王
-<tantalize逗弄吊胃口来自受折磨的国王>
-#emph[（神话）]国王#strong[Tantalus] （坦塔罗斯）的罪，听着就让人不寒而栗。
+==== `tantalize` /ˈtæntəˌlaɪz/（逗弄、吊胃口）------来自受折磨的国王
+<tantalize-ˈtæntəˌlaɪz逗弄吊胃口来自受折磨的国王>
+#emph[（神话）]国王#strong[Tantalus] /ˈtæntələs/（坦塔罗斯）的罪，听着就让人不寒而栗。
 
 他是宙斯的儿子，深受众神信任------能和众神同桌吃饭，这种待遇凡人想都不敢想。但 Tantalus 偏偏要作死。他想试探：#strong[众神到底是不是真的全知？]
 
@@ -6092,8 +6096,8 @@ Tantalus 的下场呢？宙斯把他打入冥界，受一份量身定做的、�
 #strong[Tantalus 的折磨（看得见，够不着 = tantalize）]：站在水中，水退到下巴以下；头顶是果树，伸手时风把树枝吹走------永远"看得见，够不着"。
 ]
 
-==== `panic`（恐慌）------来自牧神 Pan
-<panic恐慌来自牧神-pan>
+==== `panic` /ˈpænɪk/（恐慌）------来自牧神 Pan
+<panic-ˈpænɪk恐慌来自牧神-pan>
 #emph[（神话）]牧神#strong[Pan] （潘）是个形象有点滑稽的神：半人半羊，长着山羊腿和两只角，胡子拉碴，在山林和荒野间游荡。他生性好色，见一个追一个，但长相实在抱歉，经常追到一半被吓跑的仙女嫌弃。
 
 但 Pan 有一样可怕的本事。#emph[（神话）]他午睡被打扰时会发怒，从藏身处发出一种#strong[尖锐可怖的怪叫]。这种声音没人听过却无法形容，会让听见的人#strong[从骨髓里升起一股无名恐惧]，丢盔弃甲、抱头鼠窜------完全不知道自己在怕什么，就是控制不住地想跑。
@@ -6116,21 +6120,21 @@ Tantalus 的下场呢？宙斯把他打入冥界，受一份量身定做的、�
     [chronos（普通词"时间"）], [`chrono-`；也被人格化为 Chronos],
     [psychē（普通词"灵魂"）], [`psych-`\;Psyche 是神话拟人],
     [morphē（普通词"形态"）], [`morph-`\;Morpheus 名字由此形成],
-    [Morpheus（梦神）], [`morphine`],
+    [Morpheus（梦神）], [`morphine` /ˈmɔrfin/],
     [King Atlas（传奇国王）], [Mercator 书名 Atlas → 地图集],
-    [Nemesis（报应女神）], [`nemesis`（宿敌）],
-    [Echo（回声仙女）], [`echo`（回声）],
-    [Tantalus（受折磨国王）], [`tantalize`（吊胃口）],
-    [Pan（牧神）], [`panic`（恐慌）],
-    [Hyacinthus（风信子少年）], [`hyacinth`（风信子）],
-    [Iris（彩虹女神）], [`iris`（虹膜）、`iridescent`],
-    [Flora（罗马花神）], [`flora`（植物群）],
-    [Mars（罗马战神）], [`martial`（尚武的）、`March`（三月）],
+    [Nemesis（报应女神）], [`nemesis` /ˈnɛməsɪs/（宿敌）],
+    [Echo（回声仙女）], [`echo` /ˈɛkoʊ/（回声）],
+    [Tantalus（受折磨国王）], [`tantalize` /ˈtæntəˌlaɪz/（吊胃口）],
+    [Pan（牧神）], [`panic` /ˈpænɪk/（恐慌）],
+    [Hyacinthus（风信子少年）], [`hyacinth` /ˈhaɪəˌsɪnθ/（风信子）],
+    [Iris /ˈaɪrɪs/（彩虹女神）], [`iris` /ˈaɪrəs/（虹膜）、`iridescent` /ˌɪrəˈdɛsənt/],
+    [Flora /ˈflɔrə/（罗马花神）], [`flora` /ˈflɔrə/（植物群）],
+    [Mars（罗马战神）], [`martial` /ˈmɑrʃəl/（尚武的）、`March`（三月）],
     [Janus（罗马门神）], [`January`（一月：门户之月）],
   )
 
 #quote(block: true)[
-#strong[提示] #strong[罗马神的贡献]：不止希腊神，罗马神也给英语留下了大量词根。`January`（一月）来自罗马门神#strong[Janus] （双面神，看过去也看未来，适合作为新年之首）；`March`（三月）来自战神#strong[Mars] （三月是出征的季节）；`martial`（尚武的）也来自 Mars。
+#strong[提示] #strong[罗马神的贡献]：不止希腊神，罗马神也给英语留下了大量词根。`January`（一月）来自罗马门神#strong[Janus] /ˈdʒeɪnəs/（双面神，看过去也看未来，适合作为新年之首）；`March`（三月）来自战神#strong[Mars] /mɑrz/（三月是出征的季节）；`martial`（尚武的）也来自 Mars。
 ]
 
 #horizontalrule
@@ -6142,19 +6146,19 @@ Tantalus 的下场呢？宙斯把他打入冥界，受一份量身定做的、�
     align: (left + horizon, left + horizon, left + horizon,),
     table.header(th([词]), th([神话来源]), th([推义]),),
     table.hline(),
-    [`chronic`], [chronos 普通词"时间"], [时间长的 → 慢性的],
-    [`chronology`], [chrono + logy], [时间顺序的论述 → 年代学],
-    [`synchronize`], [syn + chrono], [使时间一致 → 同步],
-    [`psychology`], [psychē + logy], [关于心灵的研究 → 心理学],
-    [`psychiatry`], [psychē + iatry], [心灵治疗 → 精神病学],
-    [`metamorphosis`], [meta + morphē], [改变形态 → 变形],
-    [`morphine`], [Morpheus 梦神], [梦神的药 → 吗啡],
-    [`atlas`], [Mercator 所指的 King Atlas], [书名 → 地图集],
-    [`Atlantic`], [Atlas 的], [扛天神之海 → 大西洋],
-    [`nemesis`], [Nemesis 报应女神], [报应者 → 宿敌],
-    [`tantalize`], [Tantalus 受折磨], [够不着 → 吊胃口],
-    [`panic`], [Pan 牧神], [牧神之惧 → 恐慌],
-    [`martial`], [Mars 战神], [战神的 → 尚武的],
+    [`chronic` /ˈkrɑnɪk/], [chronos 普通词"时间"], [时间长的 → 慢性的],
+    [`chronology` /krəˈnɑlədʒi/], [chrono + logy], [时间顺序的论述 → 年代学],
+    [`synchronize` /ˈsɪŋkrəˌnaɪz/], [syn + chrono], [使时间一致 → 同步],
+    [`psychology` /saɪˈkɑlədʒi/], [psychē + logy], [关于心灵的研究 → 心理学],
+    [`psychiatry` /saɪˈkaɪətri/], [psychē + iatry], [心灵治疗 → 精神病学],
+    [`metamorphosis` /ˌmɛtəˈmɔrfəsəs/], [meta + morphē], [改变形态 → 变形],
+    [`morphine` /ˈmɔrfin/], [Morpheus 梦神], [梦神的药 → 吗啡],
+    [`atlas` /ˈætləs/], [Mercator 所指的 King Atlas], [书名 → 地图集],
+    [`Atlantic` /ətˈlæntɪk/], [Atlas 的], [扛天神之海 → 大西洋],
+    [`nemesis` /ˈnɛməsɪs/], [Nemesis 报应女神], [报应者 → 宿敌],
+    [`tantalize` /ˈtæntəˌlaɪz/], [Tantalus 受折磨], [够不着 → 吊胃口],
+    [`panic` /ˈpænɪk/], [Pan 牧神], [牧神之惧 → 恐慌],
+    [`martial` /ˈmɑrʃəl/], [Mars 战神], [战神的 → 尚武的],
     [`January`], [Janus 门神], [门神之月 → 一月],
   )
 
@@ -6181,7 +6185,7 @@ Tantalus 的下场呢？宙斯把他打入冥界，受一份量身定做的、�
 <避坑提示-6>
 故事讲完了，该给几位神做个事实核查------他们也不是第一次被人添油加醋了：
 
-- #strong[因果方向别搞反]。`chronos`、`psychē`、`morphē` 都是先有普通词，后有神名或拟人形象。`psychology` 来自"灵魂"这个概念，不是来自那位公主的户籍登记；`morphine` 是个例外------药剂师 Sertürner 确实是有意借梦神 Morpheus 命名的。同理，`atlas`（地图集）来自 Mercator 致敬的传奇国王 Atlas，不是那位扛天的倒霉泰坦。
+- #strong[因果方向别搞反]。`chronos`、`psychē`、`morphē` 都是先有普通词，后有神名或拟人形象。`psychology` /saɪˈkɑlədʒi/ 来自"灵魂"这个概念，不是来自那位公主的户籍登记；`morphine` /ˈmɔrfin/ 是个例外------药剂师 Sertürner 确实是有意借梦神 Morpheus 命名的。同理，`atlas` /ˈætləs/（地图集）来自 Mercator 致敬的传奇国王 Atlas，不是那位扛天的倒霉泰坦。
 - #strong[神话版本众多，本章挑的是流传最广的那版]。Cupid 与 Psyche 出自罗马时期的《金驴记》，Echo 的故事出自奥维德，Pan 助阵马拉松出自希罗多德------每个版本都有别的作者讲出不同细节。Tantalus 为什么被罚、到底煮的谁，众说纷纭。神话世界没有统一剧本，编剧们各写各的。
 - #strong["蝴蝶=灵魂"的联想在古代艺术中很常见]，但"古人看到蝴蝶破蛹所以发明了这个双义"这条因果链，学者们还没敢签字画押------它是个好记的解释，不是已经盖章的结论。
 - #strong[古典构词 ≠ 现代定义]。`psychology` 字面是"灵魂之学"，但现代心理学研究的对象早就不是古希腊人想象的那个#emph[psychē] 了。同理，精神科医生真的不宜直译成"灵魂治疗师"------挂号费撑不起这个头衔。
@@ -6190,9 +6194,9 @@ Tantalus 的下场呢？宙斯把他打入冥界，受一份量身定做的、�
 
 ==== 【思考题】（答案见附录 A）
 <思考题答案见附录-a-15>
-+ `psychology` 中的 `psych-` 经历了从"气息、生命、灵魂"到"心灵、心理"的语义发展；这种历史同现代心理学的研究对象有什么区别？
-+ `morphine`（吗啡）为什么以梦神 Morpheus 命名？（提示：它带来梦般的沉睡）
-+ `tantalize`（吊胃口）来自 Tantalus 的折磨，想象一下"看得见够不着"的画面，这种惩罚为什么引申为"逗弄"?
++ `psychology` /saɪˈkɑlədʒi/ 中的 `psych-` 经历了从"气息、生命、灵魂"到"心灵、心理"的语义发展；这种历史同现代心理学的研究对象有什么区别？
++ `morphine` /ˈmɔrfin/（吗啡）为什么以梦神 Morpheus 命名？（提示：它带来梦般的沉睡）
++ `tantalize` /ˈtæntəˌlaɪz/（吊胃口）来自 Tantalus 的折磨，想象一下"看得见够不着"的画面，这种惩罚为什么引申为"逗弄"?
 
 #pagebreak(weak: true)
 
@@ -6210,13 +6214,13 @@ Tantalus 的下场呢？宙斯把他打入冥界，受一份量身定做的、�
     table.header(th([后缀]), th([含义]), th([例词]),),
     table.hline(),
     [`-logy`], [……学], [biology, psychology, geology],
-    [`-graphy`], [……志], [geography, biography, photography],
-    [`-metry`], [……测量], [geometry, symmetry, optometry],
+    [`-graphy`], [……志], [geography, biography, photography /fəˈtɑgrəfi/],
+    [`-metry`], [……测量], [geometry /dʒiˈɑmətri/, symmetry /ˈsɪmətri/, optometry /ɑpˈtɑmətri/],
   )
 
 讲清楚它们的来源，可以帮助识别一批术语；具体词义仍需逐词学习。词尾能给方向，不能替你代修整门课程。
 
-这一章没有宙斯，没有赫拉，没有会说话的鸡------这一家子是希腊词根里的#strong[蓝领派]。它们的本事不靠神迹，靠的是一群泥腿子：在尼罗河泥泞的岸边拽绳子丈地的埃及书吏，在以弗所集市上对路人宣讲"万物皆流"的怪老头，还有 19 世纪蹲在暗房里盯着一块银板发呆的法国人。故事没那么戏剧，但这是离你日常最近的三个后缀------你每一份简历上的 psychology，每一条朋友圈的 photograph，每一道几何题的 geometry，都要从这帮人身上找源头。
+这一章没有宙斯，没有赫拉，没有会说话的鸡------这一家子是希腊词根里的#strong[蓝领派]。它们的本事不靠神迹，靠的是一群泥腿子：在尼罗河泥泞的岸边拽绳子丈地的埃及书吏，在以弗所集市上对路人宣讲"万物皆流"的怪老头，还有 19 世纪蹲在暗房里盯着一块银板发呆的法国人。故事没那么戏剧，但这是离你日常最近的三个后缀------你每一份简历上的 psychology，每一条朋友圈的 photograph /ˈfoʊtəˌgræf/，每一道几何题的 geometry，都要从这帮人身上找源头。
 
 #horizontalrule
 
@@ -6302,16 +6306,16 @@ logos 这词的传奇不在于它本义多朴素，而在于#strong[它是怎么
     [bio + logy], [biology], [生物学],
     [psych + logy], [psychology], [心理学],
     [geo + logy], [geology], [地质学],
-    [theo + logy], [theology], [神学],
-    [philo + logy], [philology], [语文学],
-    [eco + logy], [ecology], [生态学],
-    [socio + logy], [sociology], [社会学],
-    [anthropo + logy], [anthropology], [人类学],
-    [etymo + logy], [etymology], [词源学],
+    [theo + logy], [theology /θiˈɑlədʒi/], [神学],
+    [philo + logy], [philology /fɪˈlɑlədʒi/], [语文学],
+    [eco + logy], [ecology /ɪˈkɑlədʒi/], [生态学],
+    [socio + logy], [sociology /ˌsoʊsiˈɑlədʒi/], [社会学],
+    [anthropo + logy], [anthropology /ˌænθrəˈpɑlədʒi/], [人类学],
+    [etymo + logy], [etymology /ˌɛtəˈmɑlədʒi/], [词源学],
   )
 
-==== 【一个特别的词：`etymology`（词源学）】
-<一个特别的词etymology词源学>
+==== 【一个特别的词：`etymology` /ˌɛtəˈmɑlədʒi/（词源学）】
+<一个特别的词etymology-ˌɛtəˈmɑlədʒi词源学>
 `etymology` 本身就是一个有意思的故事。
 
 它来自希腊文#strong[etymon] （真义、本义）+ #strong[logy] （学科）= #strong[研究词语本义的学科]。
@@ -6383,7 +6387,7 @@ logos 这词的传奇不在于它本义多朴素，而在于#strong[它是怎么
     [biology（生物学）：研究生命的规律], [biography（传记）：记录一个人的一生],
   )
 
-把 geology 和 geography 摆在一起，差别就出来了：geologist 想搞明白#strong[这座山是怎么抬起来的、这条河为什么这样拐弯]；geographer 则忙着把#strong[这座山画进地图、把这条河的走向标注清楚]。一个追问成因，一个负责留档。考古学家去现场挖一锅土回来写报告，那叫 ethnography（民族志）；社会学家在办公室里建模型分析为什么会这样，那更靠近 sociology（社会学）。
+把 geology 和 geography 摆在一起，差别就出来了：geologist 想搞明白#strong[这座山是怎么抬起来的、这条河为什么这样拐弯]；geographer 则忙着把#strong[这座山画进地图、把这条河的走向标注清楚]。一个追问成因，一个负责留档。考古学家去现场挖一锅土回来写报告，那叫 ethnography /ɛθˈnɑɡrəfi/（民族志）；社会学家在办公室里建模型分析为什么会这样，那更靠近 sociology（社会学）。
 
 #quote(block: true)[
 #strong[提示] #strong[理解关键]：看到 `-logy`，想"#strong[理论研究] "；看到 `-graphy`，想"#strong[描写记录] "。
@@ -6403,15 +6407,15 @@ logos 这词的传奇不在于它本义多朴素，而在于#strong[它是怎么
     [geo + graphy], [geography], [地理学（描写大地）],
     [bio + graphy], [biography], [传记（记录一生）],
     [photo + graphy], [photography], [摄影（用光记录）],
-    [auto + bio + graphy], [autobiography], [自传（自己写自己）],
-    [calli + graphy], [calligraphy], [书法（美的书写）],
-    [carto + graphy], [cartography], [制图学（画地图）],
-    [ortho + graphy], [orthography], [正字法（正确书写）],
-    [biblio + graphy], [bibliography], [参考书目（写书清单）],
+    [auto + bio + graphy], [autobiography /ˌɔtəbaɪˈɑgrəfi/], [自传（自己写自己）],
+    [calli + graphy], [calligraphy /kəˈlɪgrəfi/], [书法（美的书写）],
+    [carto + graphy], [cartography /kɑrˈtɑɡrəfi/], [制图学（画地图）],
+    [ortho + graphy], [orthography /ɔrˈθɑgrəfi/], [正字法（正确书写）],
+    [biblio + graphy], [bibliography /ˌbɪbliˈɑgrəfi/], [参考书目（写书清单）],
   )
 
-==== 【一个特别的词：`photograph`（照片）------暗房里第一次"用光书写"】
-<一个特别的词photograph照片暗房里第一次用光书写>
+==== 【一个特别的词：`photograph` /ˈfoʊtəɡˌræf/（照片）------暗房里第一次"用光书写"】
+<一个特别的词photograph-ˈfoʊtəɡˌræf照片暗房里第一次用光书写>
 `photograph` 拆解：`photo-`（光）+ `-graph`（写）= #strong[用光来写]。
 
 时间拉到 1839 年，巴黎。法国人#strong[达盖尔(Louis Daguerre)] 鼓捣了好些年的"银版摄影术"终于快要成功了------把一块镀银的铜板熏上碘蒸气，曝光后用水银蒸汽显影，再定影，理论上能把眼前的景象"固定"下来。可这套工艺又慢又麻烦又危险，水银蒸汽有毒，曝光要十几分钟，被拍的人得被铁夹子夹住后脑勺保持不动，稍微眨个眼，出来的脸就糊成一团。
@@ -6468,12 +6472,12 @@ logos 这词的传奇不在于它本义多朴素，而在于#strong[它是怎么
   ]
 ]
 #quote(block: true)[
-#strong[提示] #strong[`measure`（测量）和 `-metry` 是亲戚！] `measure` 经过拉丁 mensura → 古法语 mesure → 英语 measure，而 mensura 和希腊 metron #emph[#emph[同源于原始印欧语#emph[me-]] （测量）。所以 measure / meter / metry 三个词都是亲戚]\* 。
+#strong[提示] #strong[`measure` /ˈmɛʒər/（测量）和 `-metry` 是亲戚！] `measure` 经过拉丁 mensura → 古法语 mesure → 英语 measure，而 mensura 和希腊 metron #emph[#emph[同源于原始印欧语#emph[me-]] （测量）。所以 measure / meter / metry 三个词都是亲戚]\* 。
 ]
 
 ==== 【-metry 的代表词：geometry------数学的"泥巴味"起点】
 <-metry-的代表词geometry数学的泥巴味起点>
-#strong[`geometry`（几何学）] ------ `geo`（地）+ `metry`（测量）= #strong[测量土地]。
+#strong[`geometry` /dʒiˈɑmətri/（几何学）] ------ `geo`（地）+ `metry`（测量）= #strong[测量土地]。
 
 #emph[geōmetria] 的字面构造确实是"测量土地"。古希腊作者希罗多德把几何知识与埃及尼罗河泛滥后重新丈量土地联系起来；这是重要的古代传统叙事，但不能据此断言几何学只在这一场景中诞生。
 
@@ -6508,9 +6512,9 @@ logos 这词的传奇不在于它本义多朴素，而在于#strong[它是怎么
 #strong[提示] #strong["几何学"的字面义与测量土地有关]。埃及测地故事能说明实用测量背景，但数学知识的形成涉及多个古代文明和长期发展。
 ]
 
-#strong[`symmetry`（对称）] ------来自希腊#emph[symmetria]，核心义是"共同尺度、相称、比例协调"。现代词义可以指镜像或旋转对称，但原义不只是"左右两边测起来一样大"。
+#strong[`symmetry` /ˈsɪmətri/（对称）] ------来自希腊#emph[symmetria]，核心义是"共同尺度、相称、比例协调"。现代词义可以指镜像或旋转对称，但原义不只是"左右两边测起来一样大"。
 
-#strong[`trigonometry`（三角学）] ------ `trigon`（三角形，tri 三 + gon 角）+ `metry`= #strong[测量三角形]。
+#strong[`trigonometry` /ˌtrɪɡəˈnɑmətri/（三角学）] ------ `trigon`（三角形，tri 三 + gon 角）+ `metry`= #strong[测量三角形]。
 
 #horizontalrule
 
@@ -6543,14 +6547,14 @@ logos 这词的传奇不在于它本义多朴素，而在于#strong[它是怎么
     table.hline(),
     [anthropology（人类学）], [anthrop-（人） + -o-（连接元音） + logy（学）], [研究人类的学问],
     [biography（传记）], [bio（生命、人生） + graphy（记录）], [记录人生],
-    [cinematography（电影摄影）], [cinemato（运动） + graphy（记录）], [记录运动 → 电影],
-    [astronomy（天文学）], [astr-（星） + -o- + nomy（法则、安排）], [研究星辰法则],
+    [cinematography /ˌsɪnɪməˈtɑgrəfi/（电影摄影）], [cinemato（运动） + graphy（记录）], [记录运动 → 电影],
+    [astronomy /əˈstrɑnəmi/（天文学）], [astr-（星） + -o- + nomy（法则、安排）], [研究星辰法则],
     [cartography（制图学）], [carto（地图，chart） + graphy（画）], [画地图],
     [ethnography（民族志）], [ethno（民族） + graphy（记录）], [记录民族],
   )
 
 #quote(block: true)[
-#strong[提示] #strong[一个常见组合成分]：`-nomy` 与希腊#emph[nomos] "惯例、法则"及#emph[nemein] "分配、管理"词族有关。`astronomy` 可联想为"星辰秩序/法则的研究";`economy` 经希腊#emph[oikonomia] 表示"家庭或产业的管理"。后者是"管理活动/制度"，不是"管家"这个人。
+#strong[提示] #strong[一个常见组合成分]：`-nomy` 与希腊#emph[nomos] "惯例、法则"及#emph[nemein] "分配、管理"词族有关。`astronomy` /əˈstrɑnəmi/ 可联想为"星辰秩序/法则的研究";`economy` /ɪˈkɑnəmi/ 经希腊#emph[oikonomia] 表示"家庭或产业的管理"。后者是"管理活动/制度"，不是"管家"这个人。
 ]
 
 #strong[一个有趣的旁支：`economy`（经济）= 古希腊的"管家学"。]
@@ -6646,9 +6650,9 @@ logos 这词的传奇不在于它本义多朴素，而在于#strong[它是怎么
 
 ==== 【思考题】（答案见附录 A）
 <思考题答案见附录-a-16>
-+ `biography`（传记）拆开是 bio + graphy，为什么"记录人生"等于传记？
-+ `geometry` 的构形与"测地"有关；尼罗河泛滥后重分土地的传统故事能说明什么，又不能单独证明什么？
-+ `economy` 经希腊#emph[oikonomia] 表示家庭或产业管理；它怎样扩展成现代"经济"概念？
++ `biography` /baɪˈɑɡrəfi/（传记）拆开是 bio + graphy，为什么"记录人生"等于传记？
++ `geometry` /dʒiˈɑmətri/ 的构形与"测地"有关；尼罗河泛滥后重分土地的传统故事能说明什么，又不能单独证明什么？
++ `economy` /ɪˈkɑnəmi/ 经希腊#emph[oikonomia] 表示家庭或产业管理；它怎样扩展成现代"经济"概念？
 
 #pagebreak(weak: true)
 
@@ -6663,7 +6667,7 @@ logos 这词的传奇不在于它本义多朴素，而在于#strong[它是怎么
 这一章把其他高频希腊组合形式用紧凑格式补全。识别组合形式能帮助圈定词义范围，但它们不能与任意成分自由拼接，也不能只凭"长得像"就认亲------词根界同样需要核验身份。
 
 #quote(block: true)[
-本章收录约 25 个词根，涵盖 `bio-`（生）、`geo-`（地）、`tele-`（远）、`phone`（声）、`astron`（星）、`photo-`（光）、`therme`（热）、`hydro`（水）、`aero`（空气）、`archaios`（古）、`kainos`（新）、`micros`（小）、`macros`（大）、`auto-`（自）、`hetero-`（异）、`homo-`（同）、`neo-`（新）、`pan-`（全）、`poly-`（多）等。
+本章收录约 25 个词根，涵盖 `bio-`（生）、`geo-`（地）、`tele-`（远）、`phone`（声）、`astron`（星）、`photo-`（光）、`therme`（热）、`hydro`（水）、`aero` /ˈɛroʊ/（空气）、`archaios`（古）、`kainos`（新）、`micros`（小）、`macros`（大）、`auto-`（自）、`hetero-`（异）、`homo-`（同）、`neo-`（新）、`pan-`（全）、`poly-`（多）等。
 ]
 
 #horizontalrule
@@ -6676,8 +6680,8 @@ logos 这词的传奇不在于它本义多朴素，而在于#strong[它是怎么
 <bio-生命>
 希腊文#emph[#strong[bios]]（生命、生活）。它与#strong[zōē] （生命）在部分语境中有差别，但两者语义会重叠，不宜硬切成两只互不往来的抽屉。下面两个词的构造可以这样记：
 
-- `biology`（生物学）用 bios
-- `zoology`（动物学）来自希腊#emph[zōion] "动物"，不是#emph[zōē] "生命"
+- `biology` /baɪˈɑlədʒi/（生物学）用 bios
+- `zoology` /zoʊˈɑlədʒi/（动物学）来自希腊#emph[zōion] "动物"，不是#emph[zōē] "生命"
 
 #table(
     columns: (1fr, 1fr, 1fr),
@@ -6686,11 +6690,11 @@ logos 这词的传奇不在于它本义多朴素，而在于#strong[它是怎么
     table.hline(),
     [bio + logy], [biology], [生物学],
     [bio + graphy], [biography], [传记（写一生）],
-    [bio + chemistry], [biochemistry], [生物化学],
-    [bio + diversity], [biodiversity], [生物多样性],
-    [bio + ethics], [bioethics], [生命伦理],
-    [bio + mass], [biomass], [生物量],
-    [symbio + sis], [symbiosis], [共生（sym 共同 + bio 生）],
+    [bio + chemistry], [biochemistry /ˌbaɪoʊˈkɛmɪˌstri/], [生物化学],
+    [bio + diversity], [biodiversity /ˌbaɪoʊdaɪˈvɝsəti/], [生物多样性],
+    [bio + ethics], [bioethics /ˌbaɪoʊˈɛθɪks/], [生命伦理],
+    [bio + mass], [biomass /ˈbaɪəmæs/], [生物量],
+    [symbio + sis], [symbiosis /ˌsɪmbaɪˈoʊsəs/], [共生（sym 共同 + bio 生）],
   )
 
 ==== `geo-`（地、地球）
@@ -6713,8 +6717,8 @@ logos 这词的传奇不在于它本义多朴素，而在于#strong[它是怎么
 #quote(block: true)[
 #strong[提示] #strong[希腊两个"地"]:gē（地理的地）vs chthōn（地下的地）。所以：
 
-- `geology`（地质学）= 研究地球
-- `autochthon`（本地人）= 从地里长出来的人（chthōn 地下）
+- `geology` /dʒiˈɑlədʒi/（地质学）= 研究地球
+- `autochthon` /ɔˈtɑkθən/（本地人）= 从地里长出来的人（chthōn 地下）
 ]
 
 ==== `hydro-` / `aqua-`（水）
@@ -6726,12 +6730,12 @@ logos 这词的传奇不在于它本义多朴素，而在于#strong[它是怎么
     align: (left + horizon, left + horizon, left + horizon,),
     table.header(th([构成]), th([单词]), th([释义]),),
     table.hline(),
-    [hydro + gen], [hydrogen], [氢（生成水的元素）],
-    [hydro + dynamic], [hydrodynamic], [水动力的],
-    [hydro + phobia], [hydrophobia], [狂犬病（怕水）],
-    [hydro + graphy], [hydrography], [水文测绘（测量、描述水域）],
-    [aqua + rium], [aquarium], [水族馆],
-    [aqua + tic], [aquatic], [水生的],
+    [hydro + gen], [hydrogen /ˈhaɪdrədʒən/], [氢（生成水的元素）],
+    [hydro + dynamic], [hydrodynamic /ˌhaɪdroʊdaɪˈnæmɪk/], [水动力的],
+    [hydro + phobia], [hydrophobia /ˌhaɪdrəˈfoʊbiə/], [狂犬病（怕水）],
+    [hydro + graphy], [hydrography /haɪˈdrɑɡrəfi/], [水文测绘（测量、描述水域）],
+    [aqua + rium], [aquarium /əkˈwɛriəm/], [水族馆],
+    [aqua + tic], [aquatic /əkˈwɑtɪk/], [水生的],
     [aqua + duct], [aqueduct], [水道],
   )
 
@@ -6749,25 +6753,25 @@ logos 这词的传奇不在于它本义多朴素，而在于#strong[它是怎么
     table.header(th([构成]), th([单词]), th([释义]),),
     table.hline(),
     [photo + graph], [photograph], [照片（用光写）],
-    [photo + synth], [photosynthesis], [光合作用],
+    [photo + synth], [photosynthesis /ˌfoʊtoʊˈsɪnθəsɪs/], [光合作用],
     [photo + copy], [photocopy], [影印],
-    [photo + voltaic], [photovoltaic], [光电池的],
-    [photo + phobia], [photophobia], [畏光],
+    [photo + voltaic], [photovoltaic /ˌfoʊtoʊvɑlˈteɪɪk/], [光电池的],
+    [photo + phobia], [photophobia /ˌfoʊtəˈfoʊbiə/], [畏光],
   )
 
 ==== `therme-`（热）
 <therme-热>
-希腊#emph[#strong[thermos]]（热、温暖）。
+希腊#emph[#strong[thermos] /ˈθɜrməs/]（热、温暖）。
 
 #table(
     columns: (1fr, 1fr, 1fr),
     align: (left + horizon, left + horizon, left + horizon,),
     table.header(th([构成]), th([单词]), th([释义]),),
     table.hline(),
-    [thermo + meter], [thermometer], [温度计],
-    [thermo + stat], [thermostat], [恒温器],
-    [thermo + dynamic], [thermodynamic], [热力学的],
-    [thermo + nuclear], [thermonuclear], [热核的],
+    [thermo + meter], [thermometer /θɚˈmɑmətɚ/], [温度计],
+    [thermo + stat], [thermostat /ˈθɝməˌstæt/], [恒温器],
+    [thermo + dynamic], [thermodynamic /ˌθɝmoʊdaɪˈnæmɪk/], [热力学的],
+    [thermo + nuclear], [thermonuclear /ˌθərmoʊˈnukliər/], [热核的],
   )
 
 ==== `aero-`（空气）
@@ -6779,14 +6783,14 @@ logos 这词的传奇不在于它本义多朴素，而在于#strong[它是怎么
     align: (left + horizon, left + horizon, left + horizon,),
     table.header(th([构成]), th([单词]), th([释义]),),
     table.hline(),
-    [aero + dynamic], [aerodynamic], [空气动力学的],
-    [aero + naut], [aeronaut], [气球驾驶员],
-    [aero + bics], [aerobics], [有氧运动（用空气/氧）],
-    [aero + sol], [aerosol], [气雾剂],
+    [aero + dynamic], [aerodynamic /ˌɛroʊdaɪˈnæmɪk/], [空气动力学的],
+    [aero + naut], [aeronaut /ˈɛrəˌnɔt/], [气球驾驶员],
+    [aero + bics], [aerobics /ɛˈroʊbɪks/], [有氧运动（用空气/氧）],
+    [aero + sol], [aerosol /ˈɛrəˌsɔl/], [气雾剂],
   )
 
 #quote(block: true)[
-#strong[注意] `airplane` 是英语 `air + plane` 的复合词，并非 `aero- + plane`；含 `aero-` 的对应词是 `aeroplane`。
+#strong[注意] `airplane` /ˈɛrˌpleɪn/ 是英语 `air + plane` 的复合词，并非 `aero- + plane`；含 `aero-` 的对应词是 `aeroplane`。
 ]
 
 #horizontalrule
@@ -6804,13 +6808,13 @@ logos 这词的传奇不在于它本义多朴素，而在于#strong[它是怎么
     table.hline(),
     [`micro-`（小）], [micro + scope], [microscope], [显微镜],
     [`micro-`（小）], [micro + wave], [microwave], [微波],
-    [`micro-`（小）], [micro + bio], [microbiology], [微生物学],
-    [`micro-`（小）], [micro + processor], [microprocessor], [微处理器],
-    [`macro-`（大）], [macro + economics], [macroeconomics], [宏观经济学],
-    [`macro-`（大）], [macro + cosm], [macrocosm], [宏观世界],
-    [`mega-`（巨大，百万）], [mega + phone], [megaphone], [扩音器],
+    [`micro-`（小）], [micro + bio], [microbiology /ˌmaɪkroʊbaɪˈɑlədʒi/], [微生物学],
+    [`micro-`（小）], [micro + processor], [microprocessor /ˌmaɪkroʊˈprɑsɛsɚ/], [微处理器],
+    [`macro-`（大）], [macro + economics], [macroeconomics /ˌmækroʊˌɛkəˈnɑmɪks/], [宏观经济学],
+    [`macro-`（大）], [macro + cosm], [macrocosm /ˈmækroʊˌkɑzəm/], [宏观世界],
+    [`mega-`（巨大，百万）], [mega + phone], [megaphone /ˈmɛɡəˌfoʊn/], [扩音器],
     [`mega-`（巨大，百万）], [mega + byte], [megabyte], [兆字节],
-    [`mega-`（巨大，百万）], [mega + lopolis], [megalopolis], [特大城市],
+    [`mega-`（巨大，百万）], [mega + lopolis], [megalopolis /ˌmɛɡəˈlɑpəlɪs/], [特大城市],
   )
 
 #quote(block: true)[
@@ -6826,14 +6830,14 @@ logos 这词的传奇不在于它本义多朴素，而在于#strong[它是怎么
     align: (left + horizon, left + horizon, left + horizon, left + horizon,),
     table.header(th([词根]), th([构成]), th([单词]), th([释义]),),
     table.hline(),
-    [`poly-`（希腊）], [poly + glot], [polyglot], [多语者（说多种语言）],
-    [`poly-`（希腊）], [poly + gon], [polygon], [多边形],
-    [`poly-`（希腊）], [poly + theism], [polytheism], [多神教],
-    [`poly-`（希腊）], [poly + mer], [polymer], [聚合物],
-    [`poly-`（希腊）], [poly + phony], [polyphony], [复调音乐],
-    [`multi-`（拉丁）], [multi + media], [multimedia], [多媒体],
-    [`multi-`（拉丁）], [multi + national], [multinational], [跨国],
-    [`multi-`（拉丁）], [multi + task], [multitask], [多任务],
+    [`poly-`（希腊）], [poly + glot], [polyglot /ˈpɑliˌɡlɑt/], [多语者（说多种语言）],
+    [`poly-`（希腊）], [poly + gon], [polygon /ˈpɑlɪˌgɑn/], [多边形],
+    [`poly-`（希腊）], [poly + theism], [polytheism /ˈpɑliθiˌɪzəm/], [多神教],
+    [`poly-`（希腊）], [poly + mer], [polymer /ˈpɑləmər/], [聚合物],
+    [`poly-`（希腊）], [poly + phony], [polyphony /pəˈlɪfəni/], [复调音乐],
+    [`multi-`（拉丁）], [multi + media], [multimedia /ˌmʌltiˈmidiə/], [多媒体],
+    [`multi-`（拉丁）], [multi + national], [multinational /ˌmʌltiˈnæʃənəl/], [跨国],
+    [`multi-`（拉丁）], [multi + task], [multitask /ˈmʌltiˌtæsk/], [多任务],
   )
 
 #horizontalrule
@@ -6852,15 +6856,15 @@ logos 这词的传奇不在于它本义多朴素，而在于#strong[它是怎么
     table.header(th([构成]), th([单词]), th([释义]),),
     table.hline(),
     [tele + phone], [telephone], [电话（远 + 声）],
-    [tele + graph], [telegraph], [电报（远 + 写）],
+    [tele + graph], [telegraph /ˈtɛləˌgræf/], [电报（远 + 写）],
     [tele + vision], [television], [电视（远 + 看）],
     [tele + scope], [telescope], [望远镜（看远）],
-    [tele + pathy], [telepathy], [心灵感应（远 + 感受）],
-    [tele + meter], [telemetry], [遥测],
+    [tele + pathy], [telepathy /təˈlɛpəθi/], [心灵感应（远 + 感受）],
+    [tele + meter], [telemetry /təˈlɛmətri/], [遥测],
   )
 
 #quote(block: true)[
-#strong[提示] #strong[现代科技中的高产成分]：19-20 世纪许多"远程"技术用 `tele-` 命名，如 `telephone`、`telegraph`、`television`\;21 世纪的 `telework`、`telemedicine` 继续使用这一组合形式。
+#strong[提示] #strong[现代科技中的高产成分]：19-20 世纪许多"远程"技术用 `tele-` 命名，如 `telephone` /ˈtɛləˌfoʊn/、`telegraph` /ˈtɛləɡˌræf/、`television` /ˈtɛləˌvɪʒən/;21 世纪的 `telework`、`telemedicine` /ˌtɛləˈmɛdəsɪn/ 继续使用这一组合形式。
 ]
 
 ==== `archaios` / `kainos` / `neo-`（古/新）
@@ -6872,16 +6876,16 @@ logos 这词的传奇不在于它本义多朴素，而在于#strong[它是怎么
     align: (left + horizon, left + horizon, left + horizon, left + horizon,),
     table.header(th([词根]), th([构成]), th([单词]), th([释义]),),
     table.hline(),
-    [`archaeo-`（古）], [archaeo + logy], [archaeology], [考古学],
-    [`archaeo-`（古）], [archaeo + bacteria], [archaebacteria], [古细菌],
-    [`ceno-/caeno-`（新）], [ceno + zoic], [Cenozoic], [新生代],
-    [`ceno-/caeno-`（新）], [holo + cene], [Holocene], [全新世],
-    [`neo-`（新）], [neo + logy], [neologism], [新词],
-    [`neo-`（新）], [neo + natal], [neonatal], [新生儿的],
-    [`neo-`（新）], [neo + lithic], [neolithic], [新石器时代],
-    [`neo-`（新）], [---], [neon], [希腊 neon（新东西），neos"新"的中性形式],
-    [`neo-`（新）], [neo + liberal], [neoliberal], [新自由主义],
-    [`neo-`（新）], [neo + phyte], [neophyte], [新手（新栽的苗）],
+    [`archaeo-`（古）], [archaeo + logy], [archaeology /ˌɑrkiˈɑlədʒi/], [考古学],
+    [`archaeo-`（古）], [archaeo + bacteria], [archaebacteria /ˌɑrkiˌbækˈtɪriə/], [古细菌],
+    [`ceno-/caeno-`（新）], [ceno + zoic], [Cenozoic /ˌsinəˈzoʊɪk/], [新生代],
+    [`ceno-/caeno-`（新）], [holo + cene], [Holocene /ˈhɑləˌsin/], [全新世],
+    [`neo-`（新）], [neo + logy], [neologism /niˈɑlədʒɪzəm/], [新词],
+    [`neo-`（新）], [neo + natal], [neonatal /ˌnioʊˈneɪtəl/], [新生儿的],
+    [`neo-`（新）], [neo + lithic], [neolithic /ˌnioʊˈlɪθɪk/], [新石器时代],
+    [`neo-`（新）], [---], [neon /ˈniɑn/], [希腊 neon（新东西），neos"新"的中性形式],
+    [`neo-`（新）], [neo + liberal], [neoliberal /ˌnioʊˈlɪbərəl/], [新自由主义],
+    [`neo-`（新）], [neo + phyte], [neophyte /ˈniəˌfaɪt/], [新手（新栽的苗）],
   )
 
 #horizontalrule
@@ -6899,17 +6903,17 @@ logos 这词的传奇不在于它本义多朴素，而在于#strong[它是怎么
     align: (left + horizon, left + horizon, left + horizon,),
     table.header(th([构成]), th([单词]), th([释义]),),
     table.hline(),
-    [auto + bio + graphy], [autobiography], [自传],
-    [auto + mobile], [automobile], [汽车（自移动）],
-    [auto + cracy], [autocracy], [独裁（自统治）],
-    [automatos], [automatic], [自己行动的（不要拆出 mat 词根）],
-    [auto + graph], [autograph], [亲笔签名],
-    [auto + focus], [autofocus], [自动对焦],
-    [auto + immune], [autoimmune], [自体免疫],
+    [auto + bio + graphy], [autobiography /ˌɔtəbaɪˈɑgrəfi/], [自传],
+    [auto + mobile], [automobile /ˌɔtəmoʊˈbil/], [汽车（自移动）],
+    [auto + cracy], [autocracy /ɔˈtɑkrəsi/], [独裁（自统治）],
+    [automatos], [automatic /ˌɔtəˈmætɪk/], [自己行动的（不要拆出 mat 词根）],
+    [auto + graph], [autograph /ˈɔtəˌgræf/], [亲笔签名],
+    [auto + focus], [autofocus /ˈɔtoʊˌfoʊkəs/], [自动对焦],
+    [auto + immune], [autoimmune /ˌɔtoʊɪˈmjun/], [自体免疫],
   )
 
 #quote(block: true)[
-#strong[提示] #strong[`automobile`（汽车）= 自 + 移动] ------19 世纪发明时，人们惊叹于"自己会动"的车。今天我们叫它 car，但 automobile 这个名字记录了它最初带给人的震撼。
+#strong[提示] #strong[`automobile` /ˈɔtəmoʊˌbil/（汽车）= 自 + 移动] ------19 世纪发明时，人们惊叹于"自己会动"的车。今天我们叫它 car，但 automobile 这个名字记录了它最初带给人的震撼。
 ]
 
 ==== `homo-` / `hetero-`（同/异）
@@ -6921,14 +6925,14 @@ logos 这词的传奇不在于它本义多朴素，而在于#strong[它是怎么
     align: (left + horizon, left + horizon, left + horizon, left + horizon,),
     table.header(th([词根]), th([构成]), th([单词]), th([释义]),),
     table.hline(),
-    [`homo-`（同）], [homo + geneous], [homogeneous], [同质的],
-    [`homo-`（同）], [homo + phobia], [homophobia], [恐同],
-    [`homo-`（同）], [homo + sexual], [homosexual], [同性恋],
-    [`homo-`（同）], [homo + genize], [homogenize], [使均质],
-    [`homo-`（同）], [homo + gram], [homogram], [同形词],
-    [`hetero-`（异）], [hetero + geneous], [heterogeneous], [异质的],
-    [`hetero-`（异）], [hetero + dox], [heterodox], [异端的],
-    [`hetero-`（异）], [hetero + sexual], [heterosexual], [异性恋],
+    [`homo-`（同）], [homo + geneous], [homogeneous /ˌhoʊməˈdʒiniəs/], [同质的],
+    [`homo-`（同）], [homo + phobia], [homophobia /ˌhoʊməˈfoʊbiə/], [恐同],
+    [`homo-`（同）], [homo + sexual], [homosexual /ˌhoʊmoʊˈsɛkʃuəl/], [同性恋],
+    [`homo-`（同）], [homo + genize], [homogenize /həˈmɑdʒənaɪz/], [使均质],
+    [`homo-`（同）], [homo + gram], [homogram /ˈhɑməˌɡræm/], [同形词],
+    [`hetero-`（异）], [hetero + geneous], [heterogeneous /ˌhɛtərəˈdʒiniəs/], [异质的],
+    [`hetero-`（异）], [hetero + dox], [heterodox /ˈhɛtərəˌdɑks/], [异端的],
+    [`hetero-`（异）], [hetero + sexual], [heterosexual /ˌhɛtəroʊˈsɛkˌʃuəl/], [异性恋],
   )
 
 #quote(block: true)[
@@ -6944,15 +6948,15 @@ logos 这词的传奇不在于它本义多朴素，而在于#strong[它是怎么
     align: (left + horizon, left + horizon, left + horizon,),
     table.header(th([构成]), th([单词]), th([释义]),),
     table.hline(),
-    [pan + demic], [pandemic], [大流行（全人民）],
-    [pan + theon], [pantheon], [万神殿（全神）],
-    [pan + orama], [panorama], [全景],
+    [pan + demic], [pandemic /pænˈdɛmɪk/], [大流行（全人民）],
+    [pan + theon], [pantheon /ˈpænθiˌɑn/], [万神殿（全神）],
+    [pan + orama], [panorama /ˌpænərˈæmə/], [全景],
     [pan + african], [Pan-African], [泛非的],
-    [pan + acea], [panacea], [万灵药（治所有病）],
+    [pan + acea], [panacea /ˌpænəˈsiə/], [万灵药（治所有病）],
   )
 
 #quote(block: true)[
-#strong[提示] #strong[`panacea`（万灵药）]：希腊神话里，医神 Asclepius 的女儿叫 Panacea，她的能力是"#strong[治所有病] "。今天 panacea 比喻"包治百病的灵丹妙药"，也常带讽刺（"世上没有 panacea"）。
+#strong[提示] #strong[`panacea` /ˌpænəˈsiə/（万灵药）]：希腊神话里，医神 Asclepius 的女儿叫 Panacea，她的能力是"#strong[治所有病] "。今天 panacea 比喻"包治百病的灵丹妙药"，也常带讽刺（"世上没有 panacea"）。
 ]
 
 #horizontalrule
@@ -6966,14 +6970,14 @@ logos 这词的传奇不在于它本义多朴素，而在于#strong[它是怎么
     align: (left + horizon, left + horizon, left + horizon,),
     table.header(th([词根]), th([含义]), th([代表词]),),
     table.hline(),
-    [`cardio-`], [心脏], [cardiology（心脏病学）、cardiogram（心电图）],
-    [`neuro-`], [神经], [neurology（神经病学）、neuron（神经元）],
-    [`derm-`], [皮肤], [dermatology（皮肤科）、epidermis（表皮）],
-    [`osteo-`], [骨], [osteoporosis（骨质疏松）],
-    [`hemo-` / `haem-`], [血], [hematology（血液学）、hemorrhage（出血）],
-    [`ophthalmo-`], [眼], [ophthalmology（眼科）],
-    [`path-`], [病、感], [pathology（病理学）、sympathy（同情）、telepathy],
-    [`soma-` / `somat-`], [身体], [psychosomatic（心身的）、somatic（躯体的）],
+    [`cardio-`], [心脏], [cardiology /ˌkɑrdiˈɑlədʒi/（心脏病学）、cardiogram /ˈkɑrdioʊˌɡræm/（心电图）],
+    [`neuro-`], [神经], [neurology /nʊˈrɑlədʒi/（神经病学）、neuron /ˈnʊrɑn/（神经元）],
+    [`derm-`], [皮肤], [dermatology /ˌdɝməˈtɑlədʒi/（皮肤科）、epidermis /ˌɛpəˈdɝmɪs/（表皮）],
+    [`osteo-`], [骨], [osteoporosis /ˌɑstiəpəˈroʊsɪs/（骨质疏松）],
+    [`hemo-` / `haem-`], [血], [hematology /ˌhɛməˈtɑlədʒi/（血液学）、hemorrhage /ˈhɛmərɪdʒ/（出血）],
+    [`ophthalmo-`], [眼], [ophthalmology /ˌɑfθælˈmɑlədʒi/（眼科）],
+    [`path-`], [病、感], [pathology /pəˈθɑlədʒi/（病理学）、sympathy /ˈsɪmpəθi/（同情）、telepathy],
+    [`soma-` / `somat-`], [身体], [psychosomatic /saɪˌkoʊsəˈmætɪk/（心身的）、somatic /soʊˈmætɪk/（躯体的）],
   )
 
 #quote(block: true)[
@@ -6991,9 +6995,9 @@ logos 这词的传奇不在于它本义多朴素，而在于#strong[它是怎么
     align: (left + horizon, left + horizon, left + horizon,),
     table.header(th([单词]), th([拆解]), th([释义]),),
     table.hline(),
-    [acrophobia（恐高症）], [acro（高处） + phobia（恐惧）], [怕高处],
-    [claustrophobia（幽闭恐惧症）], [claustro（封闭） + phobia（恐惧）], [怕封闭空间],
-    [xenophobia（排外）], [xeno（外来的） + phobia（恐惧）], [怕外人],
+    [acrophobia /ˌækrəˈfoʊbiə/（恐高症）], [acro（高处） + phobia（恐惧）], [怕高处],
+    [claustrophobia /ˌklɔstrəˈfoʊbiə/（幽闭恐惧症）], [claustro（封闭） + phobia（恐惧）], [怕封闭空间],
+    [xenophobia /ˌzɛnəˈfoʊbiə/（排外）], [xeno（外来的） + phobia（恐惧）], [怕外人],
     [hydrophobia（狂犬病）], [hydro（水） + phobia（恐惧）], [怕水（狂犬病症状）],
   )
 
@@ -7002,7 +7006,7 @@ logos 这词的传奇不在于它本义多朴素，而在于#strong[它是怎么
 ]
 
 #quote(block: true)[
-#strong[提示] #strong[`-phobia` 来自希腊普通名词#emph[phobos] "恐惧、惊慌"] 。神话人物 Phobos 是恐惧的拟人化，名字来自这一普通词，而不是 `phobia` 来自神名。
+#strong[提示] #strong[`-phobia` 来自希腊普通名词#emph[phobos] "恐惧、惊慌"] 。神话人物 Phobos 是恐惧的拟人化，名字来自这一普通词，而不是 `phobia` /ˈfoʊbiə/ 来自神名。
 ]
 
 #horizontalrule
@@ -7107,9 +7111,9 @@ logos 这词的传奇不在于它本义多朴素，而在于#strong[它是怎么
 
 ==== 【思考题】（答案见附录 A）
 <思考题答案见附录-a-17>
-+ `hydrogen`（氢）字面是"产生水的"，化学家为什么这样命名？（提示：氢气燃烧产生水）
-+ `television`（电视）拆成 tele + vision，但 vision 是拉丁词根，为什么希腊和拉丁混用？（提示：19 世纪造词者不再严格遵守纯希腊/纯拉丁）
-+ `polyglot`（多语者）拆成 poly + glot,glot 是什么意思？（提示：希腊 glotta = 舌头、语言）
++ `hydrogen` /ˈhaɪdrədʒən/（氢）字面是"产生水的"，化学家为什么这样命名？（提示：氢气燃烧产生水）
++ `television` /ˈtɛləˌvɪʒən/（电视）拆成 tele + vision，但 vision 是拉丁词根，为什么希腊和拉丁混用？（提示：19 世纪造词者不再严格遵守纯希腊/纯拉丁）
++ `polyglot` /ˌpɑˌliɡlɑt/（多语者）拆成 poly + glot,glot 是什么意思？（提示：希腊 glotta = 舌头、语言）
 
 #horizontalrule
 
@@ -7201,13 +7205,13 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
 <为什么频繁用--短>
 答案藏在语言使用的#strong[经济原则(principle of economy)] 里------说白了就是：#strong[人嘴懒]。
 
-一个词一天被说一万遍，自然会被磨短。想想一枚硬币：刚出厂时棱角分明，花纹精致；可它在市面上流通了五十年，从这只手到那只手，从这只口袋到那只口袋------磨来磨去，就薄了、光秃了、字也糊了。词也一样。`go` 比 `proceed` 短，不是因为 `go` "低级"，而是因为高频词被无数张嘴巴优化了上千年------能省的音节早被省掉，能糊的元音早被糊掉，最后只剩下最硬的那个核。
+一个词一天被说一万遍，自然会被磨短。想想一枚硬币：刚出厂时棱角分明，花纹精致；可它在市面上流通了五十年，从这只手到那只手，从这只口袋到那只口袋------磨来磨去，就薄了、光秃了、字也糊了。词也一样。`go` 比 `proceed` /prəˈsid/ 短，不是因为 `go` "低级"，而是因为高频词被无数张嘴巴优化了上千年------能省的音节早被省掉，能糊的元音早被糊掉，最后只剩下最硬的那个核。
 
 #quote(block: true)[
 #strong[沟通效率会使高频意义倾向于由较短形式表达；高频使用也可能促进语音弱化。]
 ]
 
-但这里有个关键的反例，得说清楚，免得你把"经济原则"当成万能公式。`house` 并不是从一个已知长形态因高频而缩短成今天的样子；古英语#emph[hūs] #strong[本来就很短]，一个音节，从落地那天起就没胖过。`house` 与 `residence` 的长度差异同时涉及不同语言来源、借入时期和构词结构，不能只用频率解释------就像你不能说一个农民"矮"，是因为他天天干体力活；他生下来就这个身高，职业只是没让他再长高而已。
+但这里有个关键的反例，得说清楚，免得你把"经济原则"当成万能公式。`house` 并不是从一个已知长形态因高频而缩短成今天的样子；古英语#emph[hūs] #strong[本来就很短]，一个音节，从落地那天起就没胖过。`house` 与 `residence` /ˈrɛzɪdəns/ 的长度差异同时涉及不同语言来源、借入时期和构词结构，不能只用频率解释------就像你不能说一个农民"矮"，是因为他天天干体力活；他生下来就这个身高，职业只是没让他再长高而已。
 
 #diagram-panel(title: "图示 92 · 关系图", breakable: false)[
   #align(center)[
@@ -7267,9 +7271,9 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
 
 这是日耳曼词最让学习者头疼，也最有故事的特征。
 
-`go-went-gone`、`child-children`、`tooth-teeth`……英语里这群"不讲规则"的家伙，怎么看都是 bug。但它们不是 bug，是#strong[feature] 。准确说，它们是#strong[古英语屈折变化的化石] ------被时光封进了一块叫"高频"的琥珀，千年不腐。古英语本来有一整套动词变位、名词变格的规矩，后来大部分都被磨平了，只剩下最常说的那批词，因为天天用、代代练，反而把古老的形态硬撑到了今天。
+`go-went-gone`、`child-children`、`tooth-teeth`……英语里这群"不讲规则"的家伙，怎么看都是 bug。但它们不是 bug，是#strong[feature] /ˈfitʃər/。准确说，它们是#strong[古英语屈折变化的化石] ------被时光封进了一块叫"高频"的琥珀，千年不腐。古英语本来有一整套动词变位、名词变格的规矩，后来大部分都被磨平了，只剩下最常说的那批词，因为天天用、代代练，反而把古老的形态硬撑到了今天。
 
-现代英语大部分动词加 `-ed`（`walked`、`talked`）------这批"乖孩子"其实是#strong[新入行的]，从古英语后期到中古英语才陆续归化到 `-ed` 队伍里。而那些坚持 `sing-sang-sung`、`drink-drank-drunk` 的，是#strong[元老院]：资历最老、地位最稳、规矩最多，谁也别想让他们换制服。
+现代英语大部分动词加 `-ed`（`walked` /wɔkt/、`talked` /tɔkt/）------这批"乖孩子"其实是#strong[新入行的]，从古英语后期到中古英语才陆续归化到 `-ed` 队伍里。而那些坚持 `sing-sang-sung`、`drink-drank-drunk` 的，是#strong[元老院]：资历最老、地位最稳、规矩最多，谁也别想让他们换制服。
 
 #table(
     columns: (1fr, 1fr, 1fr),
@@ -7282,9 +7286,9 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
     [动词], [drive -- drove -- driven], [古英语元音交替],
     [动词], [speak -- spoke -- spoken], [古英语元音交替],
     [动词], [write -- wrote -- written], [古英语元音交替],
-    [动词], [go -- went -- gone], [更复杂，`went` 来自另一动词 wend],
+    [动词], [go -- went -- gone], [更复杂，`went` 来自另一动词 wend /wɛnd/],
     [名词复数], [child -- children], [古英语 `-ren` 复数后缀],
-    [名词复数], [ox -- oxen], [古英语 `-en` 复数后缀],
+    [名词复数], [ox -- oxen /ˈɑksən/], [古英语 `-en` 复数后缀],
     [名词复数], [foot -- feet], [古英语元音交替],
     [名词复数], [tooth -- teeth], [古英语元音交替],
     [名词复数], [man -- men], [古英语元音交替],
@@ -7318,7 +7322,7 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
 <203-一个关键的认知日耳曼词和拉丁词的亲缘对>
 我们在第 1 章讲过原始印欧语和格林定律。这里我们要把这个认知具体化------#strong[很多日耳曼词和拉丁词其实是亲戚，只是走了不同的演变路线]。
 
-先看一个最有戏剧性的画面。同一个意思------"父亲的"------在英语里有两个词：`father`（父亲）和 `paternal`（父亲的）。一个短、一个长；一个亲切、一个正式；一个农民说、一个贵族说。这背后是两个阶级、两次征服的故事。#emph[（传说）]想象同一个下午：田里的农民蹲在垄沟边，被太阳晒得眯起眼，冲自家孩子喊一声"go to your #strong[father] "；而在几里外的石头城堡里，他的诺曼领主正用鹅毛笔签一份文书，落款写着"my #strong[paternal] estate"。一个泥腿子，一个穿袍子，说的是同一个意思------可那两个词，一个走的是日耳曼土路，一个坐的是拉丁马车，五百多年前就分了家。
+先看一个最有戏剧性的画面。同一个意思------"父亲的"------在英语里有两个词：`father`（父亲）和 `paternal` /pəˈtɝnəl/（父亲的）。一个短、一个长；一个亲切、一个正式；一个农民说、一个贵族说。这背后是两个阶级、两次征服的故事。#emph[（传说）]想象同一个下午：田里的农民蹲在垄沟边，被太阳晒得眯起眼，冲自家孩子喊一声"go to your #strong[father] "；而在几里外的石头城堡里，他的诺曼领主正用鹅毛笔签一份文书，落款写着"my #strong[paternal] estate"。一个泥腿子，一个穿袍子，说的是同一个意思------可那两个词，一个走的是日耳曼土路，一个坐的是拉丁马车，五百多年前就分了家。
 
 这样的"成对词"在英语里有一长串，每一对背后都藏着同一条分裂的血脉：
 
@@ -7328,13 +7332,13 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
     table.header(th([意思]), th([日耳曼（英语本土）]), th([拉丁（借词）]),),
     table.hline(),
     [父亲], [`father`], [`paternal`],
-    [心脏], [`heart`], [`cordial`],
-    [牙齿], [`tooth`], [`dental`],
-    [三], [`three`], [`triple`],
-    [角], [`horn`], [`cornucopia`],
-    [脚], [`foot`], [`pedal`],
-    [夜], [`night`], [`nocturnal`],
-    [新], [`new`], [`novel`],
+    [心脏], [`heart`], [`cordial` /ˈkɔrdʒəl/],
+    [牙齿], [`tooth`], [`dental` /ˈdɛntəl/],
+    [三], [`three`], [`triple` /ˈtrɪpəl/],
+    [角], [`horn`], [`cornucopia` /ˌkɔrnəˈkoʊpiə/],
+    [脚], [`foot`], [`pedal` /ˈpɛdəl/],
+    [夜], [`night`], [`nocturnal` /nɑkˈtɝnəl/],
+    [新], [`new`], [`novel` /ˈnɑvəl/],
   )
 
 ==== 格林定律的再次登场
@@ -7400,19 +7404,19 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
     align: (left + horizon, left + horizon, left + horizon, left + horizon,),
     table.header(th([后缀]), th([功能]), th([词根]), th([派生词]),),
     table.hline(),
-    [`-th`], [抽象名词], [`wide`], [`width`（宽度）],
-    [`-th`], [抽象名词], [`broad`], [`breadth`（广度）],
-    [`-th`], [抽象名词], [`deep`], [`depth`（深度）],
-    [`-th`], [抽象名词], [`grow`], [`growth`（生长）],
+    [`-th`], [抽象名词], [`wide` /waɪd/], [`width` /wɪdθ/（宽度）],
+    [`-th`], [抽象名词], [`broad`], [`breadth` /brɛdθ/（广度）],
+    [`-th`], [抽象名词], [`deep`], [`depth` /dɛpθ/（深度）],
+    [`-th`], [抽象名词], [`grow` /ɡroʊ/], [`growth`（生长）],
     [`-th`], [抽象名词], [`true`], [`truth`（真理）],
-    [`-th`], [抽象名词], [`strong`], [`strength`（强度）],
-    [`-hood`], [状态、时期], [`child`], [`childhood`（童年）],
-    [`-hood`], [状态、时期], [`brother`], [`brotherhood`（兄弟情）],
-    [`-hood`], [状态、时期], [`mother`], [`motherhood`（母亲身份）],
-    [`-hood`], [状态、时期], [`knight`], [`knighthood`（骑士身份）],
-    [`-ship`], [关系、状态], [`friend`], [`friendship`（友谊）],
-    [`-ship`], [关系、状态], [`member`], [`membership`（会员身份）],
-    [`-ship`], [关系、状态], [`citizen`], [`citizenship`（公民身份）],
+    [`-th`], [抽象名词], [`strong`], [`strength` /strɛŋkθ/（强度）],
+    [`-hood`], [状态、时期], [`child`], [`childhood` /ˈtʃaɪldˌhʊd/（童年）],
+    [`-hood`], [状态、时期], [`brother`], [`brotherhood` /ˈbrʌðɚˌhʊd/（兄弟情）],
+    [`-hood`], [状态、时期], [`mother`], [`motherhood` /ˈmʌðɚˌhʊd/（母亲身份）],
+    [`-hood`], [状态、时期], [`knight` /naɪt/], [`knighthood` /ˈnaɪtˌhʊd/（骑士身份）],
+    [`-ship`], [关系、状态], [`friend`], [`friendship` /ˈfrɛndʃɪp/（友谊）],
+    [`-ship`], [关系、状态], [`member`], [`membership` /ˈmɛmbərˌʃɪp/（会员身份）],
+    [`-ship`], [关系、状态], [`citizen` /ˈsɪtəzən/], [`citizenship` /ˈsɪtəzənˌʃɪp/（公民身份）],
   )
 
 #quote(block: true)[
@@ -7430,12 +7434,12 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
     align: (left + horizon, left + horizon,),
     table.header(th([日耳曼（本土，口语）]), th([拉丁/法语（借入，书面）]),),
     table.hline(),
-    [`ask`], [`inquire`],
-    [`buy`], [`purchase`],
-    [`begin`], [`commence`],
-    [`kingly`], [`royal` / `regal`],
-    [`hearty`], [`cordial`],
-    [`freedom`], [`liberty`],
+    [`ask`], [`inquire` /ɪnˈkwaɪr/],
+    [`buy`], [`purchase` /ˈpɜrtʃəs/],
+    [`begin`], [`commence` /kəˈmɛns/],
+    [`kingly` /ˈkɪŋli/], [`royal` /ˈrɔɪəl/ / `regal` /ˈriɡəl/],
+    [`hearty` /ˈhɑrti/], [`cordial` /ˈkɔrdʒəl/],
+    [`freedom` /ˈfridəm/], [`liberty` /ˈlɪbərˌti/],
   )
 
 特点：日耳曼词短、亲切，像在自家灶台边说话；拉丁/法语词长、正式，像穿着礼服念稿子。同一个意思，穿什么衣服，取决于你站在田埂上还是站在法庭里。
@@ -7462,7 +7466,7 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
 <思考题答案见附录-a-18>
 + 为什么高频词平均更短？为什么这只能称为统计倾向，不能称为铁律？
 + 为什么 `go-went-gone`、`sing-sang-sung` 这些不规则动词#strong[反而最稳定]？（提示：被高频"保鲜"的化石）
-+ `father` 和 `paternal` 是亲缘对，用格林定律解释它们为什么一个以 f 开头、一个以 p 开头。
++ `father` 和 `paternal` /pəˈtɜrnəl/ 是亲缘对，用格林定律解释它们为什么一个以 f 开头、一个以 p 开头。
 
 #pagebreak(weak: true)
 
@@ -7513,14 +7517,14 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
 ]
 ==== 维京人在英格兰的定居
 <维京人在英格兰的定居>
-9-10 世纪，大批维京人在英格兰北部和东部定居，建立了#strong["丹麦法区"(Danelaw)] 。在这片区域，维京人和盎格鲁-撒克逊人#strong[长期杂居] ------抢完之后留下来种地、通婚、生儿育女，这才是改变语言的关键。
+9-10 世纪，大批维京人在英格兰北部和东部定居，建立了#strong["丹麦法区"(Danelaw)] /ˈdeɪnˌlɔ/。在这片区域，维京人和盎格鲁-撒克逊人#strong[长期杂居] ------抢完之后留下来种地、通婚、生儿育女，这才是改变语言的关键。
 
 #diagram-panel(title: "图示 95 · 关系图", breakable: false)[
   #align(center)[
     #f-diagram(spacing: (7mm, 4mm),
       fnode((0, 0), "9-10 世纪的英格兰", kind: "root", w: 30.4mm),
       fnode((1, 0), "盎格鲁-撒克逊\n（西部）\n古英语", kind: "node", w: 29.6mm),
-      fnode((1, 1), "丹麦法区 Danelaw\n（东部、北部）\n古诺斯语", kind: "node", w: 29.6mm),
+      fnode((1, 1), "丹麦法区 Danelaw\n（东部、北部）\n古诺尔斯语", kind: "node", w: 29.6mm),
       fedge((0, 0), (1, 0), kind: "solid"),
       fedge((0, 0), (1, 1), kind: "solid"),
     )
@@ -7542,7 +7546,7 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
 
 === 21.2 维京人给英语留下了什么
 <212-维京人给英语留下了什么>
-维京人的古诺斯语给英语留下了#strong[约 600-900 个词]，外加满地图的地名。这些词有几个鲜明特征：
+维京人的古诺尔斯语给英语留下了#strong[约 600-900 个词]，外加满地图的地名。这些词有几个鲜明特征：
 
 + 全是日常高频词(`they`, `sky`, `egg`, `take`)------不是高雅词，不是术语，是你张嘴就来的那种
 + 和古英语本土词"长得像"（因为本来就是近亲，本来就有一大堆同源词）
@@ -7558,10 +7562,10 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
 #diagram-panel(title: "图示 96 · 关系图", breakable: false)[
   #align(center)[
     #f-diagram(spacing: (7mm, 4mm),
-      fnode((0, 0), "古英语（原本）\nhīe / hira / him\n读音：hEE / hi-ra / him\n与其他代词形式有重叠", kind: "root", w: 44.0mm),
-      fnode((0, 1), "古诺斯语\nþeir / þeirra / þeim\n读音：theyr / theyr-ra / thaim\n在接触区逐渐扩散", kind: "root", w: 44.0mm),
-      fnode((1, 0), "MIX", kind: "node", w: 16.0mm),
-      fnode((2, 0), "they / their / them", kind: "node", w: 32.5mm),
+      fnode((0, 0), "古英语（原本）\nhīe / hira / him\n读音：hEE / hi-ra / him\n与其他代词形式有重叠", kind: "root", w: 40.2mm),
+      fnode((0, 1), "古诺尔斯语\nþeir / þeirra / þeim\n读音：theyr / theyr-ra / thaim\n在接触区逐渐扩散", kind: "root", w: 40.2mm),
+      fnode((1, 0), "维京人和盎格鲁人杂居后\n古诺尔斯语代词逐渐取代古英语形式", kind: "node", w: 40.2mm),
+      fnode((2, 0), "they / their / them", kind: "node", w: 29.6mm),
       fedge((0, 0), (1, 0), kind: "solid"),
       fedge((0, 1), (1, 0), kind: "solid"),
       fedge((1, 0), (2, 0), kind: "solid"),
@@ -7578,12 +7582,12 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
 <213-维京词的代表高频词与一个彩蛋>
 ==== 词 1：`sky`（天空）
 <词-1sky天空>
-古英语原本用 `heofon`（今天的 `heaven`）表示天空。维京人带来的 `sky`（古诺斯语#emph[ský]）原义是"#strong[云] "。也就是说，维京人抬头指的那朵"云"，后来在英语里偷偷升职成了整个"天空"。
+古英语原本用 `heofon`（今天的 `heaven` /ˈhɛvən/）表示天空。维京人带来的 `sky`（古诺尔斯语#emph[ský]）原义是"#strong[云] "。也就是说，维京人抬头指的那朵"云"，后来在英语里偷偷升职成了整个"天空"。
 
 #diagram-panel(title: "图示 97 · 词源路径", breakable: false)[
   #align(center)[
     #block(width: 82%)[
-      #d-node("古诺斯语\nsky = 云", kind: "root")
+      #d-node("古诺尔斯语\nsky = 云", kind: "root")
       #d-down(mark: "↓")
       #d-node("借入英语\nsky = 云", kind: "node")
       #d-down(mark: "↓")
@@ -7619,11 +7623,11 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
 
 ==== 词 4：`take`（拿）
 <词-4take拿>
-古英语原本用 `niman` 表示"拿、取"（`niman` 后来在 `nimble` 敏捷的、`benumb` 使麻木里留下痕迹）。维京人的 `taka` 硬生生把它顶替了，变成今天的 `take`。`take` 是个特别"狠"的词------它干掉了本土词，自己却谦逊得几乎察觉不到来历，蹲在每一个英语句子最不起眼的位置上。
+古英语原本用 `niman` 表示"拿、取"（`niman` 后来在 `nimble` /ˈnɪmbəl/ 敏捷的、`benumb` 使麻木里留下痕迹）。维京人的 `taka` 硬生生把它顶替了，变成今天的 `take`。`take` 是个特别"狠"的词------它干掉了本土词，自己却谦逊得几乎察觉不到来历，蹲在每一个英语句子最不起眼的位置上。
 
 ==== 词 5：`window`（窗户）
 <词-5window窗户>
-这个词的来历最浪漫。古诺斯语#emph[vindauga] 由 `vind`（风）+ `auga`（眼）= #strong["风眼"] 。
+这个词的来历最浪漫。古诺尔斯语#emph[vindauga] 由 `vind`（风）+ `auga`（眼）= #strong["风眼"] 。
 
 #quote(block: true)[
 #strong[window = 风眼]
@@ -7633,7 +7637,7 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
 
 ==== 词 6：`husband`（丈夫）
 <词-6husband丈夫>
-`husband` 来自古诺斯语#emph[húsbóndi]:`hús`（房子）+ #emph[bóndi]（居住者、主人）= #strong["房子的主人"] 。一个住在自家房子里的男主人，就是 husband。后来这个词义慢慢收窄，从"家主"专化成了"丈夫"。
+`husband` 来自古诺尔斯语#emph[húsbóndi]:`hús`（房子）+ #emph[bóndi]（居住者、主人）= #strong["房子的主人"] 。一个住在自家房子里的男主人，就是 husband。后来这个词义慢慢收窄，从"家主"专化成了"丈夫"。
 
 #diagram-panel(title: "图示 99 · 词源路径", breakable: false)[
   #table(
@@ -7648,16 +7652,16 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
     d-node("husband\n= 丈夫（家中的男主人）", kind: "node"),
   )
 ]
-顺带一提，`husbandry` 这个词曾泛指家庭或产业的经营管理，后来才偏向农业和畜牧。所以 `animal husbandry` 是"动物饲养与管理"，不是"给动物当丈夫"------虽然有时候养牛养羊确实像伺候老婆。
+顺带一提，`husbandry` /ˈhʌzbəndri/ 这个词曾泛指家庭或产业的经营管理，后来才偏向农业和畜牧。所以 `animal husbandry` 是"动物饲养与管理"，不是"给动物当丈夫"------虽然有时候养牛养羊确实像伺候老婆。
 
 ==== 词 7：`law`（法律）
 <词-7law法律>
-`law` 来自古诺斯语#emph[lagu]------字面是"#strong[被放置的东西] "，和 `lay`（放置）同根。维京人的法律传统其实相当发达：他们有议会(thing)、有判例、有调解程序。`law` 把古英语的#emph[ǣ] 顶替了，成了今天英语法理的根词。法律是"放置好的东西"------这个隐喻有意思：规则不是天上掉下来的，是有人#strong[把它摆在那儿]的。
+`law` 来自古诺尔斯语#emph[lagu]------字面是"#strong[被放置的东西] "，和 `lay` /leɪ/（放置）同根。维京人的法律传统其实相当发达：他们有议会(thing)、有判例、有调解程序。`law` 把古英语的#emph[ǣ] 顶替了，成了今天英语法理的根词。法律是"放置好的东西"------这个隐喻有意思：规则不是天上掉下来的，是有人#strong[把它摆在那儿]的。
 
 #horizontalrule
 
-==== 词 8：`berserk`（狂暴的）------附赠一个维京彩蛋
-<词-8berserk狂暴的附赠一个维京彩蛋>
+==== 词 8：`berserk` /bɚˈsɝk/（狂暴的）------附赠一个维京彩蛋
+<词-8berserk-bɚˈsɝk狂暴的附赠一个维京彩蛋>
 `berserk` 来自古诺尔斯语 `ber-serkr`:`ber`（熊）+ `serkr`（衫）= #strong["熊皮衫"] 。这不是普通的保暖外套。#emph[（传说）]维京人里有这么一类叫#emph[berserker] 的战士，开打前先披上熊皮，跳一段战舞，进入一种叫#strong[berserkergang] （狂化状态）的 trance------据说刀枪不入、不知疼痛，把自己当成熊，见人就撕。这个状态过去之后人会瘫软半天。"berserk"后来从"穿熊皮的疯战士"演变成今天"发狂、失控"的通用义。下次你说某个人 go berserk，其实是在引用一段千年前的北欧战场传说。
 
 #horizontalrule
@@ -7666,13 +7670,13 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
 <214-维京词的识别标志>
 很多维京词带着明显的#strong[拼写胎记]，你一眼就能看出它们不是本地人：
 
-+ #strong[硬 `sk-` 开头（sk 而不是 sh）]古英语的 sk 在中部英语变成了软软的 `sh`\(`ship`, `shall`)，但维京词的 sk 死活不改，硬邦邦地留了下来： `sky`（天空）、`skin`（皮肤）、`skull`（头骨）、`ski`（滑雪）、`skirt`（裙子）、`skill`（技能）------你只要听到这股硬 sk 音，基本可以断定它来自斯堪的纳维亚。
++ #strong[硬 `sk-` 开头（sk 而不是 sh）]古英语的 sk 在中部英语变成了软软的 `sh`\(`ship`, `shall`)，但维京词的 sk 死活不改，硬邦邦地留了下来： `sky`（天空）、`skin` /skɪn/（皮肤）、`skull` /skʌl/（头骨）、`ski` /ski/（滑雪）、`skirt` /skɜrt/（裙子）、`skill` /skɪl/（技能）------你只要听到这股硬 sk 音，基本可以断定它来自斯堪的纳维亚。
 
-+ #strong[`-by` 结尾的地名（=村镇）] `Derby`（德比）、`Grimsby`、`Whitby`（这些地方都曾是维京人定居的村镇）
++ #strong[`-by` 结尾的地名（=村镇）] `Derby` /ˈdɜrbi/（德比）、`Grimsby`、`Whitby` /ˈwɪtbi/（这些地方都曾是维京人定居的村镇）
 
 + #strong[`-thorpe` 结尾的地名（=村子、小村）] `Scunthorpe`、`Mablethorpe`
 
-+ #strong[`-thwaite` 结尾的地名（=林地、空地）] `Applethwaite`、`Braithwaite`
++ #strong[`-thwaite` 结尾的地名（=林地、空地）] `Applethwaite`、`Braithwaite` /ˈbreɪθˌweɪt/
 
 ==== 地名是维京人留下的最持久痕迹
 <地名是维京人留下的最持久痕迹>
@@ -7699,17 +7703,17 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
 
 === 21.5 维京词的"双词汇层"现象
 <215-维京词的双词汇层现象>
-因为古英语和古诺斯语是近亲，它们经常有#strong[意思几乎一样、拼写略不同]的对应词------就像一家子兄弟，长得像但不是同一个人。维京词进入英语后，常常和古英语本土词#strong[共存]，各自占一块地盘，谁也没消灭谁：
+因为古英语和古诺尔斯语是近亲，它们经常有#strong[意思几乎一样、拼写略不同]的对应词------就像一家子兄弟，长得像但不是同一个人。维京词进入英语后，常常和古英语本土词#strong[共存]，各自占一块地盘，谁也没消灭谁：
 
 #table(
     columns: (1fr, 1fr, 1fr),
     align: (left + horizon, left + horizon, left + horizon,),
-    table.header(th([古英语]), th([古诺斯语]), th([今天英语同时保留]),),
+    table.header(th([古英语]), th([古诺尔斯语]), th([今天英语同时保留]),),
     table.hline(),
-    [`craft`], [`skill`], [工艺 / 技能],
-    [`from`], [`fro`], [`from`（常用）/ `fro`（只在 to and fro）],
-    [`sick`], [`ill`], [生病的（美式常用 `sick`）/ `ill`（英式）],
-    [`rear`], [`raise`], [抚养 / 抬起],
+    [`craft` /kræft/], [`skill` /skɪl/], [工艺 / 技能],
+    [`from`], [`fro` /froʊ/], [`from`（常用）/ `fro`（只在 to and fro）],
+    [`sick` /sɪk/], [`ill` /ɪl/], [生病的（美式常用 `sick`）/ `ill`（英式）],
+    [`rear` /rɪr/], [`raise` /reɪz/], [抚养 / 抬起],
   )
 
 你看，英语在同一个意思上经常留两套词，这正是近亲语言长期同居的副产品。`craft` 和 `skill` 都活着，`from` 和 `fro` 都活着，只是后来各管一块田。
@@ -7728,12 +7732,12 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
     table.header(th([类别]), th([词]),),
     table.hline(),
     [代词 / 语法], [`they`, `their`, `them`, `both`, `same`, `though`],
-    [自然界], [`sky`, `wind`（影响）， `fog`（可能）],
-    [身体], [`skin`, `skull`, `leg`],
+    [自然界], [`sky`, `wind`（影响）， `fog` /fɑɡ/（可能）],
+    [身体], [`skin` /skɪn/, `skull` /skʌl/, `leg`],
     [动作], [`give`, `take`, `get`, `call`, `want`, `die`],
-    [日常物], [`egg`, `knife`（可能）， `window`, `husband`, `kid`],
-    [法律社会], [`law`, `wrong`, `outlaw`],
-    [形容词], [`happy`, `ugly`, `loose`, `low`, `meek`, `odd`, `rotten`, `weak`],
+    [日常物], [`egg`, `knife` /naɪf/（可能）， `window`, `husband`, `kid` /kɪd/],
+    [法律社会], [`law`, `wrong`, `outlaw` /ˈaʊtˌlɔ/],
+    [形容词], [`happy`, `ugly` /ˈʌɡli/, `loose` /lus/, `low`, `meek` /mik/, `odd`, `rotten` /ˈrɑtən/, `weak` /wik/],
   )
 
 #horizontalrule
@@ -7773,7 +7777,7 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
 == 第 22 章日耳曼词根速查：日常词的起源
 <第-22-章日耳曼词根速查日常词的起源>
 #quote(block: true)[
-日常词最会伪装：你每天见它几十次，它却从不主动交代自己一千年前叫什么。今天请 `woman`、`silly`、`nice` 和 `bead` 依次接受词源问询。
+日常词最会伪装：你每天见它几十次，它却从不主动交代自己一千年前叫什么。今天请 `woman`、`silly` /ˈsɪli/、`nice` 和 `bead` /bid/ 依次接受词源问询。
 ]
 
 第 21 章讲了古诺尔斯语影响。这一章以古英语日常词为主，也穿插少量后来进入日常层的借词作比较。重点不是"这些词是什么意思"，而是它们怎样变成今天的样子。
@@ -7812,7 +7816,7 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
   )
 ]
 #quote(block: true)[
-#strong[注意] #strong[不要误连]：`womb`（子宫、腹部）来自另一个古英语词#emph[wamb]，与 `woman` 不同源。相似的现代拼写不能作为同源证据。
+#strong[注意] #strong[不要误连]：`womb` /wum/（子宫、腹部）来自另一个古英语词#emph[wamb]，与 `woman` 不同源。相似的现代拼写不能作为同源证据。
 ]
 
 ==== 词 2：`wife`（妻子）------曾经泛指"女性"
@@ -7835,11 +7839,11 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
   )
 ]
 #quote(block: true)[
-#strong[提示] #strong[残留痕迹]：`midwife`（接生婆）、`fishwife`（卖鱼妇）、`old wives' tale`（无稽之谈）------这些词里的 wife #strong[都保留着"女性"的古义]，不是"妻子"。所以 `midwife` 字面是"#strong[with-woman] "（和\[产妇\]在一起的女人），不是"接生妻子"。
+#strong[提示] #strong[残留痕迹]：`midwife` /ˈmɪdˌwaɪf/（接生婆）、`fishwife`（卖鱼妇）、`old wives' tale`（无稽之谈）------这些词里的 wife #strong[都保留着"女性"的古义]，不是"妻子"。所以 `midwife` 字面是"#strong[with-woman] "（和\[产妇\]在一起的女人），不是"接生妻子"。
 ]
 
-==== 词 3：`silly`（愚蠢的）------曾经是"幸福的"
-<词-3silly愚蠢的曾经是幸福的>
+==== 词 3：`silly` /ˈsɪli/（愚蠢的）------曾经是"幸福的"
+<词-3silly-ˈsɪli愚蠢的曾经是幸福的>
 #strong[起源故事]：
 
 这是全书#strong[词义漂移最戏剧性]的例子之一。
@@ -7884,11 +7888,11 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
 #strong[提示] #strong[为什么 nice 漂移这么厉害]？因为它太常被用作#strong[含糊的褒义词]\("That\'s nice")，用着用着，原来的"挑剔、精确"义就被磨平了，只剩一个模糊的"好"。今天 nice 被批评为#strong[最空洞的形容词] ------但它曾经是最具体的词之一（无知的）。
 ]
 
-==== 词 5：`bead`（珠子）------曾经是"祈祷"
-<词-5bead珠子曾经是祈祷>
+==== 词 5：`bead` /bid/（珠子）------曾经是"祈祷"
+<词-5bead-bid珠子曾经是祈祷>
 #strong[起源故事]：
 
-古英语#emph[gebed] 意为"#strong[祈祷] "（今天的 `bid` 命令、`bede` 祈祷还保留着）。中世纪，基督徒用一串珠子来#strong[数祈祷次数]（念珠，rosary）。
+古英语#emph[gebed] 意为"#strong[祈祷] "（今天的 `bid` /bɪd/ 命令、`bede` 祈祷还保留着）。中世纪，基督徒用一串珠子来#strong[数祈祷次数]（念珠，rosary /ˈroʊzəri/）。
 
 #diagram-panel(title: "图示 104 · 词源路径", breakable: false)[
   #table(
@@ -7928,8 +7932,8 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
     [`blood`], [blōd], [来自 \*bhel-（涌、胀），和 bloom、blow 同根],
   )
 
-==== 一个有趣的发现：heart / cordial / cardiac 三兄弟
-<一个有趣的发现heart--cordial--cardiac-三兄弟>
+==== 一个有趣的发现：heart、cordial /ˈkɔrdʒəl/、cardiac /ˈkɑrdiæk/ 三兄弟
+<一个有趣的发现heartcordial-ˈkɔrdʒəlcardiac-ˈkɑrdiæk-三兄弟>
 #diagram-panel(title: "图示 105 · 关系图", breakable: false)[
   #align(center)[
     #f-diagram(spacing: (7mm, 4mm),
@@ -7969,7 +7973,7 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
     table.header(th([词]), th([古英语]), th([起源故事]),),
     table.hline(),
     [`water`], [wæter], [来自 \*wed-（湿），亲戚：拉丁 unda（波浪）、希腊 hydōr（水）],
-    [`fire`], [fȳr], [来自 \*paewr-（火），亲戚：希腊 pyr（火）→ pyrotechnics],
+    [`fire`], [fȳr], [来自 \*paewr-（火），亲戚：希腊 pyr（火）→ pyrotechnics /ˌpaɪrəˈtɛknɪks/],
     [`earth`], [eorþe], [来自 \*er-（土、地）],
     [`sun`], [sunne], [来自 \*sóh₂wl-（太阳），亲戚：拉丁 sol、希腊 helios],
     [`moon`], [mōna], [来自 \*mḗh₁n̥s（月），和 measure（测量月份）同根],
@@ -8018,8 +8022,8 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
 #strong[提示] #strong[关联]：`lady`（女士）来自古英语#emph[hlǣfdīge] = #emph[hlāf]（面包）+ #emph[dīge]（揉面者）= #strong["揉面包的女人"] 。所以 lord 和 lady 字面都是"管面包的人"------面包是古代家庭的核心，管面包就是管家。
 ]
 
-==== `companion`（同伴）------这个其实拉丁词，但放这里对比
-<companion同伴这个其实拉丁词但放这里对比>
+==== `companion` /kəmˈpænjən/（同伴）------这个其实拉丁词，但放这里对比
+<companion-kəmˈpænjən同伴这个其实拉丁词但放这里对比>
 我们在前言讲过：`companion` = com- + pan（面包）= #strong[和你分面包吃的人]。对照 lord/lady（管面包的），你能看到：古代社会#strong[以面包为中心]的人际关系，凝固在词源里。
 
 ==== `goodbye`（再见）------曾经是"上帝与你同在"
@@ -8040,7 +8044,7 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
   ]
 ]
 #quote(block: true)[
-#strong[提示] #strong[类似词]：`morning` 来自古英语#emph[morgen/morwen] 一组表示"早晨"的形式；`holiday` 来自 `holy day`（神圣的日子）。
+#strong[提示] #strong[类似词]：`morning` 来自古英语#emph[morgen/morwen] 一组表示"早晨"的形式；`holiday` /ˈhɑləˌdeɪ/ 来自 `holy day`（神圣的日子）。
 ]
 
 #horizontalrule
@@ -8058,7 +8062,7 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
     [`-hood`], [状态、时期], [child → childhood, mother → motherhood],
     [`-ship`], [关系、身份], [friend → friendship, citizen → citizenship],
     [`-dom`], [状态、领域], [king → kingdom, free → freedom],
-    [`-lock`], [古英语 -lāc：行为、状态或活动], [wedlock（婚姻状态）],
+    [`-lock`], [古英语 -lāc：行为、状态或活动], [wedlock /ˈwɛdˌlɑk/（婚姻状态）],
     [`-en`], [使变成（动词）], [wide → widen, strong → strengthen],
     [`-ly`], [像……（形容词）→ ……地（副词）], [quick → quickly, friend → friendly],
     [`-ness`], [状态、性质], [happy → happiness, dark → darkness],
@@ -8089,16 +8093,16 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
     align: (left + horizon, left + horizon,),
     table.header(th([日耳曼（短）]), th([法语 / 拉丁（长）]),),
     table.hline(),
-    [`ask`], [`inquire`],
-    [`answer`], [`reply`],
-    [`buy`], [`purchase`],
-    [`begin`], [`commence`],
-    [`end`], [`terminate`],
-    [`kingly`], [`royal` / `regal`],
-    [`hearty`], [`cordial`],
-    [`freedom`], [`liberty`],
-    [`help`], [`aid`],
-    [`sweat`], [`perspire`],
+    [`ask`], [`inquire` /ɪnˈkwaɪr/],
+    [`answer`], [`reply` /rɪˈplaɪ/],
+    [`buy`], [`purchase` /ˈpɜrtʃəs/],
+    [`begin`], [`commence` /kəˈmɛns/],
+    [`end`], [`terminate` /ˈtɝməˌneɪt/],
+    [`kingly` /ˈkɪŋli/], [`royal` /ˈrɔɪəl/ / `regal` /ˈriɡəl/],
+    [`hearty` /ˈhɑrti/], [`cordial` /ˈkɔrdʒəl/],
+    [`freedom` /ˈfridəm/], [`liberty` /ˈlɪbərˌti/],
+    [`help`], [`aid` /eɪd/],
+    [`sweat`], [`perspire` /pɚˈspaɪr/],
   )
 
 #quote(block: true)[
@@ -8123,9 +8127,9 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
 
 ==== 【思考题】（答案见附录 A）
 <思考题答案见附录-a-20>
-+ `silly`（愚蠢）曾经是"幸福的",`nice`（好）曾经是"无知的"，这两个词的词义漂移方向相反。想想为什么词义会这样大变？
++ `silly` /ˈsɪli/（愚蠢）曾经是"幸福的",`nice`（好）曾经是"无知的"，这两个词的词义漂移方向相反。想想为什么词义会这样大变？
 + `lord`（主人）字面是"守面包的人"，这种命名反映了古代什么样的社会结构？（提示：供养家庭的人 = 主人）
-+ `heart` / `cordial` / `cardiac` 是三兄弟，它们分别来自哪条语言路线？
++ `heart` / `cordial` /ˈkɔrdʒəl/ / `cardiac` /ˈkɑrdiˌæk/ 是三兄弟，它们分别来自哪条语言路线？
 
 #horizontalrule
 
@@ -8156,7 +8160,7 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
 这一天，英语母语的撒克逊人输了战场，法语母语的诺曼人赢了王座：
 
 #quote(block: true)[
-#strong[1066 年 10 月 14 日，黑斯廷斯战役(Battle of Hastings)。]
+#strong[1066 年 10 月 14 日，黑斯廷斯战役(Battle of Hastings)] /ˈheɪstɪŋz/。
 ]
 
 这是英语社会史和词汇史最重要的转折点之一。但要先说清楚一件事：战役只打了一天，借词可没这么守时。真正改变英语的，是此后长达三百年里、英语、法语、拉丁语在同一座岛上并存的奇特生态。我们这就回到那片战场。
@@ -8179,7 +8183,7 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
     table.header(th([序号]), th([竞争者]), th([身份与主张]), th([派系]),),
     table.hline(),
     [①], [哈罗德·戈德温森(Harold Godwinson)], [英格兰本土贵族，被贤人会议推举为王], [本土派],
-    [②], [威廉，诺曼底公爵(Duke William of Normandy)], [法国北部诺曼人，声称爱德华曾许诺王位给他], [诺曼派],
+    [②], [威廉，诺曼底公爵(Duke William of Normandy /ˈnɔrməndi/)], [法国北部诺曼人，声称爱德华曾许诺王位给他], [诺曼派],
     [③], [哈拉尔·哈德拉达(Harald Hardrada)], [挪威国王，维京传统的最后争夺者], [维京派],
   )
 
@@ -8235,17 +8239,17 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
 
 战局就此逆转。撒克逊盾墙最终被层层磨损、撕开口子。最后，哈罗德死了。
 
-关于他怎么死的，几百年来最广为流传的说法是：#emph[（传说）] #strong[一支箭贯穿了他的眼睛]。这一幕被绣进了那幅著名的#strong[巴约挂毯(Bayeux Tapestry)] ------一件将近 70 米长的中世纪刺绣，堪称"用针线记录的连环画"，至今保存在法国。挂毯上绣着一个战士被箭贯穿眼部的画面，旁边拉丁文写着"哈罗德国王被杀"(HAROLD REX INTERFECTUS EST)。多数人相信那正是哈罗德（也有学者认为挂毯上另一个人影才是他，学界至今还在吵------见本章末"避坑提示"）。
+关于他怎么死的，几百年来最广为流传的说法是：#emph[（传说）] #strong[一支箭贯穿了他的眼睛]。这一幕被绣进了那幅著名的#strong[巴约挂毯(Bayeux Tapestry)] /ˈtæpəstri/------一件将近 70 米长的中世纪刺绣，堪称"用针线记录的连环画"，至今保存在法国。挂毯上绣着一个战士被箭贯穿眼部的画面，旁边拉丁文写着"哈罗德国王被杀"(HAROLD REX INTERFECTUS EST)。多数人相信那正是哈罗德（也有学者认为挂毯上另一个人影才是他，学界至今还在吵------见本章末"避坑提示"）。
 
 但有一件事没有争议：#strong[盎格鲁-撒克逊英格兰，在这一天画上了句号。]
 
 ==== 加冕：法语搬进了城堡
 <加冕法语搬进了城堡>
-三个月后的圣诞节，#strong[威廉在西敏寺加冕为英王威廉一世]，自此被称为"#strong[征服者威廉(William the Conqueror)] "。
+三个月后的圣诞节，#strong[威廉在西敏寺加冕为英王威廉一世]，自此被称为"#strong[征服者威廉(William the Conqueror)] /ˈkɑŋkərɚ/"。
 
 加冕仪式上有个耐人寻味的细节：#emph[（传说）]当司仪用法语问在场的诺曼人是否拥戴威廉为王，场内欢呼声过于热烈，外面的诺曼卫兵以为出了乱子，竟动手放火烧了周围的房子------浓烟灌进教堂，惊慌的撒克逊贵族四散奔逃，而威廉强作镇定完成了加冕。这个混乱的开场，像是给接下来三百年定了个基调：#strong[新的统治者说法语，旧的主人说英语，而翻译永远慢半拍。]
 
-从这一天起，讲法语的诺曼贵族坐上了英格兰的统治席位，讲英语的撒克逊平民被压回了田间地头。一种奇特的语言生态就此开启------三种语言在同一座岛上并存了将近三百年。它具体长什么样？我们走进下一节的那座城堡去看。
+从这一天起，讲法语的诺曼贵族坐上了英格兰的统治席位，英语在宫廷和不少权力场合退居次位，却仍在田间、市集和家庭里继续生长。一种奇特的语言生态就此开启------三种语言在同一座岛上并存了将近三百年。它具体长什么样？我们走进下一节的那座城堡去看。
 
 #horizontalrule
 
@@ -8265,7 +8269,7 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
 #strong[这是你出生的国家，可你的母语，在这里成了"下等人"的话。]
 ]
 
-你不是被赶出国门，你是被关在自己的语言之外。这就是诺曼征服对普通人最日常、也最不动声色的伤害------它没有取缔英语，它只是让英语在所有"体面"的场合失声。
+你不是被赶出国门，你是被关在自己的语言之外。这就是诺曼征服对普通人最日常、也最不动声色的伤害------它没有取缔英语，却让英语在不少高地位场合失声。
 
 从 1066 年到中世纪后期，英格兰就这样长期并用三种语言。谁说哪种，不取决于一道整齐的"上层/下层"分界线，而取决于#strong[领域、地区、教育和身份]：
 
@@ -8280,7 +8284,7 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
 ]
 ==== 这种分立造成了什么：三百年后，英语搬家回来了
 <这种分立造成了什么三百年后英语搬家回来了>
-别误会------英语并没有在这三百年里消失。恰恰相反，它在田间地头、市集酒馆、母亲哄孩子的歌谣里，活得热气腾腾。它只是在城堡、法庭和公文里"失声"了三百年，像一个被请出客厅的主人，在厨房里继续过日子。
+别误会------英语并没有在这三百年里消失。恰恰相反，它在田间地头、市集酒馆、母亲哄孩子的歌谣里，活得热气腾腾。它只是在许多城堡、法庭和正式公文里相对"失声"，像一个被请出客厅的主人，在厨房里继续过日子。
 
 但奇妙的事情发生了：三百年后，当英语在 14 世纪重新成为官方语言、堂而皇之搬回客厅时，它已经不是当年那个被赶出去的英语了。这三百年里，它通过统治、贸易、通婚、法庭传唤、孩子听父母和领主说话时的"夹缝听力"------把法语词一个一个捡了回来。等它再度坐回公文桌前，身上已经挂满了法语的徽章。
 
@@ -8315,19 +8319,19 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
 
 我们走进去看一圈。
 
-#strong[政府办公室]：推开门，满墙挂着法语牌子------`government`、`parliament`、`council`、`minister`。这些都是诺曼人带来的统治机器零件，撒克逊人祖上 `moot`（民众大会）之类的旧词，被挤到角落吃灰。
+#strong[政府办公室]：推开门，满墙挂着法语牌子------`government`、`parliament` /ˈpɑrləmənt/、`council`、`minister`。这些都是诺曼人带来的统治机器零件，撒克逊人祖上 `moot` /mut/（民众大会）之类的旧词，被挤到角落吃灰。
 
 #strong[法院]：这一间被装修得最彻底。法官、陪审团、正义、证据、律师------从坐堂的人到桌上的卷宗，几乎清一色法语。一个撒克逊农奴想打官司，光听这些词就先输了一半：你连自己被告的是什么，都得请人翻译。
 
-#strong[军营]：`army`、`navy`、`soldier`、`enemy`、`battle`。诺曼贵族是骑士阶层，打仗是他们的本行；撒克逊人原先那套民兵词汇，在这一间里几乎被清空重装。
+#strong[军营]：`army`、`navy` /ˈneɪvi/、`soldier` /ˈsoʊldʒər/、`enemy` /ˈɛnəmi/、`battle` /ˈbætəl/。诺曼贵族是骑士阶层，打仗是他们的本行；撒克逊人原先那套民兵词汇，在这一间里几乎被清空重装。
 
-#strong[宫廷和贵族起居室]：`royal`、`prince`、`princess`、`duke`、`duchess`。这一间最讲究排场，词汇也最"镀金"。
+#strong[宫廷和贵族起居室]：`royal` /ˈrɔɪəl/、`prince` /prɪns/、`princess` /ˈprɪnsɛs/、`duke`、`duchess` /ˈdʌtʃəs/。这一间最讲究排场，词汇也最"镀金"。
 
 #strong[厨房]：这一间是本卷最经典的故事------也是下一章（第 24 章）的主角。同一个动物，活着在田里叫英语，上了餐桌就叫法语。
 
-#strong[艺术与奢侈品]：`art`、`beauty`、`color`、`furniture`、`jewel`。这些词带着绸缎和香水的气味，是诺曼贵族精致生活留下的指纹。
+#strong[艺术与奢侈品]：`art`、`beauty` /ˈbjuti/、`color`、`furniture`、`jewel` /ˈdʒuəl/。这些词带着绸缎和香水的气味，是诺曼贵族精致生活留下的指纹。
 
-#strong[教堂]（这一间要小心）：`clergy`、`sermon`、`paradise`、`savior`。教会高层用法语，但教会本身又是拉丁语的领地------所以这一间的词汇是法语和拉丁语"混装"的，不是法语独占。
+#strong[教堂]（这一间要小心）：`clergy` /ˈklɝdʒi/、`sermon` /ˈsɝmən/、`paradise` /ˈpɛrəˌdaɪs/、`savior` /ˈseɪvjɚ/。教会高层用法语，但教会本身又是拉丁语的领地------所以这一间的词汇是法语和拉丁语"混装"的，不是法语独占。
 
 把这七间屋子列出来，就是下面这张"领域地图":
 
@@ -8339,10 +8343,10 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
     table.header(th([领域]), th([例词]), th([背景]),),
     table.hline(),
     [① 政府、行政], [`government`, `parliament`, `council`, `minister`], [诺曼人带来的统治机器],
-    [② 法律、司法], [`court`, `judge`, `jury`, `justice`, `attorney`], [诺曼人带来的法律体系],
+    [② 法律、司法], [`court`, `judge` /dʒʌdʒ/, `jury` /ˈdʒʊri/, `justice` /ˈdʒʌstəs/, `attorney` /əˈtɜrni/], [诺曼人带来的法律体系],
     [③ 战争、军事], [`army`, `navy`, `soldier`, `enemy`, `battle`], [诺曼贵族是骑士阶层],
     [④ 贵族、宫廷生活], [`royal`, `prince`, `princess`, `duke`, `duchess`], [诺曼人本身就是贵族],
-    [⑤ 烹饪、美食], [`pork`, `beef`, `mutton`, `sauce`, `dinner`], [诺曼贵族的餐桌],
+    [⑤ 烹饪、美食], [`pork` /pɔrk/, `beef`, `mutton` /ˈmʌtən/, `sauce` /sɔs/, `dinner` /ˈdɪnər/], [诺曼贵族的餐桌],
     [⑥ 艺术、奢侈], [`art`, `beauty`, `color`, `furniture`, `jewel`], [诺曼人的精致生活],
     [⑦ 宗教、神学], [`clergy`, `sermon`, `paradise`, `savior`], [教会高层的法语],
   )
@@ -8351,7 +8355,7 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
 <双词汇层阶级差异凝固成了词汇>
 这七间屋子里，最值得多看一眼的是#strong[厨房] ------它藏着一个诺曼征服留下的、英语词汇史上最经典的指纹：#strong[双词汇层]。
 
-故事是这样的：同一个动物，#strong[活着的时候是英语]（因为养它的是说英语的撒克逊农民），#strong[上了餐桌就变成了法语]（因为吃它的是说法语的诺曼贵族）。`pig` 在猪圈里叫 pig，端上桌就叫 `pork`\;`cow` 在田里哞哞叫时是 cow，切成牛排就叫 `beef`\;`sheep` 在山坡上是 sheep，烤好了端上桌就叫 `mutton`。
+故事是这样的：同一个动物，#strong[活着的时候是英语]（因为养它的是说英语的撒克逊农民），#strong[上了餐桌就变成了法语]（因为吃它的是说法语的诺曼贵族）。`pig` 在猪圈里叫 pig，端上桌就叫 `pork` /pɔrk/;`cow` 在田里哞哞叫时是 cow，切成牛排就叫 `beef` /bif/;`sheep` 在山坡上是 sheep，烤好了端上桌就叫 `mutton` /ˈmʌtən/。
 
 一个社会的阶级差异，#strong[就这样凝固成了词汇的差异] ------而且凝固得如此彻底，以至于九百年后，你点猪排时说的还是 `pork`，从没想过这个词的源头是一场战役。
 
@@ -8361,7 +8365,7 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
 #strong[城堡里说法语，教堂里说拉丁语，田埂上和市集里说英语。]
 ]
 
-三种语言各占一块地盘，没有一道整齐的上下阶层边界。法语借词在政治、法律、军事、宫廷和饮食这些领域较密集，但没有任何一个领域是法语的"独占房间"------`king`、`law`、`cook` 这些反例一直在提醒你：实际的词汇层，始终是混合的。这一节的全部细节，我们留到下一章（第 24 章）展开。
+三种语言各占一块地盘，没有一道整齐的上下阶层边界。法语借词在政治、法律、军事、宫廷和饮食这些领域较密集，但没有任何一个领域是法语的"独占房间"------`king`、`law`、`cook` /kʊk/ 这些反例一直在提醒你：实际的词汇层，始终是混合的。这一节的全部细节，我们留到下一章（第 24 章）展开。
 
 #horizontalrule
 
@@ -8382,7 +8386,7 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
     align: (left + horizon, left + horizon, left + horizon,),
     table.header(th([后缀]), th([例词]), th([说明]),),
     table.hline(),
-    [`-tion` / `-sion`], [`nation`, `government`, `action`, `education`, `situation`], [这些都是法语/拉丁源],
+    [`-tion` / `-sion`], [`nation` /ˈneɪʃən/, `government`, `action`, `education`, `situation`], [这些都是法语/拉丁源],
   )
 
 ==== 标志 2：`-ous` / `-ance` / `-ence`（形容词/名词后缀）
@@ -8394,8 +8398,8 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
     align: (left + horizon, left + horizon, left + horizon,),
     table.header(th([后缀]), th([词性]), th([例词]),),
     table.hline(),
-    [`-ous`], [形容词], [`famous`, `dangerous`, `serious`, `curious`],
-    [`-ance` / `-ence`], [名词], [`importance`, `evidence`, `distance`, `innocence`],
+    [`-ous`], [形容词], [`famous` /ˈfeɪməs/, `dangerous` /ˈdeɪndʒərəs/, `serious`, `curious` /ˈkjʊriəs/],
+    [`-ance` / `-ence`], [名词], [`importance` /ˌɪmˈpɔrtəns/, `evidence`, `distance`, `innocence` /ˈɪnəsəns/],
   )
 
 ==== 标志 3：特定的"法式"音组
@@ -8407,7 +8411,7 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
     align: (left + horizon, left + horizon,),
     table.header(th([音组]), th([例词]),),
     table.hline(),
-    [`-oi-`], [`choice`, `voice`, `joy`, `boil`（部分）],
+    [`-oi-`], [`choice`, `voice`, `joy` /dʒɔɪ/, `boil` /bɔɪl/（部分）],
     [`-ai-`], [`rain`, `certain`, `mountain`],
   )
 
@@ -8420,8 +8424,8 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
     align: (left + horizon, left + horizon, left + horizon,),
     table.header(th([读音]), th([来源]), th([例词]),),
     table.hline(),
-    [`ch` 读 /tʃ/], [法语源], [`chair`, `chamber`, `chase`, `charge`, `change`],
-    [`ch` 读 /k/], [希腊/拉丁源], [`choir`, `school`, `chemistry`],
+    [`ch` 读 /tʃ/], [法语源], [`chair`, `chamber` /ˈtʃeɪmbər/, `chase` /tʃeɪs/, `charge`, `change`],
+    [`ch` 读 /k/], [希腊/拉丁源], [`choir` /ˈkwaɪɚ/, `school`, `chemistry` /ˈkɛməstri/],
   )
 
 #quote(block: true)[
@@ -8432,7 +8436,7 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
 
 === 23.5 一个关键认知：法语词的"正式感"从何而来
 <235-一个关键认知法语词的正式感从何而来>
-读到这里，你可能会发现一个规律：`buy`（买）听着随口，`purchase`（购买）听着正式；`ask`（问）是邻居间的口气，`inquire`（询问）是律师函的口气。#strong[长的、法的，似乎就比短的、英的"高级"。]
+读到这里，你可能会发现一个规律：`buy`（买）听着随口，`purchase` /ˈpɜrtʃəs/（购买）听着正式；`ask`（问）是邻居间的口气，`inquire` /ɪnˈkwaɪr/（询问）是律师函的口气。#strong[长的、法的，似乎就比短的、英的"高级"。]
 
 为什么会这样？最直觉的答案是"阶级"------毕竟法语是征服者的语言，理应带着统治者的威严。这个解释不算错，但太省事。真实的答案要复杂得多，涉及借入领域、书面传统、词义分化和长期使用。#strong[1066 年的社会结构是其中一项因素，但不是唯一的原因。]
 
@@ -8468,9 +8472,9 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
     align: (left + horizon, left + horizon, left + horizon, left + horizon, left + horizon, left + horizon,),
     table.header(th([波次]), th([时间]), th([来源]), th([特点]), th([例词]), th([风格]),),
     table.hline(),
-    [第 1 波], [1066-1200], [诺曼底法语(Norman French)], [和诺曼贵族一起进入], [`court`, `war`, `army`, `government`], [最"上层"],
-    [第 2 波], [1200-1400], [巴黎中部法语(Central French)], [学者、商人、外交带来], [`government`, `religion`, `art`, `fashion`], [更"精致、文化"],
-    [第 3 波], [16-17 世纪], [法国文化影响], [时尚、艺术、外交], [`ballet`, `cuisine`, `bouquet`, `cliché`], ["文化借词"],
+    [第 1 波], [1066-1200], [诺曼底法语(Norman /ˈnɔrmən/ French)], [和诺曼贵族一起进入], [`court`, `war`, `army`, `government`], [最"上层"],
+    [第 2 波], [1200-1400], [巴黎中部法语(Central French)], [学者、商人、外交带来], [`government`, `religion` /rɪˈlɪdʒən/, `art`, `fashion` /ˈfæʃən/], [更"精致、文化"],
+    [第 3 波], [16-17 世纪], [法国文化影响], [时尚、艺术、外交], [`ballet` /bæˈleɪ/, `cuisine` /kwɪˈzin/, `bouquet` /buˈkeɪ/, `cliché`], ["文化借词"],
   )
 
 三波合起来，就是法语在英语里留下的完整家谱：#strong[第 1 波是征服者的脚印，第 2 波是文人的礼物，第 3 波是巴黎的明信片。]每一波都比上一波更"文化"、更"精致"，也越来越像一种主动的文化仰慕，而不是被动的征服遗产。
@@ -8488,10 +8492,10 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
     align: (left + horizon, left + horizon, left + horizon,),
     table.header(th([法语形(Gu-)]), th([日耳曼形(W-)]), th([]),),
     table.hline(),
-    [`guard`（守卫）], [`ward`（看守）], [亲戚],
-    [`guarantee`（保证）], [`warranty`（担保）], [亲戚],
-    [`guess`（猜）], [`wise`（智慧，远亲）], [远亲],
-    [`guild`（行会）], [`yield`（产出，远亲）], [远亲],
+    [`guard` /ɡɑrd/（守卫）], [`ward` /wɔrd/（看守）], [亲戚],
+    [`guarantee` /ɡˌɛrənˈti/（保证）], [`warranty` /ˈwɔrənti/（担保）], [亲戚],
+    [`guess`（猜）], [`wise` /waɪz/（智慧，远亲）], [远亲],
+    [`guild` /gɪld/（行会）], [`yield` /jild/（产出，远亲）], [远亲],
   )
 
 这里面的门道是：日耳曼语的 `w-` 这个音，在法语里"翻译"成了 `gu-`。等法语词再借回英语，有的保留 `gu-`，有的又变回 `w-`，于是同一个祖先就在英语里留下了两副面孔。
@@ -8509,7 +8513,7 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
 + 第 23 章 1066 年的一件事，如何重塑英语词汇（本章）
 + 第 24 章厨房里的征服：pig / pork,cow / beef
 + 第 25 章阶级的烙印：kingly / royal / regal
-+ 第 26 章法语词根速查
++ 第 26 章法语借词与词族速查
 
 #horizontalrule
 
@@ -8532,14 +8536,14 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
 本章为了讲故事，把一场战役、三百年多语接触和七个领域的法语借词，压缩进了一篇导览。下面这几条限定，值得你记住：
 
 - #strong[战役只打了一天，借词却走了三百年。] 1066 年是社会史的重要转折点，但法语词不是当天就涌进英语的，而是在此后数百年里、通过三波不同渠道陆续进入（见 23.6）。把整卷法语借词都归功于"黑斯廷斯那一天"，是最常见的过度简化。
-- #strong["阶层叙事"是总体倾向，不是快照。] "城堡里说法语、田埂上说英语"是个好画面，但真实的多语格局没有一道整齐的上下阶层边界------领域、地区、教育、身份都会影响语言选择。`king`、`law`、`cook` 等本族词一直活在上层领域，说明词汇层始终是混合的。
+- #strong["阶层叙事"是总体倾向，不是快照。] "城堡里说法语、田埂上说英语"是个好画面，但真实的多语格局没有一道整齐的上下阶层边界------领域、地区、教育、身份都会影响语言选择。`king`、`law`、`cook` /kʊk/ 等本族词一直活在上层领域，说明词汇层始终是混合的。
 - #strong[黑斯廷斯"中箭穿眼"的画面有史料，但指认不唯一。]巴约挂毯上那个被箭贯穿眼部的战士，几百年来普遍被认为是哈罗德，但也有学者认为挂毯上另一个人影才是哈罗德。挂毯本身是真实的 11 世纪史料，争议在"画面里哪一个是哈罗德"。威廉"摘盔高呼我还活着"、加冕时的混乱场面也带有#emph[（传说）]成分，用作历史记忆的画面，不作信史引用。
 
 #horizontalrule
 
 ==== 【思考题】（答案见附录 A）
 <思考题答案见附录-a-21>
-+ 为什么 `government`、`parliament`、`court`、`judge` 全是法语源？用 1066 年的历史解释。
++ 为什么 `government`、`parliament` /ˈpɑrləmənt/、`court`、`judge` /dʒʌdʒ/ 全是法语源？用 1066 年的历史解释。
 + 哪些因素会让部分法语源词形成较正式的语体？为什么不能只归因于阶级？
 + 写学术论文时，为什么应按精确含义和搭配选词，而不是按词长选词？
 
@@ -8548,7 +8552,7 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
 == 第 24 章厨房里的征服：pig / pork, cow / beef
 <第-24-章厨房里的征服pig--pork-cow--beef>
 #quote(block: true)[
-猪在田里叫 `pig`，端上桌却叫 `pork`。动物没有改名申请，变的是说话的人、使用场景和几百年的词义分工。
+猪在田里叫 `pig`，端上桌却叫 `pork` /pɔrk/。动物没有改名申请，变的是说话的人、使用场景和几百年的词义分工。
 ]
 
 这一章讲#strong[全书最经典的双词汇层案例] ------动物名和肉名的"成对词":
@@ -8561,10 +8565,10 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
     table.header(th([养的动物（英语）]), th([端上桌的肉（法语）]),),
     table.hline(),
     [`pig`（猪）], [`pork`（猪肉）],
-    [`cow`（牛）], [`beef`（牛肉）],
-    [`calf`（小牛）], [`veal`（小牛肉）],
-    [`sheep`（羊）], [`mutton`（羊肉）],
-    [`deer`（鹿）], [`venison`（鹿肉）],
+    [`cow`（牛）], [`beef` /bif/（牛肉）],
+    [`calf`（小牛）], [`veal` /vil/（小牛肉）],
+    [`sheep`（羊）], [`mutton` /ˈmʌtən/（羊肉）],
+    [`deer` /dɪr/（鹿）], [`venison` /ˈvɛnəsən/（鹿肉）],
   )
 
 为什么会出现这种动物名与肉名的分化？诺曼征服后的法语接触和社会分工是最常见的故事框架。它很好记------"农民养、贵族吃"，几乎是一张现成的漫画。但词义分化实际经历了数百年，远不止这一张餐桌那么简单。这一章我们就先把漫画讲足，再说说它哪些地方是被简化过的。
@@ -8573,22 +8577,16 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
 
 === 24.1 故事：餐桌上的阶级
 <241-故事餐桌上的阶级>
-==== 1066 年，一颗箭，一场改写英语命运的仗
-<1066-年一颗箭一场改写英语命运的仗>
-要讲厨房里的故事，得先回到 1066 年那片战场。
-
-这一年，#strong[英格兰王位悬空]。撒克逊贵族#strong[哈罗德·戈德温森(Harold Godwinson)] 刚刚被推上王位，而海峡对岸的诺曼底公爵#strong[威廉(William)] 声称：前任国王曾当面答应把王位传给我，这个哈罗德是个篡位者。
-
-10 月 14 日，两军在#strong[黑斯廷斯(Hastings)] 摆开阵势。撒克逊人占据山头，肩并肩结成一面盾墙，诺曼人的骑兵一波波冲上去，又一波波被打下来。战局一度胶着。#emph[（传说）]决定性的一刻，是哈罗德#strong[中箭，箭矢贯穿了他的眼睛]。这一幕被绣进了那幅著名的#strong[巴约挂毯(Bayeux Tapestry)] ------一幅长达 70 米、用刺绣记录整场征服的"中世纪连环画"，至今保存在法国，是这件事最直接的可视化史料。国王倒下，盾墙崩溃，威廉自此被称为"#strong[征服者威廉(William the Conqueror)] "。
-
-这一仗的后果，远不止换了个国王。威廉带来的是一整套#strong[讲法语的诺曼贵族] ------他们取代了英格兰原有的撒克逊领主，把宫廷、法庭、上层社会整个换成了法语。英语被赶回了田间地头，在那里蛰伏了将近三百年。这就是后世所说的#strong[诺曼征服(Norman Conquest)] ，也是英语词汇史上最剧烈的一次外语输入。
+==== 从战场到餐桌：这支箭不再飞第二遍
+<从战场到餐桌这支箭不再飞第二遍>
+第 23 章里，哈罗德已经在黑斯廷斯倒下过一次，这里就不让那支箭再飞一遍了。我们只从战场带走一个与厨房有关的后果：#strong[讲法语的诺曼贵族进入英格兰统治阶层]，法语在宫廷、法律和上层生活中影响显著；英语则继续活在社会多数人口的日常生活里。两种语言长期同处一座岛，才为后来的厨房词义分工准备了舞台。
 
 ==== 厨房里的征服：猪倌和小丑的对话
 <厨房里的征服猪倌和小丑的对话>
 把镜头推进厨房。19 世纪作家#strong[沃尔特·司各特(Walter Scott)] 在小说《艾凡赫》(Ivanhoe)里，写过一段流传百年的经典对话------撒克逊猪倌#strong[Gurth] 和小丑#strong[Wamba] 边走边聊，话题正是这些动物到底叫什么。#emph[（文学化场景）]但这段话被当作"1066 年后语言分层"的最佳记忆画面，几乎写进了每一本英语词源书：
 
 #quote(block: true)[
-#strong[Wamba] （大意）："奇怪得很。这群牲口在田里跑的时候，我们这些伺候它们的人管它叫 `pig`、`cow`、`calf`、`sheep`------全是英语。可等肉一烤好端到楼上，坐在桌前讲法语的诺曼老爷嘴里，它就变成了 `pork`、`beef`、`veal`、`mutton`。"
+#strong[Wamba] （大意）："奇怪得很。这群牲口在田里跑的时候，我们这些伺候它们的人管它叫 `pig`、`cow`、`calf` /kæf/、`sheep`------全是英语。可等肉一烤好端到楼上，坐在桌前讲法语的诺曼老爷嘴里，它就变成了 `pork` /pɔrk/、`beef` /bif/、`veal` /vil/、`mutton` /ˈmʌtən/。"
 ]
 
 潜台词很清楚：#strong[养它的人说英语，吃它的人说法语]。撒克逊猪倌养了一辈子 pig，等它变成肉，名字就被楼上的法语改写了。这是被征服者最日常、也最不动声色的痕迹------语言分层，刻进了一日三餐。
@@ -8635,7 +8633,7 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
     )
   ]
 ]
-最经典的一对。`pig` 是盎格鲁猪倌嘴里的词，`pork` 来自法语 `porc`（猪）。注意一个有趣的反转：法语 `porc` 本来既能指猪、又能指猪肉；是英语借过去之后，才慢慢让它"专指肉"的。
+最经典的一对。`pig` 是盎格鲁猪倌嘴里的词，`pork` /pɔrk/ 来自法语 `porc`（猪）。注意一个有趣的反转：法语 `porc` 本来既能指猪、又能指猪肉；是英语借过去之后，才慢慢让它"专指肉"的。
 
 ==== 对 2：cow / beef ------这俩居然是亲戚
 <对-2cow--beef-这俩居然是亲戚>
@@ -8657,7 +8655,7 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
     )
   ]
 ]
-这一对最反直觉：`cow`（牛）和 `beef`（牛肉），看起来八竿子打不着，其实是#strong[远房亲戚]。它们都来自原始印欧语 `*gʷṓws`（牛）。`cow` 走的是日耳曼路线，一路传到古英语；`beef` 走的是拉丁→法语路线，绕了一大圈才回到英格兰。同一个祖先的子孙，隔着一千年再相见，一个在田里哞哞叫，一个在餐桌上冒着热气。
+这一对最反直觉：`cow`（牛）和 `beef` /bif/（牛肉），看起来八竿子打不着，其实是#strong[远房亲戚]。它们都来自原始印欧语 `*gʷṓws`（牛）。`cow` 走的是日耳曼路线，一路传到古英语；`beef` 走的是拉丁→法语路线，绕了一大圈才回到英格兰。同一个祖先的子孙，隔着一千年再相见，一个在田里哞哞叫，一个在餐桌上冒着热气。
 
 ==== 对 3：calf / veal
 <对-3calf--veal>
@@ -8693,7 +8691,7 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
     )
   ]
 ]
-`sheep` 是日耳曼独有的古老词，英语从祖先那里继承下来；`mutton` 来自法语 `moton`，而 `moton` 的来源本身又扑朔迷离，可能借自凯尔特语或通俗拉丁------一个词身上叠了好几层历史。
+`sheep` 是日耳曼独有的古老词，英语从祖先那里继承下来；`mutton` /ˈmʌtən/ 来自法语 `moton`，而 `moton` 的来源本身又扑朔迷离，可能借自凯尔特语或通俗拉丁------一个词身上叠了好几层历史。
 
 ==== 对 5：deer / venison ------词义一路在缩
 <对-5deer--venison-词义一路在缩>
@@ -8712,7 +8710,7 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
     )
   ]
 ]
-`deer` 是个特别会"缩水"的词。在古英语里它泛指#strong[一切野兽] ------熊是 deer，狼是 deer，莎士比亚时代 `small deer` 还能指"小动物"。后来它的地盘被一点点蚕食，最后只剩下"鹿"这一小块。这种"宽义 → 窄义"的演变，语言学上叫#strong[词义收窄(narrowing)] 。而 `venison` 字面是"打猎得来的肉"，来自拉丁 `venatio`（打猎）------能吃上鹿肉的，从来都是打猎的贵族，不是放牧的农夫。
+`deer` /dɪr/ 是个特别会"缩水"的词。在古英语里它泛指#strong[一切野兽] ------熊是 deer，狼是 deer，莎士比亚时代 `small deer` 还能指"小动物"。后来它的地盘被一点点蚕食，最后只剩下"鹿"这一小块。这种"宽义 → 窄义"的演变，语言学上叫#strong[词义收窄(narrowing)] 。而 `venison` /ˈvɛnəsən/ 字面是"打猎得来的肉"，来自拉丁 `venatio`（打猎）------能吃上鹿肉的，从来都是打猎的贵族，不是放牧的农夫。
 
 #horizontalrule
 
@@ -8725,9 +8723,9 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
     align: (left + horizon, left + horizon, left + horizon,),
     table.header(th([语言]), th([动物 / 肉]), th([说明]),),
     table.hline(),
-    [英语（双词汇层）], [`pig` / `pork`、`cow` / `beef`、`sheep` / `mutton`], [动物名与肉名分用不同词],
-    [法语（单层）], [`porc` / `porc`、`boeuf` / `boeuf`、`mouton` / `mouton`], [同一个词兼指动物和肉],
-    [德语（单层）], [`Schwein` / `Schweinefleisch`、`Rind` / `Rindfleisch`], [动物名加 `fleisch`（肉）构成],
+    [英语（双词汇层）], [`pig` / `pork` /pɔrk/、`cow` / `beef` /bif/、`sheep` / `mutton` /ˈmʌtən/], [动物名与肉名分用不同词],
+    [法语（单层）], [`porc` / `porc`、`boeuf` / `boeuf`、`mouton` /ˈmutɔn/ / `mouton`], [同一个词兼指动物和肉],
+    [德语（单层）], [`Schwein` / `Schweinefleisch`、`Rind` /raɪnd/ / `Rindfleisch`], [动物名加 `fleisch`（肉）构成],
   )
 
 法语干脆------一个 `porc` 既指猪也指猪肉，词不嫌多。德语也省事------`Schwein`（猪）加个 `fleisch`（肉）拼成 `Schweinefleisch`，一目了然。唯独英语，为同一种动物准备了"田间版"和"餐桌版"两套名字。这组词对之所以这么集中，正是法语长期接触留下的指纹。当然，英语并非独此一家------其他语言也会用不同词、派生词或复合词来区分动物和肉，只是没有英语这么成系统。
@@ -8736,7 +8734,7 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
 
 === 24.4 烹饪术语：法语对厨房的全面征服
 <244-烹饪术语法语对厨房的全面征服>
-不止动物和肉。整个厨房------食材、烹饪法、餐具、餐桌------都被法语系统性地渗透过一遍。从你拧开的那瓶 `sauce`，到你坐下来的那把 `chair`，多半都是法货：
+不止动物和肉。整个厨房------食材、烹饪法、餐具、餐桌------都被法语系统性地渗透过一遍。从你拧开的那瓶 `sauce` /sɔs/，到你坐下来的那把 `chair`，多半都是法货：
 
 #strong[厨房里的法语]
 
@@ -8746,22 +8744,22 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
     table.header(th([分类]), th([例词]), th([来源/说明]),),
     table.hline(),
     [食材], [`sauce`（酱汁）], [法语],
-    [食材], [`soup`（汤）], [法语],
-    [食材], [`salad`（沙拉）], [法语],
-    [食材], [`vinegar`（醋）], [法语 `vinaigre`（vin 酒 + aigre 酸）],
-    [食材], [`mustard`（芥末）], [法语],
-    [食材], [`sausage`（香肠）], [法语],
-    [食材], [`biscuit`（饼干）], [法语（cuit 烤 + bis 两次 = 烤两次）],
-    [烹饪法], [`boil`（煮）], [法语],
-    [烹饪法], [`fry`（炸）], [法语],
-    [烹饪法], [`roast`（烤）], [法语],
-    [烹饪法], [`stew`（炖）], [法语],
-    [烹饪法], [`cuisine`（烹饪）], [法语],
-    [餐桌], [`dinner`（正餐）], [法语],
-    [餐桌], [`supper`（晚餐）], [法语],
-    [餐桌], [`plate`（盘子）], [法语],
+    [食材], [`soup` /sup/（汤）], [法语],
+    [食材], [`salad` /ˈsæləd/（沙拉）], [法语],
+    [食材], [`vinegar` /ˈvɪnəɡɚ/（醋）], [法语 `vinaigre`（vin 酒 + aigre 酸）],
+    [食材], [`mustard` /ˈmʌstɚd/（芥末）], [法语],
+    [食材], [`sausage` /ˈsɔsɪdʒ/（香肠）], [法语],
+    [食材], [`biscuit` /ˈbɪskɪt/（饼干）], [法语（cuit 烤 + bis 两次 = 烤两次）],
+    [烹饪法], [`boil` /bɔɪl/（煮）], [法语],
+    [烹饪法], [`fry` /fraɪ/（炸）], [法语],
+    [烹饪法], [`roast` /roʊst/（烤）], [法语],
+    [烹饪法], [`stew` /stu/（炖）], [法语],
+    [烹饪法], [`cuisine` /kwɪˈzin/（烹饪）], [法语],
+    [餐桌], [`dinner` /ˈdɪnər/（正餐）], [法语],
+    [餐桌], [`supper` /ˈsʌpər/（晚餐）], [法语],
+    [餐桌], [`plate` /pleɪt/（盘子）], [法语],
     [餐桌], [`cup`（杯）], [法语（部分）],
-    [餐桌], [`napkin`（餐巾）], [法语],
+    [餐桌], [`napkin` /ˈnæpkɪn/（餐巾）], [法语],
     [餐桌], [`table`（桌）], [法语（替代古英语 `bord`）],
     [餐桌], [`chair`（椅）], [法语（替代古英语 `stōl`）],
   )
@@ -8783,7 +8781,7 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
     )
   ]
 ]
-`biscuit` 字面拆开是 `bis`（两次）+ `cuit`（烤）= #strong["烤两次"] 。古代水手出海，带的干粮得烤两遍------烤去水分，才不会在船舱里发霉，能放上半年不坏。今天你在下午茶里配的那块饼干，祖宗其实是水手们的救命口粮。无独有偶，意大利语 `biscotti`（那种长条形的脆饼干）也是 `bis + cotti` = 烤两次------整个地中海的航海文化，在"饼干"这个词上握了个手。
+`biscuit` /ˈbɪskət/ 字面拆开是 `bis`（两次）+ `cuit`（烤）= #strong["烤两次"] 。古代水手出海，带的干粮得烤两遍------烤去水分，才不会在船舱里发霉，能放上半年不坏。今天你在下午茶里配的那块饼干，祖宗其实是水手们的救命口粮。无独有偶，意大利语 `biscotti` /bɪˈskɑti/（那种长条形的脆饼干）也是 `bis + cotti` = 烤两次------整个地中海的航海文化，在"饼干"这个词上握了个手。
 
 #horizontalrule
 
@@ -8804,7 +8802,7 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
     )
   ]
 ]
-`vinegar` 来自法语 `vinaigre`:`vin`（酒）+ `aigre`（酸）= #strong["酸酒"] 。古人酿的酒放久了发酸，他们一尝，得，这酒坏了------可坏了的"酸酒"，恰好就是醋。一个朴素的观察，凝固成一个词。当然，从科学上说，醋是醋酸菌在含酒精液体里进行#strong[醋酸发酵]的产物，不是单纯的"酒发酵过头"；原料也不限于葡萄酒。但古人哪里知道醋酸菌，他们看到的就只是"这酒变酸了"。
+`vinegar` /ˈvɪnəɡər/ 来自法语 `vinaigre`:`vin`（酒）+ `aigre`（酸）= #strong["酸酒"] 。古人酿的酒放久了发酸，他们一尝，得，这酒坏了------可坏了的"酸酒"，恰好就是醋。一个朴素的观察，凝固成一个词。当然，从科学上说，醋是醋酸菌在含酒精液体里进行#strong[醋酸发酵]的产物，不是单纯的"酒发酵过头"；原料也不限于葡萄酒。但古人哪里知道醋酸菌，他们看到的就只是"这酒变酸了"。
 
 #horizontalrule
 
@@ -8817,12 +8815,12 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
     align: (left + horizon, left + horizon,),
     table.header(th([高级烹饪（法语）]), th([食材本身（英语）]),),
     table.hline(),
-    [`cuisine`（烹饪）], [`cook`（烹饪；早期经拉丁语进入古英语）],
-    [`boil`（煮）], [`seethe`（古英语煮，已弃用）],
-    [`fry`（炸）], [---],
-    [`roast`（烤）], [`bake`（烤，英语本土）],
-    [`chef`（主厨）], [`cook`（厨子）],
-    [`recipe`（食谱）], [`receipt`（旧用法）],
+    [`cuisine` /kwɪˈzin/（烹饪）], [`cook` /kʊk/（烹饪；早期经拉丁语进入古英语）],
+    [`boil` /bɔɪl/（煮）], [`seethe` /sið/（古英语煮，已弃用）],
+    [`fry` /fraɪ/（炸）], [---],
+    [`roast` /roʊst/（烤）], [`bake` /beɪk/（烤，英语本土）],
+    [`chef` /ʃɛf/（主厨）], [`cook`（厨子）],
+    [`recipe` /ˈrɛsəpi/（食谱）], [`receipt` /rɪˈsit/（旧用法）],
   )
 
 这里有个微妙的反差。`chef`、`cuisine` 这些法语词，带着专业餐厅、白色高帽的气味；而 `cook`、`bake` 这类词，听着就朴素得多，像家里厨房冒出的烟火气。但别把这种对立绝对化------`cook` 本身其实也是个早期拉丁借词，只是借来得太早，早到大家已经把它当成本族词了。语言的"阶级"是会变的：一个外来词住得够久，慢慢就被当成自己人。
@@ -8833,10 +8831,10 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
 <247-避坑提示>
 故事讲得香，冷水也得浇------厨房里的词源同样不能只看一道菜：
 
-- #strong[菜单不是 1066 年当天贴出来的。] `cow/beef` 的现代分工很适合展示语言接触，但这些词义是在数百年使用中逐渐专化的。`pork`、`beef` 早期也能指活着的动物------没有哪位贵族在刀叉还没摆好的时候就定下了整套菜名。
+- #strong[菜单不是 1066 年当天贴出来的。] `cow/beef` 的现代分工很适合展示语言接触，但这些词义是在数百年使用中逐渐专化的。`pork` /pɔrk/、`beef` /bif/ 早期也能指活着的动物------没有哪位贵族在刀叉还没摆好的时候就定下了整套菜名。
 - #strong[`cow` 和 `beef` 是亲戚，但不是"换个字母"的关系。]两者都追溯到原始印欧语 `*gʷṓws`，一个走日耳曼音变，一个绕拉丁→法语的远路。中间那条路比换字母复杂得多。
-- #strong[`vinegar` 是"酸酒"，但制醋不是"酒放坏了"。]醋是醋酸菌在含酒精液体中发酵的产物，原料也不限于葡萄酒。"酸酒"是古人的朴素命名，不是工艺说明书。
-- #strong[狮心王理查"不会英语"、哈罗德"中箭穿眼"带有传说成分。]两者都用作历史记忆的画面，不作信史引用。
+- #strong[`vinegar` /ˈvɪnəɡər/ 是"酸酒"，但制醋不是"酒放坏了"。]醋是醋酸菌在含酒精液体中发酵的产物，原料也不限于葡萄酒。"酸酒"是古人的朴素命名，不是工艺说明书。
+- #strong[狮心王理查"不会英语"带有传说成分。]这段只用作历史记忆的画面，不作信史引用。
 
 #horizontalrule
 
@@ -8857,15 +8855,15 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
 ==== 【思考题】（答案见附录 A）
 <思考题答案见附录-a-22>
 + `pig/pork` 的分化与诺曼征服后的语言接触有什么关系？为什么不能只用一幅贵族餐桌图解释？
-+ `vinegar` 字面是"酸酒"；醋酸发酵与普通酒精发酵有什么区别？
++ `vinegar` /ˈvɪnəɡər/ 字面是"酸酒"；醋酸发酵与普通酒精发酵有什么区别？
 + 为什么英语动物/肉名词对很集中，但仍不能说这种现象是英语独有？
 
 #pagebreak(weak: true)
 
-== 第 25 章阶级的烙印：kingly / royal / regal
-<第-25-章阶级的烙印kingly--royal--regal>
+== 第 25 章阶级的烙印：kingly /ˈkɪŋli/、royal、regal /ˈriɡəl/
+<第-25-章阶级的烙印kingly-ˈkɪŋliroyalregal-ˈriɡəl>
 #quote(block: true)[
-`kingly`、`royal`、`regal` 都和国王有关，却不能像三件同码外套一样随手替换。词典说它们近义，搭配会当场提出异议。
+`kingly` /ˈkɪŋli/、`royal` /ˈrɔɪəl/、`regal` /ˈriɡəl/ 都和国王有关，却不能像三件同码外套一样随手替换。词典说它们近义，搭配会当场提出异议。
 ]
 
 第 24 章讲了厨房里的语言分层。这一章我们把镜头从厨房移到整张阶级地图------#strong[来源不同的近义词，如何分出了不同的含义、搭配和语体]。所谓"三层"，是个方便比较的模型，不是说每个概念都正好有日耳曼、法语、拉丁三个一一对应的词。
@@ -8888,15 +8886,15 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
 
 === 25.1 三层词的形成
 <251-三层词的形成>
-==== 12 世纪的城堡：同一个动作，领主说 commence，农奴说 begin
-<12-世纪的城堡同一个动作领主说-commence农奴说-begin>
+==== 12 世纪的城堡：同一个动作，领主说 commence /kəˈmɛns/，农奴说 begin
+<12-世纪的城堡同一个动作领主说-commence-kəˈmɛns农奴说-begin>
 要看清"三层"从哪来，得把镜头推进 12 世纪英格兰的一座城堡。
 
 楼上#strong[大厅]里，壁炉烧得正旺，讲法语的诺曼贵族在发号施令。他们管"开始"叫#emph[commencer]，管"国王"叫#emph[royal]，管"询问"叫#emph[questioner]------一套从法语、拉丁语来的正式词汇，带着宫廷和法律的气味。
 
 楼下#strong[庭院]里，讲英语的撒克逊农奴在劳作。他们管"开始"叫#emph[beginnan]\(begin)，管"国王"叫#emph[cyning]，管"问"叫#emph[ascian]\(ask)------一套从祖先继承下来的本土短词，沾着泥土和汗水。
 
-#strong[同一个动作，楼上楼下两个词。]领主说 commence，农奴说 begin；领主说 royal，农奴说 kingly。这不是巧合，是征服的后果：1066 年之后，法语成了上层语言，英语被压到下层。两套词就这样在同一座城堡里平行地活着，一上一下，各自服务自己的人群。
+#strong[同一个动作，楼上楼下两个词。]领主说 commence，农奴说 begin；领主说 royal，农奴说 kingly。这不是巧合，是征服的后果：1066 年之后，法语在许多上层领域占据优势，英语则更多活跃在日常生活中。两套词就这样在同一座城堡里平行地活着，一上一下，各自服务自己的人群。
 
 后来，法语上层慢慢被英语同化，英语重新爬回了社会的每一层。但那两套词没消失------它们一起活了下来，只是分了工：法语/拉丁那套负责正式场合，日耳曼那套负责日常。这就是英语"三层词"的由来。
 
@@ -8904,12 +8902,12 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
 <法庭上的三层词同一个开始三种语言>
 楼上楼下的模型很整齐，但它有点空------没有具体的人，没有具体的时刻。让我们把镜头拉近，看 12 世纪某郡法庭上一个真实的瞬间。
 
-一个撒克逊农奴被传唤到城堡作证。#strong[法官是诺曼人]，开口盘问他，用的是法语：他听完农奴的陈述，转向身边的书记官，用法语记下一句------#emph[«La procédure commence.»]（程序开始。）这里的 `commence`，是法语层，带着法庭和程序的正式气味。#strong[书记官是个教士]，低下头，把这句话誊进羊皮卷宗，用的是拉丁语：#emph[«Inceptum est.»]（`inceptum`，开始，拉丁层，是教会的官方书面语，只活在档案里）。#strong[农奴自己呢？]他全程不说这两个词。轮到他开口时，他用英语回答：#emph[«Ic ongan»]------`ongan` 是 `begin` 的古英语形式，是日耳曼层，是他生下来就听、就说的家常词。
+一个撒克逊农奴被传唤到城堡作证。#strong[法官是诺曼人]，开口盘问他，用的是法语：他听完农奴的陈述，转向身边的书记官，用法语记下一句------#emph[«La procédure commence.»]（程序开始。）这里的 `commence` /kəˈmɛns/，是法语层，带着法庭和程序的正式气味。#strong[书记官是个教士]，低下头，把这句话誊进羊皮卷宗，用的是拉丁语：#emph[«Inceptum est.»]（`inceptum`，开始，拉丁层，是教会的官方书面语，只活在档案里）。#strong[农奴自己呢？]他全程不说这两个词。轮到他开口时，他用英语回答：#emph[«Ic ongan»]------`ongan` 是 `begin` 的古英语形式，是日耳曼层，是他生下来就听、就说的家常词。
 
-#strong[同一个动作，三种语言，三个层次的词。]法官说 `commence`，书记写 `inceptum`，农奴说 `begin`。三个人同处一室，却像活在三个语言世界里------谁也没"用错词"，因为根本不存在一个所有人共用的词。这就是诺曼征服留在英语里最深的烙印：不是某几个法语词的进入，而是同一座城堡里，#strong[语言本身被切成了上下三层]。上层讲法语，记录用拉丁，下层说英语------阶层，就刻在每一个人嘴里的那个词上。
+#strong[同一个动作，三种语言，三个层次的词。]法官说 `commence`，书记写 `inceptum`，农奴说 `begin`。三个人同处一室，却像活在三个语言世界里------谁也没"用错词"，因为根本不存在一个所有人共用的词。这就是诺曼征服留在英语里最深的烙印：不是某几个法语词的进入，而是同一座城堡里，#strong[语言分工像被切成了上下三层]。上层讲法语，记录用拉丁，下层说英语------阶层，就刻在每一个人嘴里的那个词上。
 
 #quote(block: true)[
-#emph[（说明）]这是一幅"按当时语言格局还原"的画面，不是某一桩具体案卷的逐字转写。但法庭上法官说法语、记录用拉丁、证人答英语，是 12 世纪英格兰常见的多语场景，正史可查。
+#emph[（说明）]这是一幅"按当时语言格局还原"的画面，不是某一桩具体案卷的逐字转写。法庭上法语、拉丁语和英语分工并用，是 12 世纪英格兰常见的多语场景；具体到某个人、某个地区和某个年代，实际用语仍会变化。
 ]
 
 ==== 失地王约翰：连臣民的语言都不会说的国王
@@ -8946,12 +8944,12 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
     [示例], ["a kingly man"（有王者气度的人）], ["the royal family"（王室）], ["regal bearing"（庄严的气度）],
   )
 
-三层风格差异微妙却分明：`kingly` 是那种"有王者气度"的亲切赞美，带着本土的温度；`royal` 是官方、体制里的"王室",the royal family、the Royal Navy，都挂在国家机构上；`regal` 最庄严、最文学，用来形容一种近乎肃穆的气派，regal bearing、regal authority。
+三层风格差异微妙却分明：`kingly` /ˈkɪŋli/ 是那种"有王者气度"的亲切赞美，带着本土的温度；`royal` /ˈrɔɪəl/ 是官方、体制里的"王室",the royal family、the Royal Navy，都挂在国家机构上；`regal` /ˈriɡəl/ 最庄严、最文学，用来形容一种近乎肃穆的气派，regal bearing、regal authority。
 
-这三种手感的差别，最好的活教材藏在#strong[丘吉尔]的演讲里。1940 年，二战最黑暗的时刻，丘吉尔在下议院发表了那段著名的就职演说。他没有说"I have nothing to offer but #emph[valour, exertion, magnificence and perspiration]"------那是拉丁味、法语味堆出来的句子，华美却飘忽。他说的是：
+这三种手感的差别，最好的活教材藏在#strong[丘吉尔]的演讲里。1940 年，二战最黑暗的时刻，丘吉尔在下议院发表了那段著名的就职演说。他没有说"I have nothing to offer but #emph[valour, exertion /ɪɡˈzɝʃən/, magnificence and perspiration /ˌpɝspəˈreɪʃən/]"------那是拉丁味、法语味堆出来的句子，华美却飘忽。他说的是：
 
 #quote(block: true)[
-#emph["I have nothing to offer but #strong[blood, toil, tears and sweat]\."]
+#emph["I have nothing to offer but #strong[blood, toil] /tɔɪl/ #strong[, tears and sweat]\."]
 ]
 
 血、劳、泪、汗------四个词，全部是日耳曼短词。短得像锤子，砸在每一个英国人的心上。丘吉尔是英语大师，他清楚：要让全国人------从贵族到工人------同仇敌忾，就得用最古老、最本土、最短的词。这就是 kingly（本土、亲切）和 royal/regal（外来、正式）分野的实战。同一件事，你挑哪个层级的词，决定了听众是觉得你在"训话"，还是觉得你在"交心"。
@@ -8968,7 +8966,7 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
     [示例], ["freedom of speech"（言论自由）], ["civil liberties"（公民自由权）],
   )
 
-`freedom` 和 `liberty` 都译成"自由"，但气质不同：`freedom` 更带情感和温度（自由的感觉），`liberty` 更带政治法律的冷光（自由的权利）。
+`freedom` /ˈfridəm/ 和 `liberty` /ˈlɪbərˌti/ 都译成"自由"，但气质不同：`freedom` 更带情感和温度（自由的感觉），`liberty` 更带政治法律的冷光（自由的权利）。
 
 这层差别，1775 年的美国人用血验证过。美国独立战争前夜，弗吉尼亚的#strong[帕特里克·亨利(Patrick Henry)] 在议会上喊出那句改变历史的话：
 
@@ -8978,8 +8976,8 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
 
 为什么不喊"Give me freedom"？因为 `freedom` 太软、太家常，像在说"我想自由自在地过日子"。而 `liberty` 是一个政治词、法律词，带着"天赋人权、不可剥夺"的庄严。亨利要的不是一个农夫的自在，而是一个公民的政治权利------所以他要的是 liberty，不是 freedom；他赌上的也是 death，不是"不开心"。一个词的选择，把一场农民骚动升格成了一场革命宣言。
 
-==== 案例 3：ask / question / interrogate
-<案例-3ask--question--interrogate>
+==== 案例 3：ask / question / interrogate /ɪnˈtɛrəˌɡeɪt/
+<案例-3ask--question--interrogate-ɪnˈtɛrəˌɡeɪt>
 #table(
     columns: (1fr, 1fr, 1fr, 1fr),
     align: (left + horizon, left + horizon, left + horizon, left + horizon,),
@@ -8990,7 +8988,7 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
     [示例], ["Ask him."（去问他。）], ["Question the witness."（盘问证人。）], ["The police interrogated the suspect."（警察审问嫌疑犯。）],
   )
 
-同一个"问"字，三档正式度一清二楚：`ask` 是你问朋友"吃了没";`question` 是律师盘问证人；`interrogate` 是警察在审讯室里审嫌疑犯。你不会在饭桌上对朋友说"Let me interrogate you about your day"------除非你想结束这段友谊。
+同一个"问"字，三档正式度一清二楚：`ask` 是你问朋友"吃了没";`question` 是律师盘问证人；`interrogate` /ˌɪnˈtɛrəɡˌeɪt/ 是警察在审讯室里审嫌疑犯。你不会在饭桌上对朋友说"Let me interrogate you about your day"------除非你想结束这段友谊。
 
 ==== 案例 4：其他经典三层词
 <案例-4其他经典三层词>
@@ -9006,16 +9004,16 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
     [回答], [answer], [reply], [respond],
     [开始], [begin], [commence], [initiate],
     [结束], [end], [finish], [terminate],
-    [心相关], [hearty], [cordial], [cardiac],
+    [心相关], [hearty /ˈhɑrti/], [cordial /ˈkɔrdʒəl/], [cardiac /ˈkɑrdiæk/],
     [身体的], [bodily], [corporeal], [physical],
-    [火相关], [fire], [flame], [ignite],
+    [火相关], [fire], [flame], [ignite /ɪɡˈnaɪt/],
   )
 
-提醒一句：表中后两行不是同义词组------`hearty`、`cordial`、`cardiac` 意义和搭配都不同，`fire`、`flame` 是名词而 `ignite` 是动词。这张表是用来观察"同一个概念领域里挤着不同来源的词"，不是说它们能彼此替换。
+提醒一句：表中后两行不是同义词组------`hearty` /ˈhɑrti/、`cordial` /ˈkɔrdʒəl/、`cardiac` /ˈkɑrdiˌæk/ 意义和搭配都不同，`fire`、`flame` /fleɪm/ 是名词而 `ignite` /ˌɪɡˈnaɪt/ 是动词。这张表是用来观察"同一个概念领域里挤着不同来源的词"，不是说它们能彼此替换。
 
-==== 案例 5：commencement = 毕业典礼？为什么"毕业"叫"开始"
-<案例-5commencement--毕业典礼为什么毕业叫开始>
-这里塞一个轻松的梗。英语里"毕业典礼"叫#strong[commencement] ，而 `commence` 的意思是"开始"。毕业------明明是结束，为什么叫"开始"?
+==== 案例 5：commencement /kəˈmɛnsmənt/ = 毕业典礼？为什么"毕业"叫"开始"
+<案例-5commencement-kəˈmɛnsmənt--毕业典礼为什么毕业叫开始>
+这里塞一个轻松的梗。英语里"毕业典礼"叫#strong[commencement] /kəˈmɛnsmənt/，而 `commence` /kəˈmɛns/ 的意思是"开始"。毕业------明明是结束，为什么叫"开始"?
 
 因为 `commence` 是法语来源的正式词，对应日耳曼的 `begin`。在毕业典礼的语境里，它取的是"开始"的字面义：#strong[毕业不是终点，而是人生新阶段的起点]。你拿到的不是一张"结束证"，而是一张"出发证"。这个词的选择本身就在传递一种人生观------教育结束的那一刻，恰恰是真正生活开始的那一刻。顺带一提，哈佛等老牌大学的毕业典礼至今仍叫 Commencement，几百年没改过。
 
@@ -9033,7 +9031,7 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
     [举例（心）], [hearty（衷心）], [cordial（热诚）], [cardiac（心脏的）],
   )
 
-看这张表，你会发现一个大致的渐变：从日耳曼的 `fire`（你冬天烤的炉火），到法语的 `flame`（更书面一点的"火焰"），再到拉丁的 `ignite`（物理或化学课本里的"点燃"）------词越来越长，越来越书面，越来越像术语。但具体语体还得看整词的意义和搭配，不能机械地"按层替换"。
+看这张表，你会发现一个大致的渐变：从日耳曼的 `fire`（你冬天烤的炉火），到法语的 `flame` /fleɪm/（更书面一点的"火焰"），再到拉丁的 `ignite` /ˌɪɡˈnaɪt/（物理或化学课本里的"点燃"）------词越来越长，越来越书面，越来越像术语。但具体语体还得看整词的意义和搭配，不能机械地"按层替换"。
 
 一个实用的写作直觉：#strong[写散文、讲故事，多用日耳曼短词]\(fire, hearty, ask)------它们短、硬、有体温；#strong[写公文、新闻，法语词更得体]\(flame, cordial, question)；#strong[写学术论文、技术文档，拉丁词更精确]\(ignite, cardiac, interrogate)。这只是大致倾向，不是铁律------丘吉尔的演讲全是日耳曼词，谁敢说他不正式？
 
@@ -9053,7 +9051,7 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
     [`-al`], [拉丁，常经法语], [], [royal, legal, cultural, natural, formal], [正式],
   )
 
-来看一个最直观的对比：`friendly`（友好，日耳曼）vs `amicable`（友好，拉丁）。意思几乎一样，但 `friendly` 是朋友拍肩膀的温度，`amicable` 是商务合同里冷冰冰的客套。这就是为什么分手时签的协议写 `amicable settlement`（友好解决）而不写 `friendly settlement`------后者听着像你俩还是好哥们，前者才传达"我们已经公事公办了"的正式感。
+来看一个最直观的对比：`friendly` /ˈfrɛndli/（友好，日耳曼）vs `amicable` /ˈæmɪkəbəl/（友好，拉丁）。意思几乎一样，但 `friendly` 是朋友拍肩膀的温度，`amicable` 是商务合同里冷冰冰的客套。这就是为什么分手时签的协议写 `amicable settlement`（友好解决）而不写 `friendly settlement`------后者听着像你俩还是好哥们，前者才传达"我们已经公事公办了"的正式感。
 
 #horizontalrule
 
@@ -9070,7 +9068,7 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
     table.hline(),
     [写小说], ["She was sad."], [sad], [日耳曼词，情感真挚，像贴着人物的心口写的],
     [写新闻报道], ["She expressed grief."], [grief], [经法语进入英语，客观、克制、有距离感],
-    [写心理学论文], ["She displayed melancholic affect."], [melancholic], [希腊源，术语精确，冷静到几乎不带感情],
+    [写心理学论文], ["She displayed melancholic /ˌmɛlənˈkɑlɪk/ affect."], [melancholic], [希腊源，术语精确，冷静到几乎不带感情],
   )
 
 ==== 价值 2：同义词辨析
@@ -9082,10 +9080,10 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
     table.hline(),
     [购买], [buy（日常购买）], [purchase（法语，正式采购）],
     [开始], [begin（开始）], [commence（法语，正式开始；毕业典礼叫 commencement）],
-    [流汗], [sweat（流汗，口语）], [perspire（拉丁，发汗；医生用语，委婉）],
+    [流汗], [sweat（流汗，口语）], [perspire /pɚˈspaɪr/（拉丁，发汗；医生用语，委婉）],
   )
 
-`buy` 和 `purchase` 都是"买"，但你不会在超市对收银员说"I\'d like to purchase a bottle of water"------除非你想被当成外星人。`sweat` 和 `perspire` 都是"出汗"，但医生写病历用 perspire，因为它委婉、不带汗臭味。这就是同义词辨析的核心：不是"哪个更高级"，而是"哪个场景配哪个"。
+`buy` 和 `purchase` /ˈpɜrtʃəs/ 都是"买"，但你不会在超市对收银员说"I\'d like to purchase a bottle of water"------除非你想被当成外星人。`sweat` /swɛt/ 和 `perspire` /pərˈspaɪr/ 都是"出汗"，但医生写病历用 perspire，因为它委婉、不带汗臭味。这就是同义词辨析的核心：不是"哪个更高级"，而是"哪个场景配哪个"。
 
 ==== 价值 3：阅读理解
 <价值-3阅读理解>
@@ -9115,7 +9113,7 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
     [英语], [某些概念拥有多来源近义词；词义、搭配和语体可能分化；作家可以利用这些差异，但文学成就不能由词源层数解释],
   )
 
-说到底，诺曼征服后的语言接触是英语多来源词汇的重要成因。但今天真正有用的能力，不是给每个词贴上一张"阶级标签"，而是掌握每个词的实际含义、搭配和语体------知道 `blood` 和 `sanguine` 该在什么时候出场，比知道它们谁是日耳曼谁是拉丁重要得多。
+说到底，诺曼征服后的语言接触是英语多来源词汇的重要成因。但今天真正有用的能力，不是给每个词贴上一张"阶级标签"，而是掌握每个词的实际含义、搭配和语体------知道 `blood` 和 `sanguine` /ˈsæŋɡwɪn/ 该在什么时候出场，比知道它们谁是日耳曼谁是拉丁重要得多。
 
 #horizontalrule
 
@@ -9124,7 +9122,7 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
 三层词讲得漂亮，但整齐的模型最怕现实来拆台------下面几条拆台的话，听完更踏实：
 
 - #strong["三层"是观察框架，不是对号入座的格子。]并不是每个概念都正好有日耳曼、法语、拉丁三张标签。有些只有两层，有些糊在一起，有些根本没人贴标签。
-- #strong[不存在"短词→中词→长词必然越来越正式"的阶梯。]来源会影响语体倾向，但具体用 `ask` 还是 `inquire`，得看搭配、场景和几百年的使用惯性，不能靠量字母数。
+- #strong[不存在"短词→中词→长词必然越来越正式"的阶梯。]来源会影响语体倾向，但具体用 `ask` 还是 `inquire` /ɪnˈkwaɪr/，得看搭配、场景和几百年的使用惯性，不能靠量字母数。
 - #strong[表中"三层词"不全是同义词。] `hearty / cordial / cardiac` 意义和词性都不同------你不能对心脏科医生说"请给我做个 hearty 检查"。
 - #strong[丘吉尔靠短词征服下议院，不是因为短词"高级"。]作家利用词源差异是本事，但文学成就来自驾驭语言的能力，不是词源层数。
 
@@ -9148,17 +9146,17 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
 <思考题答案见附录-a-23>
 + `kingly / royal / regal` 三层词风格有何差异？在什么场合用哪一个？
 + `ask / question / interrogate` 为什么不是单纯由非正式到正式的三个可互换词？
-+ 写作时，什么时候该用 `buy`（日耳曼），什么时候该用 `purchase`（法语）？
++ 写作时，什么时候该用 `buy`（日耳曼），什么时候该用 `purchase` /ˈpɜrtʃəs/（法语）？
 
 #pagebreak(weak: true)
 
-== 第 26 章法语词根速查
-<第-26-章法语词根速查>
+== 第 26 章法语借词与词族速查
+<第-26-章法语借词与词族速查>
 #quote(block: true)[
 法语来源词常带着拉丁祖先的五官，却换过发音、拼写和语义衣柜。认得祖先有帮助，但别拿旧照片直接过人脸识别。
 ]
 
-第 23-25 章讲了法语进入英语的历史、厨房阶级、三层词。这一章我们补全#strong[法语来源的高频词根和词族]。
+第 23-25 章讲了法语进入英语的历史、厨房阶级、三层词。这一章我们补全#strong[经法语进入英语的高频借词和词族]。
 
 法语来源词的一个特点是：#strong[许多可以追溯到拉丁语] ------法语本身由高卢地区的口语拉丁语长期演变而来，英语又从古法语和中古法语等阶段大量借词。所以法语来源成分和拉丁词根#strong[常常重叠]，但经过法语传递后会有自己的音形。
 
@@ -9248,8 +9246,8 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
 
 #horizontalrule
 
-=== 26.2 高频法语词根（经法语进入英语）
-<262-高频法语词根经法语进入英语>
+=== 26.2 高频法语借词及词族
+<262-高频法语借词及词族>
 下面这几个词，个个都在英语里混成了日常面孔，没人再记得它们是坐着诺曼人的船来的。挨个验一下身份证------court、war、peace、money、art、beauty，全是法国亲戚。
 
 ==== `court`（宫廷、法庭）
@@ -9262,14 +9260,14 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
     table.header(th([词]), th([含义]),),
     table.hline(),
     [court], [宫廷、法庭],
-    [courteous], [有礼貌的（宫廷式的）],
+    [courteous /ˈkɝtiəs/], [有礼貌的（宫廷式的）],
     [courtesy], [礼貌],
-    [courtier], [朝臣],
-    [courtship], [求偶（宫廷式的追求）],
+    [courtier /ˈkɔrtiɚ/], [朝臣],
+    [courtship /ˈkɔrtˌʃɪp/], [求偶（宫廷式的追求）],
   )
 
 #quote(block: true)[
-#strong[提示] #strong[`courteous`（有礼貌的）字面义是"宫廷式的"] ------古法语宫廷被认为是礼仪的典范，所以"宫廷的"= "有礼貌的"。
+#strong[提示] #strong[`courteous` /ˈkɜrtiəs/（有礼貌的）字面义是"宫廷式的"] ------古法语宫廷被认为是礼仪的典范，所以"宫廷的"= "有礼貌的"。
 ]
 
 ==== `war`（战争）
@@ -9327,18 +9325,18 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
     table.hline(),
     [art], [艺术],
     [artist], [艺术家],
-    [artisan], [工匠],
+    [artisan /ˈɑrtəzən/], [工匠],
     [artificial], [人造的（art + fic 做）],
-    [artifice], [巧妙构造],
+    [artifice /ˈɑrtəfɪs/], [巧妙构造],
     [artless], [质朴的（没有 art 的）],
   )
 
 #quote(block: true)[
-#strong[提示] #strong[`artificial`（人造的）字面义是"用技艺做出来的"] ------和自然(natural)相对。今天 artificial 多带"虚假"义，但词源是中性的"技艺产物"。
+#strong[提示] #strong[`artificial` /ˌɑrtəˈfɪʃəl/（人造的）字面义是"用技艺做出来的"] ------和自然(natural)相对。今天 artificial 多带"虚假"义，但词源是中性的"技艺产物"。
 ]
 
-==== `beauty`（美）
-<beauty美>
+==== `beauty` /ˈbjuti/（美）
+<beauty-ˈbjuti美>
 来自古法语#emph[beauté]，来自拉丁#emph[bellus]（美）。
 
 #table(
@@ -9348,7 +9346,7 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
     table.hline(),
     [beauty], [美],
     [beautiful], [美丽的],
-    [beautify], [美化],
+    [beautify /ˈbjutəˌfaɪ/], [美化],
     [belle], [美女（法语保留）],
     [belle-lettre], [纯文学],
   )
@@ -9365,17 +9363,17 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
     table.header(th([词]), th([来源]), th([故事]),),
     table.hline(),
     [`government`], [法语 gouverner ← 拉丁 gubernare（掌舵）], [来自希腊 kybernan（掌舵）------治理 = 操舵],
-    [`parliament`], [古法语 parlement ← parler（说话）], [原指谈话、讨论，后指议会],
+    [`parliament` /ˈpɑrləmənt/], [古法语 parlement ← parler（说话）], [原指谈话、讨论，后指议会],
     [`council`], [拉丁 concilium（集合）], [咨询会议],
-    [`counsel`], [同上（同根不同形）], [律师 = 顾问],
+    [`counsel` /ˈkaʊnsəl/], [同上（同根不同形）], [律师 = 顾问],
     [`minister`], [拉丁#emph[minister]（侍从、助手、执行者）], [经法语发展出宗教职务和政府官职义],
-    [`master`], [拉丁 magister（首领）], [主人、硕士],
-    [`mistress`], [magister 阴性], [女主人、情妇],
-    [`judge`], [拉丁 iudex/iudic-], [ius（法、权利）+ dicere（说、裁定）],
-    [`jury`], [拉丁 jurare（宣誓）], [见第 12 章],
-    [`justice`], [拉丁 justus（公正）], [见第 12 章],
-    [`prison`], [拉丁 prehensio（抓住）], [监狱],
-    [`arrest`], [拉丁 ad + restare（留下）], [逮捕],
+    [`master` /ˈmæstər/], [拉丁 magister（首领）], [主人、硕士],
+    [`mistress` /ˈmɪstrəs/], [magister 阴性], [女主人、情妇],
+    [`judge` /dʒʌdʒ/], [拉丁 iudex/iudic-], [ius（法、权利）+ dicere（说、裁定）],
+    [`jury` /ˈdʒʊri/], [拉丁 jurare（宣誓）], [见第 12 章],
+    [`justice` /ˈdʒʌstəs/], [拉丁 justus（公正）], [见第 12 章],
+    [`prison` /ˈprɪzən/], [拉丁 prehensio（抓住）], [监狱],
+    [`arrest` /ərˈɛst/], [拉丁 ad + restare（留下）], [逮捕],
   )
 
 ==== `government` = 掌舵
@@ -9401,8 +9399,8 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
 #strong[提示] #strong[`cyber-`（网络）]也来自这个希腊词根！kybernan → 拉丁 gubernare → 英语 govern，但 20 世纪科学家借用希腊原文造了 cybernetics（控制论，研究"控制、驾驶"的学科），后来衍生出 cyberspace（网络空间）、cyberpunk（赛博朋克）。#strong[所以 governor（州长）和 cyberpunk（赛博朋克）是远房亲戚]！
 ]
 
-==== `parliament` = 从谈话、讨论到议会
-<parliament--从谈话讨论到议会>
+==== `parliament` /ˈpɑrləmənt/ = 从谈话、讨论到议会
+<parliament-ˈpɑrləmənt--从谈话讨论到议会>
 #diagram-panel(title: "图示 125 · 词源路径", breakable: false)[
   #table(
     columns: (1fr, 23pt, 1fr, 23pt, 1fr),
@@ -9432,17 +9430,17 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
     table.header(th([词]), th([来源]), th([故事]),),
     table.hline(),
     [`army`], [法语 armée ← 拉丁 armare（武装）], [来自 arma（武器）],
-    [`navy`], [古法语 navie ← 拉丁 navis（船）], [船队、海军],
-    [`soldier`], [拉丁 solidus（金币）], [拿金币饷银的人],
-    [`enemy`], [拉丁 inimicus（敌人）], [in 不 + amicus 朋友],
-    [`battle`], [拉丁 battuere（打）], [战斗],
-    [`defense`], [拉丁 defensus（防御）], [de 离开 + fens 打],
-    [`siege`], [拉丁 sedere（坐）], [围城 = 坐着不走],
-    [`retreat`], [拉丁 retrahere（拉回）], [撤退],
+    [`navy` /ˈneɪvi/], [古法语 navie ← 拉丁 navis（船）], [船队、海军],
+    [`soldier` /ˈsoʊldʒər/], [拉丁 solidus（金币）], [拿金币饷银的人],
+    [`enemy` /ˈɛnəmi/], [拉丁 inimicus（敌人）], [in 不 + amicus 朋友],
+    [`battle` /ˈbætəl/], [拉丁 battuere（打）], [战斗],
+    [`defense` /dɪˈfɛns/], [拉丁 defensus（防御）], [de 离开 + fens 打],
+    [`siege` /sidʒ/], [拉丁 sedere（坐）], [围城 = 坐着不走],
+    [`retreat` /riˈtrit/], [拉丁 retrahere（拉回）], [撤退],
   )
 
-==== `soldier` = 拿金币的人
-<soldier--拿金币的人>
+==== `soldier` /ˈsoʊldʒər/ = 拿金币的人
+<soldier-ˈsoʊldʒər--拿金币的人>
 #diagram-panel(title: "图示 126 · 词源路径", breakable: false)[
   #align(center)[
     #block(width: 82%)[
@@ -9463,7 +9461,7 @@ soldier 与一种货币名称有关；salary 与拉丁 salarium 有关，细节�
 ]
 
 #quote(block: true)[
-#strong[提示] `soldier` 与#emph[solidus] 货币名称的关系较明确；`salary` 虽与盐词族有关，但"罗马士兵领盐钱"缺乏可靠古代证据。两者不能并列成两个已经证实的军饷故事。
+#strong[提示] `soldier` 与#emph[solidus] 货币名称的关系较明确；`salary` /ˈsæləri/ 虽与盐词族有关，但"罗马士兵领盐钱"缺乏可靠古代证据。两者不能并列成两个已经证实的军饷故事。
 ]
 
 #horizontalrule
@@ -9491,8 +9489,8 @@ soldier 与一种货币名称有关；salary 与拉丁 salarium 有关，细节�
     [lord], [日耳曼，面包守护者],
   )
 
-==== `prince` = 第一人
-<prince--第一人>
+==== `prince` /prɪns/ = 第一人
+<prince-prɪns--第一人>
 #diagram-panel(title: "图示 127 · 关系图", breakable: false)[
   #align(center)[
     #f-diagram(spacing: (7mm, 4mm),
@@ -9522,20 +9520,20 @@ soldier 与一种货币名称有关；salary 与拉丁 salarium 有关，细节�
     table.header(th([词]), th([来源]),),
     table.hline(),
     [`art`], [拉丁 ars],
-    [`beauty`], [拉丁 bellus],
+    [`beauty` /ˈbjuti/], [拉丁 bellus],
     [`color`], [拉丁 color],
-    [`furniture`], [法语 fournir（装备）],
-    [`jewel`], [法语 jouel],
-    [`treasure`], [拉丁 thesaurus（宝库）],
-    [`rich`], [古法语 riche],
-    [`luxury`], [拉丁 luxus（过剩）],
-    [`pleasure`], [拉丁 placere（取悦）],
-    [`joy`], [拉丁 gaudia],
-    [`comfort`], [拉丁 confortare（加强）],
+    [`furniture` /ˈfɜrnɪtʃər/], [法语 fournir（装备）],
+    [`jewel` /ˈdʒuəl/], [法语 jouel],
+    [`treasure` /ˈtrɛʒər/], [拉丁 thesaurus（宝库）],
+    [`rich` /rɪtʃ/], [古法语 riche],
+    [`luxury` /ˈlʌɡʒəri/], [拉丁 luxus（过剩）],
+    [`pleasure` /ˈplɛʒər/], [拉丁 placere（取悦）],
+    [`joy` /dʒɔɪ/], [拉丁 gaudia],
+    [`comfort` /ˈkʌmfərt/], [拉丁 confortare（加强）],
   )
 
-==== `treasure` = 宝库
-<treasure--宝库>
+==== `treasure` /ˈtrɛʒər/ = 宝库
+<treasure-ˈtrɛʒər--宝库>
 #diagram-panel(title: "图示 128 · 关系图", breakable: false)[
   #align(center)[
     #f-diagram(spacing: (7mm, 4mm),
@@ -9552,11 +9550,11 @@ soldier 与一种货币名称有关；salary 与拉丁 salarium 有关，细节�
   ]
 ]
 #quote(block: true)[
-一本 thesaurus（如 Roget\'s）字面义是"词语的宝库"。
+一本 thesaurus /θɪˈsɔrəs/（如 Roget\'s）字面义是"词语的宝库"。
 ]
 
 #quote(block: true)[
-#strong[提示]所以 `treasure`（财宝）和 `thesaurus`（同义词词典）#strong[同根] ------都来自希腊"宝库"。一本同义词词典，就是"词语的财宝"。
+#strong[提示]所以 `treasure`（财宝）和 `thesaurus` /θəˈsɔrəs/（同义词词典）#strong[同根] ------都来自希腊"宝库"。一本同义词词典，就是"词语的财宝"。
 ]
 
 #horizontalrule
@@ -9591,7 +9589,7 @@ soldier 与一种货币名称有关；salary 与拉丁 salarium 有关，细节�
 <268-本章小结>
 + #strong[大量法语词有拉丁祖形] ------法语传递会改变音形，但不存在通用的 `-ct → -it` 字母公式。
 + #strong[政治、法律、军事、奢侈词多是法语源] ------1066 年诺曼人的领域遗产。
-+ #strong[几个值得辨析的词源]：`money` 与 Juno Moneta 铸币传统有关，`government` 与掌舵词族有关，`soldier` 与#emph[solidus] 有关。
++ #strong[几个值得辨析的词源]：`money` 与 Juno Moneta 铸币传统有关，`government` 与掌舵词族有关，`soldier` /ˈsoʊldʒər/ 与#emph[solidus] 有关。
 
 ==== 一个最离奇的认知
 <一个最离奇的认知>
@@ -9604,8 +9602,8 @@ soldier 与一种货币名称有关；salary 与拉丁 salarium 有关，细节�
 ==== 【思考题】（答案见附录 A）
 <思考题答案见附录-a-24>
 + `government`（政府）字面是"掌舵"，这个隐喻如何体现治理国家的本质？（提示：国家如船，政府操舵）
-+ `parliament` 为什么更准确地解释为"谈话、讨论、会议"，而不是"`-ment` 表地点"?
-+ `soldier` 与 `salary` 的证据强度有什么不同？为什么不能把 `salary` 直接译成"盐钱"?
++ `parliament` /ˈpɑrləmənt/ 为什么更准确地解释为"谈话、讨论、会议"，而不是"`-ment` 表地点"?
++ `soldier` /ˈsoʊldʒər/ 与 `salary` /ˈsæləri/ 的证据强度有什么不同？为什么不能把 `salary` 直接译成"盐钱"?
 
 #horizontalrule
 
@@ -9641,7 +9639,7 @@ soldier 与一种货币名称有关；salary 与拉丁 salarium 有关，细节�
 <271-一个反常现象否定前缀为什么有这么多>
 学英语的人常会困惑：#strong[否定一个词，为什么有这么多前缀？]问英语，英语两手一摊："历史遗留，概不统一，不退款。"------上面这张表里那八个家伙，不是哪个委员会商量着发明的，而是日耳曼人、罗马人、希腊人各自带着自己的"不"字，在不同时代陆陆续续搬进英语，谁也没把谁赶走。
 
-要理清这场混乱，得先认准本章的两位主角：#strong[`un-` 和 `in-`] 。它俩一个姓日耳曼、一个姓拉丁，在英语里各占山头，背后是一桩 1066 年的大事------诺曼征服。征服之后，朝廷、法院、教会、学校全被说法语、写拉丁的诺曼人把持，拉丁源的前缀 `in-` 也就跟着这帮"上等人"扎了根；而 `un-` 留在田间地头、灶台酒馆，陪着说英语的老百姓过活。前缀和词根，讲究一个#strong[门当户对] ------日耳曼词配 `un-`，拉丁词配 `in-`，井水不犯河水。这种阶级分野，直到现代才慢慢被打破：`unacceptable`、`unscientific` 这种"跨来源通婚"，是后来的事。
+要理清这场混乱，得先认准本章的两位主角：#strong[`un-` 和 `in-`] 。它俩一个姓日耳曼、一个姓拉丁，在英语里各占山头，背后是一桩 1066 年的大事------诺曼征服。征服之后，朝廷、法院、教会、学校全被说法语、写拉丁的诺曼人把持，拉丁源的前缀 `in-` 也就跟着这帮"上等人"扎了根；而 `un-` 留在田间地头、灶台酒馆，陪着说英语的老百姓过活。前缀和词根，讲究一个#strong[门当户对] ------日耳曼词配 `un-`，拉丁词配 `in-`，井水不犯河水。这种阶级分野，直到现代才慢慢被打破：`unacceptable` /ˌʌnəkˈsɛptəbəl/、`unscientific` /ˌʌnˌsaɪənˈtɪfɪk/ 这种"跨来源通婚"，是后来的事。
 
 下面先把这八个前缀一字排开，认认脸------
 
@@ -9653,11 +9651,11 @@ soldier 与一种货币名称有关；salary 与拉丁 salarium 有关，细节�
     [unhappy], [`un-`],
     [invisible], [`in-`],
     [dishonest], [`dis-`],
-    [atypical], [`a-`],
+    [atypical /eɪˈtɪpɪkəl/], [`a-`],
     [nonsense], [`non-`],
-    [antisocial], [`anti-`],
+    [antisocial /ˌæntiˈsoʊʃəl/], [`anti-`],
     [counter-argue], [`counter-`],
-    [malfunction 等], [`mal-`],
+    [malfunction /ˌmælˈfʌŋkʃən/ 等], [`mal-`],
   )
 
 为什么不能统一用一个？词源解释了这些前缀为何同时存在，但现代英语的选择还受既有词形、语义和能产性约束。它们有常见搭配倾向，没有严格互斥的"词源领地"。
@@ -9668,7 +9666,7 @@ soldier 与一种货币名称有关；salary 与拉丁 salarium 有关，细节�
 <272-五个主要否定前缀的来历>
 ==== 前缀 1：`un-`（日耳曼源）
 <前缀-1un-日耳曼源>
-先出场的，是英语最亲的家里人------`un-`。它从原始印欧语的否定词根 `*n-` 一路走下来，经日耳曼语、古英语，稳稳当当地活到今天，血统纯正得能查家谱。`un-` 是英语否定前缀里#strong[最高频、最口语、最亲切]的一个：你嘴边那句 `unhappy`、`undo`，用的就是它------短小、利落、不端架子，典型的老百姓做派。
+先出场的，是英语最亲的家里人------`un-`。它从原始印欧语的否定词根 `*n-` 一路走下来，经日耳曼语、古英语，稳稳当当地活到今天，血统纯正得能查家谱。`un-` 是英语否定前缀里#strong[最高频、最口语、最亲切]的一个：你嘴边那句 `unhappy` /ənˈhæpi/、`undo` /ənˈdu/，用的就是它------短小、利落、不端架子，典型的老百姓做派。
 
 #diagram-panel(title: "图示 129 · 词源路径", breakable: false)[
   #align(center)[
@@ -9695,7 +9693,7 @@ soldier 与一种货币名称有关；salary 与拉丁 salarium 有关，细节�
     [名词], [unemployment, unhappiness],
   )
 
-不过这位"本土前缀"如今也不那么古板了------现代英语里，它常常越界，嫁到拉丁或希腊词根那边去：`unacceptable`、`unscientific`、`unconstitutional` 都是这种"跨阶层联姻"的产物。能否成家，看的是实际用得开不开，不是查祖宗三代。
+不过这位"本土前缀"如今也不那么古板了------现代英语里，它常常越界，嫁到拉丁或希腊词根那边去：`unacceptable` /ˌʌnækˈsɛptəbəl/、`unscientific` /ənˌsaɪənˈtɪfɪk/、`unconstitutional` /ˌʌnˌkɑnstəˈtuʃənəl/ 都是这种"跨阶层联姻"的产物。能否成家，看的是实际用得开不开，不是查祖宗三代。
 
 ==== 前缀 2：`in-` / `im-` / `il-` / `ir-`（拉丁源）
 <前缀-2in---im---il---ir-拉丁源>
@@ -9727,7 +9725,7 @@ soldier 与一种货币名称有关；salary 与拉丁 salarium 有关，细节�
 
 ==== in- 的同化规则（第 4 章讲过，这里复习）
 <in--的同化规则第-4-章讲过这里复习>
-`in-` 的变脸术，是拉丁发音习惯留下的遗产。它跑到双唇音 `b/p/m` 前面，嘴巴得闭上，于是化名 `im-`\(`impossible`)；撞上 `l`，干脆连名带姓改成 `il-`\(`illegal`)；碰见 `r`，就翻个面变 `ir-`\(`irregular`)。#strong[换的不是身份，是口音] ------为了让两个辅音连在一起时嘴巴少受点罪。同样的道理也解释了：为什么 `un-` 不用这套把戏？因为它是日耳曼血统，发音规矩跟拉丁两套，压根没这习惯。
+`in-` 的变脸术，是拉丁发音习惯留下的遗产。它跑到双唇音 `b/p/m` 前面，嘴巴得闭上，于是化名 `im-`\(`impossible` /ˌɪmˈpɑsəbəl/)；撞上 `l`，干脆连名带姓改成 `il-`\(`illegal` /ˌɪˈliɡəl/)；碰见 `r`，就翻个面变 `ir-`\(`irregular` /ˌɪˈrɛɡjələr/)。#strong[换的不是身份，是口音] ------为了让两个辅音连在一起时嘴巴少受点罪。同样的道理也解释了：为什么 `un-` 不用这套把戏？因为它是日耳曼血统，发音规矩跟拉丁两套，压根没这习惯。
 
 #table(
     columns: (1fr, 1fr, 1fr),
@@ -9735,14 +9733,14 @@ soldier 与一种货币名称有关；salary 与拉丁 salarium 有关，细节�
     table.header(th([后跟]), th([同化为]), th([例词]),),
     table.hline(),
     [b / p / m（双唇音）], [`im-`], [impossible, immortal, immature],
-    [l], [`il-`], [illegal, illiterate, illogical],
+    [l], [`il-`], [illegal, illiterate /ɪˈlɪtərət/, illogical /ɪˈlɑdʒɪkəl/],
     [r], [`ir-`], [irregular, irresponsible, irrelevant],
     [其他], [`in-`], [invisible, incorrect, incomplete],
   )
 
 ==== 前缀 3：`dis-`（拉丁源）
 <前缀-3dis-拉丁源>
-`dis-` 也是拉丁来的，但气质和 `in-` 截然不同。它的本义是"#strong[撕成两半、分开] "------所以 `disagree` 不是客客气气地说一句"我不同意"，而是#strong[把对方的话一把撕开，甩回他脸上]。`un-` 是冷冷的"不",`dis-` 是带火气的"对着干"。这就是为什么 `disagree` 比 `unhappy` 更冲------前者是立场对立，后者只是心情不好。
+`dis-` 也是拉丁来的，但气质和 `in-` 截然不同。它的本义是"#strong[撕成两半、分开] "------所以 `disagree` /dɪsəɡˈri/ 不是客客气气地说一句"我不同意"，而是#strong[把对方的话一把撕开，甩回他脸上]。`un-` 是冷冷的"不",`dis-` 是带火气的"对着干"。这就是为什么 `disagree` 比 `unhappy` /ənˈhæpi/ 更冲------前者是立场对立，后者只是心情不好。
 
 #diagram-panel(title: "图示 131 · 词源路径", breakable: false)[
   #table(
@@ -9799,7 +9797,7 @@ soldier 与一种货币名称有关；salary 与拉丁 salarium 有关，细节�
 
 ==== 前缀 5：`a-`（希腊源）
 <前缀-5a-希腊源>
-`a-` 是从希腊文献里走出来的#strong[书生前缀]。文艺复兴时，学者们直接从希腊文里搬词，这个小小的 `a-` 就跟着 `atheist`（无神论者）、`atom`（原子）一起进了英语。它很挑门第------基本只配希腊词根，不轻易外嫁。元音前面它还会加个 `n`，变成 `an-`（`anonymous` 匿名 = an + onym 名字）。
+`a-` 是从希腊文献里走出来的#strong[书生前缀]。文艺复兴时，学者们直接从希腊文里搬词，这个小小的 `a-` 就跟着 `atheist` /ˈeɪθiɪst/（无神论者）、`atom` /ˈætəm/（原子）一起进了英语。它很挑门第------基本只配希腊词根，不轻易外嫁。元音前面它还会加个 `n`，变成 `an-`（`anonymous` /əˈnɑnəməs/ 匿名 = an + onym 名字）。
 
 #diagram-panel(title: "图示 133 · 词源路径", breakable: false)[
   #table(
@@ -9820,17 +9818,17 @@ soldier 与一种货币名称有关；salary 与拉丁 salarium 有关，细节�
     table.header(th([例词]), th([说明]),),
     table.hline(),
     [atypical], [非典型的],
-    [asymmetric], [不对称的],
-    [amoral], [非道德的],
+    [asymmetric /ˌeɪsəˈmɛtrɪk/], [不对称的],
+    [amoral /eɪˈmɔrəl/], [非道德的],
     [anonymous], [匿名的：an + onym],
-    [apathy], [冷漠：a + path 感受],
+    [apathy /ˈæpəθi/], [冷漠：a + path 感受],
   )
 
 #horizontalrule
 
 === 27.3 来源倾向不等于强制匹配
 <273-来源倾向不等于强制匹配>
-讲到这里，得给前面那条"门当户对"的主线打个补丁。历史上，前缀确实爱跟同源的词根搭伙：`un-` 配日耳曼词，`in-` 配拉丁词，`a-` 配希腊词------看上去井井有条。但这只是#strong[倾向]，不是#strong[法律]。现代英语早就通了婚：`un-` 跨界去配拉丁词根（`unacceptable`、`unscientific`、`unconstitutional`），`a-` 也跑去配拉丁的 `moral`\(`amoral`)。前缀选谁，最终是#strong[既有词形、意义和使用习惯]三方商量着办的，词源只是其中一个发言权较大的顾问。
+讲到这里，得给前面那条"门当户对"的主线打个补丁。历史上，前缀确实爱跟同源的词根搭伙：`un-` 配日耳曼词，`in-` 配拉丁词，`a-` 配希腊词------看上去井井有条。但这只是#strong[倾向]，不是#strong[法律]。现代英语早就通了婚：`un-` 跨界去配拉丁词根（`unacceptable` /ˌʌnækˈsɛptəbəl/、`unscientific` /ənˌsaɪənˈtɪfɪk/、`unconstitutional` /ˌʌnˌkɑnstəˈtuʃənəl/），`a-` 也跑去配拉丁的 `moral` /ˈmɔrəl/(`amoral` /eɪˈmɔrəl/)。前缀选谁，最终是#strong[既有词形、意义和使用习惯]三方商量着办的，词源只是其中一个发言权较大的顾问。
 
 #strong[常见历史倾向与现代反例]
 
@@ -9841,7 +9839,7 @@ soldier 与一种货币名称有关；salary 与拉丁 salarium 有关，细节�
     table.hline(),
     [`un-`], [常见于本族词], [unhappy, unkind, unwise],
     [`in-/im-/il-/ir-`], [多见于拉丁形成的既有词], [invisible, dishonest, nonsense],
-    [`a-/an-`], [多见于希腊形成的既有词], [atypical, amoral, apathetic],
+    [`a-/an-`], [多见于希腊形成的既有词], [atypical, amoral, apathetic /ˌæpəˈθɛtɪk/],
   )
 
 #strong[跨来源构词]：`un-` + acceptable / scientific / constitutional;`a-` + moral
@@ -9854,7 +9852,7 @@ soldier 与一种货币名称有关；salary 与拉丁 salarium 有关，细节�
 
 ==== `anti-`（希腊源，反对）
 <anti-希腊源反对>
-`anti-` 来自希腊，本义就是"#strong[对抗、反对] "。如果说 `dis-` 是嘴上拌两句，`anti-` 就是直接下战书------它一出场，就自带#strong[宣战的姿势]。`disagree` 还只是"我不同意",`antisocial` 可不是"我不爱社交"，而是"#strong[我跟这个社会对着干] "。火力等级，一目了然。
+`anti-` 来自希腊，本义就是"#strong[对抗、反对] "。如果说 `dis-` 是嘴上拌两句，`anti-` 就是直接下战书------它一出场，就自带#strong[宣战的姿势]。`disagree` /dɪsəɡˈri/ 还只是"我不同意",`antisocial` /ˌæntɪˈsoʊʃəl/ 可不是"我不爱社交"，而是"#strong[我跟这个社会对着干] "。火力等级，一目了然。
 
 #diagram-panel(title: "图示 134 · 词源路径", breakable: false)[
   #table(
@@ -9872,13 +9870,13 @@ soldier 与一种货币名称有关；salary 与拉丁 salarium 有关，细节�
     align: (left + horizon,),
     table.header(th([例词]),),
     table.hline(),
-    [antisocial, antibody, antifreeze],
+    [antisocial, antibody /ˈæntɪˌbɑdi/, antifreeze /ˈæntiˌfriz/],
     [anti-war, anti-aging],
   )
 
 ==== `mal-`（拉丁源，坏、恶）
 <mal-拉丁源坏恶>
-`mal-` 是个爱说坏话的前缀，来自拉丁#emph[#strong[malus]]（坏、恶）。它不否定，它直接#strong[骂] ------`malfunction` 是"坏功能",`malpractice` 是"坏行医",`malnutrition` 是"坏营养"。最妙的是 `malaria`（疟疾）：`mal`（坏）+ `aria`（空气），字面就是"#strong[坏空气] "。
+`mal-` 是个爱说坏话的前缀，来自拉丁#emph[#strong[malus]]（坏、恶）。它不否定，它直接#strong[骂] ------`malfunction` /mælˈfʌŋkʃən/ 是"坏功能",`malpractice` /mælˈpræktɪs/ 是"坏行医",`malnutrition` /ˌmælnuˈtrɪʃən/ 是"坏营养"。最妙的是 `malaria` /məˈlɛriə/（疟疾）：`mal`（坏）+ `aria` /ˈɑriə/（空气），字面就是"#strong[坏空气] "。
 
 #diagram-panel(title: "图示 135 · 词源路径", breakable: false)[
   #table(
@@ -9899,7 +9897,7 @@ soldier 与一种货币名称有关；salary 与拉丁 salarium 有关，细节�
     table.header(th([例词]), th([说明]),),
     table.hline(),
     [malfunction, malnutrition], [],
-    [malformed, malpractice], [],
+    [malformed /ˌmælˈfɔrmd/, malpractice], [],
     [malaria], [疟疾：mal 坏 + aria 空气，古人以为疟疾由"坏空气"引起],
   )
 
@@ -9907,7 +9905,7 @@ soldier 与一种货币名称有关；salary 与拉丁 salarium 有关，细节�
 
 ==== `mis-`（日耳曼源，错、误）
 <mis-日耳曼源错误>
-最后出场的 `mis-` 是 `un-` 的老乡，同为日耳曼血统，本义是"#strong[错、误] "。它不是"不"，也不是"坏"，而是"#strong[搞错了] "------`mistake`（拿错）、`misunderstand`（理解错）、`misspell`（拼错）、`mislead`（带错路）。凡是它插手的，都带着一股"哎呀，搞砸了"的歉意。
+最后出场的 `mis-` 是 `un-` 的老乡，同为日耳曼血统，本义是"#strong[错、误] "。它不是"不"，也不是"坏"，而是"#strong[搞错了] "------`mistake` /mɪˈsteɪk/（拿错）、`misunderstand` /ˌmɪsʌndɚˈstænd/（理解错）、`misspell` /ˌmɪsˈspɛl/（拼错）、`mislead` /ˌmɪsˈlid/（带错路）。凡是它插手的，都带着一股"哎呀，搞砸了"的歉意。
 
 #diagram-panel(title: "图示 136 · 词源路径", breakable: false)[
   #table(
@@ -9963,7 +9961,7 @@ soldier 与一种货币名称有关；salary 与拉丁 salarium 有关，细节�
 否定这件事，本该最简单------摇摇头就完了。可英语偏偏攒了八个前缀，每个都带着自己出身的口音：日耳曼的 `un-` 亲切实用，拉丁的 `in-` 端着学者的架子、还会换口音，`dis-` 把话撕开扔回去，`non-` 摆烂式地分个类，`a-` 守着希腊的书卷气，`anti-` 一上来就宣战，`mal-` 张口就骂，`mis-` 一脸歉意地认错。它们能并存至今，靠的不是谁统一了谁，而是各自扎下了根。
 
 + #strong[八个前缀是三股血统的历史叠加] ------日耳曼（`un-`、`mis-`）、拉丁（`in-`、`dis-`、`non-`、`mal-`）、希腊（`a-`、`anti-`）在英语里并存，谁也没把谁赶走。其中 `un-` 与 `in-` 的分野，本质是 1066 年后老百姓词与朝廷教会词的阶级之别。
-+ #strong[没有强制的同源匹配原则] ------来源造成搭配倾向，但 `unacceptable`、`unscientific`、`amoral` 都是跨来源反例；现代英语早就跨阶层通婚了。
++ #strong[没有强制的同源匹配原则] ------来源造成搭配倾向，但 `unacceptable` /ˌʌnækˈsɛptəbəl/、`unscientific` /ənˌsaɪənˈtɪfɪk/、`amoral` /eɪˈmɔrəl/ 都是跨来源反例；现代英语早就跨阶层通婚了。
 + #strong[几个惊人词源]：malaria（坏空气，沼泽替蚊子背了一千多年的锅）、non-（字面"连一个都不"）。
 
 #horizontalrule
@@ -9972,18 +9970,18 @@ soldier 与一种货币名称有关；salary 与拉丁 salarium 有关，细节�
 <277-避坑提示>
 八个前缀都认识了，别急着用"一条规则套天下"------以下几个坑，专治想当然：
 
-- #strong["门当户对"是历史倾向，不是构词法律]。`un-` 配日耳曼词、`in-` 配拉丁词是常见搭配，但 `unacceptable`、`amoral` 都在跨来源通婚。别拿"前缀必须同源"去套新词，英语早就不查户口了。
+- #strong["门当户对"是历史倾向，不是构词法律]。`un-` 配日耳曼词、`in-` 配拉丁词是常见搭配，但 `unacceptable` /ˌʌnækˈsɛptəbəl/、`amoral` /eɪˈmɔrəl/ 都在跨来源通婚。别拿"前缀必须同源"去套新词，英语早就不查户口了。
 - #strong[`un-` 不变脸，不是因为它懒]。`in-` 的 `im-/il-/ir-` 是拉丁发音遗产；`un-` 是日耳曼血统，压根没这套规矩------两家人各有各的口音习惯。
-- #strong[否定前缀的火力有级别]：`un-`（冷冷的"不"）\< `dis-`（撕开甩回去）\< `anti-`（直接下战书）。`disagree` 比 `unhappy` 更冲，`antisocial` 比 `disagree` 更硬------别把它们当同义词混着用。
-- #strong[`amoral` ≠ `immoral`] 。前者"不涉及道德判断"，后者"违反道德"。一个是裁判不在场，一个是裁判举红牌------差别不小。
+- #strong[否定前缀的火力有级别]：`un-`（冷冷的"不"）\< `dis-`（撕开甩回去）\< `anti-`（直接下战书）。`disagree` /dɪsəɡˈri/ 比 `unhappy` /ənˈhæpi/ 更冲，`antisocial` /ˌæntɪˈsoʊʃəl/ 比 `disagree` 更硬------别把它们当同义词混着用。
+- #strong[`amoral` ≠ `immoral` /ɪˈmɔrəl/] 。前者"不涉及道德判断"，后者"违反道德"。一个是裁判不在场，一个是裁判举红牌------差别不小。
 
 #horizontalrule
 
 ==== 【思考题】（答案见附录 A）
 <思考题答案见附录-a-25>
-+ `unhappy` 和 `invisible` 的前缀选择有何历史背景？为什么不能把这种倾向写成强制规则？
-+ `disagree` 比 `unhappy` 更带"对立"色彩，为什么？（提示：dis- 含"相反动作"）
-+ `malaria` 的来源表达"坏空气"，想想旧有病因观念如何凝固在疾病名称里。
++ `unhappy` /ənˈhæpi/ 和 `invisible` /ˌɪnˈvɪzəbəl/ 的前缀选择有何历史背景？为什么不能把这种倾向写成强制规则？
++ `disagree` /dɪsəɡˈri/ 比 `unhappy` 更带"对立"色彩，为什么？（提示：dis- 含"相反动作"）
++ `malaria` /məˈlɛriə/ 的来源表达"坏空气"，想想旧有病因观念如何凝固在疾病名称里。
 
 #pagebreak(weak: true)
 
@@ -10026,7 +10024,7 @@ soldier 与一种货币名称有关；salary 与拉丁 salarium 有关，细节�
     )
   ]
 ]
-这个"一起"的画面一旦建立，很多看似无关的词忽然就眉目清楚了：`connect` 是把两段东西#strong[系到一起]，`combine` 是让两样#strong[成双凑一对]，`cooperate` 是几个伙计#strong[一块儿干活]。最妙的是，你能从字面里直接读出动作的味道------
+这个"一起"的画面一旦建立，很多看似无关的词忽然就眉目清楚了：`connect` /kəˈnɛkt/ 是把两段东西#strong[系到一起]，`combine` /ˈkɑmbaɪn/ 是让两样#strong[成双凑一对]，`cooperate` /koʊˈɑpəˌreɪt/ 是几个伙计#strong[一块儿干活]。最妙的是，你能从字面里直接读出动作的味道------
 
 #table(
     columns: (1fr, 1fr, 1fr),
@@ -10035,7 +10033,7 @@ soldier 与一种货币名称有关；salary 与拉丁 salarium 有关，细节�
     table.hline(),
     [`connect`], [`con` + `nect`（系）], [系在一起],
     [`combine`], [`com` + `bini`（成双）], [成双合在一起],
-    [`communicate`], [`com` + `mun`（共享）+ `ate`], [共同分享],
+    [`communicate` /kəˈmjunəˌkeɪt/], [`com` + `mun`（共享）+ `ate`], [共同分享],
     [`cooperate`], [`co` + `oper`（工作）+ `ate`], [共同工作],
   )
 
@@ -10054,9 +10052,9 @@ soldier 与一种货币名称有关；salary 与拉丁 salarium 有关，细节�
     align: (left + horizon, left + horizon, left + horizon, left + horizon,),
     table.header(th([前缀]), th([同化条件]), th([结果]), th([例词]),),
     table.hline(),
-    [`com-`], [在 b/m/p 前（双唇音）], [com-], [combine（结合）， commit（承诺）， compose（组成）],
-    [`col-`], [在 l 前], [col-], [collaborate（合作）， collapse（倒塌）， collect（收集）],
-    [`cor-`], [在 r 前], [cor-], [correct（正确）， correlate（相关）， corrupt（腐败）],
+    [`com-`], [在 b/m/p 前（双唇音）], [com-], [combine（结合）， commit（承诺）， compose /kəmˈpoʊz/（组成）],
+    [`col-`], [在 l 前], [col-], [collaborate /kəˈlæbəˌreɪt/（合作）， collapse /kəˈlæps/（倒塌）， collect（收集）],
+    [`cor-`], [在 r 前], [cor-], [correct（正确）， correlate /ˈkɔrəˌleɪt/（相关）， corrupt /kəˈrʌpt/（腐败）],
     [`co-`], [在元音或 h 前], [co-], [cooperate（合作）， coheir（共同继承人）],
     [`con-`], [其他（齿龈音、软腭音）], [con-], [connect（连接）， conflict（冲突）， confirm（确认）],
   )
@@ -10078,12 +10076,12 @@ soldier 与一种货币名称有关；salary 与拉丁 salarium 有关，细节�
     align: (left + horizon, left + horizon, left + horizon,),
     table.header(th([词]), th([拆解]), th([推义]),),
     table.hline(),
-    [`combine`], [com + bini 成双], [结合],
-    [`combat`], [com + bat 打], [战斗（一起打 = 战斗）],
-    [`compose`], [com + pose 放], [组成（放在一起）],
-    [`commit`], [com + mit 送], [承诺（送出自己）],
-    [`compress`], [com + press 压], [压缩],
-    [`compassion`], [com + pass 感受], [同情（共同感受）],
+    [`combine` /ˈkɑmbaɪn/], [com + bini 成双], [结合],
+    [`combat` /ˈkɑmbæt/], [com + bat 打], [战斗（一起打 = 战斗）],
+    [`compose` /kəmˈpoʊz/], [com + pose 放], [组成（放在一起）],
+    [`commit` /kəˈmɪt/], [com + mit 送], [承诺（送出自己）],
+    [`compress` /kəmˈprɛs/], [com + press 压], [压缩],
+    [`compassion` /kəmˈpæʃən/], [com + pass 感受], [同情（共同感受）],
   )
 
 ==== col-（在 l 前）
@@ -10093,11 +10091,11 @@ soldier 与一种货币名称有关；salary 与拉丁 salarium 有关，细节�
     align: (left + horizon, left + horizon, left + horizon,),
     table.header(th([词]), th([拆解]), th([推义]),),
     table.hline(),
-    [`collaborate`], [col + labor 劳动], [合作],
-    [`collapse`], [col + lapse 滑], [倒塌],
-    [`collect`], [col + lect 选], [收集],
-    [`collide`], [col + lid 撞], [碰撞],
-    [`colloquial`], [col + loqu 说], [口语的],
+    [`collaborate` /kəˈlæbərˌeɪt/], [col + labor 劳动], [合作],
+    [`collapse` /kəˈlæps/], [col + lapse 滑], [倒塌],
+    [`collect` /kəˈlɛkt/], [col + lect 选], [收集],
+    [`collide` /kəˈlaɪd/], [col + lid 撞], [碰撞],
+    [`colloquial` /kəˈloʊkwiəl/], [col + loqu 说], [口语的],
   )
 
 ==== cor-（在 r 前）
@@ -10107,11 +10105,11 @@ soldier 与一种货币名称有关；salary 与拉丁 salarium 有关，细节�
     align: (left + horizon, left + horizon, left + horizon,),
     table.header(th([词]), th([拆解]), th([推义]),),
     table.hline(),
-    [`correct`], [cor + rect 直], [正确（使变直）],
-    [`correlate`], [cor + relate 关系], [相关],
-    [`corrupt`], [cor + rupt 破], [彻底破坏、败坏],
-    [`correspond`], [cor + respond 回应], [通信/对应],
-    [`corroborate`], [cor + robor 强], [证实（加强）],
+    [`correct` /kərˈɛkt/], [cor + rect 直], [正确（使变直）],
+    [`correlate` /ˈkɔrəˌleɪt/], [cor + relate 关系], [相关],
+    [`corrupt` /kərˈʌpt/], [cor + rupt 破], [彻底破坏、败坏],
+    [`correspond` /ˌkɔrəˈspɑnd/], [cor + respond 回应], [通信/对应],
+    [`corroborate` /kəˈrɑbəˌreɪt/], [cor + robor 强], [证实（加强）],
   )
 
 ==== co-（在元音前）
@@ -10121,11 +10119,11 @@ soldier 与一种货币名称有关；salary 与拉丁 salarium 有关，细节�
     align: (left + horizon, left + horizon, left + horizon,),
     table.header(th([词]), th([拆解]), th([推义]),),
     table.hline(),
-    [`cooperate`], [co + oper 工作], [合作],
-    [`coexist`], [co + exist 存在], [共存],
-    [`cohabit`], [co + habit 居住], [同居],
-    [`coordinate`], [co + ordin 顺序], [协调],
-    [`coauthor`], [co + author 作者], [合著],
+    [`cooperate` /koʊˈɑpərˌeɪt/], [co + oper 工作], [合作],
+    [`coexist` /ˌkoʊɪɡˈzɪst/], [co + exist 存在], [共存],
+    [`cohabit` /koʊˈhæbɪt/], [co + habit 居住], [同居],
+    [`coordinate` /koʊˈɔrdəˌneɪt/], [co + ordin 顺序], [协调],
+    [`coauthor` /koʊˈɔθɚ/], [co + author 作者], [合著],
   )
 
 ==== con-（其他）
@@ -10135,12 +10133,12 @@ soldier 与一种货币名称有关；salary 与拉丁 salarium 有关，细节�
     align: (left + horizon, left + horizon, left + horizon,),
     table.header(th([词]), th([拆解]), th([推义]),),
     table.hline(),
-    [`connect`], [con + nect 系], [连接],
-    [`conflict`], [con + flict 撞], [冲突（一起撞）],
-    [`confirm`], [con + firm 坚], [确认],
-    [`contest`], [con + test 证], [竞赛（一起作证）],
-    [`convene`], [con + ven 来], [集合（一起来）],
-    [`consent`], [con + sent 感觉], [同意（共同感觉）],
+    [`connect` /kəˈnɛkt/], [con + nect 系], [连接],
+    [`conflict` /ˈkɑnflɪkt/], [con + flict 撞], [冲突（一起撞）],
+    [`confirm` /kənˈfɜrm/], [con + firm 坚], [确认],
+    [`contest` /ˈkɑntɛst/], [con + test 证], [竞赛（一起作证）],
+    [`convene` /kənˈvin/], [con + ven 来], [集合（一起来）],
+    [`consent` /kənˈsɛnt/], [con + sent 感觉], [同意（共同感觉）],
   )
 
 #horizontalrule
@@ -10154,18 +10152,18 @@ soldier 与一种货币名称有关；salary 与拉丁 salarium 有关，细节�
     align: (left + horizon, left + horizon, left + horizon, left + horizon,),
     table.header(th([词]), th([拆解]), th([共同义？]), th([加强义 → 推义]),),
     table.hline(),
-    [`confection`], [con + fect（做）], [不是"一起做"，而是"做得充分"], [→ 精致的糖果],
-    [`consume`], [con + sum（取）], [不是"一起取"，而是"完全取"], [→ 完全用掉],
+    [`confection` /kənˈfɛkʃən/], [con + fect（做）], [不是"一起做"，而是"做得充分"], [→ 精致的糖果],
+    [`consume` /kənˈsum/], [con + sum（取）], [不是"一起取"，而是"完全取"], [→ 完全用掉],
     [`confute`], [con + fute（倒）], [不是"一起倒"，而是"彻底倒"], [→ 彻底驳倒],
   )
 
 #horizontalrule
 
-=== 28.5 一个有趣的远亲：`covenant`（契约）
-<285-一个有趣的远亲covenant契约>
+=== 28.5 一个有趣的远亲：`covenant` /ˈkʌvənənt/（契约）
+<285-一个有趣的远亲covenant-ˈkʌvənənt契约>
 这一节是 `com-` 家族里最有画面感的故事。
 
-`covenant`（契约、圣约）来自古法语#emph[covenant]，再往上追是拉丁#emph[convenire]------字面就是"#strong[一起来、走到一起] "，和 `convene`（集合）是同根亲兄弟。一份契约的最初画面，不是签字盖章，而是#strong[两个人面对面走到一起，谈拢]。
+`covenant`（契约、圣约）来自古法语#emph[covenant]，再往上追是拉丁#emph[convenire]------字面就是"#strong[一起来、走到一起] "，和 `convene` /kənˈvin/（集合）是同根亲兄弟。一份契约的最初画面，不是签字盖章，而是#strong[两个人面对面走到一起，谈拢]。
 
 #diagram-panel(title: "图示 138 · 词源路径", breakable: false)[
   #align(center)[
@@ -10187,7 +10185,7 @@ soldier 与一种货币名称有关；salary 与拉丁 salarium 有关，细节�
 `covenant` 保存的就是这份原意：#strong[走到一起，达成一致]。它后来在法律、宗教、圣经翻译里成了"圣约、盟约"的固定词。
 
 #quote(block: true)[
-#strong[同根三兄弟]：同样源自 `con- + ven-`（一起来）的还有 `convene`（集合，字面"凑到一处"）、`covenant`（契约，字面"走到一起"），以及最让人意想不到的 `convenient`（方便的）。`convenient` 为什么是"方便"？因为它的字面是"#strong[凑得拢的] "------几个人时间对得上、能凑到一块儿，就是 convenient。从"凑得拢"到"方便"，是顺水推舟的引申：大家都方便了，事就办成了。
+#strong[同根三兄弟]：同样源自 `con- + ven-`（一起来）的还有 `convene`（集合，字面"凑到一处"）、`covenant`（契约，字面"走到一起"），以及最让人意想不到的 `convenient` /kənˈvinjənt/（方便的）。`convenient` 为什么是"方便"？因为它的字面是"#strong[凑得拢的] "------几个人时间对得上、能凑到一块儿，就是 convenient。从"凑得拢"到"方便"，是顺水推舟的引申：大家都方便了，事就办成了。
 ]
 
 #horizontalrule
@@ -10201,18 +10199,18 @@ soldier 与一种货币名称有关；salary 与拉丁 salarium 有关，细节�
     align: (left + horizon, left + horizon, left + horizon,),
     table.header(th([词]), th([拆解]), th([推义]),),
     table.hline(),
-    [`combine`], [com + bine], [成双 → 结合],
-    [`compose`], [com + pose], [放一起 → 组成],
-    [`collaborate`], [col + labor], [一起劳动 → 合作],
-    [`collect`], [col + lect], [选一起 → 收集],
-    [`correct`], [cor + rect], [使变直 → 正确],
-    [`corrupt`], [cor- + rupt], [强化 + 破坏 → 彻底败坏、腐败],
-    [`cooperate`], [co + oper], [一起工作 → 合作],
-    [`connect`], [con + nect], [系一起 → 连接],
-    [`conflict`], [con + flict], [一起撞 → 冲突],
-    [`consent`], [con + sent], [共同感觉 → 同意],
-    [`convene`], [con + ven], [一起来 → 集合],
-    [`compassion`], [com + pass], [共同感受 → 同情],
+    [`combine` /ˈkɑmbaɪn/], [com + bine], [成双 → 结合],
+    [`compose` /kəmˈpoʊz/], [com + pose], [放一起 → 组成],
+    [`collaborate` /kəˈlæbərˌeɪt/], [col + labor], [一起劳动 → 合作],
+    [`collect` /kəˈlɛkt/], [col + lect], [选一起 → 收集],
+    [`correct` /kərˈɛkt/], [cor + rect], [使变直 → 正确],
+    [`corrupt` /kərˈʌpt/], [cor- + rupt], [强化 + 破坏 → 彻底败坏、腐败],
+    [`cooperate` /koʊˈɑpərˌeɪt/], [co + oper], [一起工作 → 合作],
+    [`connect` /kəˈnɛkt/], [con + nect], [系一起 → 连接],
+    [`conflict` /ˈkɑnflɪkt/], [con + flict], [一起撞 → 冲突],
+    [`consent` /kənˈsɛnt/], [con + sent], [共同感觉 → 同意],
+    [`convene` /kənˈvin/], [con + ven], [一起来 → 集合],
+    [`compassion` /kəmˈpæʃən/], [com + pass], [共同感受 → 同情],
   )
 
 #horizontalrule
@@ -10236,17 +10234,17 @@ soldier 与一种货币名称有关；salary 与拉丁 salarium 有关，细节�
 五张脸认全了，别急着到处认亲------以下几个坑，专治"见字母就归队"：
 
 - #strong[五种同化形是拉丁旧衣裳，不是现场裁缝活]。`col-`、`cor-` 是拉丁语定型的成品，英语照搬进来的，不需要你对着新词当场改拼写。
-- #strong[不是所有 com/con/col/cor/co 开头的词都属这个家族]。`cone`（圆锥）里的 `con` 跟"共同"毫无关系------认亲之前先查家谱，别只看门牌号。
-- #strong[`con-` 的"加强"用法是看出来的，不是算出来的]。如果"共同 + 词根"讲不通（`consume` ≠ 一起取），那它多半是在给词根喊"使劲！彻底！"。
-- #strong[`consent` 字面"共同感觉"很浪漫，但现代 `informed consent` 是法律术语] ------核心是知情后自愿同意，不是两个人心有灵犀。
+- #strong[不是所有 com/con/col/cor/co 开头的词都属这个家族]。`cone` /koʊn/（圆锥）里的 `con` 跟"共同"毫无关系------认亲之前先查家谱，别只看门牌号。
+- #strong[`con-` 的"加强"用法是看出来的，不是算出来的]。如果"共同 + 词根"讲不通（`consume` /kənˈsum/ ≠ 一起取），那它多半是在给词根喊"使劲！彻底！"。
+- #strong[`consent` /kənˈsɛnt/ 字面"共同感觉"很浪漫，但现代 `informed consent` 是法律术语] ------核心是知情后自愿同意，不是两个人心有灵犀。
 
 #horizontalrule
 
 ==== 【思考题】（答案见附录 A）
 <思考题答案见附录-a-26>
-+ `compassion`（同情）字面是"共同感受"，想想为什么"共感"等于同情？
-+ `consent`（同意）字面是"共同感觉"，为什么"共感"引申为"同意"?
-+ `corrupt` 中的 `cor-` 为什么应理解为强化形式，而不是"一起"?
++ `compassion` /kəmˈpæʃən/（同情）字面是"共同感受"，想想为什么"共感"等于同情？
++ `consent` /kənˈsɛnt/（同意）字面是"共同感觉"，为什么"共感"引申为"同意"?
++ `corrupt` /kərˈʌpt/ 中的 `cor-` 为什么应理解为强化形式，而不是"一起"?
 
 #pagebreak(weak: true)
 
@@ -10277,18 +10275,18 @@ soldier 与一种货币名称有关；salary 与拉丁 salarium 有关，细节�
     align: (left + horizon, left + horizon, left + horizon, left + horizon,),
     table.header(th([数字]), th([拉丁]), th([希腊]), th([例词]),),
     table.hline(),
-    [1], [uni-], [mono-], [unicorn, monologue],
-    [2], [bi-/di-], [di-], [bicycle, dioxide],
-    [3], [tri-], [tri-], [triangle, trilogy],
-    [4], [quadr-], [tetra-], [quadruped, tetrahedron],
-    [5], [quint-], [penta-], [quintuplets, pentagon],
-    [6], [sext-], [hexa-], [sextuplets, hexagon],
+    [1], [uni-], [mono-], [unicorn /ˈjunəˌkɔrn/, monologue /ˈmɑnəˌlɔɡ/],
+    [2], [bi-/di-], [di-], [bicycle, dioxide /daɪˈɑksaɪd/],
+    [3], [tri-], [tri-], [triangle, trilogy /ˈtrɪlədʒi/],
+    [4], [quadr-], [tetra-], [quadruped, tetrahedron /ˌtɛtrəˈhidrən/],
+    [5], [quint-], [penta-], [quintuplets /ˈkwɪntəpləts/, pentagon /ˈpɛntəˌɡɑn/],
+    [6], [sext-], [hexa-], [sextuplets /sɛkˈstʌpləts/, hexagon /ˈhɛksəˌɡɑn/],
     [7], [sept-], [hept-], [September, heptagon],
-    [8], [oct-], [oct-], [October, octopus],
+    [8], [oct-], [oct-], [October, octopus /ˈɑktəpəs/],
     [9], [nov-], [enne-], [November],
     [10], [dec-], [deca-], [December, decade],
-    [半], [semi-], [hemi-], [semicircle, hemisphere],
-    [多], [multi-], [poly-], [multiple, polygon],
+    [半], [semi-], [hemi-], [semicircle, hemisphere /ˈhɛməsˌfɪr/],
+    [多], [multi-], [poly-], [multiple, polygon /ˈpɑliˌɡɑn/],
     [全], [omni-], [pan-], [omnivore, pandemic],
   )
 
@@ -10384,13 +10382,13 @@ September 的旧账算完了，接下来轮到那些老老实实数数的前缀-
     align: (left + horizon, left + horizon, left + horizon,),
     table.header(th([词]), th([拆解]), th([推义]),),
     table.hline(),
-    [`unicorn`], [uni + corn 角], [独角兽],
-    [`uniform`], [uni + form 形], [制服（同形）],
-    [`unify`], [uni + fy 使], [统一],
+    [`unicorn` /ˈjunɪˌkɔrn/], [uni + corn 角], [独角兽],
+    [`uniform` /ˈjunəˌfɔrm/], [uni + form 形], [制服（同形）],
+    [`unify` /ˈjunəˌfaɪ/], [uni + fy 使], [统一],
     [`union`], [来自拉丁 unio], [联合、联盟],
-    [`unique`], [来自拉丁 unicus], [独一的],
-    [`unite`], [来自拉丁 unitus], [联合],
-    [`unit`], [来自拉丁 unus 词族], [单位],
+    [`unique` /juˈnik/], [来自拉丁 unicus], [独一的],
+    [`unite` /ˈjuˌnaɪt/], [来自拉丁 unitus], [联合],
+    [`unit` /ˈjunət/], [来自拉丁 unus 词族], [单位],
   )
 
 ==== `mono-`（希腊：1）
@@ -10400,11 +10398,11 @@ September 的旧账算完了，接下来轮到那些老老实实数数的前缀-
     align: (left + horizon, left + horizon, left + horizon,),
     table.header(th([词]), th([拆解]), th([推义]),),
     table.hline(),
-    [`monologue`], [mono + logue 说], [独白],
-    [`monopoly`], [mono + pōlein 卖], [垄断（独卖）],
-    [`monogamy`], [mono + gam 婚], [一夫一妻],
-    [`monotone`], [mono + ton 音], [单调],
-    [`monsoon`], [来自阿拉伯，不同根], [---],
+    [`monologue` /ˈmɑnəˌlɔɡ/], [mono + logue 说], [独白],
+    [`monopoly` /məˈnɑpəli/], [mono + pōlein 卖], [垄断（独卖）],
+    [`monogamy` /məˈnɑɡəmi/], [mono + gam 婚], [一夫一妻],
+    [`monotone` /ˈmɑnəˌtoʊn/], [mono + ton 音], [单调],
+    [`monsoon` /mɑnˈsun/], [来自阿拉伯，不同根], [---],
   )
 
 ==== `bi-`（拉丁：2）和 `di-`（希腊：2）
@@ -10418,8 +10416,8 @@ September 的旧账算完了，接下来轮到那些老老实实数数的前缀-
     align: (left + horizon, left + horizon, left + horizon,),
     table.header(th([词]), th([拆解]), th([推义]),),
     table.hline(),
-    [`bicycle`], [bi + cycle 轮], [自行车],
-    [`bilingual`], [bi + lingual 语], [双语],
+    [`bicycle` /ˈbaɪsɪkəl/], [bi + cycle 轮], [自行车],
+    [`bilingual` /baɪˈlɪŋɡwəl/], [bi + lingual 语], [双语],
     [`biped`], [bi + ped 足], [两足],
     [`bisect`], [bi + sect 切], [平分],
   )
@@ -10433,9 +10431,9 @@ September 的旧账算完了，接下来轮到那些老老实实数数的前缀-
     align: (left + horizon, left + horizon, left + horizon,),
     table.header(th([词]), th([拆解]), th([推义]),),
     table.hline(),
-    [`dioxide`], [di + oxide 氧], [二氧化物],
-    [`dilemma`], [di + lemma 命题], [困境（两难）],
-    [`dialogue`], [dia + log 说], [交谈、对话],
+    [`dioxide` /daɪˈɑkˌsaɪd/], [di + oxide 氧], [二氧化物],
+    [`dilemma` /dəˈlɛmə/], [di + lemma 命题], [困境（两难）],
+    [`dialogue` /ˈdaɪəˌlɔɡ/], [dia + log 说], [交谈、对话],
   )
 
 ==== `tri-`\(3)
@@ -10445,16 +10443,16 @@ September 的旧账算完了，接下来轮到那些老老实实数数的前缀-
     align: (left + horizon, left + horizon, left + horizon,),
     table.header(th([词]), th([拆解]), th([推义]),),
     table.hline(),
-    [`triangle`], [tri + angle 角], [三角],
-    [`tricycle`], [tri + cycle 轮], [三轮车],
-    [`trilogy`], [tri + logy], [三部曲],
-    [`tripod`], [tri + pod 足], [三脚架],
-    [`triple`], [tri + ple 倍], [三倍],
+    [`triangle` /ˈtraɪˌæŋɡəl/], [tri + angle 角], [三角],
+    [`tricycle` /ˈtraɪsɪkəl/], [tri + cycle 轮], [三轮车],
+    [`trilogy` /ˈtrɪlədʒi/], [tri + logy], [三部曲],
+    [`tripod` /ˈtraɪpɑd/], [tri + pod 足], [三脚架],
+    [`triple` /ˈtrɪpəl/], [tri + ple 倍], [三倍],
   )
 
 ==== `oct-`\(8)的两个用法
 <oct-8的两个用法>
-`oct-` 是个跨语言的"八"------拉丁和希腊碰巧同形，所以它两边通吃。最生动的应用是 `octopus`（章鱼）：希腊#emph[okto]（八）+ #emph[pous]（足），字面就是#strong["八条腿"] 。你脑里那只张牙舞爪的章鱼，名字里真就写着"八足"。
+`oct-` 是个跨语言的"八"------拉丁和希腊碰巧同形，所以它两边通吃。最生动的应用是 `octopus` /ˈɑktəˌpʊs/（章鱼）：希腊#emph[okto]（八）+ #emph[pous]（足），字面就是#strong["八条腿"] 。你脑里那只张牙舞爪的章鱼，名字里真就写着"八足"。
 
 #table(
     columns: (1fr, 1fr, 1fr),
@@ -10463,13 +10461,13 @@ September 的旧账算完了，接下来轮到那些老老实实数数的前缀-
     table.hline(),
     [`October`], [---], [第 8 月，现 10 月],
     [`octopus`], [octo + pus 足], [章鱼（八条腿）],
-    [`octave`], [oct 八 + ave], [八度音阶],
-    [`octagon`], [oct + gon 角], [八角形],
+    [`octave` /ˈɑktɪv/], [oct 八 + ave], [八度音阶],
+    [`octagon` /ˈɑktəˌɡɑn/], [oct + gon 角], [八角形],
   )
 
 ==== `dec-`\(10)
 <dec-10>
-`dec-` 是"十"。`decade`（十年）、`decathlon`（十项全能）都直白。最有意思的是 `decimal`（十进制）：人类之所以满世界用十进制，原因简单得近乎可爱------#strong[因为人长了十根手指]。掰着指头数到十就得进一位，这套数数习惯固化成了 `decimal` 这个词，印在数学课本里，可它真正的老师是每个人的双手。
+`dec-` 是"十"。`decade` /dɛˈkeɪd/（十年）、`decathlon` /dɪˈkæθlɑn/（十项全能）都直白。最有意思的是 `decimal` /ˈdɛsəməl/（十进制）：人类之所以满世界用十进制，原因简单得近乎可爱------#strong[因为人长了十根手指]。掰着指头数到十就得进一位，这套数数习惯固化成了 `decimal` 这个词，印在数学课本里，可它真正的老师是每个人的双手。
 
 #table(
     columns: (1fr, 1fr, 1fr),
@@ -10500,8 +10498,8 @@ September 的旧账算完了，接下来轮到那些老老实实数数的前缀-
     align: (left + horizon, left + horizon, left + horizon,),
     table.header(th([词]), th([拆解]), th([推义]),),
     table.hline(),
-    [`quintuplets`], [quint + uplets], [五胞胎],
-    [`quintessence`], [quint + essence], [精华（第 5 元素）],
+    [`quintuplets` /ˈkwɪnˈtʌpləts/], [quint + uplets], [五胞胎],
+    [`quintessence` /kwɪnˈtɛsəns/], [quint + essence], [精华（第 5 元素）],
   )
 
 #quote(block: true)[
@@ -10513,18 +10511,18 @@ September 的旧账算完了，接下来轮到那些老老实实数数的前缀-
     align: (left + horizon, left + horizon, left + horizon,),
     table.header(th([词]), th([拆解]), th([推义]),),
     table.hline(),
-    [`pentagon`], [penta + gon 角], [五角形（美国国防部）],
+    [`pentagon` /ˈpɛntɪɡˌɑn/], [penta + gon 角], [五角形（美国国防部）],
     [`pentagram`], [penta + gram 线], [五角星],
-    [`pentathlon`], [penta + athlon], [五项全能],
+    [`pentathlon` /pɛnˈtæθlɑn/], [penta + athlon], [五项全能],
   )
 
-`quintessence`（精华）是这一组里最浪漫的词。中世纪的学者相信，宇宙万物由四种元素构成------土、水、气、火。可天上的星辰那么纯净、那么永恒，绝不可能是这四种"俗物"做的。于是他们假设天上还有#strong[第五种元素]，一种看不见、摸不着、却最高贵最纯净的东西------#strong[以太(ether)] 。这"第五元素"拉丁文叫#emph[quinta essentia]（"第五种本质"）。
+`quintessence`（精华）是这一组里最浪漫的词。中世纪的学者相信，宇宙万物由四种元素构成------土、水、气、火。可天上的星辰那么纯净、那么永恒，绝不可能是这四种"俗物"做的。于是他们假设天上还有#strong[第五种元素]，一种看不见、摸不着、却最高贵最纯净的东西------#strong[以太(ether)] /ˈiθɚ/。这"第五元素"拉丁文叫#emph[quinta essentia]（"第五种本质"）。
 
 后来这层意思从天上落到了人间：既然以太是万物中最纯净的部分，那#emph[quintessence] 就引申成了"事物的精华、精髓"------#strong[把一样东西反复提炼，最后剩下的那一滴最纯的东西]。所以下次说一篇文章的 quintessence，你其实在念一段中世纪的炼金术。
 
 ==== `semi-`（拉丁：半）和 `hemi-`（希腊：半）
 <semi-拉丁半和-hemi-希腊半>
-"半"这个数也有两个版本------拉丁 `semi-`、希腊 `hemi-`。`semicircle` 是把一个圆拦腰切一半；`semifinal` 是决赛前那"半截"门槛；`semicolon`（分号）是"半个冒号"------其实它长得确实像把冒号劈开，只留上面那一点。
+"半"这个数也有两个版本------拉丁 `semi-`、希腊 `hemi-`。`semicircle` 是把一个圆拦腰切一半；`semifinal` /ˌsɛmiˈfaɪnəl/ 是决赛前那"半截"门槛；`semicolon`（分号）是"半个冒号"------其实它长得确实像把冒号劈开，只留上面那一点。
 
 #quote(block: true)[
 #strong[semi- 家族（拉丁半）]
@@ -10537,7 +10535,7 @@ September 的旧账算完了，接下来轮到那些老老实实数数的前缀-
     table.hline(),
     [`semicircle`], [semi + circle], [半圆],
     [`semifinal`], [semi + final], [半决赛],
-    [`semiconductor`], [semi + conductor], [半导体],
+    [`semiconductor` /ˌsɛmɪkənˈdʌktɚ/], [semi + conductor], [半导体],
     [`semicolon`], [semi + colon], [分号],
   )
 
@@ -10550,15 +10548,15 @@ September 的旧账算完了，接下来轮到那些老老实实数数的前缀-
     align: (left + horizon, left + horizon, left + horizon,),
     table.header(th([词]), th([拆解]), th([推义]),),
     table.hline(),
-    [`hemisphere`], [hemi + sphere], [半球],
+    [`hemisphere` /ˈhɛmɪsˌfɪr/], [hemi + sphere], [半球],
     [`hemisphere`], [---], [大脑半球],
   )
 
 ==== `omni-`（拉丁：全）和 `pan-`（希腊：全）
 <omni-拉丁全和-pan-希腊全>
-"全"是数字前缀里最霸道的一个------不分你我、无一遗漏。拉丁 `omni-` 给神量身定做了一组词：`omnipotent`（全能，什么都能）、`omnipresent`（无处不在，哪儿都在）、`omniscient`（全知，什么都知道）------三个词合起来，就是中世纪神学里那个"全知全能无处不在"的至高形象。
+"全"是数字前缀里最霸道的一个------不分你我、无一遗漏。拉丁 `omni-` 给神量身定做了一组词：`omnipotent` /ɑmˈnɪpətənt/（全能，什么都能）、`omnipresent` /ˌɑmnɪˈprɛzənt/（无处不在，哪儿都在）、`omniscient` /ɑmˈnɪʃənt/（全知，什么都知道）------三个词合起来，就是中世纪神学里那个"全知全能无处不在"的至高形象。
 
-希腊的 `pan-` 也不遑多让。`pandemic`（大流行）拆开是 `pan`（全）+ `dem`（人民），字面就是#strong["全民的病"] ------当一种病让"全民"都中招，它就升级成 pandemic。`panorama`（全景）是 `pan` + `orama`（看），字面"全都看见";`pantheon`（万神殿）是 `pan` + `theon`（神），把所有神都收进一座庙里。
+希腊的 `pan-` 也不遑多让。`pandemic` /pænˈdɛmɪk/（大流行）拆开是 `pan`（全）+ `dem`（人民），字面就是#strong["全民的病"] ------当一种病让"全民"都中招，它就升级成 pandemic。`panorama` /ˌpænəˈræmə/（全景）是 `pan` + `orama`（看），字面"全都看见";`pantheon` /ˈpænθiˌɑn/（万神殿）是 `pan` + `theon`（神），把所有神都收进一座庙里。
 
 #quote(block: true)[
 #strong[omni- 家族（拉丁全）]
@@ -10641,9 +10639,9 @@ September 的旧账算完了，接下来轮到那些老老实实数数的前缀-
 <297-避坑提示>
 数字看着老实，坑却不少------以下几条，专治"见数就套表"：
 
-- #strong[`dialogue` 的 `dia-` 不是数字前缀 `di-`（二）]，而是"穿过、在……之间"。对话可以多人参与，别被两个人的画面骗了。
-- #strong[`monsoon`（季风）跟希腊 `mono-` 毫无关系] ------它来自阿拉伯语。见字母就认亲，是词源学的头号冤案。
-- #strong[`octopus` 的复数是 `octopuses`，不是 `octopi`] 。它是希腊词，不是拉丁第二变格名词------给它硬套 `-i` 复数，就像给章鱼穿上罗马人的凉鞋，尺码都不对。
+- #strong[`dialogue` /ˈdaɪəˌlɔɡ/ 的 `dia-` 不是数字前缀 `di-`（二）]，而是"穿过、在……之间"。对话可以多人参与，别被两个人的画面骗了。
+- #strong[`monsoon` /mɑnˈsun/（季风）跟希腊 `mono-` 毫无关系] ------它来自阿拉伯语。见字母就认亲，是词源学的头号冤案。
+- #strong[`octopus` /ˈɑktəˌpʊs/ 的复数是 `octopuses`，不是 `octopi` /ˈɑktəˌpaɪ/] 。它是希腊词，不是拉丁第二变格名词------给它硬套 `-i` 复数，就像给章鱼穿上罗马人的凉鞋，尺码都不对。
 - #strong[拉丁与希腊数字前缀的"对照表"是教学工具，不是万能公式]。个别词的归属得查词典，别机械套表。
 
 #horizontalrule
@@ -10651,15 +10649,15 @@ September 的旧账算完了，接下来轮到那些老老实实数数的前缀-
 ==== 【思考题】（答案见附录 A）
 <思考题答案见附录-a-27>
 + 为什么 September（9 月）字面义是"第 7 月"?
-+ `octopus`（章鱼）字面义是"八足"，想想章鱼的形态如何对应这个名字？
-+ `quintessence`（精华）字面义是"第五元素"，中世纪学者为什么这样命名？（提示：四种元素 + 第五元素）
++ `octopus` /ˈɑktəˌpʊs/（章鱼）字面义是"八足"，想想章鱼的形态如何对应这个名字？
++ `quintessence` /kwɪnˈtɛsəns/（精华）字面义是"第五元素"，中世纪学者为什么这样命名？（提示：四种元素 + 第五元素）
 
 #pagebreak(weak: true)
 
 == 第 30 章 -tion 的身世：从拉丁名词后缀到英语常见名词后缀
 <第-30-章--tion-的身世从拉丁名词后缀到英语常见名词后缀>
 #quote(block: true)[
-`-tion` 是英语里最强的"名词信号"。一份政府公文从第一页翻到最后一页，`consideration`、`investigation`、`implementation`、`communication` 轰隆隆地排过去，纸面轰鸣如坦克履带。它不是后缀，它是#strong[诺曼征服带来的学者制服]。
+`-tion` 是英语里最强的"名词信号"。一份政府公文从第一页翻到最后一页，`consideration` /kənˌsɪdəˈreɪʃən/、`investigation` /ɪnˌvɛstəˈɡeɪʃən/、`implementation` /ˌɪmpləmənˈteɪʃən/、`communication` /kəˌmjunəˈkeɪʃən/ 轰隆隆地排过去，纸面轰鸣如坦克履带。它不是后缀，它是#strong[诺曼征服带来的学者制服]。
 ]
 
 这一章讲英语里最强、最常见、也最"官腔"的名词后缀------`-tion`（还有它那个不太爱抛头露面的兄弟 `-sion`）。
@@ -10678,7 +10676,7 @@ September 的旧账算完了，接下来轮到那些老老实实数数的前缀-
 
 罗马人用它干什么？#strong[给动词发一张"我已经是名词了"的工作证]。动词 `educare`（教育）是动作、是过程、是正在发生的事；可你总不能老让它在句子里跑来跑去。于是罗马人往它尾巴上拍一块 `-tiō`，动作就凝固成了 `educatio`------"教育这件事"。`-tiō` 的作用，就是把一个正在进行的动作，定格成一件可以点名、可以归档、可以写进公文的东西：动作、过程、状态、结果，它全收。
 
-但得说清楚：`-tiō` #strong[不是拉丁动名词，也不是目的分词]。这三个是不同的拉丁家伙，各干各的活------动名词尾巴是 `-nd-`（像 `agenda` 字面就是"待办的事"），目的分词是 `-tum/-tū` 那一系。它们仨长相不同、来历不同，别因为都"长得像名词"就凑成一家人。
+但得说清楚：`-tiō` #strong[不是拉丁动名词，也不是目的分词]。这三个是不同的拉丁家伙，各干各的活------动名词尾巴是 `-nd-`（像 `agenda` /əˈdʒɛndə/ 字面就是"待办的事"），目的分词是 `-tum/-tū` 那一系。它们仨长相不同、来历不同，别因为都"长得像名词"就凑成一家人。
 
 #diagram-panel(title: "图示 139 · 词源路径", breakable: false)[
   #align(center)[
@@ -10702,7 +10700,7 @@ September 的旧账算完了，接下来轮到那些老老实实数数的前缀-
 
 ==== 路 1：经法语（1066 年后）
 <路-1经法语1066-年后>
-第一条路，是#strong[权力的路]。诺曼征服之后，法语统治了英格兰的朝廷、法院、教会、文书的办公桌长达三百年。说英语的人写不动公文，写公文的人不说英语；而那些带着 `-tion` 的法语词------`nation`、`action`、`option`------就坐着权力的马车，一辆辆驶进英语的词汇马厩。它们进来时，身上还带着一股法庭和宫廷的味道：正式、严肃、不容置喙。这批早期 `-tion` 词，大多是在中古英语时期经法语这条权力通道进入的：
+第一条路，是#strong[权力的路]。诺曼征服之后，法语统治了英格兰的朝廷、法院、教会、文书的办公桌长达三百年。说英语的人写不动公文，写公文的人不说英语；而那些带着 `-tion` 的法语词------`nation` /ˈneɪʃən/、`action`、`option` /ˈɑpʃən/------就坐着权力的马车，一辆辆驶进英语的词汇马厩。它们进来时，身上还带着一股法庭和宫廷的味道：正式、严肃、不容置喙。这批早期 `-tion` 词，大多是在中古英语时期经法语这条权力通道进入的：
 
 #diagram-panel(title: "图示 140 · 关系图", breakable: false)[
   #align(center)[
@@ -10727,7 +10725,7 @@ September 的旧账算完了，接下来轮到那些老老实实数数的前缀-
 ]
 ==== 路 2：文艺复兴直接借（16-17 世纪）
 <路-2文艺复兴直接借16-17-世纪>
-第二条路，是#strong[学者的路]。文艺复兴来了，英国学者一头扎进拉丁古籍，搬词搬得不亦乐乎。#emph[（传说）]这帮人凑在一起，互相攀比谁造的词更"古典"、更像刚从西塞罗手稿里抠出来的原装货------你搬一个 `civilization`，我就搬一个 `education`，他再补一个 `information`，活像一场拉丁词的军备竞赛。他们懒得再走法语那一道二手工序，直接从拉丁原典里拎词，拍上 `-tion`，就塞进英语。于是这批 16-17 世纪的"直供词"新鲜出炉：
+第二条路，是#strong[学者的路]。文艺复兴来了，英国学者一头扎进拉丁古籍，搬词搬得不亦乐乎。#emph[（传说）]这帮人凑在一起，互相攀比谁造的词更"古典"、更像刚从西塞罗手稿里抠出来的原装货------你搬一个 `civilization` /ˌsɪvəlɪˈzeɪʃən/，我就搬一个 `education`，他再补一个 `information`，活像一场拉丁词的军备竞赛。他们懒得再走法语那一道二手工序，直接从拉丁原典里拎词，拍上 `-tion`，就塞进英语。于是这批 16-17 世纪的"直供词"新鲜出炉：
 
 #table(
     columns: (1fr, 1fr, 1fr),
@@ -10737,7 +10735,7 @@ September 的旧账算完了，接下来轮到那些老老实实数数的前缀-
     [`civilizationem`], [`civilization`], [文明],
     [`educationem`], [`education`], [教育],
     [`informationem`], [`information`], [信息],
-    [`organizationem`], [`organization`], [组织],
+    [`organizationem`], [`organization` /ˌɔrɡənəˈzeɪʃən/], [组织],
   )
 
 #horizontalrule
@@ -10755,11 +10753,11 @@ September 的旧账算完了，接下来轮到那些老老实实数数的前缀-
     table.hline(),
     [`-tion`], [`educate + tion`], [`education`], [标准形],
     [`-tion`], [`inform + ation`], [`information`], [标准形],
-    [`-tion`], [`organize + ation`], [`organization`], [标准形],
-    [`-sion`], [`decide`], [`decision`], [← 拉丁 decidere / decisionem],
-    [`-sion`], [`invade`], [`invasion`], [← 拉丁 invadere / invasionem],
-    [`-sion`], [`comprehend + sion`], [`comprehension`], [继承另一历史词干],
-    [`-sion`], [`confuse + sion`], [`confusion`], [继承另一历史词干],
+    [`-tion`], [`organize + ation`], [`organization` /ˌɔrɡənəˈzeɪʃən/], [标准形],
+    [`-sion`], [`decide` /ˌdɪˈsaɪd/], [`decision`], [← 拉丁 decidere / decisionem],
+    [`-sion`], [`invade`], [`invasion` /ɪnˈveɪʒən/], [← 拉丁 invadere / invasionem],
+    [`-sion`], [`comprehend + sion`], [`comprehension` /ˌkɑmprəˈhɛnʃən/], [继承另一历史词干],
+    [`-sion`], [`confuse + sion`], [`confusion` /kənˈfjuʒən/], [继承另一历史词干],
   )
 
 #horizontalrule
@@ -10768,7 +10766,7 @@ September 的旧账算完了，接下来轮到那些老老实实数数的前缀-
 <304--tion-的前缀--动词--tion模板>
 认识了 `-tion` 的两条入英之路，接下来看它最拿手的团队作战------跟前缀、词根凑成一桌三件套，批量生产"红头文件词"。
 
-`-tion` 还擅长打配合战：它爱和前缀、词根凑成一桌------动词在中间干活，前缀在前面定方向，`-tion` 在尾巴上盖戳，一桌三件套，造出 `action`、`reaction`、`interaction`、`transaction` 这种"一家子动词名"。但要泼盆冷水：这是#strong[高频词族的既成模式，不是给任意动词套用的自动配方]。你不能把 `sleep` 拍个 `-tion` 就指望得到 `sleeption`------英语会当场给你退件。下面这组，都是拉丁来源、有血统可查的：
+`-tion` 还擅长打配合战：它爱和前缀、词根凑成一桌------动词在中间干活，前缀在前面定方向，`-tion` 在尾巴上盖戳，一桌三件套，造出 `action`、`reaction` /riˈækʃən/、`interaction` /ˌɪntərˈækʃən/、`transaction` /trænˈzækʃən/ 这种"一家子动词名"。但要泼盆冷水：这是#strong[高频词族的既成模式，不是给任意动词套用的自动配方]。你不能把 `sleep` 拍个 `-tion` 就指望得到 `sleeption`------英语会当场给你退件。下面这组，都是拉丁来源、有血统可查的：
 
 #diagram-panel(title: "图示 141 · 关系图", breakable: false)[
   #align(center)[
@@ -10817,7 +10815,7 @@ September 的旧账算完了，接下来轮到那些老老实实数数的前缀-
 
 === 30.5 -tion 的"复合后缀"
 <305--tion-的复合后缀>
-`-tion` 自己能干，还爱拉别的后缀组队，把名词进一步加工成更长的一串------加个 `-al` 就变形容词(`national`)，加个 `-ist` 就指人(`evolutionist`)，加个 `-ary` 就成派系(`revolutionary`)。相当于它不仅自己盖章，还跟同事串通好，一条流水线把词性从头改到尾：
+`-tion` 自己能干，还爱拉别的后缀组队，把名词进一步加工成更长的一串------加个 `-al` 就变形容词(`national`)，加个 `-ist` 就指人(`evolutionist` /ˌɛvəˈluʃənɪst/)，加个 `-ary` 就成派系(`revolutionary` /ˌrɛvəˈluʃəˌnɛri/)。相当于它不仅自己盖章，还跟同事串通好，一条流水线把词性从头改到尾：
 
 #table(
     columns: (1fr, 1fr, 1fr, 1fr),
@@ -10825,15 +10823,15 @@ September 的旧账算完了，接下来轮到那些老老实实数数的前缀-
     table.header(th([复合后缀]), th([词基 + 后缀]), th([结果]), th([用途]),),
     table.hline(),
     [`-ation`], [`educate + ion`], [`education`], [动词后加 -ate 再加 -ion],
-    [`-ation`], [`determin + ation`], [`determination`], [动词后加 -ate 再加 -ion],
-    [`-ation`], [`explor + ation`], [`exploration`], [动词后加 -ate 再加 -ion],
+    [`-ation`], [`determin + ation`], [`determination` /dɪˌtɝməˈneɪʃən/], [动词后加 -ate 再加 -ion],
+    [`-ation`], [`explor + ation`], [`exploration` /ˌɛksplərˈeɪʃən/], [动词后加 -ate 再加 -ion],
     [`-ition`], [`add + ition`], [`addition`], [拉丁源词根加 -ition],
-    [`-ition`], [`oppos + ition`], [`opposition`], [拉丁源词根加 -ition],
+    [`-ition`], [`oppos + ition`], [`opposition` /ˌɑpəˈzɪʃən/], [拉丁源词根加 -ition],
     [`-ition`], [`posit + ion`], [`position`], [拉丁源词根加 -ition],
-    [`-tion + -al`], [`education + al`], [`educational`], [形容词],
+    [`-tion + -al`], [`education + al`], [`educational` /ˌɛdʒəˈkeɪʃənəl/], [形容词],
     [`-tion + -al`], [`nation + al`], [`national`], [形容词],
-    [`-tion + -al`], [`emotion + al`], [`emotional`], [形容词],
-    [`-ion + -ist`], [`abolition + ist`], [`abolitionist`], [人],
+    [`-tion + -al`], [`emotion + al`], [`emotional` /ɪˈmoʊʃənəl/], [形容词],
+    [`-ion + -ist`], [`abolition + ist`], [`abolitionist` /ˌæbəˈlɪʃənɪst/], [人],
     [`-ion + -ist`], [`evolution + ist`], [`evolutionist`], [人],
     [`-ion + -ary`], [`revolution + ary`], [`revolutionary`], [形容词/名词],
   )
@@ -10842,9 +10840,9 @@ September 的旧账算完了，接下来轮到那些老老实实数数的前缀-
 
 === 30.6 一个有趣的发现：英语"名词膨胀"
 <306-一个有趣的发现英语名词膨胀>
-翻开一篇学术论文，你会撞见 `investigation`、`implementation`、`consideration` 一窝蜂涌出来------这就是英语的#strong[名词膨胀]：`-tion` 把动词一个个打包成名词，塞进句子，纸面顿时厚重得像政府白皮书。但英语造抽象名词，从来不止 `-tion` 这一家。日耳曼血统的词走的是另一条更朴实的路------`happy` 变 `happiness`（加 `-ness`）、`grow` 变 `growth`（元音换个位），和拉丁这条 `-tion` 大道并排跑：
+翻开一篇学术论文，你会撞见 `investigation` /ˌɪnˌvɛstəɡˈeɪʃən/、`implementation` /ˌɪmpləmɛnˈteɪʃən/、`consideration` /kənˌsɪdərˈeɪʃən/ 一窝蜂涌出来------这就是英语的#strong[名词膨胀]：`-tion` 把动词一个个打包成名词，塞进句子，纸面顿时厚重得像政府白皮书。但英语造抽象名词，从来不止 `-tion` 这一家。日耳曼血统的词走的是另一条更朴实的路------`happy` 变 `happiness` /ˈhæpinəs/（加 `-ness`）、`grow` /ɡroʊ/ 变 `growth`（元音换个位），和拉丁这条 `-tion` 大道并排跑：
 
-为什么学术和公文偏偏独宠 `-tion`？#strong[因为它在"正式感"和"模糊性"之间，精准踩中了那个甜点]。`decide` 是谁拍板，一目了然；`decision` 听起来更含蓄、更可推诿、更像"集体的"产物。`investigate` 像有人撅着屁股在挖；`investigation` 像一份盖了章的报告。#strong[`-tion` 把动作熨平，把责任稀释，把语气抬高] ------这三样，正是正式文体最想要的。
+为什么学术和公文偏偏独宠 `-tion`？#strong[因为它在"正式感"和"模糊性"之间，精准踩中了那个甜点]。`decide` /ˌdɪˈsaɪd/ 是谁拍板，一目了然；`decision` 听起来更含蓄、更可推诿、更像"集体的"产物。`investigate` /ˌɪnˈvɛstəɡˌeɪt/ 像有人撅着屁股在挖；`investigation` 像一份盖了章的报告。#strong[`-tion` 把动作熨平，把责任稀释，把语气抬高] ------这三样，正是正式文体最想要的。
 
 #table(
     columns: (1fr, 1fr, 1fr, 1fr),
@@ -10852,27 +10850,27 @@ September 的旧账算完了，接下来轮到那些老老实实数数的前缀-
     table.header(th([来源]), th([动词/形容词]), th([抽象名词]), th([名词化方式]),),
     table.hline(),
     [拉丁源], [`decide`], [`decision`], [`+ tion/sion`],
-    [拉丁源], [`communicate`], [`communication`], [`+ tion/sion`],
+    [拉丁源], [`communicate` /kəˈmjunəˌkeɪt/], [`communication` /kəˌmjunəˈkeɪʃən/], [`+ tion/sion`],
     [拉丁源], [`investigate`], [`investigation`], [`+ tion/sion`],
-    [拉丁源], [`contribute`], [`contribution`], [`+ tion/sion`],
+    [拉丁源], [`contribute` /kənˈtrɪbjut/], [`contribution` /ˌkɑntrəˈbjuʃən/], [`+ tion/sion`],
     [日耳曼源], [`happy`], [`happiness`], [`+ ness`],
     [日耳曼源], [`grow`], [`growth`], [元音变换],
-    [日耳曼源], [`dark`], [`darkness`], [`+ ness`],
+    [日耳曼源], [`dark`], [`darkness` /ˈdɑrknəs/], [`+ ness`],
   )
 
 #horizontalrule
 
 === 30.7 -tion 的"陷阱"：发音变化
 <307--tion-的陷阱发音变化>
-`-tion` 还埋了个雷：拼写一模一样，嘴巴却分两种念法。多数时候它温顺地读 `/ʃən/`（像"神"），可一到 `question`、`suggestion` 嘴边，它忽然撅嘴读成 `/tʃən/`（像"晨"）------同一个后缀，同一身行头，进了不同词的嘴就改了口音：
+`-tion` 还埋了个雷：拼写一模一样，嘴巴却分两种念法。多数时候它温顺地读 `/ʃən/`（像"神"），可一到 `question`、`suggestion` /səɡˈdʒɛstʃən/ 嘴边，它忽然撅嘴读成 `/tʃən/`（像"晨"）------同一个后缀，同一身行头，进了不同词的嘴就改了口音：
 
 #table(
     columns: (1fr, 1fr, 1fr),
     align: (left + horizon, left + horizon, left + horizon,),
     table.header(th([发音]), th([读法]), th([例词]),),
     table.hline(),
-    [标准 `/ʃən/`], [读"神"], [`nation`, `education`, `communication`],
-    [特殊 `/tʃən/`], [读"晨"], [`question`, `suggestion`, `combustion`],
+    [标准 `/ʃən/`], [读"神"], [`nation` /ˈneɪʃən/, `education`, `communication` /kəˌmjunəˈkeɪʃən/],
+    [特殊 `/tʃən/`], [读"晨"], [`question`, `suggestion`, `combustion` /kəmˈbʌstʃən/],
   )
 
 #quote(block: true)[
@@ -10887,7 +10885,7 @@ September 的旧账算完了，接下来轮到那些老老实实数数的前缀-
 === 30.8 本章小结
 <308-本章小结>
 + #strong[`-tion` 来自拉丁名词后缀 -tiō/-tiōnis] ------它是动词的"工作证"，不是动名词（那是 `-nd-`）或目的分词（那是 `-tum/-tū`）那一支的。
-+ #strong[`-tion` 是英语里最强的"名词信号"] ------但它能指的远不止抽象概念：`nation`（群体）、`station`（地点）、`question`（可数的"一个问题"），都是它签发的。
++ #strong[`-tion` 是英语里最强的"名词信号"] ------但它能指的远不止抽象概念：`nation` /ˈneɪʃən/（群体）、`station`（地点）、`question`（可数的"一个问题"），都是它签发的。
 + #strong[`-sion` 是另一条腿，不是 `-tion` 的拼写事故] ------`decide/decision` 里的 `s` 不是英语为发音顺手临时抠掉的 `d`，而是两个词各借入了同一拉丁词族的不同词干。
 
 ==== 记忆锚点
@@ -10904,7 +10902,7 @@ September 的旧账算完了，接下来轮到那些老老实实数数的前缀-
 
 - #strong[别自行给任意动词追加 `-tion`] 。`produce/production`、`create/creation` 是配好的成品套餐；`sleep` + `-tion` = `sleeption`？英语海关会当场退件，连包装都不拆。
 - #strong[`-tion` 和 `-sion` 的分布没有万能口诀]。它们各自继承了不同的拉丁词干，不是看动词最后一个字母就能决定的。`decide/decision` 里的 `s` 是祖传的，不是英语为顺嘴临时抠掉 `d` 换上的。
-- #strong[`-tion` 听起来正式，不等于一定更好]。满纸 `investigation`、`implementation` 的论文，读起来像坦克过马路------有时直接说 `investigate` 反而更清楚。正式感是工具，不是勋章。
+- #strong[`-tion` 听起来正式，不等于一定更好]。满纸 `investigation` /ˌɪnˌvɛstəɡˈeɪʃən/、`implementation` /ˌɪmpləmɛnˈteɪʃən/ 的论文，读起来像坦克过马路------有时直接说 `investigate` /ˌɪnˈvɛstəɡˌeɪt/ 反而更清楚。正式感是工具，不是勋章。
 - #strong[同样拼 `-tion`，嘴巴分两种]。`nation` 读 `/ʃən/`（"神"），`question` 读 `/tʃən/`（"晨"）------记词时连读音一起记，别让嘴巴替你即兴发挥。
 
 #horizontalrule
@@ -10920,12 +10918,12 @@ September 的旧账算完了，接下来轮到那些老老实实数数的前缀-
 == 第 31 章 -able 的身世：从拉丁形容词后缀到英语高产后缀
 <第-31-章--able-的身世从拉丁形容词后缀到英语高产后缀>
 #quote(block: true)[
-英语后缀界有一位出了名的劳模，叫 `-able`。它是个永不疲倦的盖章员，见谁盖谁------`read`（读）过来盖一下，变 `readable`（可读的）；`drink`（喝）过来盖一下，变 `drinkable`（可喝的）。整本动词表排着队等它盖章，它从不歇业。
+英语后缀界有一位出了名的劳模，叫 `-able`。它是个永不疲倦的盖章员，见谁盖谁------`read`（读）过来盖一下，变 `readable` /ˈridəbəl/（可读的）；`drink`（喝）过来盖一下，变 `drinkable` /ˈdrɪŋkəbəl/（可喝的）。整本动词表排着队等它盖章，它从不歇业。
 ]
 
 这一章讲的就是这位劳模------#strong[英语中能产性最强的形容词后缀] `-able`，顺便会会它那个长得几乎一模一样、却让人抓狂的孪生兄弟 `-ible`。
 
-`-able` 的派生能力强到什么程度？这么说吧：#strong[英语里几乎每一个动词，身后都蹲着一个被动等待的形容词，平时是隐形的；`-able` 一盖，它就显形]。`readable`、`drinkable`、`predictable`、`unbelievable`……它把动词一个个变成"能被……的"。当然，盖出来的词成不成立，还得看语义和真实用法------劳模偶尔也会盖出没人要的废件。
+`-able` 的派生能力强到什么程度？这么说吧：#strong[英语里几乎每一个动词，身后都蹲着一个被动等待的形容词，平时是隐形的；`-able` 一盖，它就显形]。`readable`、`drinkable`、`predictable` /prɪˈdɪktəbəl/、`unbelievable` /ˌʌnbəˈlivəbəl/……它把动词一个个变成"能被……的"。当然，盖出来的词成不成立，还得看语义和真实用法------劳模偶尔也会盖出没人要的废件。
 
 它的来历要追到拉丁后缀的两种形式。这俩今天听起来几乎一样，拼写却各自死守着祖上的档案------也正是这点，让无数英语学习者在 `a` 和 `i` 之间反复横跳，连母语者都常常拼错。
 
@@ -10996,7 +10994,7 @@ September 的旧账算完了，接下来轮到那些老老实实数数的前缀-
 <312--able-的核心义能被的>
 `-able` 最常做的事，是给动词#strong[翻一面] ------把"做"变成"被做"，把"能去做的能力"变成"能被做的可能性"。可以这样想象：#strong[每一个动词里，都暗藏着一个被动等待的形容词，平时是潜伏状态；`-able` 一盖，它就被激活，显形成"能被……的"。]
 
-`read`（读）被盖一下，显出 `readable`（能被读的）；`solve`（解决）被盖一下，显出 `solvable`（能被解决的）。核心语义是#strong["能被这个动作作用的"] ------也就是#strong[被动可能性]：
+`read`（读）被盖一下，显出 `readable` /ˈridəbəl/（能被读的）；`solve` /sɑlv/（解决）被盖一下，显出 `solvable` /ˈsɑlvəbəl/（能被解决的）。核心语义是#strong["能被这个动作作用的"] ------也就是#strong[被动可能性]：
 
 #table(
     columns: (1fr, 1fr, 1fr, 1fr),
@@ -11004,11 +11002,11 @@ September 的旧账算完了，接下来轮到那些老老实实数数的前缀-
     table.header(th([动词]), th([词基 + able]), th([形容词]), th([释义]),),
     table.hline(),
     [`read`（读）], [`read + able`], [`readable`], [能被读的],
-    [`drink`（喝）], [`drink + able`], [`drinkable`], [能被喝的],
-    [`predict`（预测）], [`predict + able`], [`predictable`], [能被预测的],
+    [`drink`（喝）], [`drink + able`], [`drinkable` /ˈdrɪnkəbəl/], [能被喝的],
+    [`predict` /prɪˈdɪkt/（预测）], [`predict + able`], [`predictable` /prɪˈdɪktəbəl/], [能被预测的],
     [`solve`（解决）], [`solve + able`], [`solvable`], [能被解决的],
-    [`love`（爱）], [`love + able`], [`lovable`], [能被爱的],
-    [`pay`（付）], [`pay + able`], [`payable`], [可支付的],
+    [`love`（爱）], [`love + able`], [`lovable` /ˈlʌvəbəl/], [能被爱的],
+    [`pay`（付）], [`pay + able`], [`payable` /ˈpeɪəbəl/], [可支付的],
   )
 
 ==== 一个重要的认知：被动 vs 主动
@@ -11020,11 +11018,11 @@ September 的旧账算完了，接下来轮到那些老老实实数数的前缀-
     align: (left + horizon, left + horizon, left + horizon,),
     table.header(th([语义类型]), th([形容词]), th([释义]),),
     table.hline(),
-    [被动义（大多数）], [`readable`], [能被读的],
-    [被动义（大多数）], [`drinkable`], [能被喝的],
-    [主动义（少数）], [`comfortable`], [令人舒适的（能给人舒适）],
-    [主动义（少数）], [`agreeable`], [令人愉快的],
-    [主动义（少数）], [`changeable`], [易变的（自己变）],
+    [被动义（大多数）], [`readable` /ˈridəbəl/], [能被读的],
+    [被动义（大多数）], [`drinkable` /ˈdrɪnkəbəl/], [能被喝的],
+    [主动义（少数）], [`comfortable` /ˈkʌmfərtəbəl/], [令人舒适的（能给人舒适）],
+    [主动义（少数）], [`agreeable` /əˈɡriəbəl/], [令人愉快的],
+    [主动义（少数）], [`changeable` /ˈtʃeɪndʒəbəl/], [易变的（自己变）],
   )
 
 大多数 `-able` 词规规矩矩守着被动义，但少数词因长期使用、词义漂移，慢慢"叛变"成了主动义。遇到具体词别光看后缀，还得结合实际用法判断。
@@ -11040,12 +11038,12 @@ September 的旧账算完了，接下来轮到那些老老实实数数的前缀-
     align: (left + horizon, left + horizon,),
     table.header(th([动词]), th([形容词]),),
     table.hline(),
-    [`read`], [`readable`],
-    [`predict`], [`predictable`],
-    [`avoid`], [`avoidable`],
-    [`accept`], [`acceptable`],
-    [`adore`], [`adorable`],
-    [`compare`], [`comparable`],
+    [`read`], [`readable` /ˈridəbəl/],
+    [`predict` /prɪˈdɪkt/], [`predictable` /prɪˈdɪktəbəl/],
+    [`avoid` /əˈvɔɪd/], [`avoidable` /əˈvɔɪdəbəl/],
+    [`accept` /ækˈsɛpt/], [`acceptable` /ækˈsɛptəbəl/],
+    [`adore`], [`adorable` /əˈdɔrəbəl/],
+    [`compare` /kəmˈpɛr/], [`comparable` /ˈkɑmpərəbəl/],
   )
 
 #strong[前面再叠一层 `un-`，否定直接翻倍]：
@@ -11055,13 +11053,13 @@ September 的旧账算完了，接下来轮到那些老老实实数数的前缀-
     align: (left + horizon, left + horizon, left + horizon,),
     table.header(th([拆分]), th([形容词]), th([释义]),),
     table.hline(),
-    [`un + read + able`], [`unreadable`], [不可读的],
-    [`un + believ + able`], [`unbelievable`], [难以置信的],
-    [`un + avoid + able`], [`unavoidable`], [不可避免的],
-    [`un + accept + able`], [`unacceptable`], [不可接受的],
+    [`un + read + able`], [`unreadable` /ʌnˈridəbəl/], [不可读的],
+    [`un + believ + able`], [`unbelievable` /ˌʌnbəˈlivəbəl/], [难以置信的],
+    [`un + avoid + able`], [`unavoidable` /ˌʌnəˈvɔɪdəbəl/], [不可避免的],
+    [`un + accept + able`], [`unacceptable` /ˌʌnəkˈsɛptəbəl/], [不可接受的],
   )
 
-`unbreakable`（打不破的）、`unbelievable`（难以置信的）------这套"`un-` + 动词 + `-able`"的三件套，是英语里最高频的否定形容词生产线。`un-` 在门口拦一道"不",`-able` 在里头补一句"能被"，双 buff 叠满，语气硬到无可辩驳。
+`unbreakable` /ʌnˈbreɪkəbəl/（打不破的）、`unbelievable`（难以置信的）------这套"`un-` + 动词 + `-able`"的三件套，是英语里最高频的否定形容词生产线。`un-` 在门口拦一道"不",`-able` 在里头补一句"能被"，双 buff 叠满，语气硬到无可辩驳。
 
 #horizontalrule
 
@@ -11073,7 +11071,7 @@ September 的旧账算完了，接下来轮到那些老老实实数数的前缀-
 
 ==== 用法 1：`-able` 表示"倾向、特性"
 <用法-1-able-表示倾向特性>
-有些 `-able` 词不强调"能被做"，而是形容主语#strong[天生爱干某事] ------比如 `changeable`（易变的），说的是它自己老变，不是"能被变":
+有些 `-able` 词不强调"能被做"，而是形容主语#strong[天生爱干某事] ------比如 `changeable` /ˈtʃeɪndʒəbəl/（易变的），说的是它自己老变，不是"能被变":
 
 #table(
     columns: (1fr, 1fr, 1fr),
@@ -11082,8 +11080,8 @@ September 的旧账算完了，接下来轮到那些老老实实数数的前缀-
     table.hline(),
     [`change + able`], [`changeable`], [易变的],
     [`mistake + able`], [`mistakable`], [易弄错的],
-    [`perish + able`], [`perishable`], [易腐坏的],
-    [`forget + able`], [`forgettable`], [易忘的],
+    [`perish + able`], [`perishable` /ˈpɛrɪʃəbəl/], [易腐坏的],
+    [`forget + able`], [`forgettable` /fɚˈɡɛtəbəl/], [易忘的],
   )
 
 ==== 用法 2：`-able` 表示"值得、配得上"
@@ -11095,12 +11093,12 @@ September 的旧账算完了，接下来轮到那些老老实实数数的前缀-
     align: (left + horizon, left + horizon, left + horizon,),
     table.header(th([词基 + able]), th([形容词]), th([释义]),),
     table.hline(),
-    [`remark + able`], [`remarkable`], [值得注意的],
-    [`notice + able`], [`noticeable`], [值得注意的],
-    [`lament + able`], [`lamentable`], [可悲的],
+    [`remark + able`], [`remarkable` /rɪˈmɑrkəbəl/], [值得注意的],
+    [`notice + able`], [`noticeable` /ˈnoʊtɪsəbəl/], [值得注意的],
+    [`lament + able`], [`lamentable` /ˈlæməntəbəl/], [可悲的],
   )
 
-这里有个反差萌：#strong[`remarkable`（非凡的）= 值得被谈论的]。`remark` 是"谈论、评论",`-able` 一盖，就是"值得被评论的"。所以一个 `remarkable` 的人，本意不过是"值得大家谈论的人"------能让人津津乐道，自然就非凡了。
+这里有个反差萌：#strong[`remarkable`（非凡的）= 值得被谈论的]。`remark` /rɪˈmɑrk/ 是"谈论、评论",`-able` 一盖，就是"值得被评论的"。所以一个 `remarkable` 的人，本意不过是"值得大家谈论的人"------能让人津津乐道，自然就非凡了。
 
 ==== 用法 3：`-able` 加在名词后（罕见但存在）
 <用法-3-able-加在名词后罕见但存在>
@@ -11111,8 +11109,8 @@ September 的旧账算完了，接下来轮到那些老老实实数数的前缀-
     align: (left + horizon, left + horizon, left + horizon,),
     table.header(th([名词 + able]), th([形容词]), th([释义]),),
     table.hline(),
-    [`fashion + able`], [`fashionable`], [时尚的],
-    [`peace + able`], [`peaceable`], [和平的],
+    [`fashion + able`], [`fashionable` /ˈfæʃənəbəl/], [时尚的],
+    [`peace + able`], [`peaceable` /ˈpisəbəl/], [和平的],
     [`companion + able`], [`companionable`], [适合做朋友的],
   )
 
@@ -11127,13 +11125,13 @@ September 的旧账算完了，接下来轮到那些老老实实数数的前缀-
     align: (left + horizon, left + horizon, left + horizon, left + horizon,),
     table.header(th([复合后缀]), th([词基 + 后缀]), th([结果]), th([词性/用途]),),
     table.hline(),
-    [`-ability`], [`able + ity`], [`ability`], [名词（能力）],
-    [`-ability`], [`read + ability`], [`readability`], [名词（可读性）],
+    [`-ability`], [`able + ity`], [`ability` /əˈbɪləˌti/], [名词（能力）],
+    [`-ability`], [`read + ability`], [`readability` /ˌridəˈbɪləti/], [名词（可读性）],
     [`-ability`], [`pay + ability`], [`payability`], [名词（可支付性）],
-    [`-ability`], [`port + ability`], [`portability`], [名词（可移植性）],
+    [`-ability`], [`port + ability`], [`portability` /ˌpɔrtəˈbɪləti/], [名词（可移植性）],
     [`-ably`], [`agree + ably`], [`agreeably`], [副词（令人愉快地）],
-    [`-ably`], [`regret + ably`], [`regrettably`], [副词（遗憾地）],
-    [`-ably`], [`remark + ably`], [`remarkably`], [副词（非凡地）],
+    [`-ably`], [`regret + ably`], [`regrettably` /rɪˈɡrɛtəbli/], [副词（遗憾地）],
+    [`-ably`], [`remark + ably`], [`remarkably` /rɪˈmɑrkəbli/], [副词（非凡地）],
     [`-ableness`], [`likable + ness`], [`likableness`], [名词，罕见（讨人喜欢）],
   )
 
@@ -11145,8 +11143,8 @@ September 的旧账算完了，接下来轮到那些老老实实数数的前缀-
 <316--able-的几个有趣词源>
 讲到最后，留几个最能体现语义漂移的好故事。这些词的今天和它们的出生时，几乎是两个世界。
 
-==== `comfortable`（舒适的）
-<comfortable舒适的>
+==== `comfortable` /ˈkʌmfərtəbəl/（舒适的）
+<comfortable-ˈkʌmfərtəbəl舒适的>
 `comfortable` 是语义漂移界的经典案例。它来自拉丁#emph[#strong[comfortare]]，字面意思是"#strong[大力加强、加固] "------对，你没听错，你屁股底下那张柔软的沙发，祖先竟然是给城墙加固的。它经古法语#emph[conforter] 进入英语，本义是"#strong[被强化的、铁壁铜墙的] "。
 
 那么，一座堡垒是怎么变成软沙发的？故事的逻辑是：`comfortare` 先从"加固"引申出"#strong[给力量、给人支持] "，再柔化成"#strong[安慰] ";`comfortable` 也就从"被强化的"一路软化为"令人安慰的、舒适的"。这是语义学里一次彻底的"软化手术"------#strong[同一个词，一千年前站得像堵墙，今天躺得像张沙发]。
@@ -11164,8 +11162,8 @@ September 的旧账算完了，接下来轮到那些老老实实数数的前缀-
     d-node("英语 comfort + able → comfortable", kind: "node"),
   )
 ]
-==== `miserable`（悲惨的）
-<miserable悲惨的>
+==== `miserable` /ˈmɪzərəbəl/（悲惨的）
+<miserable-ˈmɪzərəbəl悲惨的>
 `miserable` 来自拉丁#emph[#strong[miser]]------"#strong[悲惨的、可怜的] "。这词在拉丁语里天生就是个叹气的词，自带倒霉气场。它加上 `-abilis` 变成#emph[miserabilis]，本义是"#strong[值得可怜的] "；但语义走着走着就加了码，从"值得可怜"升级到"非常悲惨"。今天你说一个人 `miserable`，语气里那股彻头彻尾的倒霉劲，#strong[和两千年前罗马人嘴里的#emph[miser] 几乎原汁原味] ------这个词像一根接力棒，把人类的"惨"千年不变地传了下来。
 
 #diagram-panel(title: "图示 145 · 词源路径", breakable: false)[
@@ -11181,8 +11179,8 @@ September 的旧账算完了，接下来轮到那些老老实实数数的前缀-
     d-node("英语 miserable\n（悲惨的）", kind: "node"),
   )
 ]
-==== `horrible`（可怕的）vs `horrid`（恐怖的）
-<horrible可怕的vs-horrid恐怖的>
+==== `horrible` /ˈhɔrəbəl/（可怕的）vs `horrid` /ˈhɔrɪd/（恐怖的）
+<horrible-ˈhɔrəbəl可怕的vs-horrid-ˈhɔrɪd恐怖的>
 这两个词是一对#strong[失散多年的兄弟]，共同的父亲是拉丁#emph[#strong[horrere]]------"#strong[发抖、毛骨悚然] "。`horrible` 走的是 `horribilis`（`-ibilis` 那条线）的形容词路线，最终长成"可怕的";`horrid` 则从 `horridus` 那边出来，本义偏"粗糙、令人毛骨悚然"。哥俩同根而生，长大后长相有别、性格也略有不同，但你一听就知道是一家人------那种让人脊背发凉的感觉，他们都从父亲那里继承了。
 
 #diagram-panel(title: "图示 146 · 关系图", breakable: false)[
@@ -11214,8 +11212,8 @@ September 的旧账算完了，接下来轮到那些老老实实数数的前缀-
     align: (left + horizon, left + horizon, left + horizon,),
     table.header(th([后缀]), th([语义]), th([例词]),),
     table.hline(),
-    [`-able`], [能被……的（被动可能性）], [`readable`（能被读的）、`lovable`（能被爱的）],
-    [`-ive`], [有……倾向的（主动特性）], [`active`（有行动力的）、`creative`（有创造力的）、`talkative`（爱说话的）],
+    [`-able`], [能被……的（被动可能性）], [`readable` /ˈridəbəl/（能被读的）、`lovable` /ˈlʌvəbəl/（能被爱的）],
+    [`-ive`], [有……倾向的（主动特性）], [`active` /ˈæktɪv/（有行动力的）、`creative` /kriˈeɪtɪv/（有创造力的）、`talkative` /ˈtɔkətɪv/（爱说话的）],
   )
 
 一句话对照：#strong[`-able` 管的是"能不能被做成",`-ive` 管的是"天生爱不爱干"] 。前者是被动的能力，后者是主动的脾气。
@@ -11225,8 +11223,8 @@ September 的旧账算完了，接下来轮到那些老老实实数数的前缀-
 === 31.8 本章小结
 <318-本章小结>
 + #strong[`-able` 来自拉丁 -abilis,`-ible` 来自 -ibilis] ------一对孪生兄弟，祖上同源，性格迥异：`-able` 开放外向、四处接活，`-ible` 封闭内敛、守着祖传名单。
-+ #strong[`-able` 的核心义："能被……的"] ------多数情况是把动词翻成被动可能性（`readable` = 能被读）。每一个动词里，都蹲着一个隐形的被动形容词，`-able` 一盖就显形。
-+ #strong[`-able` + `un-` = "不可……"] ------这套三件套是英语最高频的否定形容词生产线，`unbelievable`、`unacceptable` 都是它的产品。
++ #strong[`-able` 的核心义："能被……的"] ------多数情况是把动词翻成被动可能性（`readable` /ˈridəbəl/ = 能被读）。每一个动词里，都蹲着一个隐形的被动形容词，`-able` 一盖就显形。
++ #strong[`-able` + `un-` = "不可……"] ------这套三件套是英语最高频的否定形容词生产线，`unbelievable` /ˌʌnbəˈlivəbəl/、`unacceptable` /ˌʌnækˈsɛptəbəl/ 都是它的产品。
 
 ==== 记忆锚点
 <记忆锚点-17>
@@ -11241,17 +11239,17 @@ September 的旧账算完了，接下来轮到那些老老实实数数的前缀-
 劳模虽能干，也有不接的活------以下几个坑，专治"万物皆可 -able"：
 
 - #strong[`-able` 爱接活，不等于来者不拒]。它比 `-ible` 开放得多，但你随手造的 `sleepable` 不一定有人买账。能不能成词，最终还是英语社区说了算。
-- #strong[`-ible` 的拼写没有万能口诀]。它守着一份祖传名单，`visible`、`flexible`、`credible`……试图靠一条规则搞定所有，通常会收到几个例外寄来的投诉信。老老实实逐词记，反而最快。
-- #strong[大多数 `-able` 词是被动，但少数会"叛变"] 。`comfortable` 不是"能被舒适的"，而是"令人舒适的"------盖章盖反了，自己动起来了。遇到具体词，结合用法判断，别只看后缀。
+- #strong[`-ible` 的拼写没有万能口诀]。它守着一份祖传名单，`visible` /ˈvɪzəbəl/、`flexible`、`credible` /ˈkrɛdəbəl/……试图靠一条规则搞定所有，通常会收到几个例外寄来的投诉信。老老实实逐词记，反而最快。
+- #strong[大多数 `-able` 词是被动，但少数会"叛变"] 。`comfortable` /ˈkʌmfərtəbəl/ 不是"能被舒适的"，而是"令人舒适的"------盖章盖反了，自己动起来了。遇到具体词，结合用法判断，别只看后缀。
 - #strong[`-ability` 不能无限套公式]。`readable → readability` 很顺，但并非每个 `-able` 词都有对应名词，`capable → capability` 还夹着词干变化。想当然地补货，英语仓库不一定有存。
 
 #horizontalrule
 
 ==== 【思考题】（答案见附录 A）
 <思考题答案见附录-a-29>
-+ `readable`（可读的）字面是"能被读的"，想想要满足什么条件一本书才 readable?
-+ 为什么 `unbelievable`（难以置信的）是 un + believ + able 的结构？（提示：否定 + 能 + 被信）
-+ `remarkable`（非凡的）字面是"值得谈论的"，为什么这个意思引申为"非凡"?
++ `readable` /ˈridəbəl/（可读的）字面是"能被读的"，想想要满足什么条件一本书才 readable?
++ 为什么 `unbelievable` /ˌʌnbəˈlivəbəl/（难以置信的）是 un + believ + able 的结构？（提示：否定 + 能 + 被信）
++ `remarkable` /rɪˈmɑrkəbəl/（非凡的）字面是"值得谈论的"，为什么这个意思引申为"非凡"?
 
 #pagebreak(weak: true)
 
@@ -11265,7 +11263,7 @@ September 的旧账算完了，接下来轮到那些老老实实数数的前缀-
 
 它俩本是希腊语法里一个不起眼的小零件，专门给词根贴"行为、状态"的小标签，安安静静待了两千年。然后 1789 年巴士底狱被攻陷了，整个 19 世纪的政治家、哲学家、社会活动家忽然都急需给自己的主张起名字------于是 `-ism` 从一个安静的词法小标签，被推上风口浪尖，变成了 19-20 世纪最政治化的语言现象。
 
-`socialism`、`communism`、`nationalism`、`feminism`、`capitalism`、`Marxism`、`racism`、`tourism`……一对希腊孪生兄弟，被推着走完了从"语法零件"到"政治命名机器"的奇妙旅程。这一章要讲的，就是这场旅程中最有戏剧性的几段路。
+`socialism` /ˈsoʊʃəˌlɪzəm/、`communism` /ˈkɑmjəˌnɪzəm/、`nationalism` /ˈnæʃənəˌlɪzəm/、`feminism` /ˈfɛməˌnɪzəm/、`capitalism` /ˈkæpətəˌlɪzəm/、`Marxism` /ˈmɑrksɪzəm/、`racism` /ˈreɪˌsɪzəm/、`tourism` /ˈtʊˌrɪzəm/……一对希腊孪生兄弟，被推着走完了从"语法零件"到"政治命名机器"的奇妙旅程。这一章要讲的，就是这场旅程中最有戏剧性的几段路。
 
 #horizontalrule
 
@@ -11307,11 +11305,11 @@ September 的旧账算完了，接下来轮到那些老老实实数数的前缀-
 <1789一个被叫醒的小后缀>
 `-ism` 真正的高光时刻，要从 1789 年讲起。那一年巴士底狱被攻陷，法国大革命把整个欧洲的思想界搅成一锅沸水。
 
-接下来的半个多世纪里，`-ism` 像雨后蘑菇一样成片冒出来。`socialism`\(1832)、`communism`（1840 前后）、`nationalism`\(1844)、`feminism`（1895，但理念早已酝酿）、`capitalism`\(1854)、`Marxism`（19 世纪中后期）……几乎每一种新冒出来的政治主张，都争先恐后给自己申请一个 `-ism` 当名字。
+接下来的半个多世纪里，`-ism` 像雨后蘑菇一样成片冒出来。`socialism` /ˈsoʊʃəˌlɪzəm/(1832)、`communism` /ˈkɑmjəˌnɪzəm/（1840 前后）、`nationalism` /ˈnæʃənəˌlɪzəm/(1844)、`feminism` /ˈfɛmɪˌnɪzəm/（1895，但理念早已酝酿）、`capitalism` /ˈkæpɪtəˌlɪzəm/(1854)、`Marxism` /ˈmɑrksɪzəm/（19 世纪中后期）……几乎每一种新冒出来的政治主张，都争先恐后给自己申请一个 `-ism` 当名字。
 
 为什么这个时代突然需要这么多 `-ism`？原因很现实：#strong[一种政治运动必须先有一个名字，才能被讨论、被拥护、被攻击。] 18 世纪以前，大部分人讨论的是"该忠于哪个国王";1789 年之后，讨论的题目变成了"该信哪种制度、哪种社会蓝图"。每一种社会蓝图都需要一个标签才能在报纸上、辩论中、街头传单里被点名。`-ism` 恰好是一个现成的、轻便的、跨语言通用的命名工具------于是它从一个安静的希腊小标签，被一整代人同时叫醒，推上了政治命名的工位。
 
-需要说清的是：`-ism` 并非沉睡到 18 世纪才被发明。它早在 16 世纪就随拉丁、法语借入英语了------`baptism`（洗礼）、`martyrism`（殉道）这些词就是它默默干杂活时留下的旧账。1789 年只是把它从"语法零件"推成"政治命名机器"的转折点，不是它的出生证。
+需要说清的是：`-ism` 并非沉睡到 18 世纪才被发明。它早在 16 世纪就随拉丁、法语借入英语了------`baptism` /ˈbæpˌtɪzəm/（洗礼）、`martyrism`（殉道）这些词就是它默默干杂活时留下的旧账。1789 年只是把它从"语法零件"推成"政治命名机器"的转折点，不是它的出生证。
 
 #horizontalrule
 
@@ -11319,11 +11317,11 @@ September 的旧账算完了，接下来轮到那些老老实实数数的前缀-
 <322--ism-的现代意义主义学说运动>
 `-ism` 被政治家们叫醒之后，干起了三件差事------而且这三件差事的画风差别之大，足以让你怀疑它们是不是同一个后缀。
 
-第一件，也是最风光的：给#strong[政治/哲学学说]命名。一个主张，贴上 `-ism`，就有了身份证。`capitalism`、`socialism`、`communism`、`feminism`、`liberalism`、`nationalism`、`Marxism`------这一票词把 `-ism` 推上了"主义制造机"的王座。
+第一件，也是最风光的：给#strong[政治/哲学学说]命名。一个主张，贴上 `-ism`，就有了身份证。`capitalism` /ˈkæpɪtəˌlɪzəm/、`socialism` /ˈsoʊʃəˌlɪzəm/、`communism` /ˈkɑmjəˌnɪzəm/、`feminism`、`liberalism` /ˈlɪbərəˌlɪzəm/、`nationalism` /ˈnæʃənəˌlɪzəm/、`Marxism` /ˈmɑrksɪzəm/------这一票词把 `-ism` 推上了"主义制造机"的王座。
 
-第二件，画风急转直下：给#strong[歧视、偏见]命名。这是 20 世纪 `-ism` 的另一副面孔------`racism`、`sexism`、`ageism`、`ableism`。带 `-ism` 的词，在 20 世纪逐渐带上了贬义味儿，因为批判性的词最常被这样造出来：一个不公正的现象被识别出来，被命名，才能被公开反对。可以说，20 世纪的 `-ism` 是民权运动话语的副产物------它把社会里那些原本不被点名的不公，一个一个推上了被告席。
+第二件，画风急转直下：给#strong[歧视、偏见]命名。这是 20 世纪 `-ism` 的另一副面孔------`racism`、`sexism` /ˈsɛkˌsɪzəm/、`ageism`、`ableism`。带 `-ism` 的词，在 20 世纪逐渐带上了贬义味儿，因为批判性的词最常被这样造出来：一个不公正的现象被识别出来，被命名，才能被公开反对。可以说，20 世纪的 `-ism` 是民权运动话语的副产物------它把社会里那些原本不被点名的不公，一个一个推上了被告席。
 
-第三件，回归本职：表示#strong[状态、行为]。这部分是 `-ism` 最老实的差事------`tourism`（旅游业）、`alcoholism`（酗酒）、`magnetism`（磁性）、`heroism`（英雄主义）。这一类里也藏着几个本章稍后要细讲的好故事。
+第三件，回归本职：表示#strong[状态、行为]。这部分是 `-ism` 最老实的差事------`tourism` /ˈtʊˌrɪzəm/（旅游业）、`alcoholism` /ˈælkəhɔˌlɪzəm/（酗酒）、`magnetism` /ˈmæɡnəˌtɪzəm/（磁性）、`heroism` /ˈhɛroʊˌɪzəm/（英雄主义）。这一类里也藏着几个本章稍后要细讲的好故事。
 
 三件差事，三副面孔------下面逐个看看 `-ism` 的工作台上都堆着什么货。
 
@@ -11334,13 +11332,13 @@ September 的旧账算完了，接下来轮到那些老老实实数数的前缀-
     align: (left + horizon, left + horizon, left + horizon, left + horizon,),
     table.header(th([词基]), th([后缀]), th([整词]), th([含义]),),
     table.hline(),
-    [`capital`], [`-ism`], [`capitalism`], [资本主义],
-    [`social`], [`-ism`], [`socialism`], [社会主义],
-    [`commun`], [`-ism`], [`communism`], [共产主义],
-    [`femin`], [`-ism`], [`feminism`], [女权主义],
-    [`liberal`], [`-ism`], [`liberalism`], [自由主义],
-    [`nation`], [`-ism`], [`nationalism`], [民族主义],
-    [`Marx`], [`-ism`], [`Marxism`], [马克思主义],
+    [`capital`], [`-ism`], [`capitalism` /ˈkæpɪtəˌlɪzəm/], [资本主义],
+    [`social`], [`-ism`], [`socialism` /ˈsoʊʃəˌlɪzəm/], [社会主义],
+    [`commun`], [`-ism`], [`communism` /ˈkɑmjəˌnɪzəm/], [共产主义],
+    [`femin`], [`-ism`], [`feminism` /ˈfɛmɪˌnɪzəm/], [女权主义],
+    [`liberal` /ˈlɪˌbɜrəl/], [`-ism`], [`liberalism` /ˈlɪˌbɜrəˌlɪzəm/], [自由主义],
+    [`nation` /ˈneɪʃən/], [`-ism`], [`nationalism` /ˈnæʃənəˌlɪzəm/], [民族主义],
+    [`Marx` /mɑrks/], [`-ism`], [`Marxism` /ˈmɑrksɪzəm/], [马克思主义],
   )
 
 ==== 意义 2：歧视、偏见
@@ -11350,8 +11348,8 @@ September 的旧账算完了，接下来轮到那些老老实实数数的前缀-
     align: (left + horizon, left + horizon, left + horizon, left + horizon,),
     table.header(th([词基]), th([后缀]), th([整词]), th([含义]),),
     table.hline(),
-    [`race`], [`-ism`], [`racism`], [种族主义],
-    [`sex`], [`-ism`], [`sexism`], [性别歧视],
+    [`race`], [`-ism`], [`racism` /ˈreɪˌsɪzəm/], [种族主义],
+    [`sex`], [`-ism`], [`sexism` /ˈsɛksɪzəm/], [性别歧视],
     [`age`], [`-ism`], [`ageism`], [年龄歧视],
     [`able`], [`-ism`], [`ableism`], [健全中心主义],
   )
@@ -11363,10 +11361,10 @@ September 的旧账算完了，接下来轮到那些老老实实数数的前缀-
     align: (left + horizon, left + horizon, left + horizon, left + horizon,),
     table.header(th([词基]), th([后缀]), th([整词]), th([含义]),),
     table.hline(),
-    [`tour`], [`-ism`], [`tourism`], [旅游业],
-    [`alcohol`], [`-ism`], [`alcoholism`], [酗酒],
-    [`magnet`], [`-ism`], [`magnetism`], [磁性],
-    [`hero`], [`-ism`], [`heroism`], [英雄主义],
+    [`tour` /tʊr/], [`-ism`], [`tourism` /ˈtʊˌrɪzəm/], [旅游业],
+    [`alcohol` /ˈælkəˌhɑl/], [`-ism`], [`alcoholism` /ˈælkəˌhɔˌlɪzəm/], [酗酒],
+    [`magnet` /ˈmæɡnət/], [`-ism`], [`magnetism` /ˈmæɡnəˌtɪzəm/], [磁性],
+    [`hero` /ˈhɪroʊ/], [`-ism`], [`heroism` /ˈhɛroʊˌɪzəm/], [英雄主义],
   )
 
 #horizontalrule
@@ -11380,14 +11378,14 @@ September 的旧账算完了，接下来轮到那些老老实实数数的前缀-
     align: (left + horizon, left + horizon, left + horizon, left + horizon, left + horizon,),
     table.header(th([词基]), th([后缀]), th([整词]), th([含义]), th([类别]),),
     table.hline(),
-    [`capital`], [`-ist`], [`capitalist`], [资本家], [主义者],
-    [`social`], [`-ist`], [`socialist`], [社会主义者], [主义者],
-    [`femin`], [`-ist`], [`feminist`], [女权主义者], [主义者],
-    [`race`], [`-ist`], [`racist`], [种族主义者], [主义者],
-    [`art`], [`-ist`], [`artist`], [艺术家], [职业],
-    [`piano`], [`-ist`], [`pianist`], [钢琴家], [职业],
-    [`novel`], [`-ist`], [`novelist`], [小说家], [职业],
-    [`science`], [`-ist`], [`scientist`], [科学家], [职业],
+    [`capital`], [`-ist`], [`capitalist` /ˈkæpətəlɪst/], [资本家], [主义者],
+    [`social`], [`-ist`], [`socialist` /ˈsoʊʃəlɪst/], [社会主义者], [主义者],
+    [`femin`], [`-ist`], [`feminist` /ˈfɛmənɪst/], [女权主义者], [主义者],
+    [`race`], [`-ist`], [`racist` /ˈreɪsɪst/], [种族主义者], [主义者],
+    [`art`], [`-ist`], [`artist` /ˈɑrtəst/], [艺术家], [职业],
+    [`piano` /piˈænoʊ/], [`-ist`], [`pianist` /piˈænɪst/], [钢琴家], [职业],
+    [`novel` /ˈnɑvəl/], [`-ist`], [`novelist` /ˈnɑvəlɪst/], [小说家], [职业],
+    [`science`], [`-ist`], [`scientist` /ˈsaɪəntɪst/], [科学家], [职业],
   )
 
 注意 `-ist` 的两副面孔：在政治/哲学里，它是主张的人格化------`capitalist`（资本家）、`socialist`（社会主义者）、`feminist`（女权主义者）、`racist`（种族主义者）；在职业里，它是手艺的持有者------`artist`（艺术家）、`pianist`（钢琴家）、`novelist`（小说家）、`scientist`（科学家）。同一个后缀，既能给人贴"我信什么"的标签，也能给人贴"我干什么"的标签，这就是 `-ist` 的灵活之处。
@@ -11399,9 +11397,9 @@ September 的旧账算完了，接下来轮到那些老老实实数数的前缀-
     align: (left + horizon, left + horizon, left + horizon, left + horizon,),
     table.header(th([词基]), th([`-ism`（主义）]), th([`-ist`（者）]), th([`-ize`（化）]),),
     table.hline(),
-    [`capital`], [`capitalism`（资本主义）], [`capitalist`（资本家）], [`capitalize`（资本化）],
-    [`modern`], [`modernism`（现代主义）], [`modernist`（现代主义者）], [`modernize`（现代化）],
-    [`theory`], [---（通常不说 theorism）], [`theorist`], [`theorize`],
+    [`capital`], [`capitalism` /ˈkæpɪtəˌlɪzəm/（资本主义）], [`capitalist` /ˈkæpətəlɪst/（资本家）], [`capitalize` /ˈkæpətəˌlaɪz/（资本化）],
+    [`modern`], [`modernism` /ˈmɑdɚˌnɪzəm/（现代主义）], [`modernist` /ˈmɑdɚnɪst/（现代主义者）], [`modernize` /ˈmɑdɚˌnaɪz/（现代化）],
+    [`theory` /ˈθɪri/], [---（通常不说 theorism）], [`theorist` /ˈθiərɪst/], [`theorize` /ˈθiəˌraɪz/],
   )
 
 这套三件套看起来很整齐，像是流水线上的标准套餐：一个主张(`-ism`)，一个信徒(`-ist`)，一个动作(`-ize`)。可惜语言不是工厂，并非每个词基都老老实实配齐全套------`theory` 就是个明摆着的例子：有 `theorist`（理论家）、有 `theorize`（理论化），却偏偏没人说 `theorism`。一个词基配齐没配齐三件套，得查实际词典，不能想当然地补货。
@@ -11419,13 +11417,13 @@ September 的旧账算完了，接下来轮到那些老老实实数数的前缀-
     align: (left + horizon, left + horizon, left + horizon, left + horizon,),
     table.header(th([词基]), th([`-ism` 形式]), th([是否通用]), th([含义]),),
     table.hline(),
-    [`multicultural`], [`multiculturalism`], [✓], [多元文化主义],
-    [`environmental`], [`environmentalism`], [✓], [环保主义],
-    [`consumer`], [`consumerism`], [✓], [消费主义],
-    [`global`], [`globalism`], [✓], [全球主义],
-    [`Trump`], [`Trumpism`], [✓], [特朗普主义],
+    [`multicultural` /ˌmʌltiˈkʌltʃərəl/], [`multiculturalism` /ˌmʌltiˈkʌltʃərəˌlɪzəm/], [✓], [多元文化主义],
+    [`environmental` /ɪnˌvaɪrənˈmɛntəl/], [`environmentalism` /ɪnˌvaɪrənˈmɛntəˌlɪzəm/], [✓], [环保主义],
+    [`consumer` /kənˈsumər/], [`consumerism` /kənˈsuməˌrɪzəm/], [✓], [消费主义],
+    [`global` /ɡˈloʊbəl/], [`globalism`], [✓], [全球主义],
+    [`Trump` /trʌmp/], [`Trumpism`], [✓], [特朗普主义],
     [`Brexit`], [`Brexitism`], [✓], [脱欧主义],
-    [`hubris`], [---], [✗ 不存在], [---],
+    [`hubris` /ˈhjubrɪs/], [---], [✗ 不存在], [---],
   )
 
 `hubris`（傲慢）这种词，人人爱用，可没人给它加 `-ism`------它已经是个够完整的词了，加 `-ism` 反而画蛇添足。这说明 `-ism` 的能产性再强，也受语义和习惯的约束：能造的不一定成立，成立的不一定通用。
@@ -11434,14 +11432,14 @@ September 的旧账算完了，接下来轮到那些老老实实数数的前缀-
 
 === 32.5 -ism 本身中性，整词可褒可贬
 <325--ism-本身中性整词可褒可贬>
-这一节要澄清一个最容易引起的误解。前面我们看到 `racism`、`sexism` 带着浓重的贬义味儿，容易让人以为：`-ism` 这个后缀本身就带贬义。其实不是。
+这一节要澄清一个最容易引起的误解。前面我们看到 `racism` /ˈreɪˌsɪzəm/、`sexism` /ˈsɛksɪzəm/ 带着浓重的贬义味儿，容易让人以为：`-ism` 这个后缀本身就带贬义。其实不是。
 
-`-ism` 是中性的构词资源------它只负责"给一种东西命名"，不带感情色彩。一个带 `-ism` 的词是褒是贬，取决于它命名的东西本身和说话人的立场。`racism` 是贬义，是因为种族歧视这件事本身就是该被批判的；`feminism`、`liberalism` 这些词则依语境可褒可贬：
+`-ism` 是中性的构词资源------它只负责"给一种东西命名"，不带感情色彩。一个带 `-ism` 的词是褒是贬，取决于它命名的东西本身和说话人的立场。`racism` 是贬义，是因为种族歧视这件事本身就是该被批判的；`feminism` /ˈfɛmɪˌnɪzəm/、`liberalism` /ˈlɪˌbɜrəˌlɪzəm/ 这些词则依语境可褒可贬：
 
 #quote(block: true)[
 #strong[`-ism` 的褒贬演变]
 
-#strong[中性或依语境变化]：`liberalism`、`socialism`、`feminism`、`modernism`
+#strong[中性或依语境变化]：`liberalism`、`socialism` /ˈsoʊʃəˌlɪzəm/、`feminism`、`modernism` /ˈmɑdərˌnɪzəm/
 
 #strong[明确负面概念]：`racism`、`sexism`、`ageism`（负面来自歧视概念，不是后缀本身）
 
@@ -11456,17 +11454,17 @@ September 的旧账算完了，接下来轮到那些老老实实数数的前缀-
 <326-几个--ism-的精彩故事>
 讲完结构，该讲故事了。这一节挑四个最能说明 `-ism` 威力的故事------其中三个直接来自 `-ism` 家族，还有一个虽然不是 `-ism`，却因为"有造词人和造词日期"而成了词汇史上的明星。
 
-==== `racism` 一词的诞生：一个词如何改变一场辩论
-<racism-一词的诞生一个词如何改变一场辩论>
+==== `racism` /ˈreɪˌsɪzəm/ 一词的诞生：一个词如何改变一场辩论
+<racism-ˈreɪˌsɪzəm-一词的诞生一个词如何改变一场辩论>
 `racism` 这个词的走红本身，就是 20 世纪民权话语的一部分。
 
 这个词的早期记录可以追溯到 19 世纪末（目前词典可见的最早记录在 1886 年前后），但它真正进入大众视野、变成今天这个高频批判词，是在 20 世纪 30 年代------那个种族冲突和反犹思潮集中爆发的年代。它的流行路径很说明问题：不是某天某个语言学家在书斋里把它"发明"出来，然后大家开始用；而是反种族主义的运动需要这样一个词，来指认、命名一种本来难以精确谈论的现象。
 
 这就是 `-ism` 在 20 世纪最隐秘的威力：#strong[当一个不公正的现象被命名，它就开始可以被公开反对。]在 `racism` 这个词广泛流通之前，种族歧视的行为当然存在，但缺少一个能被反复点名、被辩论、被立法针对的"概念容器"。`-ism` 提供了这个容器------它把分散的、各色各样的歧视行为，收拢进一个可以放进报纸标题、法庭文件、演讲稿里的名词。一个词的走红，本身就是一场社会观念转变的脚印。
 
-==== `alcoholism`（酗酒）：把"罪"重新定义为"病"
-<alcoholism酗酒把罪重新定义为病>
-如果说 `racism` 的故事是"命名让事情可被反对"，那么 `alcoholism` 的故事就是"命名让事情改变了性质"。
+==== `alcoholism` /ˈælkəˌhɔˌlɪzəm/（酗酒）：把"罪"重新定义为"病"
+<alcoholism-ˈælkəˌhɔˌlɪzəm酗酒把罪重新定义为病>
+如果说 `racism` /ˈreɪˌsɪzəm/ 的故事是"命名让事情可被反对"，那么 `alcoholism` 的故事就是"命名让事情改变了性质"。
 
 1849 年，瑞典医生#strong[Magnus Huss] 造出了 `alcoholism` 这个词。在他之前，长期过量饮酒被普遍看作一种#strong[道德缺陷] ------一个人喝成这样，是他的意志力有问题，是他的品性有污点，该受的是道德谴责。Huss 这个命名却悄悄换了一套框架：他把长期酗酒定义为#strong[一种病理状态] ------一种"病"，而不是一种"罪"。
 
@@ -11485,11 +11483,11 @@ September 的旧账算完了，接下来轮到那些老老实实数数的前缀-
 ]
 一个词的改变，撬动的是整个社会看待一种行为的方式。一旦酗酒被重新定义为疾病，它就有了被治疗的资格------医生可以介入，医院可以收治，保险可以覆盖，家人可以不再单纯地以"耻辱"对待它。这是 `-ism` 在医学和社会观念史上的一次硬核应用：#strong[它不是给事物贴标签，而是给事物换了一套定性。]当然，观念的转换从来不是一蹴而就的------Huss 的命名参与并加速了这场转换，而不是在 1849 年那一天单独完成了它。`-ism` 在这里表示的是一种状态、一种病理概念。
 
-==== `tourism`（旅游业）：从贵族的"壮游"到全民产业
-<tourism旅游业从贵族的壮游到全民产业>
+==== `tourism` /ˈtʊˌrɪzəm/（旅游业）：从贵族的"壮游"到全民产业
+<tourism-ˈtʊˌrɪzəm旅游业从贵族的壮游到全民产业>
 `tourism` 这个词背后，藏着一段关于"旅行如何变成旅游"的历史。
 
-它的词根 `tour`（旅行）来自法语#emph[tourner]，本意是"转圈"。18 世纪的英国贵族子弟有一项传统：在完成牛津或剑桥的学业后，由家庭教师陪同，花上一两年时间游历欧洲大陆------法国、意大利、瑞士，看艺术、学语言、长见识。这就是著名的#strong[Grand Tour] （壮游），被视为贵族教育的最后一道工序。
+它的词根 `tour` /tʊr/（旅行）来自法语#emph[tourner]，本意是"转圈"。18 世纪的英国贵族子弟有一项传统：在完成牛津或剑桥的学业后，由家庭教师陪同，花上一两年时间游历欧洲大陆------法国、意大利、瑞士，看艺术、学语言、长见识。这就是著名的#strong[Grand Tour] （壮游），被视为贵族教育的最后一道工序。
 
 #diagram-panel(title: "图示 149 · 词源路径", breakable: false)[
   #table(
@@ -11504,10 +11502,10 @@ September 的旧账算完了，接下来轮到那些老老实实数数的前缀-
     d-node("tour + -ism → tourism\n（旅游业，1811 年）", kind: "node"),
   )
 ]
-`tourist`（旅游者）这个词在 1772 年出现，`tourism`（旅游业）在 1811 年出现------这两个日期本身就讲完了一个故事：先有人去"转圈"旅游，然后才有人把"旅游这件事"打包成一门产业。`tourism` 诞生的那一刻，旅行从贵族的成年礼，变成了可以被规模化、被经营、被消费的商品。当然，在 `tourist` 出现之前人们也旅行------为贸易、朝圣、求学、外交、探险------但那都是"有目的的出行";`tourist` 标记的是一个新类别：#strong[为了旅游本身而旅游的人。] `-ism` 在这里把一个行为提升成了一种现象、一个产业。
+`tourist` /ˈtʊrəst/（旅游者）这个词在 1772 年出现，`tourism`（旅游业）在 1811 年出现------这两个日期本身就讲完了一个故事：先有人去"转圈"旅游，然后才有人把"旅游这件事"打包成一门产业。`tourism` 诞生的那一刻，旅行从贵族的成年礼，变成了可以被规模化、被经营、被消费的商品。当然，在 `tourist` 出现之前人们也旅行------为贸易、朝圣、求学、外交、探险------但那都是"有目的的出行";`tourist` 标记的是一个新类别：#strong[为了旅游本身而旅游的人。] `-ism` 在这里把一个行为提升成了一种现象、一个产业。
 
-==== `serendipity`（机缘巧合）：不是 -ism，但有造词人
-<serendipity机缘巧合不是--ism但有造词人>
+==== `serendipity` /ˌsɛrənˈdɪpəti/（机缘巧合）：不是 -ism，但有造词人
+<serendipity-ˌsɛrənˈdɪpəti机缘巧合不是--ism但有造词人>
 最后一个故事，虽然不是 `-ism`，却因为"有造词人和造词日期"而在词汇史上格外有名，值得一讲。
 
 1754 年，英国作家#strong[Horace Walpole] 从一个波斯童话《锡兰三王子》(#emph[The Three Princes of Serendip])得到灵感：故事里的三位王子，凭偶然的机缘加上敏锐的判断力，发现了他们原本并没有去找的东西。Walpole 据此造出 `serendipity`，核心是"#strong[偶然做出有价值的发现] "------不是单纯坐等好运砸到头上，而是"意外撞见 + 有眼光认出来"两件事缺一不可。
@@ -11534,16 +11532,16 @@ September 的旧账算完了，接下来轮到那些老老实实数数的前缀-
 <328-避坑提示>
 `-ism` 是个高产的命名机器，但产量高不等于质检全过------以下几个坑，专治"万物皆可 -ism"：
 
-- #strong[`-ism / -ist / -ize` 三件套不能机械补齐]。`theory` 只有 `theorist` 和 `theorize`，没人说 `theorism`------流水线偶尔也会缺货，想当然补齐之前先查词典。
-- #strong[`-ism` 能产性强，不等于造出来的词都站得住脚]。`Trumpism` 是媒体临时造词，`hubris` 却没人给它加 `-ism`------后缀再勤快，也得看原料是否适配。
-- #strong[`-ism` 本身中性，贬义来自整词]。`racism` 带贬义是因为种族歧视本身该批判，不是 `-ism` 自带毒性。说"It\'s just another -ism"带轻蔑口气，那是修辞，不是后缀属性。
-- #strong[`alcoholism` 的命名撬动了"罪→病"的观念转换，但不是一个词单独完成的]。社会、医学、法律多重力量共同推动，一个词只是其中一块跷跷板。
+- #strong[`-ism / -ist / -ize` 三件套不能机械补齐]。`theory` /ˈθɪri/ 只有 `theorist` /ˈθiərɪst/ 和 `theorize` /ˈθiərˌaɪz/，没人说 `theorism`------流水线偶尔也会缺货，想当然补齐之前先查词典。
+- #strong[`-ism` 能产性强，不等于造出来的词都站得住脚]。`Trumpism` 是媒体临时造词，`hubris` /ˈhjubrəs/ 却没人给它加 `-ism`------后缀再勤快，也得看原料是否适配。
+- #strong[`-ism` 本身中性，贬义来自整词]。`racism` /ˈreɪˌsɪzəm/ 带贬义是因为种族歧视本身该批判，不是 `-ism` 自带毒性。说"It\'s just another -ism"带轻蔑口气，那是修辞，不是后缀属性。
+- #strong[`alcoholism` /ˈælkəˌhɔˌlɪzəm/ 的命名撬动了"罪→病"的观念转换，但不是一个词单独完成的]。社会、医学、法律多重力量共同推动，一个词只是其中一块跷跷板。
 
 #horizontalrule
 
 ==== 【思考题】（答案见附录 A）
 <思考题答案见附录-a-30>
-+ `racism` 的早期记录与 20 世纪 30 年代广泛传播有什么区别？
++ `racism` /ˈreɪˌsɪzəm/ 的早期记录与 20 世纪 30 年代广泛传播有什么区别？
 + -ism / -ist / -ize 三件套，以 `modern` 为例，造出三个词。
 + 为什么 `racism` 的负面意义不能证明 `-ism` 后缀本身是贬义？
 
@@ -11557,7 +11555,7 @@ September 的旧账算完了，接下来轮到那些老老实实数数的前缀-
 
 第 6 卷的最后一章，讲英语后缀 `-ly`。它不孤单：德语 `-lich`、荷兰语 `-lijk` 是它的同族兄弟，只是各走各的路、各练各的功夫。
 
-在英语里，`-ly` 是个#strong[出场频率高到没法绕开的副词后缀]：`quickly`、`happily`、`carefully`、`slowly`……每一句像样的英语背后，几乎都蹲着它。它还兼职演一批形容词（`friendly`、`lovely`），戏路很宽。
+在英语里，`-ly` 是个#strong[出场频率高到没法绕开的副词后缀]：`quickly`、`happily` /ˈhæpəli/、`carefully` /ˈkɛrfəli/、`slowly` /ˈsloʊli/……每一句像样的英语背后，几乎都蹲着它。它还兼职演一批形容词（`friendly` /ˈfrɛndli/、`lovely` /ˈlʌvli/），戏路很宽。
 
 但它的来历，藏着全书最像鬼故事的一个反转：
 
@@ -11627,7 +11625,7 @@ September 的旧账算完了，接下来轮到那些老老实实数数的前缀-
 ]
 ==== 形容词 -līc 与副词 -līce
 <形容词--līc-与副词--līce>
-这里埋着全书最容易让人栽跟头的一对双胞胎。古英语里，形容词后缀是 `-līc`，对应的副词形式是 `-līce`（尾巴多一个 `e`）------哥俩本来长得有区别，一眼能分清。可发音弱化这场风沙不认人，把 `-līc` 和 `-līce` 的尾巴一起磨平，最后都坍缩成了同一张脸 `-ly`。一千年前分得清清楚楚的哥俩，一千年后撞成了同一副长相------这就是为什么今天 `friendly`（形容词）和 `quickly`（副词）看起来一模一样，干的却是两份截然不同的活。
+这里埋着全书最容易让人栽跟头的一对双胞胎。古英语里，形容词后缀是 `-līc`，对应的副词形式是 `-līce`（尾巴多一个 `e`）------哥俩本来长得有区别，一眼能分清。可发音弱化这场风沙不认人，把 `-līc` 和 `-līce` 的尾巴一起磨平，最后都坍缩成了同一张脸 `-ly`。一千年前分得清清楚楚的哥俩，一千年后撞成了同一副长相------这就是为什么今天 `friendly` /ˈfrɛndli/（形容词）和 `quickly`（副词）看起来一模一样，干的却是两份截然不同的活。
 
 #table(
     columns: (1fr, 1fr, 1fr, 1fr),
@@ -11636,8 +11634,8 @@ September 的旧账算完了，接下来轮到那些老老实实数数的前缀-
     table.hline(),
     [古英语], [`freondlic`], [形容词], ["像朋友的"→ 描述友善特性],
     [中古英语], [`freendly`], [形容词], ["像朋友的"已成形容词],
-    [现代英语], [`friendly`], [① 形容词后缀], [`friendly`、`lovely`],
-    [现代英语], [`quickly`], [② 副词后缀], [`quickly`、`happily`],
+    [现代英语], [`friendly`], [① 形容词后缀], [`friendly`、`lovely` /ˈlʌvli/],
+    [现代英语], [`quickly`], [② 副词后缀], [`quickly`、`happily` /ˈhæpəli/],
   )
 
 所以，"身体"是怎么变成"方式"的？路线大致是：`-līc`（"长着……身板的"）先当形容词 → 它的副词形式 `-līce`（"以……的身板去做"）负责修饰动作 → 两个尾巴都被磨平成 `-ly` → 最后连"身板"这层意思也褪了色，只剩"以……的方式"。血肉层层剥落，功能却留了下来。
@@ -11657,11 +11655,11 @@ September 的旧账算完了，接下来轮到那些老老实实数数的前缀-
     align: (left + horizon, left + horizon, left + horizon, left + horizon,),
     table.header(th([形容词]), th([后缀]), th([副词]), th([含义]),),
     table.hline(),
-    [`quick`], [`-ly`], [`quickly`], [快速地],
-    [`happy`], [`-ly`], [`happily`], [快乐地],
-    [`careful`], [`-ly`], [`carefully`], [小心地],
-    [`slow`], [`-ly`], [`slowly`], [缓慢地],
-    [`beautiful`], [`-ly`], [`beautifully`], [美丽地],
+    [`quick` /kwɪk/], [`-ly`], [`quickly`], [快速地],
+    [`happy`], [`-ly`], [`happily` /ˈhæpəli/], [快乐地],
+    [`careful` /ˈkɛrfəl/], [`-ly`], [`carefully` /ˈkɛrfəli/], [小心地],
+    [`slow`], [`-ly`], [`slowly` /ˈsloʊli/], [缓慢地],
+    [`beautiful`], [`-ly`], [`beautifully` /ˈbjutəfli/], [美丽地],
   )
 
 ==== 功能 2：形容词后缀（加在名词后）
@@ -11673,11 +11671,11 @@ September 的旧账算完了，接下来轮到那些老老实实数数的前缀-
     align: (left + horizon, left + horizon, left + horizon, left + horizon,),
     table.header(th([名词]), th([后缀]), th([形容词]), th([含义]),),
     table.hline(),
-    [`friend`], [`-ly`], [`friendly`], [友善的],
-    [`love`], [`-ly`], [`lovely`], [可爱的],
-    [`man`], [`-ly`], [`manly`], [有男子气的],
-    [`week`], [`-ly`], [`weekly`], [每周的],
-    [`ghost`], [`-ly`], [`ghostly`], [幽灵般的],
+    [`friend`], [`-ly`], [`friendly` /ˈfrɛndli/], [友善的],
+    [`love`], [`-ly`], [`lovely` /ˈlʌvli/], [可爱的],
+    [`man`], [`-ly`], [`manly` /ˈmænli/], [有男子气的],
+    [`week`], [`-ly`], [`weekly` /ˈwikli/], [每周的],
+    [`ghost` /ɡoʊst/], [`-ly`], [`ghostly` /ˈɡoʊstli/], [幽灵般的],
   )
 
 这一栏的词，长得跟上面那批副词一模一样，可它们是#strong[地地道道的形容词] ------这是 `-ly` 派最容易踩的坑。
@@ -11689,12 +11687,12 @@ September 的旧账算完了，接下来轮到那些老老实实数数的前缀-
     align: (left + horizon, left + horizon, left + horizon,),
     table.header(th([例句]), th([正误]), th([说明]),),
     table.hline(),
-    ["He speaks friendly."], [✗ 错误], [`friendly` 是形容词，不能修饰动词],
+    ["He speaks friendly."], [✗ 错误], [`friendly` /ˈfrɛndli/ 是形容词，不能修饰动词],
     ["He is friendly."], [✓ 正确], [作表语],
     ["He speaks in a friendly way."], [✓ 正确], [迂回说法充当方式状语],
   )
 
-一句话辨认：#strong[贴在名词后 = 形容词（`friendly`、`lovely`），贴在形容词后 = 副词（`quickly`、`happily`）]。同脸不同命，全看它站在谁身后。
+一句话辨认：#strong[贴在名词后 = 形容词（`friendly`、`lovely` /ˈlʌvli/），贴在形容词后 = 副词（`quickly`、`happily` /ˈhæpəli/）]。同脸不同命，全看它站在谁身后。
 
 #horizontalrule
 
@@ -11710,7 +11708,7 @@ September 的旧账算完了，接下来轮到那些老老实实数数的前缀-
     [程度], [really, very, highly, deeply],
     [方式], [quickly, slowly, carefully, easily],
     [时间], [recently, currently, finally, suddenly],
-    [频率], [usually, frequently, rarely, occasionally],
+    [频率], [usually, frequently /ˈfrikwəntli/, rarely, occasionally /əˈkeɪʒənəli/],
   )
 
 不过别被这阵仗唬住------以为"副词都以 `-ly` 结尾"。`very`、`often`、`well`、`fast`、`soon` 这些老牌副词，没一个挂 `-ly` 的牌子，照样混得风生水起。`-ly` 是主力，不是唯一。
@@ -11725,7 +11723,7 @@ September 的旧账算完了，接下来轮到那些老老实实数数的前缀-
     table.header(th([方面]), th([古英语副词]), th([现代英语副词]),),
     table.hline(),
     [构成], [用词尾变化，配合形容词的格变化], [统一用 `-ly`，形容词 + ly],
-    [例词], [`heardlice`（勇敢地）、`swīþe`（非常）], [`quickly`、`carefully`],
+    [例词], [`heardlice`（勇敢地）、`swīþe`（非常）], [`quickly`、`carefully` /ˈkɛrfəli/],
     [特点], [形式多样、随格而变], [简单清晰],
   )
 
@@ -11739,19 +11737,19 @@ September 的旧账算完了，接下来轮到那些老老实实数数的前缀-
 
 ==== `-ly` 加在时间名词后（表示"每……"）
 <-ly-加在时间名词后表示每>
-贴在时间名词后，`-ly` 就化身"周期制造机"------`day` 变 `daily`,`week` 变 `weekly`，一个时间单位立刻变成一个轮回：
+贴在时间名词后，`-ly` 就化身"周期制造机"------`day` 变 `daily`,`week` 变 `weekly` /ˈwikli/，一个时间单位立刻变成一个轮回：
 
 #table(
     columns: (1fr, 1fr, 1fr, 1fr),
     align: (left + horizon, left + horizon, left + horizon, left + horizon,),
     table.header(th([时间名词]), th([后缀]), th([形容词/副词]), th([含义]),),
     table.hline(),
-    [`hour`], [`-ly`], [`hourly`], [每小时的],
+    [`hour`], [`-ly`], [`hourly` /ˈaʊrli/], [每小时的],
     [`day`], [`-ly`], [`daily`], [每天的],
     [`week`], [`-ly`], [`weekly`], [每周的],
-    [`month`], [`-ly`], [`monthly`], [每月的],
-    [`year`], [`-ly`], [`yearly`], [每年的],
-    [`quarter`], [`-ly`], [`quarterly`], [每季度的],
+    [`month`], [`-ly`], [`monthly` /ˈmʌnθli/], [每月的],
+    [`year`], [`-ly`], [`yearly` /ˈjɪrli/], [每年的],
+    [`quarter` /ˈkwɔrtər/], [`-ly`], [`quarterly` /ˈkwɔrtɚli/], [每季度的],
   )
 
 ==== `-ly` 加在序数词后
@@ -11763,9 +11761,9 @@ September 的旧账算完了，接下来轮到那些老老实实数数的前缀-
     align: (left + horizon, left + horizon, left + horizon, left + horizon,),
     table.header(th([序数词]), th([后缀]), th([序数副词]), th([含义]),),
     table.hline(),
-    [`first`], [`-ly`], [`firstly`], [首先],
-    [`second`], [`-ly`], [`secondly`], [其次],
-    [`third`], [`-ly`], [`thirdly`], [第三],
+    [`first`], [`-ly`], [`firstly` /ˈfɜrstli/], [首先],
+    [`second`], [`-ly`], [`secondly` /ˈsɛkəndli/], [其次],
+    [`third`], [`-ly`], [`thirdly` /ˈθɜrdli/], [第三],
   )
 
 #horizontalrule
@@ -11779,10 +11777,10 @@ September 的旧账算完了，接下来轮到那些老老实实数数的前缀-
     align: (left + horizon, left + horizon, left + horizon, left + horizon,),
     table.header(th([后缀]), th([来源]), th([加在什么后]), th([例词]),),
     table.hline(),
-    [`-ly`], [古英语 līc（"身体"）], [名词后], [`friendly`、`lovely`、`manly`],
-    [`-ful`], [古英语 full（"满"）], [名词后], [`beautiful`、`useful`、`hopeful`],
-    [`-less`], [古英语 leas（"无"）], [名词后], [`useless`、`hopeless`、`careless`],
-    [`-ous`], [拉丁源], [拉丁词根后], [`dangerous`、`famous`、`curious`],
+    [`-ly`], [古英语 līc（"身体"）], [名词后], [`friendly` /ˈfrɛndli/、`lovely` /ˈlʌvli/、`manly` /ˈmænli/],
+    [`-ful`], [古英语 full（"满"）], [名词后], [`beautiful`、`useful` /ˈjusfəl/、`hopeful` /ˈhoʊpfəl/],
+    [`-less`], [古英语 leas（"无"）], [名词后], [`useless` /ˈjusləs/、`hopeless` /ˈhoʊpləs/、`careless` /ˈkɛrləs/],
+    [`-ous`], [拉丁源], [拉丁词根后], [`dangerous` /ˈdeɪndʒərəs/、`famous` /ˈfeɪməs/、`curious` /ˈkjʊriəs/],
   )
 
 四个后缀，四种脾气：`-ly` 是土生土长的本地人（日耳曼血统），说的是"像……的、有……身板的";`-ful` 是个"塞满派"，张口就是"满满当当的"（hopeful = 满怀希望的）；`-less` 是它的对头，一个"清空派"，专说"没、缺"（hopeless = 一点希望没有）；`-ous` 则是从拉丁借来的外乡客，只在拉丁词根后露脸，说的是"有……特性的"。同是造形容词，走的却是四条路。
@@ -11824,8 +11822,8 @@ September 的旧账算完了，接下来轮到那些老老实实数数的前缀-
 <339-避坑提示>
 一具千年骨架虽然好使，但别拿它当万能扳手------以下几个坑，专治"见词就加 -ly"：
 
-- #strong[`friendly`、`lovely`、`lonely` 是形容词，不是副词]。"He speaks friendly"是常见错误------想说"友善地"，得绕道用"in a friendly way"。同脸不同命，全看它站在谁身后。
-- #strong[`-ly` 很高产，但不等于来者不拒]。`hard` 加了 `-ly` 变 `hardly`，意思从"用力"变成"几乎不"------加个后缀，语义直接翻车。动手之前，先查查目的地对不对。
+- #strong[`friendly` /ˈfrɛndli/、`lovely` /ˈlʌvli/、`lonely` /ˈloʊnli/ 是形容词，不是副词]。"He speaks friendly"是常见错误------想说"友善地"，得绕道用"in a friendly way"。同脸不同命，全看它站在谁身后。
+- #strong[`-ly` 很高产，但不等于来者不拒]。`hard` 加了 `-ly` 变 `hardly` /ˈhɑrdli/，意思从"用力"变成"几乎不"------加个后缀，语义直接翻车。动手之前，先查查目的地对不对。
 - #strong["身体"是同源背景，不是字面释义]。`quickly` 的祖先确实跟"身体"沾亲，但你不能真把它翻成"以快的身体做"------那是一千年前的事了，血肉早就风化成了骨架。
 - #strong[扁平副词（`drive slow`、`go fast`）不等于 `-ly` 在消亡]。英语一直有不带 `-ly` 的副词，`-ly` 至今仍是高产后缀，没半点要退休的意思。
 
@@ -11833,7 +11831,7 @@ September 的旧账算完了，接下来轮到那些老老实实数数的前缀-
 
 ==== 【思考题】（答案见附录 A）
 <思考题答案见附录-a-31>
-+ 古英语形容词 `-līc` 和副词 `-līce` 分别怎样对应现代 `friendly` 与 `quickly`?
++ 古英语形容词 `-līc` 和副词 `-līce` 分别怎样对应现代 `friendly` /ˈfrɛndli/ 与 `quickly`?
 + 为什么 `friendly` 是形容词不是副词？（提示：加在名词 friend 后）
 + 古英语 `-lic` 到现代 `-ly`，从"身体"到"方式"的漂移，说明了语言演变的什么规律？
 
@@ -12092,8 +12090,8 @@ September 的旧账算完了，接下来轮到那些老老实实数数的前缀-
 
 #strong[\3. buy vs purchase] 日常购物用 buy（亲切）；正式采购、商务合同用 purchase（正式）。
 
-==== 第 26 章法语词根速查
-<第-26-章法语词根速查-1>
+==== 第 26 章法语借词与词族速查
+<第-26-章法语借词与词族速查-1>
 #strong[\1. government = 掌舵]古希腊 kybernan（掌舵）→ 拉丁 gubernare → 治理国家像驾驶船只。
 
 #strong[\2. parliament = 谈话、讨论、会议]古法语#emph[parlement] 原指说话、讨论，后来指会议和议会。`-ment` 在这里形成行为或结果名词，不是地点后缀。
@@ -12173,6 +12171,10 @@ September 的旧账算完了，接下来轮到那些老老实实数数的前缀-
 #quote(block: true)[
 词源是有趣的话题，重要的是建立"探究为什么"的思维，而不是记住标准答案。
 ]
+
+#horizontalrule
+
+#emph[返回 → #link("../README.md")[全书目录] · 下一篇 → \[附录 B 词根总索引\]（./附录B-词根总索引.md）]
 
 #pagebreak(weak: true)
 
@@ -12456,6 +12458,10 @@ September 的旧账算完了，接下来轮到那些老老实实数数的前缀-
 - #strong[法语]：标示英语直接从法语借入；法语词本身也可能有拉丁语、日耳曼语等更早来源。
 - #strong[日耳曼]：标示古英语、古诺尔斯语或其他日耳曼语来源，具体路线见正文。
 
+#horizontalrule
+
+#emph[上一篇 → \[附录 A 思考题参考答案\]（./附录A-思考题答案.md） · 返回 → #link("../README.md")[全书目录] · 下一篇 → \[附录 C 词缀总索引\]（./附录C-词缀总索引.md）]
+
 #pagebreak(weak: true)
 
 == 附录 C：词缀与组合形式总索引
@@ -12731,6 +12737,10 @@ trans- + mit
 <第三步回到整词的实际意义>
 词根词缀只能提供推测入口，不能替代词典和语境。`understand` 不能按现代 `under + stand` 译成"站在下面"，`department` 也不能因为含有 `art` 字母就解释成"艺术部门"。
 
+#horizontalrule
+
+#emph[上一篇 → \[附录 B 词根总索引\]（./附录B-词根总索引.md） · 返回 → #link("../README.md")[全书目录] · 下一篇 → \[附录 D 民间词源辨正清单\]（./附录D-民间词源辨正清单.md）]
+
 #pagebreak(weak: true)
 
 == 附录 D：民间词源辨正清单
@@ -12995,6 +13005,10 @@ trans- + mit
 #strong[提示]查证时优先比较历史词典、专业词源词典、古典语言词典和相关研究。Etymonline 可作为入口，OED 提供重要历史引文，但争议问题仍需查看各自列出的证据，不能用"以某两个网站为准"代替论证。
 ]
 
+#horizontalrule
+
+#emph[上一篇 → \[附录 C 词缀总索引\]（./附录C-词缀总索引.md） · 返回 → #link("../README.md")[全书目录] · 下一篇 → \[附录 E 词形变化规律速查\]（./附录E-词形变化规律速查.md）]
+
 #pagebreak(weak: true)
 
 == 附录 E：词形变化规律速查
@@ -13177,3 +13191,7 @@ trans- + mit
 希望这本书让你对英语词汇有了#strong[全新的眼光]：每个词不再是一串字母，而是一条需要证据、也允许保留不确定性的历史路径。下次遇到一个精彩词源故事时，愿你既能记住它，也会追问：最早的文献记录在哪？语音变化说得通吗？证据够不够签字画押？
 
 这就是词根词缀本该有的样子------有故事，有证据，偶尔还有一只不肯吃谷子的神鸡。
+
+#horizontalrule
+
+#emph[上一篇 → \[附录 D 民间词源辨正清单\]（./附录D-民间词源辨正清单.md） · 返回 → #link("../README.md")[全书目录]]

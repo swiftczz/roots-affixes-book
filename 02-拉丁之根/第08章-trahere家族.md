@@ -6,7 +6,7 @@
 > **含义**:拉、拽、拖(to pull, to drag, to draw)
 > **起源**:拉丁动词 ***trahere***("拉、拽、拖"),过去分词 ***tractus***
 
-trahere 家族生成了 `attract` /əˈtrækt/(吸引)、`distract` /dɪˈstrækt/(分散)、`tractor` /ˈtræktər/(拖拉机)、`extract` /ɪkˈstrækt/(提取)、`contract`(合同)、`retract` /rɪˈtrækt/(撤回)等高频词。
+trahere 家族生成了 `attract` /əˈtrækt/(吸引)、`distract` /dɪˈstrækt/(分散)、`tractor` /ˈtræktər/(拖拉机)、`extract` /ɪkˈstrækt/(提取)、`contract` /ˈkɑnˌtrækt/(合同)、`retract` /rɪˈtrækt/(撤回)等高频词。
 
 这个家族最有趣的,是它**从物理的"拉拽"演变出抽象的"吸引/处理"**——词义被一路拖进抽象世界,但绳子还看得见。
 
@@ -70,7 +70,7 @@ flowchart TD
 
 ## 【代表词深讲】四个词的故事
 
-### 词 1:`attract`(吸引)
+### 词 1:`attract` /əˈtrækt/(吸引)
 
 **拆解**:`at-`(ad- 朝向)+ `tract`(拉)= 拉向自己
 
@@ -88,12 +88,12 @@ flowchart TD
 **派生词**:
 
 - `attraction` /əˈtrækʃən/(吸引、吸引力)
-- `attractive`(有吸引力的)
+- `attractive` /əˈtræktɪv/(有吸引力的)
 - `attractor`(吸引子)
 
 ---
 
-### 词 2:`distract`(分散注意力)
+### 词 2:`distract` /dɪˈstrækt/(分散注意力)
 
 **拆解**:`dis-`(分开)+ `tract`(拉)= 拉向不同方向
 
@@ -122,7 +122,7 @@ flowchart TD
 
 ---
 
-### 词 3:`contract`(合同 / 收缩)
+### 词 3:`contract` /ˈkɑnˌtrækt/(合同 / 收缩)
 
 **拆解**:`con-`(共同、一起)+ `tract`(拉)= 拉到一起
 
@@ -147,7 +147,7 @@ flowchart TD
 
 ---
 
-### 词 4:`treat`(对待、治疗)—— 经法语的远亲
+### 词 4:`treat` /trit/(对待、治疗)—— 经法语的远亲
 
 **历史路径**:拉丁 *trahere*(拉)→ 反复/加强形式 *tractare*(处理、操持)→ 法语 → 英语 `treat`
 
@@ -170,7 +170,7 @@ flowchart TD
 > **提示** **同根三兄弟**:
 >
 > - `treat`(对待、治疗):处理人
-> - `treaty`(条约):国与国之间的"处理协议"
+> - `treaty` /ˈtriti/(条约):国与国之间的"处理协议"
 > - `treatise` /ˈtritɪs/(论文):学者对某主题的"系统处理"
 >
 > 它们都经法语的"处理、商谈、论述"词族而来,再在英语中发生分化。
@@ -181,7 +181,7 @@ flowchart TD
 
 **答案:是。**
 
-`portrait`(肖像)、`portray` /pɔrˈtreɪ/(描绘)、`trace` /treɪs/(追溯)、`trace`(痕迹)全都来自 trahere,经过法语。
+`portrait` /ˈpɔrtrət/(肖像)、`portray` /pɔrˈtreɪ/(描绘)、`trace` /treɪs/(追溯)、`trace`(痕迹)全都来自 trahere,经过法语。
 
 ```mermaid
 flowchart TD
@@ -201,17 +201,17 @@ flowchart TD
 
 | 词 | 拆解 | 推义 |
 | ---- | ------ | ------ |
-| `attract` | at- + tract | 拉向 → 吸引 |
-| `distract` | dis- + tract | 分拉 → 分心 |
-| `extract` | ex- + tract | 拉出 → 提取 |
-| `contract` | con- + tract | 拉到一起 → 合同/收缩 |
-| `retract` | re- + tract | 拉回 → 撤回 |
+| `attract` /əˈtrækt/ | at- + tract | 拉向 → 吸引 |
+| `distract` /dɪˈstrækt/ | dis- + tract | 分拉 → 分心 |
+| `extract` /ˈɛkˌstrækt/ | ex- + tract | 拉出 → 提取 |
+| `contract` /ˈkɑnˌtrækt/ | con- + tract | 拉到一起 → 合同/收缩 |
+| `retract` /riˈtrækt/ | re- + tract | 拉回 → 撤回 |
 | `subtract` /səbˈtrækt/ | sub- + tract | 从下拉走 → 减去 |
-| `tractor` | tract + -or | 拉的东西 → 拖拉机 |
+| `tractor` /ˈtræktər/ | tract + -or | 拉的东西 → 拖拉机 |
 | `traction` /ˈtrækʃən/ | tract + -ion | 拉 → 牵引(力) |
-| `treat` | 经法语,源自拉丁 *tractare* | 处理、对待 → 治疗等义 |
-| `treaty` | (法语)treat + -y | 共同处理 → 条约 |
-| `portrait` | (法语)por- + trait | 拉出形象 → 肖像 |
+| `treat` /trit/ | 经法语,源自拉丁 *tractare* | 处理、对待 → 治疗等义 |
+| `treaty` /ˈtriti/ | (法语)treat + -y | 共同处理 → 条约 |
+| `portrait` /ˈpɔrtrət/ | (法语)por- + trait | 拉出形象 → 肖像 |
 
 ---
 
@@ -229,9 +229,9 @@ flowchart TD
 
 ### 【思考题】(答案见附录 A)
 
-1. `subtract`(减去)字面是"从下拉走",为什么等于减法?(提示:从总数里"拉走"一部分)
-2. `retract`(撤回)字面是"拉回来",试想这个动作在哪种情境下意味着撤回言论?
-3. `treaty`(条约)和 `treat` 同根,为什么"处理"变成了"条约"?(提示:国与国"处理"分歧的结果)
+1. `subtract` /səbˈtrækt/(减去)字面是"从下拉走",为什么等于减法?(提示:从总数里"拉走"一部分)
+2. `retract` /riˈtrækt/(撤回)字面是"拉回来",试想这个动作在哪种情境下意味着撤回言论?
+3. `treaty` /ˈtriti/(条约)和 `treat` /trit/ 同根,为什么"处理"变成了"条约"?(提示:国与国"处理"分歧的结果)
 
 ---
 
