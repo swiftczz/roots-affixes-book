@@ -1,4 +1,4 @@
-# 第 8 章 罗马人的"拉拽":trahere 家族
+# 第 8 章 罗马人的拉拽：trahere家族
 
 > 一个"拉"字,把拖拉机、吸引力和合同拽到了同一张桌上。先别报警,它们确实有历史关系。
 
@@ -18,11 +18,6 @@ trahere 家族生成了 `attract` /əˈtrækt/(吸引)、`distract` /dɪˈstræk
 
 在古罗马生活里,***trahere*** 是一个**需要用力的动作**——拉车、拽重物、拖动俘虏。它的核心画面是:**施力把一个东西从一个地方拖到另一个地方**。如果读着都觉得胳膊酸,说明画面已经记住了。
 
-```mermaid
-flowchart TD
-    puller["施力者"] -- "拉(trahere)" --> load["重物<br/>(被拖动)"]
-```
-
 从这个"拉拽"的核心义,衍生出三个抽象方向:
 
 | 延伸方向 | 抽象义 | 例词 | 画面 |
@@ -31,40 +26,15 @@ flowchart TD
 | ② 吸引(抽象) | draw toward | attract(吸引):at-(向)+ tract → 拉向自己<br/>→ 物理的"拉"变成抽象的"吸引" | 拉向自己 |
 | ③ 操持、处理 | treat | 拉丁 tractare 已有"处理、操持"义,经法语进入英语<br/>treatment(治疗):被处理的过程 | 处理、操持 |
 
-### trahere 的拼写变体
+---
+
+## 【家族树】trahere 的子孙
 
 | 形式 | 说明 | 例 |
 | ------ | ------ | ------ |
 | 现在时词干:`trah-` | 很少直接出现在英语里 | — |
 | 过去分词词干:`tract-` | 绝大多数英语派生词 | attract, distract, extract, contract, tractor |
 | 古法语路线:`treat-` | 经古法语 traitier 进入英语 | treat, treatment, treaty /ˈtriti/ |
-
----
-
-## 【家族树】trahere 的子孙
-
-一个"拉"字出门创业,回来时带了十几个孩子——有的在农田开拖拉机,有的在银行签合同,还有一个跑去法国改了姓(treat),差点没认出来。
-
-```mermaid
-flowchart TD
-    root["拉丁 trahere<br/>(拉)"]
-    root --> tract["tract-"]
-    root --> trah["trah-"]
-    root --> treat["treat-(法语)"]
-
-    tract --> attract["attract(吸引)"]
-    tract --> extract["extract(提取)"]
-    tract --> distract["distract(分散)"]
-    tract --> contract["contract(合同)"]
-    tract --> retract["retract(撤回)"]
-    tract --> subtract["subtract(减去)"]
-    tract --> tractor["tractor(拖拉机)"]
-    tract --> traction["traction(牵引)"]
-
-    treat --> treat_w["treat(对待)"]
-    treat --> treaty["treaty(条约)"]
-    treat --> treatment["treatment"]
-```
 
 ---
 
@@ -79,11 +49,6 @@ flowchart TD
 `attract` 字面义是"**拉向自己**"。
 
 这个词的画面非常直观:你用力把一个东西**拉到自己身边**。从物理的"拉",引申为抽象的"吸引"——磁铁吸引铁屑、美貌吸引目光、魅力吸引人心,本质都是"把别的东西拉向自己"。
-
-```mermaid
-flowchart TD
-    attractor["吸引者"] -- "拉(attract)" --> attracted["被吸引物<br/>(人、物、注意力)"]
-```
 
 **派生词**:
 
@@ -201,17 +166,12 @@ flowchart TD
 
 | 词 | 拆解 | 推义 |
 | ---- | ------ | ------ |
-| `attract` /əˈtrækt/ | at- + tract | 拉向 → 吸引 |
-| `distract` /dɪˈstrækt/ | dis- + tract | 分拉 → 分心 |
 | `extract` /ɪkˈstrækt/ | ex- + tract | 拉出 → 提取 |
-| `contract` /ˈkɑnˌtrækt/ | con- + tract | 拉到一起 → 合同/收缩 |
 | `retract` /rɪˈtrækt/ | re- + tract | 拉回 → 撤回 |
 | `subtract` /səbˈtrækt/ | sub- + tract | 从下拉走 → 减去 |
 | `tractor` /ˈtræktər/ | tract + -or | 拉的东西 → 拖拉机 |
 | `traction` /ˈtrækʃən/ | tract + -ion | 拉 → 牵引(力) |
-| `treat` /trit/ | 经法语,源自拉丁 *tractare* | 处理、对待 → 治疗等义 |
 | `treaty` /ˈtriti/ | (法语)treat + -y | 共同处理 → 条约 |
-| `portrait` /ˈpɔrtrət/ | (法语)por- + trait | 拉出形象 → 肖像 |
 
 ---
 
@@ -229,10 +189,10 @@ flowchart TD
 
 ### 【思考题】(答案见附录 A)
 
-1. `subtract` /səbˈtrækt/(减去)字面是"从下拉走",为什么等于减法?(提示:从总数里"拉走"一部分)
-2. `retract` /rɪˈtrækt/(撤回)字面是"拉回来",试想这个动作在哪种情境下意味着撤回言论?
-3. `treaty` /ˈtriti/(条约)和 `treat` /trit/ 同根,为什么"处理"变成了"条约"?(提示:国与国"处理"分歧的结果)
+1. **(破除误解)** `contract` 有"合同"和"收缩"两个看似无关的意思,本章说它们都来自"拉到一起"。请分别说明这两支怎么长出来。再想一步:如果你只知道"contract = 拉到一起",能**提前预测**它一定会有这两个意思吗?这说明词根解释给你的是"解释力"还是"预测力"?
+2. **(讲证据)** `trace`、`trait`、`portrait` 看着和"拉"毫无关系,本章却把它们归进 trahere。依据是什么?本章说"把线条拉到画布上"这种说法"能助记却不是历史字面定义"——助记画面和历史定义,差别在哪?
+3. **(迁移应用)** 给你 `abstract` /ˈæbstrækt/(抽象的;摘要):`ab-`(离开)+ `tract`(拉)。先推字面义,解释"从具体中拉离"怎么得到"抽象",以及名词"摘要"从何而来。再回答-这个词有 ˈabstract / abˈstract 的重音差异,拆字能告诉你这一点吗?为什么?
 
 ---
 
-*下一章 → [第 9 章 罗马人的"心灵":cor / mens / animus](./第09章-罗马人的心灵.md)*
+*下一章 → [第 9 章 罗马人的心灵：cor, mens, animus](./第09章-罗马人的心灵：cor, mens, animus.md)*

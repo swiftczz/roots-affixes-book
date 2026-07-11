@@ -1,4 +1,4 @@
-# 第 31 章 -able 的身世:从拉丁形容词后缀到英语高产后缀
+# 第 31 章 -able的身世：从拉丁形容词后缀到英语高产后缀
 
 > 英语后缀界有一位出了名的劳模,叫 `-able`。它是个永不疲倦的盖章员,见谁盖谁——`read`(读)过来盖一下,变 `readable` /ˈridəbəl/(可读的);`drink`(喝)过来盖一下,变 `drinkable` /ˈdrɪŋkəbəl/(可喝的)。整本动词表排着队等它盖章,它从不歇业。
 
@@ -18,24 +18,16 @@
 
 `-able` 是那个**外向、爱交朋友、至今还在四处接活**的兄弟。它来自拉丁后缀 ***-abilis***,加在动词后,表示"**能被……的、值得被……的**"。
 
-```mermaid
-flowchart TD
-    L["拉丁 -abilis<br/>(能……的)"] --> OF["古法语 -able"] --> ENG["英语 -able"]
-    ENG --> EX1["read + able → readable<br/>(可读的)"]
-    ENG --> EX2["drink + able → drinkable<br/>(可饮用的)"]
-    ENG --> EX3["predict + able → predictable<br/>(可预测的)"]
-```
-
 ### -ible 来自拉丁 -ibilis
 
 `-ible` 则是那个**宅在家里、不太出门**的兄弟。它来自拉丁 ***-ibilis***,与 `-abilis` 历史同源,但性格保守得多:它主要待在那些从法语、拉丁语传进来的既有词里,名单稳定,临时扩招很少。你今天想自己造个新词去求它盖章?它多半摆摆手——"这不归我管,你去找我哥。"
 
+两条路线不用各拍一张证件照,合在一张图里反而更容易看出区别:
+
 ```mermaid
-flowchart TD
-    L["拉丁 -ibilis<br/>(能……的,拉丁词根用)"] --> OF["古法语 -ible"] --> ENG["英语 -ible"]
-    ENG --> EX1["vis + ible → visible<br/>(可见的)"]
-    ENG --> EX2["aud + ible → audible<br/>(听得见的)"]
-    ENG --> EX3["flex + ible → flexible<br/>(灵活的)"]
+flowchart LR
+    A["拉丁 -abilis"] --> B["古法语 -able"] --> C["英语 -able<br/>可继续搭配许多词基"]
+    D["拉丁 -ibilis"] --> E["古法语 -ible"] --> F["英语 -ible<br/>多保留在历史形成的词里"]
 ```
 
 ### -able 和 -ible 的区别
@@ -82,18 +74,7 @@ flowchart TD
 
 ## 31.3 -able 的"前缀 + 动词 + able"模板
 
-`-able` 不仅自己能干,还擅长**叠 buff**——尤其爱跟否定前缀 `un-` 组队。两个家伙凑在一起,一个负责"能被",一个负责"不",合力造出一大批"打不破、躲不开、信不过"的硬核形容词:
-
-| 动词 | 形容词 |
-| ------ | ------ |
-| `read` | `readable` /ˈridəbəl/ |
-| `predict` /prɪˈdɪkt/ | `predictable` /prɪˈdɪktəbəl/ |
-| `avoid` /əˈvɔɪd/ | `avoidable` /əˈvɔɪdəbəl/ |
-| `accept` /ækˈsɛpt/ | `acceptable` /ækˈsɛptəbəl/ |
-| `adore` | `adorable` /əˈdɔrəbəl/ |
-| `compare` /kəmˈpɛr/ | `comparable` /ˈkɑmpərəbəl/ |
-
-**前面再叠一层 `un-`,否定直接翻倍**:
+`-able` 不仅自己能干,还擅长**叠 buff**——尤其爱跟否定前缀 `un-` 组队。上一节已经看过它单独接活,这里直接把 `un-` 叠上去:一个负责"能被",一个负责"不",合力造出一大批"打不破、躲不开、信不过"的硬核形容词。
 
 | 拆分 | 形容词 | 释义 |
 | ------ | ------ | ------ |
@@ -155,12 +136,8 @@ flowchart TD
 | ------ | ------ | ------ | ------ |
 | `-ability` | `able + ity` | `ability` /əˈbɪləˌti/ | 名词(能力) |
 | `-ability` | `read + ability` | `readability` /ˌridəˈbɪləti/ | 名词(可读性) |
-| `-ability` | `pay + ability` | `payability` | 名词(可支付性) |
 | `-ability` | `port + ability` | `portability` /ˌpɔrtəˈbɪləti/ | 名词(可移植性) |
-| `-ably` | `agree + ably` | `agreeably` | 副词(令人愉快地) |
-| `-ably` | `regret + ably` | `regrettably` /rɪˈɡrɛtəbli/ | 副词(遗憾地) |
 | `-ably` | `remark + ably` | `remarkably` /rɪˈmɑrkəbli/ | 副词(非凡地) |
-| `-ableness` | `likable + ness` | `likableness` | 名词,罕见(讨人喜欢) |
 
 `-ability/-ibility` 是最常见的派生,专门把"`-able` 形容词"加工成"性质名词":`portable → portability`(可移植性)、`reliable → reliability`(可靠性)。不过并非每个 `-able` 词都有常用的对应名词,而 `capable → capability` 这种还夹着既有词干的变化。
 
@@ -176,34 +153,13 @@ flowchart TD
 
 那么,一座堡垒是怎么变成软沙发的?故事的逻辑是:`confortare` 先从"加固"引申出"**给力量、给人支持**",再柔化成"**安慰**";`comfortable` 也就从"被强化的"一路软化为"令人安慰的、舒适的"。这是语义学里一次彻底的"软化手术"——**同一个词,一千年前站得像堵墙,今天躺得像张沙发**。
 
-```mermaid
-flowchart TD
-    L["拉丁 confortare<br/>(加强)"] --> OF["古法语 conforter"] --> ENG["英语 comfort + able → comfortable"]
-    ENG -.字面义.-> N["能给人安慰的"]
-```
-
 ### `miserable` /ˈmɪzərəbəl/(悲惨的)
 
 `miserable` 来自拉丁 ***miser***——"**悲惨的、可怜的**"。这词在拉丁语里天生就是个叹气的词,自带倒霉气场。它加上 `-abilis` 变成 *miserabilis*,本义是"**值得可怜的**";但语义走着走着就加了码,从"值得可怜"升级到"非常悲惨"。今天你说一个人 `miserable`,语气里那股彻头彻尾的倒霉劲,**和两千年前罗马人嘴里的 *miser* 几乎原汁原味**——这个词像一根接力棒,把人类的"惨"千年不变地传了下来。
 
-```mermaid
-flowchart TD
-    L1["拉丁 miser<br/>(悲惨的)"] --> L2["拉丁 miserabilis<br/>(值得可怜的)"] --> ENG["英语 miserable<br/>(悲惨的)"]
-    ENG -.本义.-> OLD["值得可怜的"]
-    ENG -.今天.-> NEW["非常悲惨的"]
-```
-
 ### `horrible` /ˈhɔrəbəl/(可怕的)vs `horrid` /ˈhɔrɪd/(恐怖的)
 
 这两个词是一对**失散多年的兄弟**,共同的父亲是拉丁 ***horrere***——"**发抖、毛骨悚然**"。`horrible` 走的是 `horribilis`(`-ibilis` 那条线)的形容词路线,最终长成"可怕的";`horrid` 则从 `horridus` 那边出来,本义偏"粗糙、令人毛骨悚然"。哥俩同根而生,长大后长相有别、性格也略有不同,但你一听就知道是一家人——那种让人脊背发凉的感觉,他们都从父亲那里继承了。
-
-```mermaid
-flowchart TD
-    R["拉丁 horrere<br/>(发抖、害怕)"]
-    R --> A["horribilis"] --> A2["horrible<br/>(可怕的)"]
-    R --> H["horror<br/>(恐惧)"]
-    R --> D["horridus"] --> D2["horrid<br/>(粗糙、可怕的)"]
-```
 
 ---
 
@@ -243,10 +199,10 @@ flowchart TD
 
 ### 【思考题】(答案见附录 A)
 
-1. `readable` /ˈridəbəl/(可读的)字面是"能被读的",想想要满足什么条件一本书才 readable?
-2. 为什么 `unbelievable` /ˌʌnbəˈlivəbəl/(难以置信的)是 un + believ + able 的结构?(提示:否定 + 能 + 被信)
-3. `remarkable` /rɪˈmɑrkəbəl/(非凡的)字面是"值得谈论的",为什么这个意思引申为"非凡"?
+1. **(破除误解)** `-able` 一般表示"能被……的"(被动),可 `comfortable` 却是"令人舒适的"(主动),`readable` 是"能被读的"(被动)。为什么同一个 `-able` 会有两种?这提醒你拆 `-able` 词时不能怎么做?
+2. **(讲证据)** `-able` 和 `-ible` 只差一个字母、读音也几乎一样。为什么不能靠一条"什么时候用 a、什么时候用 i"的规则拼对?它俩的分工是怎么来的?拿不准时该怎么办?
+3. **(迁移应用)** `remarkable` = remark(谈论)+ able,却意为"非凡"。请解释这条引申(顺便说说 `-able` 除"能被"外还能表什么)。再判断-随手造的 `sleepable` 为什么不一定成词——`-able` 能加在任意动词后吗?
 
 ---
 
-*下一章 → [第 32 章 -ism 与 -ist:希腊名词后缀如何走向世界](./第32章-ism与ist.md)*
+*下一章 → [第 32 章 -ism与-ist：希腊名词后缀如何走向世界](./第32章--ism与-ist：希腊名词后缀如何走向世界.md)*

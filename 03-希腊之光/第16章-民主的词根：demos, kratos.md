@@ -1,4 +1,4 @@
-# 第 16 章 民主的词根:demos + kratos
+# 第 16 章 民主的词根：demos, kratos
 
 > 把 `demos` 和 `kratos` 拼在一起很容易,让"人民"与"权力"在现实中正确相处却困难得多。词只用了两块乐高,制度建设用了两千多年。
 
@@ -22,15 +22,6 @@
 
 希腊词 ***dēmokratia*** 正是用来描述这种秩序:*dēmos*(人民)+ *kratos*(统治)= **人民的统治**。
 
-```mermaid
-flowchart TD
-    demos["dēmos<br/>(人民)"]
-    kratos["kratos<br/>(统治)"]
-    demos --> dmok["dēmokratia<br/>= 人民的统治"]
-    kratos --> dmok
-    dmok --> dem["democracy<br/>(民主)"]
-```
-
 ### 陶片放逐法:民主最戏剧的仪式
 
 克里斯提尼改革还留下了一项仪式,可能是历史上最戏剧化的投票——**陶片放逐法(ostracism)** /ˈɑstrəˌsɪzəm/。
@@ -44,12 +35,6 @@ flowchart TD
 这套机制的设计初衷很妙:防止任何一个人权力大到想当独裁者(僭主)。只要有人冒头、有人开始"功高震主",公民们就用碎陶片把他投出去。**公元前 482 年,雅典人就这么把名声过大的地米斯托克利(Themistocles)投走了**——正是后来打赢波斯的关键将领。民主有时候也挺无情。
 
 这个词根留下了两份遗产:一个是 `ostracism` /ˈɑstrəˌsɪzəm/(放逐、排斥),直接来自那块 ostrakon(碎陶片);另一个是这套仪式本身的画面——**几千人在广场上,用破罐子碎片决定一个人的命运**。
-
-```mermaid
-flowchart LR
-    ostrakon["ostrakon<br/>(碎陶片)"] --> ostracism["ostracize<br/>(放逐、排斥)"]
-    ostracism --> today["今天:把某人<br/>排除出社交圈"]
-```
 
 > **提示** 这个词把"公民群体"和"权力、统治"组合起来,体现了雅典政治观念的重大变化。不过古代雅典的 *dēmos* 不等于现代普选意义上的"全体人民"。
 
@@ -101,12 +86,6 @@ flowchart LR
 **几个代表词的故事**:
 
 **`epidemic` /ˌɛpəˈdɛmɪk/(流行的;流行病)** —— 来自希腊 *epidēmios* "在人民中、在本地流行的",由 `epi-` 与 *dēmos* 相关形式构成。重点是"在人群中普遍存在",不是"疾病压在人民头上"。
-
-```mermaid
-flowchart TD
-    a["某种现象或疾病"] --> b["在一个地区或人群中<br/>普遍出现"]
-    b --> c["epidemic"]
-```
 
 **`pandemic` /pænˈdɛmɪk/(大流行的;大流行病)** —— `pan-`(全、广泛)+ `dēm-`(人民)+ `-ic`,表示跨越多个国家或大陆、影响广泛人群的流行。它不必字面覆盖"全人类"。
 
@@ -174,39 +153,7 @@ flowchart TD
 
 ## 【家族树】demo 和 crat 的子孙
 
-```mermaid
-flowchart TD
-    demos["demos<br/>(人民)"]
-    kratos["kratos<br/>(统治)"]
-
-    demos --> d1["demo- 组合形式"]
-    demos --> d2["复合词"]
-
-    d1 --> d1a["democracy<br/>(民主)"]
-    d1 --> d1b["epidemic<br/>(流行病)"]
-    d1 --> d1c["pandemic<br/>(大流行)"]
-    d1 --> d1d["demography<br/>(人口学)"]
-    d1 --> d1e["demagogue<br/>(煽动者)"]
-
-    kratos --> k1["-cracy<br/>(制度)"]
-    kratos --> k2["-crat<br/>(统治者)"]
-
-    k1 --> k1a["democracy"]
-    k1 --> k1b["aristocracy"]
-    k1 --> k1c["plutocracy"]
-    k1 --> k1d["theocracy"]
-    k1 --> k1e["bureaucracy"]
-    k1 --> k1f["technocracy"]
-    k1 --> k1g["meritocracy"]
-
-    k2 --> k2a["democrat"]
-    k2 --> k2b["aristocrat"]
-    k2 --> k2c["plutocrat"]
-    k2 --> k2d["theocrat"]
-    k2 --> k2e["bureaucrat"]
-    k2 --> k2f["technocrat"]
-    k2 --> k2g["meritocrat"]
-```
+家族树其实只有两条粗枝:`demo-` 关心人民与人群,`-cracy/-crat` 关心统治制度和统治者。上文已经把每个孩子逐一介绍过,这里不再让他们换成方框重新走一遍红毯。
 
 ---
 
@@ -230,17 +177,11 @@ timeline
 
 | 词 | 拆解 | 推义 |
 | ---- | ------ | ------ |
-| `democracy` /dɪˈmɑkrəsi/ | demo + cracy | 人民统治 → 民主 |
 | `democrat` /ˈdɛməˌkræt/ | demo + crat | 人民统治者 → 民主派 |
 | `demographic` /ˌdɛməˈɡræfɪk/ | demo + graph + ic | 描写人民的 → 人口的 |
 | `demography` /dɪˈmɑɡrəfi/ | demo + graphy | 描写人民 → 人口学 |
-| `demagogue` /ˈdɛməˌɡɑɡ/ | demo + agogue | 带领人民 → 煽动者 |
-| `epidemic` /ˌɛpəˈdɛmɪk/ | epi + dēm + ic | 在人群中普遍出现 → 流行的、流行病 |
-| `pandemic` /pænˈdɛmɪk/ | pan + dēm + ic | 遍及广泛人群 → 大流行 |
 | `aristocracy` /ˌɛrəˈstɑkrəsi/ | aristo + cracy | 最好者统治 → 贵族制 |
-| `plutocracy` | pluto + cracy | 富人统治 → 财阀制 |
 | `theocracy` /θiˈɑkrəsi/ | theo + cracy | 神统治 → 神权制 |
-| `bureaucracy` /bjʊˈrɑkrəsi/ | bureau + cracy | 办公桌统治 → 官僚制 |
 | `meritocracy` /ˌmɛrɪˈtɑkrəsi/ | merit + cracy | 能者统治 → 精英制 |
 | `technocrat` /ˈtɛknəˌkræt/ | techno + crat | 技术统治者 → 技术官僚 |
 
@@ -271,10 +212,10 @@ timeline
 
 ### 【思考题】(答案见附录 A)
 
-1. `epidemic` /ˌɛpəˈdɛmɪk/ 为什么不能解释成"压在人民头上的病"?它的历史核心义是什么?
-2. `aristocracy` /ˌɛrəˈstɑkrəsi/(贵族制)字面是"最好的统治",这种命名带着什么样的政治理想?(提示:让最优秀的人治国)
-3. `bureaucracy` /bjʊˈrɑkrəsi/(官僚制)字面是"办公桌统治",这种命名带着什么讽刺意味?
+1. **(破除误解)** `epidemic` 为什么不能解释成"压在人民头上的病"?它的历史核心义是什么?`epi-` 和 `demos` 各自贡献了什么?
+2. **(讲证据)** `demagogue` 字面是"带领人民的人",听着正面,却几乎永远是贬义。这个贬义是怎么来的、由谁塑造的?这跟上一章 `sophist` 的遭遇像不像?
+3. **(迁移应用)** `-cracy`(统治)、`-crat`(统治者)是高产后缀。用 `geronto-`(老人)造出"老人统治",再拆一个真实词 `kleptocracy` /klɛpˈtɑkrəsi/(klepto- 偷)。最后回答:本章说 `-cracy` 不是"见谁都能拼的万能接口"(biocrat ❌),那"拼得出"和"真的是个词"差在哪?
 
 ---
 
-*下一章 → [第 17 章 神话与词汇:普通词、神名和后世命名](./第17章-众神的词根.md)*
+*下一章 → [第 17 章 神话与词汇：普通词、神名和后世命名](./第17章-神话与词汇：普通词、神名和后世命名.md)*

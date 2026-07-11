@@ -1,4 +1,4 @@
-# 第 18 章 学科的词根:-logy / -graphy / -metry 的由来
+# 第 18 章 学科的词根：-logy, -graphy, -metry的由来
 
 > 看到 `-logy`、`-graphy`、`-metry`,先别被它们那身学术长袍震住。脱下袍子,你会发现三个朴素的工种:一个负责**研究**,一个负责**记录**,一个负责**测量**——学术世界也得有明确分工。
 
@@ -21,18 +21,6 @@
 ### 【起源故事】
 
 希腊文 ***logos***(λόγος)是古希腊语里语义最膨胀的一个词。它的本义朴素得不能再朴素——**话、言辞、说出来的东西**。可就是这么一个"话",被古希腊人几百年里反复加料、反复升级,最后膨胀成一只塞满"理性、规律、宇宙法则、神圣之道"的大行李箱。把它只翻成一个"逻各斯",往往像把一整只行李箱贴成一张标签。
-
-```mermaid
-flowchart TD
-    logos["希腊 logos<br/>(言辞、论说)"]
-    logos --> yanyu["话、言辞<br/>(语言层面)"]
-    yanyu --> taolun["用话语讨论某事<br/>→ 关于某物的学问"]
-    taolun --> logy["-logy(……学)"]
-    logos --> lixing["理性、道理<br/>(哲学层面)"]
-    lixing --> logic["logic(逻辑)"]
-    logos --> faze["宇宙法则<br/>(神学层面)"]
-    faze --> yuehan["约翰福音<br/>太初有道 logos"]
-```
 
 **【logos 的升格:从"话语"到"宇宙法则"】**
 
@@ -95,19 +83,6 @@ flowchart TD
 ### 【起源故事】
 
 希腊文 ***graphein***(γράφειν)意为"**写、刻、画**"。注意:在纸张普及前,希腊人写字是**在蜡板上用尖笔刻**,所以 graphein 带着强烈的"刻划"感——它不是轻飘飘地蘸墨水,而是一笔一画往蜡上扎。这种"刻划"的肌肉记忆,后来一直留在 graph 这个词根里。
-
-```mermaid
-flowchart TD
-    graphein["希腊 graphein<br/>写、刻、画、记录"]
-    graphein --> graphNode["graph(写的结果)"]
-    graphNode --> paragraph["paragraph 段落<br/>para 旁边 + graph 写在旁边的"]
-    graphNode --> telegraph["telegraph 电报<br/>tele 远 + graph 写远方"]
-    graphNode --> photograph["photograph 照片<br/>photo 光 + graph 用光写"]
-    graphein --> graphy["-graphy<br/>(记录的学科)"]
-    graphy --> geography["geography 地理<br/>geo 地 + graphy 描写"]
-    graphy --> biography["biography 传记<br/>bio 人生 + graphy 记录"]
-    graphy -.概念相关,并非同根.-> history["history 史<br/>(不同根但相关)"]
-```
 
 ### 【-graphy 的演变:从"写"到"系统记录的学科"】
 
@@ -205,15 +180,6 @@ flowchart TD
 
 但希罗多德讲的那个故事,实在太值得展开——因为它能让你闻到几何学诞生时的**那股泥巴味**。
 
-```mermaid
-flowchart TD
-    A["古埃及(尼罗河泛滥)"] --> B["洪水退 → 土地边界乱"]
-    B --> C["需要重新测量土地"]
-    C --> D["发展出测地术"]
-    D --> E["希腊人叫 geōmetria<br/>geo + metron"]
-    E --> F["geometry(几何学)"]
-```
-
 公元前 5 世纪,希罗多德在《历史》第二卷里写下这么一段:每年夏天,尼罗河准时泛滥,浑浊的洪水漫过两岸的田地,把一切沟渠、田埂、地界统统冲平。等洪水退去——**每个人家那块地的边界全没了**。你家那块麦田和邻居家那块之间本来有条沟,现在沟没了;本来有块石头当界碑,现在石头不知被冲到哪里去了。谁的地往哪儿延伸、应该交多少税、这块地到底算谁的——全乱套了。
 
 *(传说)* 想象一下洪水退去后的尼罗河岸。泥泞还泛着水光,蚊子嗡嗡,空气里一股河泥的腥味。一群**书吏**——古埃及管丈地的官员——赤着脚踩进烂泥里,手里攥着**打了结的绳子**(就是那种按固定长度打好结的测绳,一拉就是一段标准长度)。他们弯着腰,把绳子绷直,两人各拽一头,沿泥地一步步往前量;量完一段,在地上戳个记号,再量下一段。重新把每块地的边界一寸一寸"找回来"。
@@ -271,34 +237,7 @@ flowchart TD
 
 最后来一张全家福。logos、graphein、metron 三位老祖宗站在最上面,下面密密麻麻挤满了子孙——你认识的每一门学科,多半能在这棵树上找到自己的枝头。
 
-```mermaid
-flowchart TD
-    logos["logos(话语)"] --> logy["-logy"]
-    graphein["graphein(写)"] --> graphy["-graphy"]
-    metron["metron(测量)"] --> metry["-metry"]
-
-    logy --> biology["biology"]
-    logy --> psychology["psychology"]
-    logy --> geology["geology"]
-    logy --> sociology["sociology"]
-    logy --> theology["theology"]
-    logy --> philology["philology"]
-    logy --> ecology["ecology"]
-    logy --> anthropology["anthropology"]
-
-    graphy --> geography["geography"]
-    graphy --> biography["biography"]
-    graphy --> photography["photography"]
-    graphy --> calligraphy["calligraphy"]
-    graphy --> cartography["cartography"]
-    graphy --> bibliography["bibliography"]
-
-    metry --> geometry["geometry"]
-    metry --> symmetry["symmetry"]
-    metry --> trigonometry["trigonometry"]
-    metry --> optometry["optometry"]
-    metry --> stoichiometry["stoichiometry"]
-```
+前面的三个家族表已经把孩子们点过名。这里留一张口头全家福就够了:`-logy` 负责论述与学科,`-graphy` 负责书写和系统记录,`-metry` 负责尺度与测量。三位祖宗分工明确,不用再把二十多个后代塞进一张地铁线路图。
 
 ---
 
@@ -316,9 +255,9 @@ flowchart TD
 
 ### 【思考题】(答案见附录 A)
 
-1. `biography` /baɪˈɑɡrəfi/(传记)拆开是 bio + graphy,为什么"记录人生"等于传记?
-2. `geometry` /dʒiˈɑmətri/ 的构形与"测地"有关;尼罗河泛滥后重分土地的传统故事能说明什么,又不能单独证明什么?
-3. `economy` /ɪˈkɑnəmi/ 经希腊 *oikonomia* 表示家庭或产业管理;它怎样扩展成现代"经济"概念?
+1. **(破除误解)** `geology`(地质学)和 `geography`(地理学)都以 `geo-` 开头,只换了词尾,学科性质却不同。本章用"理论派 vs 田野派"区分 `-logy` 和 `-graphy`——请解释这个区别从何而来,并想一想:它是"硬规则"还是"倾向"?
+2. **(讲证据)** `geometry` 的构形与"测地"有关。希罗多德记载的"尼罗河泛滥后重分土地"故事,能说明什么?又**不能单独证明**什么?
+3. **(迁移应用)** 本章说 `economy`(eco 房子 + nomy 管理)最早是"管家学"(管好一间屋子),今天却指一国的生产流通。用这个词说明:字面义/词根能帮你追回一个词的**起点**,为什么却预测不了它会"膨胀"到今天这么大?(可对照第 8 章"解释力 vs 预测力")
 
 ---
 

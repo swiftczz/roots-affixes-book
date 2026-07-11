@@ -1,4 +1,4 @@
-# 第 4 章 罗马人的"看":specere 家族
+# 第 4 章 罗马人的看：specere家族
 
 > 罗马人用一个"看"养活了一整个词族。放到今天,`spec-` 大概算词根界业务最繁忙的摄像头。
 
@@ -23,14 +23,6 @@
 
 四个场景,一个动词。拉丁语管"看"叫 ***specere***(古典拼写 *specere*,变形 *spectare*),后来长出了一大堆"看"的子孙。它的核心义是**有目的地注视、观察**——不是漫不经心地瞥一眼,而是**认真看、存心看、看出点名堂来**。罗马人是真的相信"看"这件事能看出吉凶、看出品行、看出神的旨意——于是这个"看"字,顺理成章地繁衍成了拉丁语里子孙最旺的一支。
 
-```mermaid
-flowchart TD
-    PIE["原始印欧语<br/>*spek-(观察、注视)<br/>约公元前 1000 年"]
-    PIE --> L["拉丁语<br/>specere / spectare(看)"]
-    L --> D["直接派生大量拉丁词<br/>spectrum(景象)<br/>spectaculum(表演)<br/>species(外观→种类)<br/>speculum(镜子)"]
-    D --> E["英语<br/>spect 词根家族<br/>(文艺复兴时期,大量整词进入英语)"]
-```
-
 > **几个"看"词族的关系**
 >
 > 拉丁 *specere* 与希腊 *skopein* 常被联系到表示观察的印欧语词族:
@@ -41,7 +33,9 @@ flowchart TD
 >
 > 因此 `spect` 与 `scope` 可作历史亲缘比较;`see` 只能作为语义上的本族对应词,不应在争议未决时断言三者必定同根。
 
-### specere 的变体:为什么会有 spec/spic/spect/speci
+---
+
+## 【家族树】specere 的子孙
 
 这是初学者最头疼的一点——明明是同一个家族,凭什么有四种拼法?简单说,这是因为拉丁语在不同语境(复合词、相关动词 *spectare*、各种派生名词)里头,对这个词根动了不同的"小手术"。**别把它们当成时态变化**——它们是同一个根在不同打扮下的样子,有点像一个人回家穿睡衣(spec)、出门穿西装(spect)、上台穿礼服(spic)。
 
@@ -55,40 +49,6 @@ flowchart TD
 > **小提示**:`inspect` /ɪnˈspɛkt/、`expect` 这些词在现代英语里的意思(检查、期待)是经过漫长语义漂移的,不是"已经被看/已经被期待"的简单直译。别拿拆字公式去套现代词义,会漏掉中间两千年。
 
 **记忆口诀**:**看到 `spec/spic/spect/speci`,都是"看"**。不要被四种拼写吓到,核心义只有一个。
-
----
-
-## 【家族树】specere 的子孙
-
-下面这张图,是 specere 家的全家福——一个"看"字出门,回来时带了二十多个孩子,每个都觉得自己和"看"没什么关系。
-
-```mermaid
-flowchart TD
-    specere["拉丁 specere<br/>(看)"]
-    specere --> spec["spec-<br/>(基本形式)"]
-    specere --> spect["spect-<br/>(相关词干)"]
-    specere --> spic["spic-<br/>(复合弱化)"]
-
-    spec --> special["special<br/>(特别的)"]
-    spec --> specimen["specimen<br/>(样本)"]
-    spec --> species["species<br/>(种类)"]
-
-    spect --> spectacle["spectacle<br/>(奇观)"]
-    spectacle --> spectacular["spectacular<br/>(壮观的)"]
-    spect --> spectator["spectator<br/>(观众)"]
-    spect --> inspect["inspect<br/>(检查:向内看)"]
-    spect --> aspect["aspect<br/>(方面:朝着看)"]
-    spect --> respect["respect<br/>(尊重:回头看)"]
-    spect --> suspect["suspect<br/>(怀疑:从下看)"]
-    spect --> perspective["perspective<br/>(视角:透过看)"]
-    spect --> introspection["introspection<br/>(内省:向内心看)"]
-
-    spic --> conspicuous["conspicuous<br/>(显眼的)"]
-    spic --> auspice["auspice<br/>(吉兆:观鸟)"]
-    spic --> suspicion["suspicion<br/>(怀疑)"]
-```
-
-**只记一个核心义**:**spec/spic/spect = 看**,就能串起 20+ 个高频词。一个动词养活二十多个后代,放在哪个词族里都算人丁兴旺。
 
 ---
 
@@ -107,11 +67,6 @@ flowchart TD
 这个"回头再看一眼"的物理动作,慢慢凝固成"重视、尊重"的心理意义。今天我们对一位长辈说 "I respect you",本质上和那个在广场上回头的罗马人做的是同一件事——**因为你在意,所以你回头**。
 
 > 反向印证:如果一个人走过去,你连眼皮都不抬一下——那就是 *contempt*(蔑视),字面是"一起蔑视",和 respect 恰好对着干。
-
-```mermaid
-flowchart LR
-    L["拉丁 respectus<br/>(回头看)"] --> N1["回头看<br/>= 引起注意"] --> N2["重视、尊重"] --> E["英语 respect<br/>(尊重)"]
-```
 
 **同根兄弟**:
 
@@ -232,14 +187,6 @@ Pulcher 怎么反应?他勃然大怒,抓起一只神鸡,当众把它扔进了海
 - **`auspicious` /ɑˈspɪʃəs/**(吉利的):"an auspicious start"(一个吉利的开端)——直译就是"神鸡吃得很香的那个开头"。
 - **`inaugurate` /ɪˈnɔɡjəˌreɪt/**(就职):*augur* 占卜官正式就位、为新城奠基、为新官主持仪式 → 今天美国总统的就职典礼还叫 *inauguration*。
 
-```mermaid
-flowchart LR
-    avis["avis(鸟)"] -.->|+ specere| au["auspice<br/>(观鸟→吉兆→赞助)"]
-    au --> aus["auspicious(吉利的)"]
-    augur["augur(占卜官)"] --> inau["inaugurate(就职)"]
-    inau --> chicken["当年要看神鸡<br/>现在总统就职还是这个词"]
-```
-
 > **一个金句帮你记住**:下次再听到 under the auspices of,脑补一下——其实是在"几只神鸡的赞助下"办的事。
 
 ---
@@ -290,20 +237,14 @@ flowchart LR
 
 | 词 | 拆解 | 推义 |
 | ---- | ------ | ------ |
-| `inspect` /ɪnˈspɛkt/ | in- + spect | 向内看 → 检查 |
-| `respect` | re- + spect | 回头看 → 尊重 |
-| `suspect` /səˈspɛkt/ | sub- + spect | 从下看 → 怀疑 |
 | `expect` | ex- + spect | 向外看 → 期待(向外张望等待) |
 | `aspect` /ˈæˌspɛkt/ | a- + spect | 朝着看 → 方面 |
 | `perspective` /pərˈspɛktɪv/ | per- + spect + -ive | 透过看 → 视角 |
-| `introspection` /ˌɪntrəˈspɛkʃən/ | intro- + spect + -ion | 向内看 → 内省 |
 | `retrospective` /ˌrɛtrəˈspɛktɪv/ | retro- + spect + -ive | 向后看 → 回顾的 |
-| `spectator` /ˈspɛkteɪtər/ | spect + -ator | 看的人 → 观众 |
-| `spectacle` /ˈspɛktəkəl/ | spect + -acle | 值得看的 → 奇观 |
 | `circumspect` /ˈsɜrkəmˌspɛkt/ | circum- + spect | 环顾看 → 谨慎的 |
 | `prospect` /ˈprɑspɛkt/ | pro- + spect | 向前看 → 前景 |
 
-**12 个词,只记一个核心义**:`spec = 看`。
+前面深讲过的词不再返场点名。这六个补充词仍然只认一个核心义:`spec = 看`。
 
 > **记忆效率对比**
 >
@@ -316,7 +257,6 @@ flowchart LR
 
 ## 【史实与传说】
 
-- **`see` 和 `spect` 是否同根,学界尚无定论**。`spect` 经拉丁 specere ← 原始印欧语 *spek-;`see` 经古英语 *sēon* ← *sek-。*spek- 与 *sek- 是否本就同一个更古老的根,有人赞成有人反对。本书把它们当作"语义同源"而非"词源同根"来处理。
 - **观神鸡、德里帕那海战、扔鸡入海是真的,但细节有版本差异**。西塞罗、老普林尼、苏维托尼乌斯、卡西乌斯·狄奥都有记载,但"原话怎么说的""扔了几只"各版本略有出入。"Bellum gerant, bibant!" 这一更狠的版本,部分学者认为是后人的演绎。
 - **斗兽场开幕"九千头野兽""庆典一百天"出自古代文献**,古人的统计向来爱凑整,数字本身不必当成精确计量。
 - **`suspect` /səˈspɛkt/ 的"从下面偷看 → 怀疑"是可靠的词源脉络**,但"奴隶偷看主人"这一具体画面是罗马作家笔下的经典意象,属于 *(传说)* 级别的助记场景,不是某条词典定义。
@@ -338,10 +278,10 @@ flowchart LR
 
 ### 【思考题】(答案见附录 A)
 
-1. 拆解 `expect`(期待):它怎么从"向外看"变成"期待"的?(提示:向外张望、等待某人或某事)
-2. 拆解 `circumspect` /ˈsɜrkəmˌspɛkt/(谨慎的):为什么"四面环顾看"等于"谨慎"?
-3. 思考:`spectacular` /spɛkˈtækjələr/(壮观的)的 `spect` + `-acle` + `-ar`,字面义是什么?
+1. **(破除误解)** 有人总结出一条"拆字公式":`spec` 词 = 前缀方向 + 看,所以字面义就等于它今天的意思。请用本章的 `suspect`(从下往上看)和 `respect`(回头看)两个词,说明这条公式在什么地方会失灵;那么"拆字"到底该在记单词的哪一步派上用场?
+2. **(讲证据)** `auspice` /ˈɔspɪs/ 的 `au-` 很容易被当成 *aurum*(金)——理解成"看到金子=吉利"。本章给的是另一种来源。假设你手边没有词典,只凭 `augur`、`inaugurate`、`auspicious` 这几个同族词,你能找到哪些线索来支持"`au-` = 鸟(*avis*)"而不是"金"?
+3. **(迁移应用)** 给你一个本章没讲过的词 `perspicacious` /ˌpɜrspɪˈkeɪʃəs/(敏锐的、有洞察力的)。先用 spec 家族的方法拆出它的字面义、推测词义是怎么来的;再回答-为什么这样拆能帮你**记住**它,却不足以让你在写作中**用准**它?
 
 ---
 
-*下一章 → [第 5 章 罗马人的"引导":ducere 家族](./第05章-ducere家族.md)*
+*下一章 → [第 5 章 罗马人的引导：ducere家族](./第05章-罗马人的引导：ducere家族.md)*

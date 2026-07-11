@@ -1,4 +1,4 @@
-# 第 12 章 罗马人的"法律":lex / jus
+# 第 12 章 罗马人的法律：lex, jus
 
 > 词根法庭现在开庭:`lex` 负责成文规则,`jus` 负责法、权利与正义。请读者保持安静,但可以对例词提出合理质疑。
 
@@ -7,11 +7,6 @@
 > **起源**:拉丁名词 ***lex***(法律)、***jus***(正义、法权)、动词 ***jurare***(宣誓)
 
 这一章讲两个常见的拉丁法律词族。罗马法深刻影响了欧洲大陆法和教会法;英格兰普通法走的是不同制度路线,但其法律词汇仍通过拉丁语和法语吸收了大量相关词。**词汇借用不等于制度直接继承**,否则背会 `jury` /ˈdʒʊri/ 就自动通过司法考试了。
-
-| 词根 | 含义 | 关注点 | 代表词 |
-| ---- | ---- | ------ | ------ |
-| `lex` / `legis-` | 法律、制定法 | 成文法 | legal, legislate /ˈlɛdʒɪˌsleɪt/, legitimate /lɪˈdʒɪtəmət/ |
-| `jus` / `jur-` | 正义、法权 | 公正、权利、宣誓 | justice, jury, juror /ˈdʒʊrər/, jurisdiction /ˌdʒʊrɪsˈdɪkʃən/ |
 
 ---
 
@@ -22,14 +17,6 @@
 拉丁语 ***lex***(法律),属格是 ***legis***。许多词源资料把它与拉丁 *legere* "收集、选择、读取"联系起来,但更早关系并非完全确定,也有学者考虑相反的语义发展方向。
 
 因此,"法律是被收集、选定的规则"可以作为记忆联想,不能写成已经证实的历史语义。联想可以帮忙记忆,但不能穿上西装冒充证据。
-
-```mermaid
-flowchart TD
-    pie["原始印欧语 *leg-<br/>(收集、选取)"]
-    lex["拉丁 lex<br/>(法律)"]
-    pie --> lex
-    lex ~~~ link["可能的语义联系:<br/>选择、收集 ↔ 选定的规则"]
-```
 
 > **提示** **几个外形相近、可能有更早亲缘的家族**:
 >
@@ -49,12 +36,6 @@ flowchart TD
 
 **`privilege` /ˈprɪvəlɪdʒ/(特权)** —— `priv-`(私人)+ `leg-`(法律)= **私人法律**。一种只针对某个人的特殊法律,就是特权。这个词完美展示了拉丁构词的精妙:特权 = 私人的法律。
 
-| | 普通法律(适用所有人) | 特权(privilege) |
-| ---- | ------ | ------ |
-| 规则 A | 适用 | 规则 A + 私人豁免 |
-| 规则 B | 适用 | 规则 B + 私人豁免 |
-| 说明 | | 只对某个人有效 = 私人法律(priv + leg) |
-
 ---
 
 ## 易混词族:`līs` / `līt-`(诉讼、争端)
@@ -70,14 +51,6 @@ flowchart TD
 拉丁语 ***jus***(正义、法权),是古罗马法学最核心的概念。罗马法学家 Celsus 留下名言:*"Jus est ars boni et aequi"*(法律是关于善与平等的艺术)。
 
 这个词族在英语里保留了两组常见形态:`jus-/just-` 多见于 `justice/just`,`jur-` 多见于 `jury` /ˈdʒʊri/、`juror`、`perjury` /ˈpɜrdʒəri/ 和 `jurisdiction` /ˌdʒʊrɪsˈdɪkʃən/。拉丁 ***jurare***(宣誓)是从 *jus/juris* 词族形成的动词;誓言与法定权利、法律程序相连,但"把自己绑在正义上"只是助记隐喻。
-
-```mermaid
-flowchart TD
-    jus["jus<br/>(正义、法权)"]
-    jurare["jurare<br/>(宣誓)"]
-    desc["在法律或宗教程序中正式起誓"]
-    jus --> jurare --> desc
-```
 
 ### 【代表词深讲】
 
@@ -95,14 +68,6 @@ flowchart TD
 
 **`injure` /ˈɪndʒər/(伤害)** —— `in-`(不)+ `jur`(正义)= **不正义**。对一个人做不正义的事,就是伤害他。所以 injury(伤害)字面义是"不正义的行为"。
 
-```mermaid
-flowchart TD
-    jus["正义(jus)"]
-    injury["不正义<br/>(in-jury)"]
-    hurt["对他人的伤害"]
-    jus -- 被违反 --> injury --> hurt
-```
-
 > **提示** 这个词源能帮助理解 `injury` /ˈɪndʒəri/ 为什么既可指身体损害,也可指法律上的权利受损。但现代各义由长期使用形成,不能概括成所有古罗马人对伤害的统一哲学定义。
 
 **`perjury` /ˈpɜrdʒəri/(伪证)** —— `per-`(彻底、背离)+ `jur`(宣誓)= **彻底背离宣誓**。在法庭上宣了誓还说谎,就是伪证罪。
@@ -111,20 +76,13 @@ flowchart TD
 
 ## 【家族树】lex 和 jus 的子孙
 
-```mermaid
-flowchart TD
-    lex["拉丁 lex<br/>(法律)<br/>属格 legis"]
-    lis["拉丁 līs<br/>(诉讼)<br/>属格 lītis"]
-    jus["拉丁 jus<br/>(法、权利)"]
-    legis["legis-/leg-"]
-    lit["lit-"]
-    jusBranch["jus-"]
-    jurare["jurare"]
-    lex --> legis --> leg1["legal, legislate<br/>legislature, legitimate"]
-    lis --> lit --> lit1["litigate, litigation"]
-    jus --> jusBranch --> jus1["justice, just"]
-    jus --> jurare --> jur1["jury, juror<br/>injury, perjury"]
-```
+法庭里其实坐着三家人。门牌相近,案卷却不能串错:
+
+| 词族 | 核心含义 | 代表词 |
+| ---- | ---- | ------ |
+| `lex` / `legis-` | 法律、制定法 | legal, legislate, legitimate |
+| `līs` / `līt-` | 诉讼、争端 | litigate, litigation |
+| `jus` / `jur-` | 正义、法权、宣誓 | justice, jury, jurisdiction, perjury |
 
 ---
 
@@ -169,44 +127,20 @@ flowchart TD
     oe --> lay
 ```
 
-> **提示** **有趣对比**:
->
-> - `lex` / `legal`(拉丁):成文法、法律
-> - `law`(古诺尔斯语):法律 = "放置"的规矩
-> - `jus` / `justice` /ˈdʒʌstəs/(拉丁):法律 = "正义"
->
-> 这些词提供不同的历史图像,但不应把推测性的字面联想当成古人的法律哲学定义。
+> **有趣对比**:`lex/legal` 说成文法,`law` 的祖先说"被放置的规矩",`jus/justice` 说正义。三套词各带一张历史底片,但别把底片当成古人的统一法律哲学。
 
 ---
 
-## 【拆词启示】lex / jus 家族如何帮你记忆
+## 【拆词启示】lex, jus 家族如何帮你记忆
 
-两个词根管一个法庭：lex 写法条，jus 判是非——分工明确到连打架都知道该告谁。
-
-| 词 | 拆解 | 推义 |
-| ---- | ------ | ------ |
-| `legal` | leg + -al | 法律的 |
-| `legislate` /ˈlɛdʒɪˌsleɪt/ | 由 legislation 反向形成 | 提出、制定法律 |
-| `legitimate` /lɪˈdʒɪtəmət/ | legitim + -ate | 合法的 |
-| `legislature` /ˈlɛdʒɪsleɪtʃər/ | legis + lat + -ure | 立法机构 |
-| `privilege` /ˈprɪvəlɪdʒ/ | priv + leg | 私人法律 → 特权 |
-| `illegal` /ˌɪˈliɡəl/ | il- + leg | 不法律 → 违法 |
-| `justice` /ˈdʒʌstəs/ | 经法语,源自拉丁 *justitia* | 正义、司法 |
-| `jury` /ˈdʒʊri/ | jur(宣誓)+ -y | 宣誓者 → 陪审团 |
-| `jurisdiction` /ˌdʒʊrɪsˈdɪkʃən/ | juris + dict | 说法权 → 管辖 |
-| `jurist` /ˈdʒʊrɪst/ | jur + -ist | 法律人 → 法学家 |
-| `injure` /ˈɪndʒər/ | in- + jur | 不正义 → 伤害 |
-| `injury` /ˈɪndʒəri/ | in- + jur + -y | 不正义行为 → 伤害 |
-| `perjury` /ˈpɜrdʒəri/ | per- + jur + -y | 背弃宣誓 → 伪证 |
-| `litigation` /ˌlɪtəˈɡeɪʃən/ | 拉丁 *līs/līt-*→ *litigare/litigatio* | 争讼 → 诉讼程序 |
+`lex` 写法条,`jus` 判是非,`līt-` 管诉讼。顺手再认四位:`legislature` 是立法机构,`illegal` 是违法,`jurist` 是法学家,`litigation` 是诉讼程序。分工明确到连打架都知道该告谁。
 
 ---
 
 ## 本章小结
 
-1. **lex 的属格是 legis**——它与 *legere* 的更早关系常被讨论,但"法律就是收集的共识"只是记忆联想。
-2. **jus(正义)+ jurare(宣誓)**——jury 是"宣誓者",injure 是"做不正义之事"。
-3. **privilege(特权)= 私人法律**——拉丁构词的精妙:特权 = 为一个人开的特殊法律。
+1. **lex/legis 管成文法,jus/jur 管法权与宣誓,līs/līt- 管诉讼**。
+2. **jury 是宣誓者,injure 是做不正义之事,privilege 是私人法律**。
 
 ### 记忆锚点
 
@@ -216,9 +150,9 @@ flowchart TD
 
 ### 【思考题】(答案见附录 A)
 
-1. `privilege` /ˈprɪvəlɪdʒ/(特权)字面是"私人法律",想一想现代社会哪些东西是 privilege?(免税、特殊准入、世袭权利)
-2. `jury` /ˈdʒʊri/(陪审团)字面是"宣誓者",为什么陪审要先宣誓?(提示:用誓言约束按正义说话)
-3. `injure` /ˈɪndʒər/(伤害)字面是"不正义",这种理解把伤害从物理层面提升到了什么层面?(提示:道德/法律层面)
+1. **(破除误解)** `legal`(法律的)、`legible`(易读的)、`legend`(传说)都带 `leg-`,`privilege` 里也有 `leg`。它们是同一个词根吗?本章为什么强调不能把"法律 lex/leg-""选读 leg-""希腊 log-"合并成一个词根?你打算怎么避免"看到 leg 就当法律"这类错误?
+2. **(讲证据)** `law` 和 `lex` 意思完全一样,本章却说它们不是亲戚。`law` 到底从哪来?为什么"意思相同"再一次不能作同根的证据——这和 see/spect、cow/beef 是同一个道理吗?
+3. **(迁移应用)** 给你一个没讲的词 `conjure` /ˈkʌndʒər/(念咒召唤、变魔术;旧义"恳求"):`con-`(一起)+ `jur`(宣誓)。先推字面义;再想-一个跟"宣誓"有关的词,怎么会跑去表示"念咒召唤"?你这条解释是推测还是定论,该怎么确认?
 
 ---
 

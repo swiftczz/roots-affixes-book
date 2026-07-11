@@ -1,4 +1,4 @@
-# 第 6 章 罗马人的"投掷":jacere 家族
+# 第 6 章 罗马人的投掷：jacere家族
 
 > 罗马人负责"扔",英语负责接。两千年后,我们接到了一篮子 `inject` /ɪnˈdʒɛkt/、`reject` /rɪˈdʒɛkt/ 和 `project`。
 
@@ -27,7 +27,9 @@ jacere 家族生成了 `inject`(注射)、`reject`(拒绝)、`project`(投射/�
 
 > **提示** 英语里的 `-ject-` 词族主要来自"投掷"动词;`adjacent` /əˈdʒeɪsənt/ 则来自"躺着、位于"动词。拼写相似不能代替词源区分。
 
-### jacere 的核心智慧:方向决定词义
+---
+
+## 【家族树】jacere 的子孙
 
 和 ducere 一样,jacere 的派生词高度依赖前缀方向。但 jacere 更激进——**前缀方向几乎等于词义**:
 
@@ -56,33 +58,6 @@ flowchart LR
 
 ---
 
-## 【家族树】jacere 的子孙
-
-八个方向、八种投法——这个家族简直是词根界的花式投篮大赛。下面这张族谱就是它的赛程表:
-
-```mermaid
-flowchart TD
-    iacere["拉丁 iacere<br/>(投)"]
-    iacere2["拉丁 iacēre<br/>(躺着)"]
-    ject["-ject-"]
-    jacent["-jacent"]
-    iacere --> ject
-    iacere2 --> jacent
-
-    ject --> inj["inject(注射)"]
-    ject --> rej["reject(拒绝)"]
-    ject --> obj["object(反对)"]
-    ject --> inter["interject(插话)"]
-    ject --> ej["eject(弹出)"]
-    ject --> proj["project(项目)"]
-    ject --> subj["subject(主题)"]
-    ject --> dej["dejected(沮丧)"]
-
-    jacent --> adj["adjacent<br/>(相邻的:躺在旁边)"]
-```
-
----
-
 ## 【代表词深讲】四个词的故事
 
 ### 词 1:`reject` /rɪˈdʒɛkt/(拒绝)
@@ -95,16 +70,7 @@ flowchart TD
 
 想象古罗马市场上,买家检查货物后不满意,**把东西扔回卖家面前**——"我不要"。这个"扔回"的动作,凝固成"拒绝、不接受"。
 
-```mermaid
-flowchart LR
-    seller["卖家"] -- "投回" --> buyer["买家<br/>(把送来的东西扔回去 = 拒绝)"]
-    buyer -- "扔回去" --> seller
-```
-
-**派生词**:
-
-- `rejection` /rɪˈdʒɛkʃən/(拒绝)
-- `rejective`(拒绝的)
+它留下的常用名词是 `rejection` /rɪˈdʒɛkʃən/(拒绝)。货被扔回去一次,名词就不用再回来排两行队。
 
 ---
 
@@ -118,10 +84,7 @@ flowchart LR
 
 这个词的画面非常直观——把药液**投进(注入)身体**。17 世纪医学发展后,这个词被专门用来指"用针管注射药物"。今天它泛指一切"注入"。
 
-**派生词**:
-
-- `injection` /ɪnˈdʒɛkʃən/(注射)
-- `injector` /ɪnˈdʒɛktər/(注射器)
+`injection` /ɪnˈdʒɛkʃən/ 是注射这件事,`injector` /ɪnˈdʒɛktər/ 是负责把东西投进去的装置。
 
 > **提示** **延伸**:`inject` 的引申义很常用,如 `inject money into the economy`(向经济注入资金)、`inject humor into a speech`(给演讲注入幽默)。
 
@@ -137,21 +100,11 @@ flowchart LR
 
 **用法 A:`project`(动词,投射)** —— 字面义"投向前方"。
 
-```mermaid
-flowchart TD
-    light["光源"] --> proj["投影仪"]
-    proj -- "投射" --> screen["屏幕<br/>project(动词:投射)"]
-```
-
 **用法 B:`project`(名词,项目)** —— "向前投掷出去的东西"。
 
 为什么"项目"也叫 project?这个词义来自拉丁 *proiectum* "投掷出去的事物",引申为"**计划着向前推进的事业**"。所以一个"项目"就是"被投掷到未来、需要一步步完成的事"。
 
-**派生词**:
-
-- `projection` /prɑˈdʒɛkʃən/(投射、投影)
-- `projector` /prɑˈdʒɛktər/(投影仪)
-- `projectile` /prɑˈdʒɛktəl/(抛射物:被投掷出去的东西,如炮弹)
+这条路线还生出 `projection` /prɑˈdʒɛkʃən/(投射、投影)、`projector` /prɑˈdʒɛktər/(投影仪)和 `projectile` /prɑˈdʒɛktəl/(抛射物)。一个负责投,一个负责投影,最后一个干脆就是被投出去的东西。
 
 ---
 
@@ -164,11 +117,6 @@ flowchart TD
 `dejected` 字面义是"**被丢下去**"。
 
 这是 jacere 家族里最戏剧性的一个词。想象一个古罗马人精神饱满、昂首挺胸,突然遭遇失败——他的精神像被**扔到地上**,从此低头丧气。这种"精神被丢下去"的状态,就是 *dejectus*,凝固成"沮丧、灰心"。
-
-| 状态 | 姿态 | 走向 |
-| ------ | ------ | ------ |
-| 精神高昂状态 | ▲ 昂首 | 精神饱满 |
-| 精神被丢下后 | ▼ 低头 | 低垂、沮丧(dejected:被丢下 = 沮丧) |
 
 > **提示** **对照记忆**:`dejected`(沮丧,向下投)↔ `elated` /ɪˈleɪtɪd/(兴奋,向上抬)。情绪的高低,在拉丁词根里就是物理的高低。
 
@@ -197,21 +145,7 @@ flowchart LR
 
 ## 【拆词启示】jacere 家族如何帮你记忆
 
-九个词,九个方向,同一个"扔"字。能一口气秒拆这张表的人,拉丁语老师看了都得鼓掌:
-
-| 词 | 拆解 | 推义 |
-| ---- | ------ | ------ |
-| `inject` /ɪnˈdʒɛkt/ | in- + ject | 投入 → 注射 |
-| `reject` /rɪˈdʒɛkt/ | re- + ject | 投回 → 拒绝 |
-| `eject` /ɪˈdʒɛkt/ | e- + ject | 投出 → 弹出 |
-| `project` | pro- + ject | 投向前 → 投射/项目 |
-| `subject` /səbˈdʒɛkt/ | sub- + ject | 投向下 → 使服从/主题 |
-| `object` /ˈɑbdʒɛkt/ | ob- + ject | 投向对方 → 反对/物体 |
-| `interject` /ˌɪntərˈdʒɛkt/ | inter- + ject | 投在中间 → 插话 |
-| `dejected` /dɪˈdʒɛktɪd/ | de- + ject + -ed | 被丢下 → 沮丧 |
-| `trajectory` /trəˈdʒɛktəri/ | tra-(trans)+ ject + -ory | 投越的 → 弹道 |
-
-> **提示** **核心启示**:ject 家族和 duc 家族一样,**前缀 = 方向 = 词义**。看到 ject 词,先看前缀方向,十拿九稳。
+前面四位主角不再来排第二次队。其余常用词看方向即可:`eject` 往外投,所以弹出;`subject` 往下投,所以使服从;`object` 往对面投,所以反对;`interject` 往话语中间投,所以插话;`trajectory` 则是投射物走过的弹道。五个词排成一句话,拉丁语老师照样可以鼓掌。
 
 ---
 
@@ -229,10 +163,10 @@ flowchart LR
 
 ### 【思考题】(答案见附录 A)
 
-1. `subject` /səbˈdʒɛkt/ 字面是"投向下",为什么引申为"主题"和"使服从"?(提示:被扔到下面的就是被支配的;论题被"放在下面"作为讨论基础)
-2. `object` /ˈɑbdʒɛkt/ 字面是"投向对方",为什么既指"反对"又指"物体"?(提示:把东西抛到对方面前表示异议;被抛在面前供观察的东西)
-3. `trajectory` /trəˈdʒɛktəri/(弹道)怎么拆?为什么"投越"等于弹道?
+1. **(讲证据)** `adjacent` /əˈdʒeɪsənt/(邻近的)看着像 `-ject-` 投掷家族,本章却说它是外人。它到底来自哪个拉丁动词?你能用什么线索判断一个 `jac/ject` 词属于"投"还是"躺"这两支?
+2. **(破除误解)** 本章说 jacere"前缀方向几乎等于词义",比 ducere 还听话。可 `dejected`(沮丧)、`subject`(使服从/主题)真能只靠"往下投""往对面投"直接得到吗?用这两个词说明:"方向≈词义"什么时候成立、什么时候只是记忆的起点。
+3. **(迁移应用)** 给你一个没讲的词 `conjecture` /kənˈdʒɛktʃər/(推测):`con-`(一起)+ `ject`(投)+ `-ure`。先推出字面义,并解释"把东西一起投掷"怎么会变成"推测"。最后判断-你给出的这条解释,是"合理假设"还是"已证词源"?该怎么把它坐实?
 
 ---
 
-*下一章 → [第 7 章 罗马人的"抓住":capere 家族](./第07章-capere家族.md)*
+*下一章 → [第 7 章 罗马人的抓住：capere家族](./第07章-罗马人的抓住：capere家族.md)*

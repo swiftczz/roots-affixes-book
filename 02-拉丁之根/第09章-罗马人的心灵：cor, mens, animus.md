@@ -1,4 +1,4 @@
-# 第 9 章 罗马人的"心灵":cor / mens / animus
+# 第 9 章 罗马人的心灵：cor, mens, animus
 
 > 古罗马人没有把所有内心戏塞进一个词:情感归 `cor`,思考归 `mens`,生命精神归 `animus`。分工之细,足够成立一个心灵项目组——三个员工各管一摊,谁都不加班,但谁也不替谁干活。
 
@@ -32,15 +32,6 @@
 
 拉丁语 ***cor***(心),来自原始印欧语 *kerd-(心)。注意:**它的英语本土亲戚是 `heart`**——经过格林定律(*k→h,*d→t),原始印欧语的 *kerd 在日耳曼语里变成了 `heart`。所以这条血脉很特别:它**一分为二**,一支走拉丁路线(变成 `cor`,后来生出 cordial、courage、record),一支走日耳曼路线(变成 `heart`,后来在英语里坐稳了"心"的本族词位置)。两支隔着两千年再见面,谁也没认出谁是亲戚——但骨子里,`heart` 和 `cordial` /ˈkɔrdʒəl/ 共享同一个曾祖父。
 
-```mermaid
-flowchart LR
-    pie["原始印欧语<br/>*kerd- (心)"]
-    pie --> lat["拉丁 cor, cordis<br/>(心)"]
-    pie --> ger["日耳曼 *hairton"]
-    lat --> en["英语借词:<br/>accord, cordial, courage, record"]
-    ger --> oe["古英语 heorte<br/>→ heart (心)"]
-```
-
 > **提示** **这就是 `heart` 和 `cordial` 是亲戚的原因**——它们都来自原始印欧语 *kerd-,一个走了拉丁路线,一个走了日耳曼路线。
 
 ### 【代表词深讲】
@@ -58,12 +49,6 @@ flowchart LR
 一个罗马士兵,出征前站在营门口,盔甲还没扣紧,腿肚子在打颤。他怎么给自己壮胆?不是深呼吸,不是默念口诀——他**把手按在胸口**,感觉心跳,"**心里有的东西**"还在。这种"心里有"的东西,中世纪骑士叫它 *coraggio*,后来法语叫 *courage*,最后落脚成英语的 courage。
 
 英文里有个老说法叫 **`take heart`(鼓起勇气)**,直译就是"把心拿起来"。中文也讲"振作起来、提一口气"——东西方不约而同地,都把勇气的开关装在了胸口。所以下次有人说 "Don't lose heart"(别灰心),字面是"别把心丢了"——**心一丢,勇气也就跟着没了**。courage 就是这么来的。
-
-```mermaid
-flowchart TD
-    belief["古罗马人相信:<br/>心 = 勇气之源"]
-    belief --> eq["cor (心) + -age (状态)<br/>= courage (勇气)"]
-```
 
 ---
 
@@ -92,17 +77,6 @@ flowchart TD
 拉丁语 ***mens***(心智、思想),来自原始印欧语 *men-(思考)。注意:**它的英语本土亲戚是 `mind`**——同一个印欧词根 *men-,拉丁一支长成了 mens,日耳曼一支长成了 mind。所以英语里同时有 mental(来自拉丁)和 mind(来自本族),哥俩一个穿西装一个穿便装,但翻开族谱是亲的。
 
 `mental`、`mentality` /mɛnˈtælɪti/ 明确来自 mens 这个名词;`comment` /ˈkɑmɛnt/、`mention` /ˈmɛnʃən/ 等则通过相关的拉丁词族追溯到"思考、记住"这一更早语义群。
-
-```mermaid
-flowchart TD
-    mens["拉丁 mens<br/>(心智)"]
-    mens --> mental["mental (心智的)"]
-    mens --> mentality["mentality (心态)"]
-    mens --> comment["comment (评论)<br/>com- + ment 把想法放一起"]
-    mens --> mention["mention (提及)<br/>让想法进入心智"]
-    mens --> dement["dement (使发疯)<br/>de- + ment 心智离开"]
-    dement --> demented["demented, dementia (痴呆)"]
-```
 
 > **注意** **不要混淆**:英语名词后缀 `-ment` 经法语追溯到拉丁后缀 *-mentum*,与 `mens` 不是同一个语素。因此 `development`、`movement` /ˈmuvmənt/、`agreement` /əɡˈrimənt/ 不能解释成"心智活动的产物"。字母 `ment` 相同,不等于词源相同。
 
@@ -152,15 +126,6 @@ flowchart TD
 
 罗马人判断一个人死亡,不看心电图,不看脑电波——他们看**呼吸**。气在,魂在;气断,魂走。所以"精神"和"呼吸"在拉丁语里共用一个词根,不是巧合,而是这套生死观的直接结晶。
 
-```mermaid
-flowchart TD
-    anima["动:呼吸 (anima)<br/>生命迹象"]
-    animus["静:精神 (animus)<br/>灵魂本质"]
-    anima <-.->|灵魂 = 呼吸| animus
-    anima --> root["anim- 词根"]
-    animus --> root
-```
-
 ### 【代表词深讲】
 
 **`animal` /ˈænəməl/(动物)** —— 来自拉丁 *animal / animalis*(有生命的存在、动物),与 *anima*(气息、生命、灵魂)同族。
@@ -184,18 +149,6 @@ flowchart TD
 几百名元老,平时为一条法案能吵上三天三夜。今天却反常:执政官刚念完提案,全场沉默了一瞬,然后,**一个人点头,两个人点头,一排点头,最后整座元老院齐刷刷点头**。没有反对,没有弃权,没有阴阳怪气。为什么?因为这一刻,**所有人的 animus(心意)合成了一个**——几百颗心,拧成了一股气。
 
 这就是 *unanimus*:**un(一)+ anim(灵魂)**。它不是"票数相近",不是"勉强过半",而是**所有人共用同一个灵魂**。所以英文里 a unanimous vote 是最高级别的同意——比分一致更高,那是心意相通。中文"众口一词"还差点意思,因为 unanimous 强调的不是嘴,是心。
-
-```mermaid
-flowchart TD
-    p1["人 ①"]
-    p2["人 ②"]
-    p3["人 ③"]
-    one["同一个心意<br/>(un- + anim-)"]
-    p1 --> one
-    p2 --> one
-    p3 --> one
-    one --> result["= unanimous (一致的)"]
-```
 
 ---
 
@@ -229,21 +182,7 @@ flowchart TD
 
 ## 【拆词启示】心灵词根如何帮你记忆
 
-三个员工的工牌汇总如下——认脸不如认工牌,认词不如认词根。
-
-| 词 | 拆解 | 推义 |
-| ---- | ------ | ------ |
-| `cordial` /ˈkɔrdʒəl/ | cord + -ial | 心的 → 衷心的 |
-| `courage` /ˈkɜrədʒ/ | cour(cor) + -age | 心的状态 → 勇气 |
-| `accord` /əˈkɔrd/ | ac- + cord | 心朝一处 → 一致 |
-| `record` | re- + cord | 放回心里 → 记录 |
-| `mental` /ˈmɛntəl/ | ment + -al | 心智的 → 精神的 |
-| `comment` /ˈkɑmɛnt/ | 拉丁 commentari | 构思、注解 → 评论 |
-| `dementia` /dɪˈmɛnʃə/ | de- + ment + -ia | 心智离开 → 痴呆 |
-| `animal` /ˈænəməl/ | anim + -al | 会呼吸的 → 动物 |
-| `animate` /ˈænəˌmeɪt/ | anim + -ate | 赋予呼吸 → 使生动 |
-| `unanimous` /juˈnænəməs/ | un + anim + -ous | 心意合一 → 一致的 |
-| `magnanimous` /mæɡˈnænəməs/ | magn + anim + -ous | 精神大 → 宽宏的 |
+前面深讲过的十一位不再回来排队。三张工牌各带一位新同事:`cor/cord` 组的 `discord` /ˈdɪsˌkɔrd/ 是几颗心各走各的,`encourage` /ɛnˈkɜrɪdʒ/ 是把勇气装回心里;`mens/ment` 组的 `mentality` /mɛnˈtæləti/ 是长期思考习惯;`anim` 组的 `animation` /ˌænəˈmeɪʃən/ 则让静止之物重新有呼吸。
 
 ---
 
@@ -261,10 +200,10 @@ flowchart TD
 
 ### 【思考题】(答案见附录 A)
 
-1. `encourage` /ɛnˈkɜrɪdʒ/(鼓励)拆开是 en- + courage,为什么"使有勇气"等于鼓励?(提示:把"心里有的东西"再往心里灌一点)
-2. `unanimous` /juˈnænəməs/(一致)字面是"心意合一",想象一下元老院几百人齐刷刷点头的场面——为什么这是最高级别的同意?
-3. `record`(记录)字面是"放回心里",为什么这等于记录?(提示:在没有提词器的年代,西塞罗靠什么连讲四个小时?)
+1. **(破除误解)** `development`、`movement`、`agreement` 都以 `-ment` 结尾,能不能把它们解释成"心智(mens)活动的产物"?为什么不能?那 `comment` 呢——它和这些词一样吗?你用什么办法区分"后缀 -ment"和"心智词根 ment-"?
+2. **(讲证据)** 英语里"心"有三个词:`heart`、`cordial`、`cardiac`,本章说它们同出原始印欧语 *kerd-。请用格林定律解释:为什么本族的 `heart` 是 h/t,拉丁的 `cor/cordial` 是 c(k)/d?这种"成系统的音变对应"为什么能当同源证据,而"see/spect 都表示看"却只算巧合?
+3. **(迁移应用)** 给你一个没讲的词 `equanimity` /ˌɛkwəˈnɪməti/(镇定):`aequus`(平、均)+ `anim`(心气)+ `-ity`。先推出字面义、说明怎么得到"镇定"。再想:同一个 `anim` 既长出 `unanimous`(同心)又长出 `animosity`(敌意),方向相反——这对"看到词根就套一个固定中文"有什么警示?
 
 ---
 
-*下一章 → [第 10 章 罗马人的"死亡":mors 家族](./第10章-mors家族.md)*
+*下一章 → [第 10 章 罗马人的死亡：mors家族](./第10章-罗马人的死亡：mors家族.md)*

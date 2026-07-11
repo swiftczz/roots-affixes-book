@@ -1,4 +1,4 @@
-# 第 24 章 厨房里的征服:pig / pork, cow / beef
+# 第 24 章 厨房里的征服：pig, pork, cow, beef
 
 > 猪在田里叫 `pig`,端上桌却叫 `pork` /pɔrk/。动物没有改名申请,变的是说话的人、使用场景和几百年的词义分工。
 
@@ -55,13 +55,6 @@ flowchart TD
 
 ### 对 1:pig / pork
 
-```mermaid
-flowchart LR
-    OE_PIG["古英语 picg(小猪)"] --> ENG_PIG["英语 pig(猪)<br/>本族动物名延续"]
-    LAT_PORK["拉丁 porcus"] --> OF_PORK["古法语 porc(猪)"] --> ENG_PORK["英语 pork(猪肉)<br/>法语 porc 原本也可指猪<br/>英语中后来主要指猪肉"]
-    ENG_PIG <-.->|"同义对照"| ENG_PORK
-```
-
 最经典的一对。`pig` 是盎格鲁猪倌嘴里的词,`pork` /pɔrk/ 来自法语 `porc`(猪)。注意一个有趣的反转:法语 `porc` 本来既能指猪、又能指猪肉;是英语借过去之后,才慢慢让它"专指肉"的。
 
 ### 对 2:cow / beef —— 这俩居然是亲戚
@@ -78,21 +71,7 @@ flowchart LR
 
 ### 对 3:calf / veal
 
-```mermaid
-flowchart LR
-    PIE["原始印欧语(踩、跳,小牛爱跳)"] --> OE_CALF["古英语 cealf"] --> ENG_CALF["英语 calf(小牛)"]
-    LAT_VIT["拉丁 vitellus(小牛)"] --> OF_VEEL["古法语 veel"] --> ENG_VEAL["英语 veal(小牛肉)"]
-    ENG_CALF <-.->|"同义对照"| ENG_VEAL
-```
-
 ### 对 4:sheep / mutton
-
-```mermaid
-flowchart LR
-    OE_SHEEP["古英语 scēap<br/>来源古老,日耳曼独有"] --> ENG_SHEEP["英语 sheep(羊)"]
-    OF_MOTON["古法语 moton<br/>可能来自凯尔特语或通俗拉丁"] --> ENG_MUTTON["英语 mutton(羊肉)"]
-    ENG_SHEEP <-.->|"同义对照"| ENG_MUTTON
-```
 
 `sheep` 是日耳曼独有的古老词,英语从祖先那里继承下来;`mutton` /ˈmʌtən/ 来自法语 `moton`,而 `moton` 的来源本身又扑朔迷离,可能借自凯尔特语或通俗拉丁——一个词身上叠了好几层历史。
 
@@ -153,25 +132,11 @@ flowchart LR
 
 ### 一个有趣细节:biscuit = 烤两次
 
-```mermaid
-flowchart LR
-    BIS["拉丁 bis(两次)"] --> COMB["+"]
-    COCT["拉丁 coctus(烤)"] --> COMB
-    COMB --> FR["法语 biscuit<br/>= 烤两次的面包"] --> ENG["英语 biscuit(饼干)<br/>今天叫饼干,但词源是烤两次"]
-```
-
 `biscuit` /ˈbɪskət/ 字面拆开是 `bis`(两次)+ `cuit`(烤)= **"烤两次"**。古代水手出海,带的干粮得烤两遍——烤去水分,才不会在船舱里发霉,能放上半年不坏。今天你在下午茶里配的那块饼干,祖宗其实是水手们的救命口粮。无独有偶,意大利语 `biscotti` /bɪˈskɑti/(那种长条形的脆饼干)也是 `bis + cotti` = 烤两次——整个地中海的航海文化,在"饼干"这个词上握了个手。
 
 ---
 
 ## 24.5 醋(vinegar)= 变酸的酒
-
-```mermaid
-flowchart LR
-    VIN["拉丁 vinum(酒)"] --> COMB["+"]
-    ACR["拉丁 acre(酸)"] --> COMB
-    COMB --> FR["法语 vinaigre<br/>名称字面构造:酸酒<br/>= 变酸的酒"] --> ENG["英语 vinegar(醋)<br/>字面义:酸酒"]
-```
 
 `vinegar` /ˈvɪnəɡər/ 来自法语 `vinaigre`:`vin`(酒)+ `aigre`(酸)= **"酸酒"**。古人酿的酒放久了发酸,他们一尝,得,这酒坏了——可坏了的"酸酒",恰好就是醋。一个朴素的观察,凝固成一个词。当然,从科学上说,醋是醋酸菌在含酒精液体里进行**醋酸发酵**的产物,不是单纯的"酒发酵过头";原料也不限于葡萄酒。但古人哪里知道醋酸菌,他们看到的就只是"这酒变酸了"。
 
@@ -217,10 +182,10 @@ flowchart LR
 
 ### 【思考题】(答案见附录 A)
 
-1. `pig/pork` 的分化与诺曼征服后的语言接触有什么关系?为什么不能只用一幅贵族餐桌图解释?
-2. `vinegar` /ˈvɪnəɡər/ 字面是"酸酒";醋酸发酵与普通酒精发酵有什么区别?
-3. 为什么英语动物/肉名词对很集中,但仍不能说这种现象是英语独有?
+1. **(破除误解)** `pig/pork` 的分化与诺曼征服后的语言接触有什么关系?为什么不能只用一幅"贵族餐桌图"解释?
+2. **(讲证据)** `vinegar` /ˈvɪnəɡər/ 字面是"酸酒";可醋酸发酵和普通酒精发酵其实是两回事。它们的区别在哪?这说明字面义在什么地方会误导你?
+3. **(迁移应用)** 为什么英语动物/肉名词对很集中,但仍不能说这种现象是英语独有?德语、法语各自是怎么处理"活的动物 / 桌上的肉"的?
 
 ---
 
-*下一章 → [第 25 章 阶级的烙印:kingly / royal / regal](./第25章-阶级的烙印.md)*
+*下一章 → [第 25 章 阶级的烙印：kingly, royal, regal](./第25章-阶级的烙印：kingly, royal, regal.md)*

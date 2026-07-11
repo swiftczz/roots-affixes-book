@@ -1,4 +1,4 @@
-# 第 10 章 罗马人的"死亡":mors 家族
+# 第 10 章 罗马人的死亡：mors家族
 
 > 别被标题吓跑。`mors` 虽然表示"死亡",它的词族却活得相当旺盛,甚至还在银行按揭部门长期任职。
 
@@ -17,15 +17,6 @@ mors 家族是拉丁词根里**很有戏剧性**的一支。它生成的词—�
 ### 一个比拉丁更古老的词根
 
 拉丁 ***mors***(死亡)来自原始印欧语 *mer-(死亡、消失)。这一词根在多个印欧语分支中留下了可比较的后裔:
-
-```mermaid
-flowchart LR
-    pie["原始印欧语<br/>*mer- (死亡)"]
-    pie --> lat["拉丁 mors, mortis<br/>(死亡)"]
-    pie --> grk["古希腊 brotós<br/>(凡人、会死者)"]
-    lat --> en["英语:mortal, immortal, mortgage"]
-    grk --> ambr["ámbrotos (不死的)<br/>→ ambrosia"]
-```
 
 > **提示** **最有意思的远房亲戚**:`murder` /ˈmɜrdər/(谋杀)也来自原始印欧语 *mer-!它经过日耳曼路线,在古英语里变成 *morþor*,后来变成 `murder`。所以 `mortal` /ˈmɔrtəl/ 和 `murder` 是亲戚,都来自"死"这个原始概念。
 
@@ -47,27 +38,6 @@ flowchart LR
 
 一个"死"字,养活了殡葬师、银行按揭部和羞愧得想钻地缝的社恐患者——这家族的就业面,比活着的词根还宽。
 
-```mermaid
-flowchart TD
-    mors["拉丁 mors (死亡)<br/>属格:mortis"]
-    mors --> mort["mort-"]
-    mors --> morbi["morbi-<br/>(病,远亲)"]
-    mors --> mortoth["mort- (其他)"]
-
-    mort --> mortal["mortal (必死的)"]
-    mort --> immortal["immortal (不朽的)"]
-    mortal --> mortality["mortality (必死性/死亡率)"]
-    mort --> mortician["mortician (殡仪员)"]
-    mort --> mortgage["mortgage (抵押)"]
-    immortal --> immortality["immortality (不朽)"]
-    mort --> amortize["amortize (分期偿还)"]
-
-    morbi --> morbid["morbid (病态的)"]
-
-    mortoth --> mortify["mortify (使羞辱)"]
-    mortoth --> moribund["moribund (垂死的)"]
-```
-
 > 注:`morbid` /ˈmɔrbɪd/(病态的)来自拉丁 *morbus*(疾病),它和 *mors*(死亡)**是否同根有争议**。一些学者认为 *morbus* 与 mors 同源(病 = 走向死),另一些认为它们只是形似。本书标注: 词源关系有争议。
 
 ---
@@ -87,11 +57,6 @@ flowchart TD
 正因如此,希腊英雄一生追求的是 **immortal glory(不朽的荣耀)**。阿喀琉斯在特洛伊战场上选择短暂而辉煌的一生,为的是死后名声不朽;奥林匹克竞技的冠军、史诗里传唱的英雄,都是凡人向"不朽"发起的一次次冲锋。**人终有一死(mortal),于是拼命去够一点 immortal 的东西**——这便是 `mortal/immortal` 这对词背后最深的张力:正因为会死,才渴望不朽。
 
 > 希腊罗马神话和文学常把会死的凡人同不朽的神对举。这里适合用来理解 `mortal/immortal` 的语义反差,不应把它写成亚里士多德《论灵魂》中的一句简单二分结论。
-
-| | 人 | 神 |
-| ---- | ---- | ---- |
-| 特征 | 会死 | 不朽 |
-| 对应词 | `mortal` | `immortal` /ˌɪˈmɔrtəl/ |
 
 **派生词**:
 
@@ -190,13 +155,9 @@ flowchart LR
 
 | 词 | 拆解 | 推义 |
 | ---- | ------ | ------ |
-| `mortal` /ˈmɔrtəl/ | mort + -al | 会死的 → 必死的 |
 | `immortal` /ˌɪˈmɔrtəl/ | im- + mort + -al | 不会死 → 不朽的 |
 | `mortality` /mɔrˈtæləti/ | mort + -ality | 死的特性 → 死亡率 |
 | `mortician` /mɔrˈtɪʃən/ | mort + -ician | 处理死者的人 → 殡葬师 |
-| `mortgage` /ˈmɔrɡɪdʒ/ | mort + gage | 死抵押 → 抵押贷款 |
-| `mortify` /ˈmɔrtəˌfaɪ/ | mort + -ify | 使死 → 使羞愧 |
-| `moribund` /ˈmɔrəˌbʌnd/ | mori + -bund | 正在死 → 垂死的 |
 | `amortize` /ˈæmərˌtaɪz/ | 经法语 *amortir/amortiss-* "使消灭、逐渐清偿" | 分期摊销或偿还 |
 | `rigor mortis` | (拉丁)rigor + mortis | 死亡僵硬 → 尸僵 |
 
@@ -226,10 +187,10 @@ flowchart LR
 
 ### 【思考题】(答案见附录 A)
 
-1. `immortal` /ˌɪˈmɔrtəl/(不朽的)字面是"不会死",想想哪些东西被认为是 immortal?(神、艺术作品、伟大思想)
-2. 为什么古罗马哲学家认为人是 `mortal` /ˈmɔrtəl/ 而神是 `immortal`?这种区分对西方文化有什么影响?
-3. `mortgage` /ˈmɔrɡɪdʒ/ 里为什么藏着"死"?用一句话解释给没学过词根的朋友听。
+1. **(破除误解)** `mortgage` 常被解释成"还清了地对债权人死、违约了地对债务人死,两头都会死",很好记。但本章说这不是法史学界更认可的解释。更严谨的说法(活抵押 vs 死抵押)是什么?为什么"好记的故事"和"可靠的解释"会不一样,遇到这种情况该怎么办?
+2. **(讲证据)** 本章对 `murder`/`mortal` 敢直接说"同根",对 `morbid` 却只说"可能远亲、有争议"——两个词都带 `mor-`,为什么把握程度不同?这种"证据足就下结论、不足就标存疑"的做法,体现了什么态度?
+3. **(迁移应用)** `mortal` 既表示"凡人的、终有一死的",又能在 `mortal wound`(致命伤)、`mortal enemy`(不共戴天的敌人)里表示"致命的/你死我活的"。用"死"这个核心义解释这两支怎么来的;再说-词根能解释这种一词多义,为什么却不能替你决定一句话里该取哪个义?
 
 ---
 
-*下一章 → [第 11 章 罗马人的"站立":stare 家族](./第11章-stare家族.md)*
+*下一章 → [第 11 章 罗马人的站立：stare家族](./第11章-罗马人的站立：stare家族.md)*

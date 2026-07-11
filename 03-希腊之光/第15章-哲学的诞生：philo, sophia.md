@@ -1,4 +1,4 @@
-# 第 15 章 哲学的诞生:philo + sophia
+# 第 15 章 哲学的诞生：philo, sophia
 
 > `philosophy` /fəˈlɑsəfi/ 的字面组合不是"我已经很聪明",而是"我还在追智慧"。这个命名很谦虚,也很适合写在读书拖延清单顶端。
 
@@ -40,12 +40,6 @@
 这一摆手,贡献了一个词。**philosophos**:`philo-`(爱)+ `sophos`(智慧)。"我不是聪明的拥有者,我只是聪明的追求者。"
 
 这个姿态一传开,就成了"哲学家"的自我定位:**永远在路上,永远不打包票**。
-
-```mermaid
-flowchart TD
-    philo["philo<br/>(爱)"] --> phi["philosophia<br/>(哲学)"]
-    sophos["sophos<br/>(智)"] --> phi
-```
 
 ---
 
@@ -124,31 +118,7 @@ flowchart TD
 
 苏格拉底和智者派在广场上吵了一辈子,没想到两千年后,他们的后代词全挤在同一张族谱里——血缘关系摆在那儿,谁也甩不掉谁。
 
-```mermaid
-flowchart TD
-    philos["希腊 philos<br/>(爱)"]
-    sophia["希腊 sophia<br/>(智慧)"]
-
-    philos --> pcf["philo- 组合形式"]
-    philos --> pcpx["复合词"]
-    sophia --> sosa["sophia"]
-    sophia --> sosf["sophist"]
-
-    pcf --> philosophy["philosophy<br/>(哲学)"]
-    pcf --> philology["philology<br/>(语文学)"]
-    pcf --> philately["philately<br/>(集邮)"]
-
-    pcpx --> philanthropy["philanthropy<br/>(慈善)"]
-    pcpx --> philharmonic["philharmonic<br/>(爱乐)"]
-    pcpx --> bibliophile["bibliophile<br/>(爱书人)"]
-
-    sosa --> sophA["philosophy"]
-    sosa --> theosophy["theosophy<br/>(神智学)"]
-    sosa --> sophisticated["sophisticated<br/>(经 sophisticare 诡辩、掺假)"]
-
-    sosf --> sophist["sophist"]
-    sosf --> sophistry["sophistry"]
-```
+这棵家族树不再把上文的两张名单重新画一遍。认亲只抓两条主线:`philo-` 负责爱什么,`soph-` 负责智慧如何变成哲学、智者和诡辩。苏格拉底与智者派吵了一辈子,后代词仍然被字典安排在同一页,谁也没能申请分户。
 
 ---
 
@@ -163,13 +133,6 @@ flowchart TD
 如前所述,philosophy 字面义是"**爱智慧**"。这个词最动人之处在于它的姿态:**不是"拥有智慧",而是"追求智慧"**——就是毕达哥拉斯在僭主宫廷摆手拒绝"智者"称号时立下的姿态。不是神,只是爱智慧的人。
 
 这种"我只在追,不敢说拥有"的谦逊,很适合贴在读书拖延清单顶端——毕竟连毕达哥拉斯都不敢说自己 sophos。
-
-```mermaid
-flowchart TD
-    philo["philosopher<br/>(爱智者,永远在路上)"]
-    wisdom["智慧<br/>(神才有)"]
-    philo -->|"永远在追求"| wisdom
-```
 
 **派生词**:
 
@@ -188,12 +151,6 @@ flowchart TD
 `philanthropy` 字面义是"**爱人类**"。
 
 `anthropos` 是希腊文"人",和 philo- 拼接,表示"对人类的关爱"。今天这个词常指**为公共福祉进行的捐赠或公益支持**,参与者不必先通过"富豪资格审查"。
-
-```mermaid
-flowchart TD
-    A["philo(爱) + anthropos(人类)"] --> B["对全人类的关爱"]
-    B --> C["慈善、公益捐赠"]
-```
 
 **派生词**:
 
@@ -262,12 +219,6 @@ flowchart TD
 
 美国城市**费城 Philadelphia** 名字直接来自希腊文,*philos*(爱)+ *adelphos*(兄弟)= **"兄弟之爱"**。
 
-```mermaid
-flowchart TD
-    A["philos(爱) + adelphos(兄弟)"] --> B["兄弟之爱<br/>(兄弟友爱之城)"]
-    B --> C["Philadelphia<br/>(费城,美国独立宣言签署地)"]
-```
-
 这个名字是 17 世纪贵格会教徒威廉·潘恩起的,寄托了"宗教宽容、兄弟之爱"的理想。
 
 > **提示** **同根兄弟**:
@@ -285,16 +236,10 @@ flowchart TD
 
 | 词 | 拆解 | 推义 |
 | ---- | ------ | ------ |
-| `philosophy` /fəˈlɑsəfi/ | philo + soph + y | 爱智慧 → 哲学 |
-| `philosopher` /fəˈlɑsəfər/ | philo + soph + er | 爱智者 → 哲学家 |
-| `philanthropy` /fɪˈlænθrəpi/ | philo + anthrop + y | 爱人类 → 慈善 |
-| `philanthropist` /fəˈlænθrəpɪst/ | philo + anthrop + ist | 爱人者 → 慈善家 |
 | `philharmonic` /ˌfɪlhɑrˈmɑnɪk/ | philo + harmon + ic | 爱和谐 → 爱乐 |
 | `philology` | philo + log + y | 爱言辞 → 语文学 |
-| `bibliophile` | biblio + phile | 爱书 → 藏书家 |
 | `sophist` | soph + ist | 智者(→ 诡辩者) |
 | `sophistry` /ˈsɑfɪstri/ | soph + ist + ry | 智术 → 诡辩 |
-| `sophisticated` /səˈfɪstəˌkeɪtɪd/ | 经 sophisticare(掺假) | 智化 → 复杂精明 |
 | `theosophy` /θiˈɑsəfi/ | theo(神)+ soph + y | 神智 → 神智学 |
 | `sophomore` /ˈsɑfəˌmɔr/ | soph + more | 希腊 sophos + moros(愚蠢)= 聪明又蠢的 → 大二生 |
 
@@ -324,10 +269,10 @@ flowchart TD
 
 ### 【思考题】(答案见附录 A)
 
-1. `philanthropist` /fəˈlænθrəpɪst/(慈善家)字面是"爱人类者",想想这个词如何体现富人对社会的责任?
-2. 为什么 `sophist` 从"智者"变成"诡辩者"?用苏格拉底的故事解释。
-3. `sophomore` /ˈsɑfəˌmɔr/(大二生)拆开是 soph + moros(聪明 + 愚蠢),这种命名带着什么微妙的态度?
+1. **(破除误解)** "sophist 天生就是'诡辩者'、智者派本来就是一群骗子"——本章说这是被塑造出来的印象。是谁、怎么把 sophist 从中性的"有技艺的智者"钉成贬义的?为什么今天很难替智者派翻案?
+2. **(讲证据)** 苏格拉底自己一个字没写,我们对他和智者派的全部印象几乎都来自柏拉图的笔。这对"了解真实的苏格拉底"是个什么问题?遇到"只剩一方留下记录"的历史,该抱什么态度?
+3. **(迁移应用)** `-phile`(爱……者)有个反义后缀 `-phobe`/`-phobia`(怕/恨……者)。用词根 `techno-`(技术)造出"爱技术的人"和"怕技术的人"。再拆一个真实词 `Sinophile`(亲华者)——它的 `Sino-` 是什么意思?你怎么确认拆对了?
 
 ---
 
-*下一章 → [第 16 章 民主的词根:demos + kratos](./第16章-民主的词根.md)*
+*下一章 → [第 16 章 民主的词根：demos, kratos](./第16章-民主的词根：demos, kratos.md)*

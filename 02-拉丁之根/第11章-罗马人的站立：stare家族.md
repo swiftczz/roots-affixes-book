@@ -1,4 +1,4 @@
-# 第 11 章 罗马人的"站立":stare 家族
+# 第 11 章 罗马人的站立：stare家族
 
 > `stare` 的本职是"站",英语却让它站进了国家、车站、状态、机构和宪法。这个词根的职业发展,显然没打算坐下。
 
@@ -20,6 +20,10 @@ stare 家族是**英语里派生能力很强**的拉丁词根家族之一。具�
 
 一个动作,三处场景。但罗马人不会满足于把 *stare* 只当成肌肉的事。他们的脑子一旦转起来,这个最基础的"站",就朝四面八方伸出了触角:
 
+---
+
+## 【家族树】stare 的子孙(部分)
+
 ```mermaid
 flowchart TD
     phys["物理:站(站着不动)"]
@@ -34,8 +38,6 @@ flowchart TD
 
 七条引申路径,起点都是同一个画面:有人或什么东西,**直挺挺地立在那里**。罗马人讨论"国家""存在""稳定"这些听起来最玄乎的概念时,脑子里浮现的从来不是抽象符号,而是这个看得见、摸得着的动作——有人站着,稳稳地,不动。
 
-### stare 的拼写变体
-
 stare 的变体非常多,因为拉丁动词在不同形式下词干变化大,英语把各种形式都借了进来:
 
 | 词根变体 | 来源 | 例词 |
@@ -47,44 +49,6 @@ stare 的变体非常多,因为拉丁动词在不同形式下词干变化大,英
 | `sist-` | 来自 stare 的另一种形式 sistere | exist, consist /kənˈsɪst/, persist /pərˈsɪst/, resist, assist |
 
 **记忆口诀**:**stat/stit/stant/sta/sist 都属于拉丁"站立、使站立"词族**。英语本族词 `stand`、`stay` 与它们有更早的印欧亲缘,但不是拉丁 *stare* 直接派生出的英语借词。
-
----
-
-## 【家族树】stare 的子孙(部分)
-
-一个"站"字派生出国家、宪法、物质和存在——这职业跨度,相当于一个保安转行当了哲学教授,还兼任宪法起草委员。
-
-```mermaid
-flowchart TD
-    stare["拉丁 stare (站)"]
-    stare --> stat["stat-"]
-    stare --> stit["stit-"]
-    stare --> stant["stant-"]
-    stare --> sta["sta-"]
-    stare --> sist["sist-"]
-
-    stat --> statew["state (国家)"]
-    stat --> statusw["status (地位)"]
-    stat --> stationw["station (车站)"]
-    stat --> staticw["static (静态)"]
-    stat --> statw["statistic (统计)"]
-
-    stit --> instw["institute (机构)"]
-    stit --> constw["constitution (宪法)"]
-
-    stant --> conw["constant (恒定的)"]
-    stant --> instw2["instant (即刻)"]
-    stant --> subsw["substance (物质)"]
-
-    sta --> stabw["stable (稳定)"]
-    sta --> estw["establish (建立)"]
-
-    sist --> exw["exist (存在)"]
-    sist --> perw["persist (坚持)"]
-    sist --> consw["consist (组成)"]
-    sist --> insw["insist (坚持)"]
-    sist --> asw["assist (帮助)"]
-```
 
 ---
 
@@ -125,11 +89,6 @@ flowchart TD
 
 `institute` 的历史核心是"设立、建立",后来可指被建立的制度或机构。`stit/stat` 能帮助识别亲缘,但 `-ution` 不是可随意附加的现代英语后缀。
 
-```mermaid
-flowchart LR
-    idea["一个想法<br/>(萌芽)"] -->|"立起来<br/>(从虚空站到现实)"| inst["institution<br/>(持久存在)"]
-```
-
 **派生词**:
 
 - `institute`(动词:设立;名词:研究所)
@@ -151,13 +110,6 @@ flowchart LR
 他蹲下身,拍拍脚下的泥土:"因为底下有东西,一直站着,没动过。叶子换了一茬又一茬,这个'底下站着的根基'没换。它才是这棵树真正的东西——它的 *substantia*(英语 `substance`)。"
 
 `sub-`(在下面)+ `stant`(站):字面就是"**在下面站着、撑着上面那一堆变化的东西**"。罗马哲学家把这个画面借去翻译希腊哲学的 *ousia*、亚里士多德的"第一实体":所有看得见、摸得着、会变化的属性(颜色、形状、重量)都浮在表面,真正托住它们的,是那个站在最底下、沉默不动的根基。
-
-```mermaid
-flowchart TD
-    surface["表面现象(变化)"]
-    root["站着的根基<br/>(在下面站着的)<br/>← substance"]
-    root -->|"支撑"| surface
-```
 
 > **提示** **哲学应用**:`substance` 常译"实体"或"本体",对应希腊哲学中的 *ousia*。亚里士多德讨论具体事物的构成时,更典型的配对是 `form`(形式)和 `matter`(质料),不能把 `substance` 直接等同于 `matter`。
 
@@ -181,11 +133,6 @@ flowchart TD
 
 这棵嫩苗是整个 stare 家族里最闪光的一刻。"站"这个再普通不过的动作,被罗马人拿来回答哲学里最难的那个问题——什么是"有",什么是"无"。一株破土的小苗,顶住了整个西方形而上学的重量。
 
-```mermaid
-flowchart LR
-    nothing["虚无/不存在"] -->|"exist"| being["站出来了<br/>(出现 = 存在)"]
-```
-
 > **提示** 这就是为什么 `existence` /ɛɡˈzɪstəns/(存在)和 `stand`(站)、`state`(状态)同根——**古罗马人把"存在"理解为"站立"**。一个东西存在,就是它"立在那里"。
 
 **派生词**:
@@ -208,11 +155,6 @@ flowchart LR
 可他们没退。罗马人往前推一步,他们就顶着盾,原地不动,直直地**对着罗马人站着**。这一站,就是三年——把当时世界上最强的战争机器,拖得焦头烂额。
 
 这就是 ***resistere***:**你推我,我不但不退,反而反着方向、对着你站**。`re-`(回、对抗)+ `sist`(站)。今天我们说 "resist temptation"(抵抗诱惑)、"resist invasion"(抵抗入侵),脑子里浮现的还是同一幅画面——有人或什么东西压过来,你双脚钉在地上,脸朝着它,不动。
-
-```mermaid
-flowchart LR
-    push["推力 →"] -->|"反着站"| res["resist<br/>(反着站)"]
-```
 
 **派生词**:
 
@@ -260,20 +202,12 @@ flowchart LR
 
 | 词 | 拆解 | 推义 |
 | ---- | ------ | ------ |
-| `state` | stat + -e | 站立的 → 国家/状态 |
 | `status` /ˈstætəs/ | stat + -us | 站的位置 → 地位 |
 | `stable` /ˈsteɪbəl/ | sta + -able | 能站的 → 稳定的 |
 | `station` | stat + -ion | 站的地方 → 车站 |
 | `static` /ˈstætɪk/ | stat + -ic | 站着不动 → 静态的 |
 | `statistic` /stəˈtɪstɪk/ | stat + -istic | (国家统计的)→ 统计 |
-| `institution` /ˌɪnstɪˈtuʃən/ | in- + stit + -ution | 使站立 → 机构 |
 | `constitution` /ˌkɑnstəˈtuʃən/ | con- + stit + -ution | 一起立起 → 宪法 |
-| `substance` /ˈsʌbstəns/ | sub- + stant + -ce | 下面站的 → 物质/本质 |
-| `exist` /ɪɡˈzɪst/ | ex- + sist | 站出来 → 存在 |
-| `resist` /rɪˈzɪst/ | re- + sist | 反着站 → 抵抗 |
-| `persist` /pərˈsɪst/ | per- + sist | 一直站 → 坚持 |
-| `consist` /kənˈsɪst/ | con- + sist | 站一起 → 组成 |
-| `assist` /əˈsɪst/ | as- + sist | 站旁边 → 帮助 |
 | `establish` /ɪˈstæblɪʃ/ | e- + stab + lish | 使稳固 → 建立 |
 
 ---
@@ -300,10 +234,10 @@ flowchart LR
 
 ### 【思考题】(答案见附录 A)
 
-1. `persist` /pərˈsɪst/(坚持)字面是"一直站着",想象一个人在风暴中站着不倒的画面。
-2. `constitution` /ˌkɑnstəˈtuʃən/(宪法)字面是"一起立起来",为什么国家根本大法叫"立起来"?(提示:国家被"立"在它之上)
-3. `substance` /ˈsʌbstəns/(本质)字面是"底下站着的",想想这个词如何体现"本质"的含义?(提示:支撑表面的根基)
+1. **(破除误解)** 本章说 `stand`、`stay` 和 stare 家族"有更早的印欧亲缘,但不是拉丁 *stare* 直接派生的借词"。请用 `stand`(本族)和 `state`(借入)说明"同源"和"直接借入"是两回事。另外,`constitution` 的 `-ution`、`institution` 的成分,能不能像现代后缀那样随意拼接?为什么?
+2. **(讲证据)** `substance` 字面是"底下站着的",常译"实体/本体";但本章提醒"不能把它直接等同于 `matter`(质料)"。从"字面拆解"到"哲学术语的精确含义",中间为什么还差一大步?遇到专业词,该靠什么确定它的准确意思?
+3. **(迁移应用)** 本章的 `-sist` 五兄弟(insist/persist/consist/assist/resist)都是"站",靠前缀区分。给你一个没讲的 `desist` /dɪˈzɪst/(停止):`de-`(离开)+ `sist`(站)。先推字面义、说明怎么得到"停止",再把它放回五兄弟里——为什么同一个 `sist`,前缀一换意思就差这么远?
 
 ---
 
-*下一章 → [第 12 章 罗马人的"法律":lex / jus](./第12章-lex-jus家族.md)*
+*下一章 → [第 12 章 罗马人的法律：lex, jus](./第12章-罗马人的法律：lex, jus.md)*
