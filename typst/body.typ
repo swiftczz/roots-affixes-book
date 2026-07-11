@@ -545,10 +545,10 @@
       fnode((2, 0), "father", kind: "node", w: 14.0mm),
       fnode((2, 2), "pater", kind: "node", w: 14.0mm),
       fnode((3, 1), "paternal（父亲的）", kind: "node", w: 36.9mm),
-      fnode((3, 2), "patriot（爱国者：爱国父）", kind: "node", w: 36.9mm),
-      fnode((3, 3), "patron（赞助人：父亲般的保护者）", kind: "node", w: 36.9mm),
+      fnode((3, 2), "patron（赞助人：父亲般的保护者）", kind: "node", w: 36.9mm),
       fnode((2, 4), "patēr", kind: "node", w: 14.0mm),
-      fnode((3, 4), "patriarch（家长：父系首领）", kind: "node", w: 36.9mm),
+      fnode((3, 3), "patriarch（家长：父系首领）", kind: "node", w: 36.9mm),
+      fnode((3, 4), "patriot（爱国者：经希腊 patris 祖国）", kind: "node", w: 36.9mm),
       fnode((1, 5), "五个词，一条老根", kind: "note", w: 27.0mm),
       fedge((0, 3), (1, 0), kind: "solid"),
       fedge((0, 3), (1, 2), kind: "solid"),
@@ -557,8 +557,8 @@
       fedge((1, 2), (2, 2), kind: "solid"),
       fedge((2, 2), (3, 1), kind: "solid"),
       fedge((2, 2), (3, 2), kind: "solid"),
-      fedge((2, 2), (3, 3), kind: "solid"),
       fedge((1, 4), (2, 4), kind: "solid"),
+      fedge((2, 4), (3, 3), kind: "solid"),
       fedge((2, 4), (3, 4), kind: "solid"),
       fedge((0, 3), (1, 5), kind: "dashed"),
     )
@@ -3057,15 +3057,15 @@ trahere 家族生成了 `attract` /əˈtrækt/（吸引）、`distract` /dɪˈst
 #diagram-panel(title: "图示 40 · 关系图", breakable: false)[
   #align(center)[
     #f-diagram(spacing: (7mm, 4mm),
-      fnode((0, 0), "trahere\n（拉）", kind: "root", w: 14.0mm),
-      fnode((1, 0), "tractus\n（被拉的痕迹、线条）", kind: "node", w: 25.9mm),
-      fnode((2, 0), "古法语 traire\n→ 英语 trait\n（特征：被拉出的特点）", kind: "node", w: 32.5mm),
-      fnode((2, 1), "古法语 tracer\n→ 英语 trace\n（追溯、痕迹：沿着被拉的线走）", kind: "node", w: 32.5mm),
-      fnode((3, 1), "portray / portrait\n（描绘、肖像：用线条拉出形象）", kind: "node", w: 32.5mm),
-      fedge((0, 0), (1, 0), kind: "solid"),
-      fedge((1, 0), (2, 0), kind: "solid"),
-      fedge((1, 0), (2, 1), kind: "solid"),
-      fedge((2, 1), (3, 1), kind: "solid"),
+      fnode((0, 1), "trahere\n（拉）", kind: "root", w: 16.5mm),
+      fnode((1, 1), "tractus\n（被拉的痕迹、线条）", kind: "node", w: 35.1mm),
+      fnode((2, 0), "古法语 traire\n→ 英语 trait\n（特征：被拉出的特点）", kind: "node", w: 44.0mm),
+      fnode((2, 1), "古法语 tracer\n→ 英语 trace\n（追溯、痕迹：沿着被拉的线走）", kind: "node", w: 44.0mm),
+      fnode((2, 2), "古法语 portraire\n→ 英语 portray / portrait\n（描绘、肖像：拉出形象）", kind: "node", w: 44.0mm),
+      fedge((0, 1), (1, 1), kind: "solid"),
+      fedge((1, 1), (2, 0), kind: "solid"),
+      fedge((1, 1), (2, 1), kind: "solid"),
+      fedge((1, 1), (2, 2), kind: "solid"),
     )
   ]
 ]
@@ -5140,7 +5140,7 @@ fluere 是水的专用动词。说话流利(fluent /ˈfluənt/)，是话像水�
 "你说你是正义的人。那我问你，什么是正义？" "……就是还债。" "那把借来的刀还给一个发疯的朋友，是正义吗？" "呃……"
 ]
 
-苏格拉底号称"我唯一知道的，是我一无所知"。他不去教别人怎么赢，而是不断追问别人"你到底知道什么"------问到最后，对方往往恼羞成怒。雅典的权贵被他问得下不来台，日积月累，这笔账要算。最终苏格拉底被控"腐蚀青年""不敬城邦神"，判了死刑。
+苏格拉底的态度常被概括为"我唯一知道的，是我一无所知"（这句话是后世对他哲学立场的概括，并非他的逐字原话）。他不去教别人怎么赢，而是不断追问别人"你到底知道什么"------问到最后，对方往往恼羞成怒。雅典的权贵被他问得下不来台，日积月累，这笔账要算。最终苏格拉底被控"腐蚀青年""不敬城邦神"，判了死刑。
 
 #table(
     columns: (1fr, 1fr),
@@ -5311,8 +5311,8 @@ fluere 是水的专用动词。说话流利(fluent /ˈfluənt/)，是话像水�
 
 #horizontalrule
 
-==== 词 4：`bibliophile`（爱书人）
-<词-4bibliophile爱书人>
+==== 词 4：`bibliophile` /ˈbɪbliəˌfaɪl/（爱书人）
+<词-4bibliophile-ˈbɪbliəˌfaɪl爱书人>
 #strong[拆解]：`biblio-`（书）+ `-phile`（爱者）= 爱书的人
 
 #strong[故事]：
@@ -5394,7 +5394,7 @@ fluere 是水的专用动词。说话流利(fluent /ˈfluənt/)，是话像水�
     [`sophist`], [soph + ist], [智者（→ 诡辩者）],
     [`sophistry` /ˈsɑfɪstri/], [soph + ist + ry], [智术 → 诡辩],
     [`sophisticated` /səˈfɪstəˌkeɪtɪd/], [经 sophisticare（掺假）], [智化 → 复杂精明],
-    [`theosophy`], [theo（神）+ soph + y], [神智 → 神智学],
+    [`theosophy` /θiˈɑsəfi/], [theo（神）+ soph + y], [神智 → 神智学],
     [`sophomore` /ˈsɑfəˌmɔr/], [soph + more], [希腊 sophos + moros（愚蠢）= 聪明又蠢的 → 大二生],
   )
 
@@ -5632,7 +5632,7 @@ demo- 家族讲完了"谁是人民"，现在轮到 -cracy 家族来回答"谁说
 #strong[提示] #strong[同一根 aristos 的其他派生]：`Aristotle` /ˈærəˌstɑtəl/（亚里士多德，名字字面义"最好的目的"）、`aristocrat`（贵族）、`aristocratic` /əˌrɪstəˈkrætɪk/（贵族气的）。
 ]
 
-#strong[`plutocracy`（财阀制）] ------ `pluto-`（财富）+ `-cracy`（统治）= #strong[富人的统治]。希腊文#emph[ploutos] 意为"财富"。
+#strong[`plutocracy` /pluˈtɑkrəsi/（财阀制）] ------ `pluto-`（财富）+ `-cracy`（统治）= #strong[富人的统治]。希腊文#emph[ploutos] 意为"财富"。
 
 #quote(block: true)[
 #strong[提示] #strong[有趣关联]：`Pluto` 和 `plutocracy` 都与希腊#emph[ploutos] "财富"相关，但需要区分两位形象：#emph[#strong[Ploutos]] 是财富的拟人神，#emph[#strong[Ploutōn]] 则是冥王 Hades 的称号，可理解为"富有者"，可能与地下蕴藏财富的观念有关。二者后来有联系，但不能直接说财神和冥王是同一个神。
@@ -5981,7 +5981,7 @@ Psyche 悲痛欲绝，满世界找他。爱神阿芙洛狄忒趁机刁难，给�
   ]
 ]
 #quote(block: true)[
-#strong[提示] #strong[`morphine`（吗啡）的来历]：1804 年，德国药剂师 Sertürner 从鸦片里分离出一种强效止痛成分。他命名时想到：#strong[这种物质能让人陷入梦境般的沉睡] ------就像梦神 Morpheus 在施展力量。于是他把它命名为#strong[morphine] 。所以"吗啡"这个名字，直接来自希腊梦神。
+#strong[提示] #strong[`morphine`（吗啡）的来历]：约 1804 年，德国药剂师 Sertürner 开始从鸦片中实验分离一种强效止痛成分；1817 年他正式发表了这种纯生物碱，并命名为#strong[Morphium] （德语，源自梦神 Morpheus）。后来法语、英语中演变为 `morphine`。他命名时想到：#strong[这种物质能让人陷入梦境般的沉睡] ------就像梦神 Morpheus 在施展力量。所以"吗啡"这个名字，直接来自希腊梦神。
 ]
 
 ==== 【代表词深讲】
@@ -6427,7 +6427,7 @@ logos 这词的传奇不在于它本义多朴素，而在于#strong[它是怎么
       fnode((1, 0), "meter 米\n1793 年法国大革命时定义", kind: "node", w: 44.0mm),
       fnode((1, 1), "meter 仪表\n（测量工具）", kind: "node", w: 44.0mm),
       fnode((1, 2), "metric 公制的", kind: "node", w: 44.0mm),
-      fnode((1, 3), "measure\n拉丁 mensura → 古法语 mesure → 英语", kind: "node", w: 44.0mm),
+      fnode((1, 3), "measure\n拉丁 mensura（测量）→ 古法语 mesure → 英语", kind: "note", w: 44.0mm),
       fnode((1, 6), "-metry（……测量学）", kind: "node", w: 44.0mm),
       fnode((2, 4), "geometry 几何\ngeo 地 + metry 测量", kind: "node", w: 38.5mm),
       fnode((2, 5), "symmetry 对称\nsyn 同 + metry 测量", kind: "node", w: 38.5mm),
@@ -6437,7 +6437,7 @@ logos 这词的传奇不在于它本义多朴素，而在于#strong[它是怎么
       fedge((0, 2), (1, 0), kind: "solid"),
       fedge((0, 2), (1, 1), kind: "solid"),
       fedge((0, 2), (1, 2), kind: "solid"),
-      fedge((0, 2), (1, 3), kind: "solid"),
+      fedge((0, 2), (1, 3), kind: "dashed", label: "远亲（同源\n，非直传）"),
       fedge((0, 2), (1, 6), kind: "solid"),
       fedge((1, 6), (2, 4), kind: "solid"),
       fedge((1, 6), (2, 5), kind: "solid"),
@@ -7449,7 +7449,7 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
 维京人留下的不只有长船传说，还有 `they`、`sky`、`take` 这样的日常词。英语把这些借词用得太自然，连海关章都快磨没了。
 ]
 
-第 20 章讲了日耳曼词的特性。这一章讲日耳曼词里#strong[最特别的一群] ------不是盎格鲁-撒克逊人带来的，而是#strong[维京人带来的]。这些词长得像英语本土词，混在队伍里几乎查不出户口：`they`、`sky`、`take`、`egg`、`give`……一个个全是高频词，一个个全是"外来户"。
+第 20 章讲了日耳曼词的特性。这一章讲日耳曼词里#strong[最特别的一群] ------不是盎格鲁-撒克逊人带来的，而是#strong[维京人带来的]。这些词长得像英语本土词，混在队伍里几乎查不出户口：`they`、`sky`、`take`……一个个全是高频词，一个个全是"外来户"。还有 `egg`、`give` 这种更刁的------古英语本来就有同源形式，但古诺尔斯语的版本硬是挤了进来，到底是"整词替换"还是"同源融合"，语言学家吵到现在还没吵完。
 
 这一章要回答一个问题：#strong[古诺尔斯语怎样在长期接触中，把词塞进了英语最日常、最高频的那一层？]答案不是维京人发过一本官方词表------他们忙着抢劫和定居，没空搞语言规划。真正的答案藏在两群人长达两百多年的同居生活里。
 
@@ -7636,6 +7636,10 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
 ==== 词 8：`berserk` /bərˈsɜrk/（狂暴的）------附赠一个维京彩蛋
 <词-8berserk-bərˈsɜrk狂暴的附赠一个维京彩蛋>
 `berserk` 来自古诺尔斯语 `ber-serkr`:`ber`（熊）+ `serkr`（衫）= #strong["熊皮衫"] 。这不是普通的保暖外套。#emph[（传说）]维京人里有这么一类叫#emph[berserker] 的战士，开打前先披上熊皮，跳一段战舞，进入一种叫#strong[berserkergang] （狂化状态）的 trance------据说刀枪不入、不知疼痛，把自己当成熊，见人就撕。这个状态过去之后人会瘫软半天。"berserk"后来从"穿熊皮的疯战士"演变成今天"发狂、失控"的通用义。下次你说某个人 go berserk，其实是在引用一段千年前的北欧战场传说。
+
+#quote(block: true)[
+#strong[提示] `ber-serkr` 里的 `ber` 也有学者解释为"裸"(bare)，即"不穿铠甲上阵"的战士，而非"穿熊皮"。两种说法并存，目前尚无定论。
+]
 
 #horizontalrule
 
@@ -8383,7 +8387,7 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
     table.header(th([音组]), th([例词]),),
     table.hline(),
     [`-oi-`], [`choice`, `voice`, `joy` /dʒɔɪ/, `boil` /bɔɪl/（部分）],
-    [`-ai-`], [`rain`, `certain`, `mountain`],
+    [`-ai-`], [`certain`, `mountain`（注意：`rain` 是古英语继承词，不是法语借词，`-ai-` 只是拼写巧合，不能作为可靠标志）],
   )
 
 ==== 标志 4：ch 发 /tʃ/（而不是 /k/）
@@ -8444,8 +8448,8 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
     table.header(th([波次]), th([时间]), th([来源]), th([特点]), th([例词]), th([风格]),),
     table.hline(),
     [第 1 波], [1066-1200], [诺曼底法语(Norman /ˈnɔrmən/ French)], [和诺曼贵族一起进入], [`court`, `war`, `army`, `government`], [最"上层"],
-    [第 2 波], [1200-1400], [巴黎中部法语(Central French)], [学者、商人、外交带来], [`government`, `religion` /rɪˈlɪdʒən/, `art`, `fashion` /ˈfæʃən/], [更"精致、文化"],
-    [第 3 波], [16-17 世纪], [法国文化影响], [时尚、艺术、外交], [`ballet` /bæˈleɪ/, `cuisine` /kwɪˈzin/, `bouquet` /buˈkeɪ/, `cliché`], ["文化借词"],
+    [第 2 波], [1200-1400], [巴黎中部法语(Central French)], [学者、商人、外交带来], [`religion` /rɪˈlɪdʒən/, `art`, `fashion` /ˈfæʃən/, `justice`], [更"精致、文化"],
+    [第 3 波], [16-17 世纪], [法国文化影响], [时尚、艺术、外交], [`ballet` /bæˈleɪ/, `cuisine` /kwɪˈzin/, `bouquet` /buˈkeɪ/, `cliché` /kliˈʃeɪ/], ["文化借词"],
   )
 
 三波合起来，就是法语在英语里留下的完整家谱：#strong[第 1 波是征服者的脚印，第 2 波是文人的礼物，第 3 波是巴黎的明信片。]每一波都比上一波更"文化"、更"精致"，也越来越像一种主动的文化仰慕，而不是被动的征服遗产。
@@ -8905,11 +8909,11 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
     table.header(th([]), th([kingly]), th([royal]), th([regal]),),
     table.hline(),
     [来源], [古英语 king + -ly（像……的）], [古法语 roial ← 拉丁 regalis], [拉丁 regalis（王室的）],
-    [语体], [本土、亲切、口语], [正式], [最正式、最庄严],
+    [语体], [本土、亲切（现代偏文学、古雅）], [正式], [最正式、最庄严],
     [示例], ["a kingly man"（有王者气度的人）], ["the royal family"（王室）], ["regal bearing"（庄严的气度）],
   )
 
-三层风格差异微妙却分明：`kingly` /ˈkɪŋli/ 是那种"有王者气度"的亲切赞美，带着本土的温度；`royal` /ˈrɔɪəl/ 是官方、体制里的"王室",the royal family、the Royal Navy，都挂在国家机构上；`regal` /ˈriɡəl/ 最庄严、最文学，用来形容一种近乎肃穆的气派，regal bearing、regal authority。
+三层风格差异微妙却分明：`kingly` /ˈkɪŋli/ 带着本土的温度，但现代英语里它更多出现在文学或古雅语境中（a kingly ransom = 一笔国王级的赎金），而非日常口语；`royal` /ˈrɔɪəl/ 是官方、体制里的"王室",the royal family、the Royal Navy，都挂在国家机构上；`regal` /ˈriɡəl/ 最庄严、最文学，用来形容一种近乎肃穆的气派，regal bearing、regal authority。
 
 这三种手感的差别，最好的活教材藏在#strong[丘吉尔]的演讲里。1940 年，二战最黑暗的时刻，丘吉尔在下议院发表了那段著名的就职演说。他没有说"I have nothing to offer but #emph[valour, exertion /ɪɡˈzɜrʃən/, magnificence and perspiration /ˌpɜrspəˈreɪʃən/]"------那是拉丁味、法语味堆出来的句子，华美却飘忽。他说的是：
 
@@ -8917,7 +8921,7 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
 #emph["I have nothing to offer but #strong[blood, toil] /tɔɪl/ #strong[, tears and sweat]\."]
 ]
 
-血、劳、泪、汗------四个词，绝大多数是日耳曼短词（唯一的例外是 `toil`，它经古法语#emph[toile] 而来，但短硬有力，丘吉尔选它而非更正式的 `labor` /ˈleɪbər/）。丘吉尔是英语大师，他清楚：要让全国人------从贵族到工人------同仇敌忾，就得用最古老、最本土、最短的词。这就是 kingly（本土、亲切）和 royal/regal（外来、正式）分野的实战。同一件事，你挑哪个层级的词，决定了听众是觉得你在"训话"，还是觉得你在"交心"。
+血、劳、泪、汗------四个词，绝大多数是日耳曼短词（唯一的例外是 `toil`，它经古法语#emph[toile] 而来，但短硬有力，丘吉尔选它而非更正式的 `labor` /ˈleɪbər/）。丘吉尔是英语大师，他清楚：要让全国人------从贵族到工人------同仇敌忾，就得用最古老、最本土、最短的词。这就是 kingly（本土词根，现代偏文学）和 royal/regal（外来、正式）分野的实战。同一件事，你挑哪个层级的词，决定了听众是觉得你在"训话"，还是觉得你在"交心"。
 
 ==== 案例 2：freedom / liberty ------ Patrick Henry 为什么不说"freedom"
 <案例-2freedom--liberty--patrick-henry-为什么不说freedom>
@@ -8927,11 +8931,11 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
     table.header(th([]), th([freedom]), th([liberty]),),
     table.hline(),
     [来源], [古英语 free + -dom（状态）], [法语 → 拉丁 libertas（自由）],
-    [语体], [本土、亲切、口语], [正式],
+    [语体], [本土、常用（也见于正式法律语境）], [正式、偏政治法律],
     [示例], ["freedom of speech"（言论自由）], ["civil liberties"（公民自由权）],
   )
 
-`freedom` /ˈfridəm/ 和 `liberty` /ˈlɪbərˌti/ 都译成"自由"，但气质不同：`freedom` 更带情感和温度（自由的感觉），`liberty` 更带政治法律的冷光（自由的权利）。
+`freedom` /ˈfridəm/ 和 `liberty` /ˈlɪbərˌti/ 都译成"自由"，但气质有微妙差异：`freedom` 更带情感和温度，也更常用------"freedom of speech"（言论自由）本身就是正式法律表达；`liberty` 更偏政治哲学，带着"天赋人权、不可剥夺"的冷光。
 
 这层差别，1775 年的美国人用血验证过。美国独立战争前夜，弗吉尼亚的#strong[帕特里克·亨利(Patrick Henry)] 在议会上喊出那句改变历史的话：
 
@@ -8939,7 +8943,11 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
 #emph["#strong[Give me liberty, or give me death!] "]
 ]
 
-为什么不喊"Give me freedom"？因为 `freedom` 太软、太家常，像在说"我想自由自在地过日子"。而 `liberty` 是一个政治词、法律词，带着"天赋人权、不可剥夺"的庄严。亨利要的不是一个农夫的自在，而是一个公民的政治权利------所以他要的是 liberty，不是 freedom；他赌上的也是 death，不是"不开心"。一个词的选择，把一场农民骚动升格成了一场革命宣言。
+为什么不喊"Give me freedom"？因为 `liberty` 是一个政治词、法律词，带着"天赋人权、不可剥夺"的庄严。亨利要的不是一个农夫的自在，而是一个公民的政治权利------所以他要的是 liberty，不是 freedom；他赌上的也是 death，不是"不开心"。一个词的选择，把一场农民骚动升格成了一场革命宣言。
+
+#quote(block: true)[
+#strong[提示]以上对亨利选词动机的解读是后人的常见分析，未必是亨利本人的原意------他留下的是一句话，不是一份选词备忘录。
+]
 
 ==== 案例 3：ask / question / interrogate /ɪnˈtɛrəˌɡeɪt/
 <案例-3ask--question--interrogate-ɪnˈtɛrəˌɡeɪt>
@@ -8975,6 +8983,10 @@ the, of, and, a, to, in, is, you, that, it, he, was, for, on, are, as, with, his
   )
 
 提醒一句：表中后两行不是同义词组------`hearty` /ˈhɑrti/、`cordial` /ˈkɔrdʒəl/、`cardiac` /ˈkɑrdiˌæk/ 意义和搭配都不同，`fire`、`flame` /fleɪm/ 是名词而 `ignite` /ɪɡˈnaɪt/ 是动词。这张表是用来观察"同一个概念领域里挤着不同来源的词"，不是说它们能彼此替换。
+
+#quote(block: true)[
+#strong[提示]以上"三层阶梯"是一种#strong[常见语体倾向]，不是固定等级。实际使用中，`freedom of speech` 是正式法律表达，`kingly` 现代偏文学而非口语，很多词的语体还会随时代和地区变化。把它当成观察角度，而非分类铁律。
+]
 
 ==== 案例 5：commencement /kəˈmɛnsmənt/ = 毕业典礼？为什么"毕业"叫"开始"
 <案例-5commencement-kəˈmɛnsmənt--毕业典礼为什么毕业叫开始>
@@ -10516,7 +10528,7 @@ September 的旧账算完了，接下来轮到那些老老实实数数的前缀-
 <omni-拉丁全和-pan-希腊全>
 "全"是数字前缀里最霸道的一个------不分你我、无一遗漏。拉丁 `omni-` 给神量身定做了一组词：`omnipotent` /ɑmˈnɪpətənt/（全能，什么都能）、`omnipresent` /ˌɑmnɪˈprɛzənt/（无处不在，哪儿都在）、`omniscient` /ɑmˈnɪʃənt/（全知，什么都知道）------三个词合起来，就是中世纪神学里那个"全知全能无处不在"的至高形象。
 
-希腊的 `pan-` 也不遑多让。`pandemic` /pænˈdɛmɪk/（大流行）拆开是 `pan`（全）+ `dem`（人民），字面就是#strong["全民的病"] ------当一种病让"全民"都中招，它就升级成 pandemic。`panorama` /ˌpænəˈræmə/（全景）是 `pan` + `orama`（看），字面"全都看见";`pantheon` /ˈpænθiˌɑn/（万神殿）是 `pan` + `theon`（神），把所有神都收进一座庙里。
+希腊的 `pan-` 也不遑多让。`pandemic` /pænˈdɛmɪk/（大流行）拆开是 `pan`（全）+ `dem`（人民），字面就是#strong["关乎全民的病"] ------当一种病跨越广大地区、影响大量人口（不是要求每个人都感染），它就升级成 pandemic。`panorama` /ˌpænəˈræmə/（全景）是 `pan` + `orama`（看），字面"全都看见";`pantheon` /ˈpænθiˌɑn/（万神殿）是 `pan` + `theon`（神），把所有神都收进一座庙里。
 
 #quote(block: true)[
 #strong[omni- 家族（拉丁全）]
@@ -10683,18 +10695,21 @@ September 的旧账算完了，接下来轮到那些老老实实数数的前缀-
 ]
 ==== 路 2：文艺复兴直接借（16-17 世纪）
 <路-2文艺复兴直接借16-17-世纪>
-第二条路，是#strong[学者的路]。文艺复兴来了，英国学者一头扎进拉丁古籍，搬词搬得不亦乐乎。#emph[（传说）]这帮人凑在一起，互相攀比谁造的词更"古典"、更像刚从西塞罗手稿里抠出来的原装货------你搬一个 `civilization` /ˌsɪvəlɪˈzeɪʃən/，我就搬一个 `education`，他再补一个 `information`，活像一场拉丁词的军备竞赛。他们懒得再走法语那一道二手工序，直接从拉丁原典里拎词，拍上 `-tion`，就塞进英语。于是这批 16-17 世纪的"直供词"新鲜出炉：
+第二条路，是#strong[学者的路]。文艺复兴来了，英国学者一头扎进拉丁古籍，搬词搬得不亦乐乎。这帮人凑在一起，互相攀比谁造的词更"古典"、更像刚从西塞罗手稿里抠出来的原装货------你搬一个 `education`，我就搬一个 `information`，他再补一个 `organization` /ˌɔrɡənəˈzeɪʃən/，活像一场拉丁词的军备竞赛。他们懒得再走法语那一道二手工序，直接从拉丁原典里拎词，拍上 `-tion`，就塞进英语。于是这批 16-17 世纪的"直供词"新鲜出炉：
 
 #table(
     columns: (1fr, 1fr, 1fr),
     align: (left + horizon, left + horizon, left + horizon,),
     table.header(th([拉丁源]), th([英语词]), th([释义]),),
     table.hline(),
-    [`civilizationem`], [`civilization`], [文明],
     [`educationem`], [`education`], [教育],
     [`informationem`], [`information`], [信息],
     [`organizationem`], [`organization` /ˌɔrɡənəˈzeɪʃən/], [组织],
   )
+
+#quote(block: true)[
+#strong[提示]注意，并非所有 `-tion` 词都能干净归入"法语路线"或"拉丁直借路线"。比如 `civilization` /ˌsɪvəlɪˈzeɪʃən/（文明）主要在 18 世纪从法语 `civilisation` 进入英语，不属于文艺复兴直借。借词的年代和路线需要逐词查证，上面两条路只是大致框架。
+]
 
 #horizontalrule
 
@@ -10946,11 +10961,11 @@ September 的旧账算完了，接下来轮到那些老老实实数数的前缀-
 
 #horizontalrule
 
-=== 31.2 -able 的核心义："能被……的"
-<312--able-的核心义能被的>
-`-able` 最常做的事，是给动词#strong[翻一面] ------把"做"变成"被做"，把"能去做的能力"变成"能被做的可能性"。可以这样想象：#strong[每一个动词里，都暗藏着一个被动等待的形容词，平时是潜伏状态；`-able` 一盖，它就被激活，显形成"能被……的"。]
+=== 31.2 -able 的核心义："与某个动作或性质相关"
+<312--able-的核心义与某个动作或性质相关>
+`-able` 最常做的事，是给动词#strong[翻一面] ------把"做"变成"被做"，把"能去做的能力"变成"能被做的可能性"。可以这样想象：#strong[每一个动词里，都暗藏着一个等待激活的形容词，平时是潜伏状态；`-able` 一盖，它就被激活。]
 
-`read`（读）被盖一下，显出 `readable` /ˈridəbəl/（能被读的）；`solve` /sɑlv/（解决）被盖一下，显出 `solvable` /ˈsɑlvəbəl/（能被解决的）。核心语义是#strong["能被这个动作作用的"] ------也就是#strong[被动可能性]：
+`read`（读）被盖一下，显出 `readable` /ˈridəbəl/（能被读的）；`solve` /sɑlv/（解决）被盖一下，显出 `solvable` /ˈsɑlvəbəl/（能被解决的）。#strong["能被……的"是 `-able` 最常见的一类] ------也就是#strong[被动可能性]：
 
 #table(
     columns: (1fr, 1fr, 1fr, 1fr),
@@ -10981,7 +10996,7 @@ September 的旧账算完了，接下来轮到那些老老实实数数的前缀-
     [主动义（少数）], [`changeable` /ˈtʃeɪndʒəbəl/], [易变的（自己变）],
   )
 
-大多数 `-able` 词规规矩矩守着被动义，但少数词因长期使用、词义漂移，慢慢"叛变"成了主动义。遇到具体词别光看后缀，还得结合实际用法判断。
+大多数 `-able` 词规规矩矩守着被动义，但少数词因长期使用、词义漂移，慢慢"叛变"成了主动义。而且 `-able` 的含义不止"被动可能性"和"主动倾向"两种------它还能表示#strong["适合、值得、容易、倾向于"] 等意义（如 `reliable` /rɪˈlaɪəbəl/ 可靠的、`valuable` /ˈvæljuəbəl/ 有价值的、`fashionable` 流行的）。遇到具体词别光看后缀，还得结合实际用法判断。
 
 #horizontalrule
 
@@ -11443,18 +11458,16 @@ September 的旧账算完了，接下来轮到那些老老实实数数的前缀-
 
 它的词根 `tour` /tʊr/（旅行）来自法语#emph[tourner]，本意是"转圈"。18 世纪的英国贵族子弟有一项传统：在完成牛津或剑桥的学业后，由家庭教师陪同，花上一两年时间游历欧洲大陆------法国、意大利、瑞士，看艺术、学语言、长见识。这就是著名的#strong[Grand Tour] （壮游），被视为贵族教育的最后一道工序。
 
-#diagram-panel(title: "图示 149 · 词源路径", breakable: false)[
-  #table(
-    columns: (1fr, 23pt, 1fr, 23pt, 1fr),
-    stroke: none,
-    column-gutter: 5pt,
-    align: horizon,
-    d-node("tour\n（旅行，来自法语 tourner 转圈）", kind: "root"),
-    d-flow(mark: "→"),
-    d-node("tour + -ist → tourist\n（旅游者，1772 年）", kind: "node"),
-    d-flow(mark: "→"),
-    d-node("tour + -ism → tourism\n（旅游业，1811 年）", kind: "node"),
-  )
+#diagram-panel(title: "图示 149 · 关系图", breakable: false)[
+  #align(center)[
+    #f-diagram(spacing: (7mm, 4mm),
+      fnode((0, 0), "tour\n（旅行，来自法语 tourner 转圈）", kind: "root", w: 44.0mm),
+      fnode((1, 0), "tour + -ist → tourist\n（旅游者，1772 年）", kind: "node", w: 35.6mm),
+      fnode((1, 1), "tour + -ism → tourism\n（旅游业，1811 年）", kind: "node", w: 35.6mm),
+      fedge((0, 0), (1, 0), kind: "solid"),
+      fedge((0, 0), (1, 1), kind: "solid"),
+    )
+  ]
 ]
 `tourist` /ˈtʊrəst/（旅游者）这个词在 1772 年出现，`tourism`（旅游业）在 1811 年出现------这两个日期本身就讲完了一个故事：先有人去"转圈"旅游，然后才有人把"旅游这件事"打包成一门产业。`tourism` 诞生的那一刻，旅行从贵族的成年礼，变成了可以被规模化、被经营、被消费的商品。当然，在 `tourist` 出现之前人们也旅行------为贸易、朝圣、求学、外交、探险------但那都是"有目的的出行";`tourist` 标记的是一个新类别：#strong[为了旅游本身而旅游的人。] `-ism` 在这里把一个行为提升成了一种现象、一个产业。
 
@@ -11502,7 +11515,7 @@ September 的旧账算完了，接下来轮到那些老老实实数数的前缀-
 == 第 33 章 -ly 的小史：古英语 līc "身体"如何变成副词后缀
 <第-33-章--ly-的小史古英语-līc-身体如何变成副词后缀>
 #quote(block: true)[
-今天你嘴里的 `quickly`，一千年前的字面意思是"以快的身体做"。一个有血有肉的词，被时间磨成一具只剩两枚字母(`-ly`)的骨架------天天被你念叨，却没人再听得见它曾经的呼吸。
+今天你嘴里的 `quickly`，一千年前的古英语人如果听到，理解成的字面画面大概是"长着一副快的身体（外形）"------因为 `-ly` 的祖宗就是古英语 `līc`,"身体、形态"。一个有血有肉的词，被时间磨成一具只剩两枚字母的骨架------天天被你念叨，却没人再听得见它曾经的呼吸。
 ]
 
 第 6 卷的最后一章，讲英语后缀 `-ly`。它不孤单：德语 `-lich`、荷兰语 `-lijk` 是它的同族兄弟，只是各走各的路、各练各的功夫。
@@ -11732,12 +11745,10 @@ September 的旧账算完了，接下来轮到那些老老实实数数的前缀-
     [`-ly`], [古英语 līc（"身体"）], [名词后], [`friendly` /ˈfrɛndli/、`lovely` /ˈlʌvli/、`manly` /ˈmænli/],
     [`-ful`], [古英语 full（"满"）], [名词后], [`beautiful`、`useful` /ˈjusfəl/、`hopeful` /ˈhoʊpfəl/],
     [`-less`], [古英语 leas（"无"）], [名词后], [`useless` /ˈjusləs/、`hopeless` /ˈhoʊpləs/、`careless` /ˈkɛrləs/],
-    [`-ous`], [拉丁源], [拉丁词根后], [`dangerous` /ˈdeɪndʒərəs/、`famous` /ˈfeɪməs/、`curious` /ˈkjʊriəs/],
+    [`-ous`], [拉丁源], [主要在拉丁/法语来源词后], [`dangerous` /ˈdeɪndʒərəs/、`famous` /ˈfeɪməs/、`curious` /ˈkjʊriəs/],
   )
 
-四个后缀，四种脾气：`-ly` 是土生土长的本地人（日耳曼血统），说的是"像……的、有……身板的";`-ful` 是个"塞满派"，张口就是"满满当当的"（hopeful = 满怀希望的）；`-less` 是它的对头，一个"清空派"，专说"没、缺"（hopeless = 一点希望没有）；`-ous` 则是从拉丁借来的外乡客，只在拉丁词根后露脸，说的是"有……特性的"。同是造形容词，走的却是四条路。
-
-#horizontalrule
+四个后缀，四种脾气：`-ly` 是土生土长的本地人（日耳曼血统），说的是"像……的、有……身板的";`-ful` 是个"塞满派"，张口就是"满满当当的"（hopeful = 满怀希望的）；`-less` 是它的对头，一个"清空派"，专说"没、缺"（hopeless = 一点希望没有）；`-ous` 则是从拉丁借来的外乡客，主要在拉丁/法语来源词后露脸，说的是"有……特性的"。同是造形容词，走的却是四条路。
 
 #horizontalrule
 

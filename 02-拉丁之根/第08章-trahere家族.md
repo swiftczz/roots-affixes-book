@@ -188,7 +188,7 @@ flowchart TD
     L1["trahere<br/>(拉)"] --> L2["tractus<br/>(被拉的痕迹、线条)"]
     L2 --> R1["古法语 traire<br/>→ 英语 trait<br/>(特征:被拉出的特点)"]
     L2 --> R2["古法语 tracer<br/>→ 英语 trace<br/>(追溯、痕迹:沿着被拉的线走)"]
-    R2 --> R3["portray / portrait<br/>(描绘、肖像:用线条拉出形象)"]
+    L2 --> R3["古法语 portraire<br/>→ 英语 portray / portrait<br/>(描绘、肖像:拉出形象)"]
 ```
 
 `portrait` 经法语追溯到表示"描绘、刻画"的词,再与拉丁 *protrahere*(拉出、展现)相连。这里的关键语义是"把形象呈现出来";"把线条拉到画布上"可以助记,却不是它的历史字面定义。
