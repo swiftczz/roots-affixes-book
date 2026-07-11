@@ -165,7 +165,7 @@ flowchart TD
 - **别自行给任意动词追加 `-tion`**。`produce/production`、`create/creation` 是配好的成品套餐;`sleep` + `-tion` = `sleeption`？英语海关会当场退件,连包装都不拆。
 - **`-tion` 和 `-sion` 的分布没有万能口诀**。它们各自继承了不同的拉丁词干,不是看动词最后一个字母就能决定的。`decide/decision` 里的 `s` 是祖传的,不是英语为顺嘴临时抠掉 `d` 换上的。
 - **`-tion` 听起来正式,不等于一定更好**。满纸 `investigation` /ɪnˌvɛstəˈɡeɪʃən/、`implementation` /ˌɪmpləmɛnˈteɪʃən/ 的论文,读起来像坦克过马路——有时直接说 `investigate` /ˌɪnˈvɛstəɡˌeɪt/ 反而更清楚。正式感是工具,不是勋章。
-- **同样拼 `-tion`,嘴巴分两种**。`nation` 读 `/ʃən/`（"神"），`question` 读 `/tʃən/`（"晨"）——记词时连读音一起记,别让嘴巴替你即兴发挥。
+- **同样拼 `-tion`,嘴巴分两种**。`nation` 读 `/ʃən/`("神")，`question` 读 `/tʃən/`("晨")——记词时连读音一起记,别让嘴巴替你即兴发挥。
 
 ---
 
