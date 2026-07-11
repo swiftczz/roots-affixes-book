@@ -191,9 +191,9 @@ flowchart LR
 **派生词**:
 
 - `existence`(存在)
-- `existent` /ɛgˈzɪstənt/(存在的)
-- `coexist` /ˌkoʊəgˈzɪst/(共存)
-- `existential` /ˌɛgˌzɪˈstɛnʃəl/(存在的,存在主义的)
+- `existent` /ɛɡˈzɪstənt/(存在的)
+- `coexist` /ˌkoʊɪɡˈzɪst/(共存)
+- `existential` /ˌɛɡˌzɪˈstɛnʃəl/(存在的,存在主义的)
 
 ---
 

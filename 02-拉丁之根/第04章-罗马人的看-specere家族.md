@@ -19,7 +19,7 @@
 
 把镜头拉到公元前 1 世纪某个上午,罗马广场(forum)。这是全城最热闹的露天剧场,没有之一:
 
-政治家爬上演讲台,袍角一甩,开始滔滔不绝——台下的市民**盯着**他的嘴;商人把叙利亚来的香料摆上摊,和买家**互相对视**,无声地较劲;神庙门口,占卜官(augur /ˈɔgər/)披着条纹长袍,仰头**注视**天空里划过的乌鸦,判断这一票生意能不能做。而在更远的斗兽场,五万观众**齐刷刷望向**场地中央,角斗士的生死,只看皇帝那根朝下的大拇指。
+政治家爬上演讲台,袍角一甩,开始滔滔不绝——台下的市民**盯着**他的嘴;商人把叙利亚来的香料摆上摊,和买家**互相对视**,无声地较劲;神庙门口,占卜官(augur /ˈɔɡər/)披着条纹长袍,仰头**注视**天空里划过的乌鸦,判断这一票生意能不能做。而在更远的斗兽场,五万观众**齐刷刷望向**场地中央,角斗士的生死,只看皇帝那根朝下的大拇指。
 
 四个场景,一个动词。拉丁语管"看"叫 ***specere***(古典拼写 *specere*,变形 *spectare*),后来长出了一大堆"看"的子孙。它的核心义是**有目的地注视、观察**——不是漫不经心地瞥一眼,而是**认真看、存心看、看出点名堂来**。罗马人是真的相信"看"这件事能看出吉凶、看出品行、看出神的旨意——于是这个"看"字,顺理成章地繁衍成了拉丁语里子孙最旺的一支。
 
@@ -52,7 +52,7 @@ flowchart TD
 | `spic-` | 拉丁复合词的弱化形式 | suspicion /səˈspɪʃən/, auspice /ˈɔspɪs/, conspicuous /kənˈspɪkjuəs/ |
 | `speci-` | 来自 species(外观) | species, special |
 
-> **小提示**:`inspect` /ˌɪnˈspɛkt/、`expect` 这些词在现代英语里的意思(检查、期待)是经过漫长语义漂移的,不是"已经被看/已经被期待"的简单直译。别拿拆字公式去套现代词义,会漏掉中间两千年。
+> **小提示**:`inspect` /ɪnˈspɛkt/、`expect` 这些词在现代英语里的意思(检查、期待)是经过漫长语义漂移的,不是"已经被看/已经被期待"的简单直译。别拿拆字公式去套现代词义,会漏掉中间两千年。
 
 **记忆口诀**:**看到 `spec/spic/spect/speci`,都是"看"**。不要被四种拼写吓到,核心义只有一个。
 
@@ -123,7 +123,7 @@ flowchart LR
 
 ---
 
-### 词 2:`inspect` /ˌɪnˈspɛkt/(检查)
+### 词 2:`inspect` /ɪnˈspɛkt/(检查)
 
 **拆解**:`in-`(向内)+ `spect`(看) = 向内看
 
@@ -178,7 +178,7 @@ flowchart LR
 
 > **三个"向某方向看"的对照**:
 >
-> - `inspect` /ˌɪnˈspɛkt/(向内看 → 检查外部事物)
+> - `inspect` /ɪnˈspɛkt/(向内看 → 检查外部事物)
 > - `introspect` /ˈɪntrəˌspɛkt/(向内看 → 检查内心)
 > - `retrospect` /ˈrɛtrəˌspɛkt/(向后看 → 回顾)
 >
@@ -197,7 +197,7 @@ flowchart LR
 **`auspice` /ˈɔspɪs/**:`avi-`(鸟)+ `specere`(看)= **看鸟**。
 **`auspicious` /ɑˈspɪʃəs/**:"看鸟看出好兆头的" → 吉利的。
 **`augur` /ˈɔɡər/**:占卜官,专司观鸟。
-**`inaugurate` /ɪˈnɔɡjəreɪt/**:占卜官正式就位 → 就职典礼。
+**`inaugurate` /ɪˈnɔɡjəˌreɪt/**:占卜官正式就位 → 就职典礼。
 
 别被 `au-` 这个前缀骗了。它不是"金"(那是 *aurum*)的缩写,而是 `avis`(鸟)被时光啃掉了 v。所以 **auspice 的字面意思,就是"观鸟"**。
 
@@ -230,7 +230,7 @@ Pulcher 怎么反应?他勃然大怒,抓起一只神鸡,当众把它扔进了海
 
 - **`auspice` /ˈɔspɪs/**(赞助、庇护):今天说"under the auspices of UNESCO"(在联合国教科文组织的赞助下),字面是"在……的吉兆之下"——本来是"在某次占卜的吉利征兆下办事",现在泛指"在……的支持下"。
 - **`auspicious` /ɑˈspɪʃəs/**(吉利的):"an auspicious start"(一个吉利的开端)——直译就是"神鸡吃得很香的那个开头"。
-- **`inaugurate` /ɪˈnɔɡjəreɪt/**(就职):*augur* 占卜官正式就位、为新城奠基、为新官主持仪式 → 今天美国总统的就职典礼还叫 *inauguration*。
+- **`inaugurate` /ɪˈnɔɡjəˌreɪt/**(就职):*augur* 占卜官正式就位、为新城奠基、为新官主持仪式 → 今天美国总统的就职典礼还叫 *inauguration*。
 
 ```mermaid
 flowchart LR
@@ -290,7 +290,7 @@ flowchart LR
 
 | 词 | 拆解 | 推义 |
 | ---- | ------ | ------ |
-| `inspect` /ˌɪnˈspɛkt/ | in- + spect | 向内看 → 检查 |
+| `inspect` /ɪnˈspɛkt/ | in- + spect | 向内看 → 检查 |
 | `respect` | re- + spect | 回头看 → 尊重 |
 | `suspect` /səˈspɛkt/ | sub- + spect | 从下看 → 怀疑 |
 | `expect` | ex- + spect | 向外看 → 期待(向外张望等待) |
@@ -300,7 +300,7 @@ flowchart LR
 | `retrospective` /ˌrɛtrəˈspɛktɪv/ | retro- + spect + -ive | 向后看 → 回顾的 |
 | `spectator` /ˈspɛkteɪtər/ | spect + -ator | 看的人 → 观众 |
 | `spectacle` /ˈspɛktəkəl/ | spect + -acle | 值得看的 → 奇观 |
-| `circumspect` /ˈsɝkəmˌspɛkt/ | circum- + spect | 环顾看 → 谨慎的 |
+| `circumspect` /ˈsɜrkəmˌspɛkt/ | circum- + spect | 环顾看 → 谨慎的 |
 | `prospect` /ˈprɑspɛkt/ | pro- + spect | 向前看 → 前景 |
 
 **12 个词,只记一个核心义**:`spec = 看`。

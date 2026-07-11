@@ -69,7 +69,7 @@ flowchart TD
 
     cap --> capture["capture(捕获)"]
     cap --> capable["capable(有能力)"]
-    capture --> cap_cap["capacity(容量)"]
+    cap --> cap_cap["capacity(容量)"]
 
     cip --> recipient["recipient(接收者)"]
     cip --> principal["principal(主要的)"]
@@ -217,7 +217,7 @@ flowchart TD
 | `capacity` /kəˈpæsəti/ | cap + -acity | 能容纳的量 → 容量 |
 | `accept` /ækˈsɛpt/ | ac-(ad-)+ cept | 抓向自己 → 接受 |
 | `except` | ex-(出)+ cept | 抓出去 → 除外 |
-| `intercept` /ˌɪntɚˈsɛpt/ | inter-(中间)+ cept | 中间抓住 → 拦截 |
+| `intercept` /ˌɪntərˈsɛpt/ | inter-(中间)+ cept | 中间抓住 → 拦截 |
 | `concept` /ˈkɑnsɛpt/ | 拉丁 conceptum | 在心中构想 → 概念 |
 | `receive` /rəˈsiv/ | re-(回)+ ceiv + e | 取回 → 接收 |
 | `perceive` /pərˈsiv/ | per-(透过)+ ceiv + e | 透过抓住 → 察觉 |

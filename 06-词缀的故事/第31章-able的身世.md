@@ -58,7 +58,7 @@ flowchart TD
 | 动词 | 词基 + able | 形容词 | 释义 |
 | ------ | ------ | ------ | ------ |
 | `read`(读) | `read + able` | `readable` | 能被读的 |
-| `drink`(喝) | `drink + able` | `drinkable` /ˈdrɪnkəbəl/ | 能被喝的 |
+| `drink`(喝) | `drink + able` | `drinkable` /ˈdrɪŋkəbəl/ | 能被喝的 |
 | `predict` /prɪˈdɪkt/(预测) | `predict + able` | `predictable` /prɪˈdɪktəbəl/ | 能被预测的 |
 | `solve`(解决) | `solve + able` | `solvable` | 能被解决的 |
 | `love`(爱) | `love + able` | `lovable` /ˈlʌvəbəl/ | 能被爱的 |
@@ -71,7 +71,7 @@ flowchart TD
 | 语义类型 | 形容词 | 释义 |
 | ------ | ------ | ------ |
 | 被动义(大多数) | `readable` /ˈridəbəl/ | 能被读的 |
-| 被动义(大多数) | `drinkable` /ˈdrɪnkəbəl/ | 能被喝的 |
+| 被动义(大多数) | `drinkable` /ˈdrɪŋkəbəl/ | 能被喝的 |
 | 主动义(少数) | `comfortable` /ˈkʌmfərtəbəl/ | 令人舒适的(能给人舒适) |
 | 主动义(少数) | `agreeable` /əˈɡriəbəl/ | 令人愉快的 |
 | 主动义(少数) | `changeable` /ˈtʃeɪndʒəbəl/ | 易变的(自己变) |
@@ -121,7 +121,7 @@ flowchart TD
 | `change + able` | `changeable` | 易变的 |
 | `mistake + able` | `mistakable` | 易弄错的 |
 | `perish + able` | `perishable` /ˈpɛrɪʃəbəl/ | 易腐坏的 |
-| `forget + able` | `forgettable` /fɚˈɡɛtəbəl/ | 易忘的 |
+| `forget + able` | `forgettable` /fərˈɡɛtəbəl/ | 易忘的 |
 
 ### 用法 2:`-able` 表示"值得、配得上"
 
@@ -224,7 +224,7 @@ flowchart TD
 
 1. **`-able` 来自拉丁 -abilis,`-ible` 来自 -ibilis**——一对孪生兄弟,祖上同源,性格迥异:`-able` 开放外向、四处接活,`-ible` 封闭内敛、守着祖传名单。
 2. **`-able` 的核心义:"能被……的"**——多数情况是把动词翻成被动可能性(`readable` /ˈridəbəl/ = 能被读)。每一个动词里,都蹲着一个隐形的被动形容词,`-able` 一盖就显形。
-3. **`-able` + `un-` = "不可……"**——这套三件套是英语最高频的否定形容词生产线,`unbelievable` /ˌʌnbəˈlivəbəl/、`unacceptable` /ˌʌnækˈsɛptəbəl/ 都是它的产品。
+3. **`-able` + `un-` = "不可……"**——这套三件套是英语最高频的否定形容词生产线,`unbelievable` /ˌʌnbəˈlivəbəl/、`unacceptable` /ˌʌnəkˈsɛptəbəl/ 都是它的产品。
 
 ### 记忆锚点
 

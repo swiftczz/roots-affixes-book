@@ -6,7 +6,7 @@
 > **含义**:引导、带领、拉(to lead, to guide, to bring)
 > **起源**:拉丁动词 ***ducere***("引导、带领"),来自原始印欧语 *deuk-("带领")
 
-ducere 家族是英语里**高频的拉丁词根家族之一**。它生成的词出现在教育(`educate` /ˈɛdʒəkeɪt/)、生产(`produce` /prəˈdus/)、传导(`conduct` /kənˈdʌkt/)、介绍(`introduce` /ˌɪntrəˈdus/)、减少(`reduce` /rəˈdus/)等大量核心词里,一位司机同时跑教育、工业和社交三条线。
+ducere 家族是英语里**高频的拉丁词根家族之一**。它生成的词出现在教育(`educate` /ˈɛdʒəˌkeɪt/)、生产(`produce` /prəˈdus/)、传导(`conduct` /kənˈdʌkt/)、介绍(`introduce` /ˌɪntrəˈdus/)、减少(`reduce` /rəˈdus/)等大量核心词里,一位司机同时跑教育、工业和社交三条线。
 
 更妙的是,ducere 的派生逻辑**相当清晰**——前缀通常告诉你"引导到哪里去",理解了方向,词义就容易浮现。偶尔有历史语义绕路,也别怪司机,那是路线用了两千年。
 
@@ -61,7 +61,7 @@ ducere 家族最大的特点,是它的派生词**高度依赖前缀的方向**�
 | 词干 | 形态类型 | 例词 |
 | ------ | ------ | ------ |
 | `duc-` | 现在时词干 | produce, reduce, induce, educe |
-| `duct-` | 过去分词词干 | conduct, product, deduct /dɪˈdʌkt/, aqueduct /ˈækwəˌdəkt/ |
+| `duct-` | 过去分词词干 | conduct, product, deduct /dɪˈdʌkt/, aqueduct /ˈækwəˌdʌkt/ |
 
 规律:
 
@@ -88,7 +88,7 @@ flowchart LR
 
 > **相关旁支**:`product` 与 `produce` 同族,`deduction` 与 `deduce` 同族;`aqueduct` 由 *aqua*(水)+ *ductus*(引导)构成。它们不计入上面的八条前缀主线。
 
-> 注:`doctor` /ˈdɑktər/(医生/博士)和 `doctrine` /ˈdɑktrɪn/(学说)来自另一拉丁动词 *docere*(教),其更早来源通常重建为 *dek-,不要与 *ducere* 的 *deuk- 合并。第 13 章将单独讲解。
+> 注:`doctor` /ˈdɑktər/(医生/博士)和 `doctrine` /ˈdɑktrən/(学说)来自另一拉丁动词 *docere*(教),其更早来源通常重建为 *dek-,不要与 *ducere* 的 *deuk- 合并。第 13 章将单独讲解。
 
 ---
 
@@ -274,7 +274,7 @@ ducere 的"引导"走到这里,从将军牵马、牧人赶羊,一路引到了一
 
 | 词 | 拆解 | 推义 |
 | ---- | ------ | ------ |
-| `conduct` /ˈkɑndəkt/ | con- + duct | 引导到一起 → 指挥、传导 |
+| `conduct` /kənˈdʌkt/ | con- + duct | 引导到一起 → 指挥、传导 |
 | `produce` /prəˈdus/ | pro- + duce | 向前引导 → 生产 |
 | `reduce` /rəˈdus/ | re- + duce | 引导回 → 减少 |
 | `educate` /ˈɛdʒəˌkeɪt/ | 拉丁 educare | 养育、训练 → 教育(引出潜能是美丽误会) |
@@ -293,8 +293,8 @@ ducere 的"引导"走到这里,从将军牵马、牧人赶羊,一路引到了一
 
 - **`educate` /ˈɛdʒəˌkeɪt/ 来自 *educare*(养育),不是 *educere*(引出)**。"教育 = 引出潜能"是一段优美但流传过广的民间解释——教育哲学家爱讲,语言学家摇头。详见本章"词 1"。
 - **`ducere` 与 `docere`(教)不是一家**。*docere* → `doctor` /ˈdɑktər/、`doctrine` /ˈdɑktrən/,来自 *dek-;*ducere* 来自 *deuk-。两家人门牌号像,姓不一样,别并户。
-- **前缀 = 方向,不等于全部词义**。`conduct` /ˈkɑndəkt/ 的"传导电/热"、`seduce` /sɪˈdus/ 的"性诱惑",都是方向义经过两千年绕弯后的样子——前缀只是导航起点,终点得逐词确认。
-- **化学 `reduction` /rəˈdʌkʃən/(还原)是术语演变**,不是字面"把氧化物引回金属"。词源提供画面,术语有自己的后半生。
+- **前缀 = 方向,不等于全部词义**。`conduct` /kənˈdʌkt/ 的"传导电/热"、`seduce` /sɪˈdus/ 的"性诱惑",都是方向义经过两千年绕弯后的样子——前缀只是导航起点,终点得逐词确认。
+- **化学 `reduction` /rɪˈdʌkʃən/(还原)是术语演变**,不是字面"把氧化物引回金属"。词源提供画面,术语有自己的后半生。
 
 ---
 

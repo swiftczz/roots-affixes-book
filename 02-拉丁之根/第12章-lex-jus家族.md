@@ -10,8 +10,8 @@
 
 | 词根 | 含义 | 关注点 | 代表词 |
 | ---- | ---- | ------ | ------ |
-| `lex` / `legis-` | 法律、制定法 | 成文法 | legal, legislate /ˈlɛdʒɪsleɪt/, legitimate /lɪˈdʒɪtəmət/ |
-| `jus` / `jur-` | 正义、法权 | 公正、权利、宣誓 | justice, jury, juror /ˈdʒʊrɚ/, jurisdiction /ˌdʒʊrɪsˈdɪkʃən/ |
+| `lex` / `legis-` | 法律、制定法 | 成文法 | legal, legislate /ˈlɛdʒɪˌsleɪt/, legitimate /lɪˈdʒɪtəmət/ |
+| `jus` / `jur-` | 正义、法权 | 公正、权利、宣誓 | justice, jury, juror /ˈdʒʊrər/, jurisdiction /ˌdʒʊrɪsˈdɪkʃən/ |
 
 ---
 
@@ -45,7 +45,7 @@ flowchart TD
 
 **`legislate` /ˈlɛdʒɪˌsleɪt/(立法)** —— 英语动词由 `legislation` /ˌlɛdʒəˈsleɪʃən/ 反向形成;后者追溯到拉丁 *legis* "法律的"和 *latio* "提出、带来"。可以理解为"提出法律",但现代英语中没有一个可自由使用、表示"携带"的 `-late` 后缀。
 
-**`legitimate` /ləˈdʒɪtəmət/(合法的)** —— 来自 *legitimus* "合乎法律的"。一个合法的政府、一个合法的孩子,都是"合乎法律"的。
+**`legitimate` /lɪˈdʒɪtəmət/(合法的)** —— 来自 *legitimus* "合乎法律的"。一个合法的政府、一个合法的孩子,都是"合乎法律"的。
 
 **`privilege` /ˈprɪvəlɪdʒ/(特权)** —— `priv-`(私人)+ `leg-`(法律)= **私人法律**。一种只针对某个人的特殊法律,就是特权。这个词完美展示了拉丁构词的精妙:特权 = 私人的法律。
 
@@ -59,7 +59,7 @@ flowchart TD
 
 ## 易混词族:`līs` / `līt-`(诉讼、争端)
 
-`litigation` /ˌlɪtəˈgeɪʃən/、`litigate` /ˈlɪtɪˌgeɪt/ 追溯到拉丁 ***līs***,属格 ***lītis***,意思是"诉讼、争端"。它与 `lex / legis-` 不是同一个词,不能把 `lis-` 放在 `lex` 的变体表里。
+`litigation` /ˌlɪtəˈɡeɪʃən/、`litigate` /ˈlɪtɪˌɡeɪt/ 追溯到拉丁 ***līs***,属格 ***lītis***,意思是"诉讼、争端"。它与 `lex / legis-` 不是同一个词,不能把 `lis-` 放在 `lex` 的变体表里。
 
 ---
 
@@ -69,7 +69,7 @@ flowchart TD
 
 拉丁语 ***jus***(正义、法权),是古罗马法学最核心的概念。罗马法学家 Celsus 留下名言:*"Jus est ars boni et aequi"*(法律是关于善与平等的艺术)。
 
-这个词族在英语里保留了两组常见形态:`jus-/just-` 多见于 `justice/just`,`jur-` 多见于 `jury` /ˈdʒʊri/、`juror`、`perjury` /ˈpɝdʒəri/ 和 `jurisdiction` /ˌdʒʊrəsˈdɪkʃən/。拉丁 ***jurare***(宣誓)是从 *jus/juris* 词族形成的动词;誓言与法定权利、法律程序相连,但"把自己绑在正义上"只是助记隐喻。
+这个词族在英语里保留了两组常见形态:`jus-/just-` 多见于 `justice/just`,`jur-` 多见于 `jury` /ˈdʒʊri/、`juror`、`perjury` /ˈpɜrdʒəri/ 和 `jurisdiction` /ˌdʒʊrɪsˈdɪkʃən/。拉丁 ***jurare***(宣誓)是从 *jus/juris* 词族形成的动词;誓言与法定权利、法律程序相连,但"把自己绑在正义上"只是助记隐喻。
 
 ```mermaid
 flowchart TD
@@ -89,7 +89,7 @@ flowchart TD
 >
 > jury = 宣誓者
 
-**`jurisdiction` /ˌdʒʊrəsˈdɪkʃən/(司法权、管辖范围)** —— `juris`(法权)+ `dict`(说)= **说法权**。一个法庭有权"就法律事务发言",就是它的管辖范围。
+**`jurisdiction` /ˌdʒʊrɪsˈdɪkʃən/(司法权、管辖范围)** —— `juris`(法权)+ `dict`(说)= **说法权**。一个法庭有权"就法律事务发言",就是它的管辖范围。
 
 **`jurist` /ˈdʒʊrɪst/(法学家)** —— 研究法律、懂法律的人。
 
@@ -187,18 +187,18 @@ flowchart TD
 | ---- | ------ | ------ |
 | `legal` | leg + -al | 法律的 |
 | `legislate` /ˈlɛdʒɪˌsleɪt/ | 由 legislation 反向形成 | 提出、制定法律 |
-| `legitimate` /ləˈdʒɪtəmət/ | legitim + -ate | 合法的 |
-| `legislature` /ˈlɛdʒɪsleɪtʃɚ/ | legis + lat + -ure | 立法机构 |
-| `privilege` /ˈprɪvlədʒ/ | priv + leg | 私人法律 → 特权 |
+| `legitimate` /lɪˈdʒɪtəmət/ | legitim + -ate | 合法的 |
+| `legislature` /ˈlɛdʒɪsleɪtʃər/ | legis + lat + -ure | 立法机构 |
+| `privilege` /ˈprɪvəlɪdʒ/ | priv + leg | 私人法律 → 特权 |
 | `illegal` /ˌɪˈliɡəl/ | il- + leg | 不法律 → 违法 |
 | `justice` /ˈdʒʌstəs/ | 经法语,源自拉丁 *justitia* | 正义、司法 |
 | `jury` /ˈdʒʊri/ | jur(宣誓)+ -y | 宣誓者 → 陪审团 |
-| `jurisdiction` /ˌdʒʊrəsˈdɪkʃən/ | juris + dict | 说法权 → 管辖 |
-| `jurist` /ˈdʒʊrəst/ | jur + -ist | 法律人 → 法学家 |
+| `jurisdiction` /ˌdʒʊrɪsˈdɪkʃən/ | juris + dict | 说法权 → 管辖 |
+| `jurist` /ˈdʒʊrɪst/ | jur + -ist | 法律人 → 法学家 |
 | `injure` /ˈɪndʒər/ | in- + jur | 不正义 → 伤害 |
 | `injury` /ˈɪndʒəri/ | in- + jur + -y | 不正义行为 → 伤害 |
 | `perjury` /ˈpɜrdʒəri/ | per- + jur + -y | 背弃宣誓 → 伪证 |
-| `litigation` /ˌlɪtəɡˈeɪʃən/ | 拉丁 *līs/līt-*→ *litigare/litigatio* | 争讼 → 诉讼程序 |
+| `litigation` /ˌlɪtəˈɡeɪʃən/ | 拉丁 *līs/līt-*→ *litigare/litigatio* | 争讼 → 诉讼程序 |
 
 ---
 
@@ -216,7 +216,7 @@ flowchart TD
 
 ### 【思考题】(答案见附录 A)
 
-1. `privilege` /ˈprɪvlədʒ/(特权)字面是"私人法律",想一想现代社会哪些东西是 privilege?(免税、特殊准入、世袭权利)
+1. `privilege` /ˈprɪvəlɪdʒ/(特权)字面是"私人法律",想一想现代社会哪些东西是 privilege?(免税、特殊准入、世袭权利)
 2. `jury` /ˈdʒʊri/(陪审团)字面是"宣誓者",为什么陪审要先宣誓?(提示:用誓言约束按正义说话)
 3. `injure` /ˈɪndʒər/(伤害)字面是"不正义",这种理解把伤害从物理层面提升到了什么层面?(提示:道德/法律层面)
 

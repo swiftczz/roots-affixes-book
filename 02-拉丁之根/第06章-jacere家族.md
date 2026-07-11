@@ -108,7 +108,7 @@ flowchart LR
 
 ---
 
-### 词 2:`inject` /ˌɪnˈdʒɛkt/(注射)
+### 词 2:`inject` /ɪnˈdʒɛkt/(注射)
 
 **拆解**:`in-`(进入)+ `ject`(投)= 投进去
 
@@ -121,7 +121,7 @@ flowchart LR
 **派生词**:
 
 - `injection` /ɪnˈdʒɛkʃən/(注射)
-- `injector` /ɪnˈdʒɛktɚ/(注射器)
+- `injector` /ɪnˈdʒɛktər/(注射器)
 
 > **提示** **延伸**:`inject` 的引申义很常用,如 `inject money into the economy`(向经济注入资金)、`inject humor into a speech`(给演讲注入幽默)。
 
@@ -201,7 +201,7 @@ flowchart LR
 
 | 词 | 拆解 | 推义 |
 | ---- | ------ | ------ |
-| `inject` /ˌɪnˈdʒɛkt/ | in- + ject | 投入 → 注射 |
+| `inject` /ɪnˈdʒɛkt/ | in- + ject | 投入 → 注射 |
 | `reject` /rɪˈdʒɛkt/ | re- + ject | 投回 → 拒绝 |
 | `eject` /ɪˈdʒɛkt/ | e- + ject | 投出 → 弹出 |
 | `project` | pro- + ject | 投向前 → 投射/项目 |

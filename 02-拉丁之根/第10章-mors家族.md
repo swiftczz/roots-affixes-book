@@ -6,7 +6,7 @@
 > **含义**:死亡(death)
 > **起源**:拉丁名词 ***mors***(死亡),属格 ***mortis***(属格形式 mort- 进入英语),来自原始印欧语 *mer-(死亡、消失)
 
-mors 家族是拉丁词根里**很有戏剧性**的一支。它生成的词——`mortal` /ˈmɔrtəl/(必死的)、`immortal` /ˌɪˈmɔrtəl/(不朽的)、`mortgage` /ˈmɔrgɪdʒ/(抵押)、`morbid` /ˈmɔrbɪd/(病态的)、`mortify` /ˈmɔrtəfaɪ/(使羞辱)——背后常能看到死亡或衰败的语义痕迹。
+mors 家族是拉丁词根里**很有戏剧性**的一支。它生成的词——`mortal` /ˈmɔrtəl/(必死的)、`immortal` /ˌɪˈmɔrtəl/(不朽的)、`mortgage` /ˈmɔrɡɪdʒ/(抵押)、`morbid` /ˈmɔrbɪd/(病态的)、`mortify` /ˈmɔrtəˌfaɪ/(使羞辱)——背后常能看到死亡或衰败的语义痕迹。
 
 这一章你会发现:**围绕"死亡"的拉丁词族,如何进入今天一批看似无关的英语词。** 学完不保证长生不老,但大概率能认出 `mort-`。
 
@@ -37,7 +37,7 @@ flowchart LR
 | ---- | ---- | ---- |
 | ① 生物学 | 人都会死 | `mortal` /ˈmɔrtəl/(必死的) |
 | ② 宗教 | 神不会死 | `immortal` /ˌɪˈmɔrtəl/(不朽的) |
-| ③ 法律 | "死抵押"与"活抵押"对照 | `mortgage` /ˈmɔrɡədʒ/(抵押贷款) |
+| ③ 法律 | "死抵押"与"活抵押"对照 | `mortgage` /ˈmɔrɡɪdʒ/(抵押贷款) |
 
 第三个角度尤其精彩——它解释了为什么"抵押贷款"里藏着一个"死"字。
 
@@ -57,10 +57,10 @@ flowchart TD
     mort --> mortal["mortal (必死的)"]
     mort --> immortal["immortal (不朽的)"]
     mortal --> mortality["mortality (必死性/死亡率)"]
-    mortal --> mortician["mortician (殡仪员)"]
-    mortal --> mortgage["mortgage (抵押)"]
+    mort --> mortician["mortician (殡仪员)"]
+    mort --> mortgage["mortgage (抵押)"]
     immortal --> immortality["immortality (不朽)"]
-    immortal --> amortize["amortize (分期偿还)"]
+    mort --> amortize["amortize (分期偿还)"]
 
     morbi --> morbid["morbid (病态的)"]
 
@@ -68,7 +68,7 @@ flowchart TD
     mortoth --> moribund["moribund (垂死的)"]
 ```
 
-> 注:`morbid` /ˈmɔrbəd/(病态的)来自拉丁 *morbus*(疾病),它和 *mors*(死亡)**是否同根有争议**。一些学者认为 *morbus* 与 mors 同源(病 = 走向死),另一些认为它们只是形似。本书标注: 词源关系有争议。
+> 注:`morbid` /ˈmɔrbɪd/(病态的)来自拉丁 *morbus*(疾病),它和 *mors*(死亡)**是否同根有争议**。一些学者认为 *morbus* 与 mors 同源(病 = 走向死),另一些认为它们只是形似。本书标注: 词源关系有争议。
 
 ---
 
@@ -102,7 +102,7 @@ flowchart TD
 
 ---
 
-### 词 2:`mortgage` /ˈmɔrɡədʒ/(抵押贷款)—— 全书最戏剧性的词源
+### 词 2:`mortgage` /ˈmɔrɡɪdʒ/(抵押贷款)—— 全书最戏剧性的词源
 
 **拆解**:`mort-`(死)+ `gage` /ɡeɪdʒ/(抵押)= **死抵押**
 
@@ -123,7 +123,7 @@ flowchart TD
 
 ---
 
-### 词 3:`mortify` /ˈmɔrtɪˌfaɪ/(使羞辱、使坏死)
+### 词 3:`mortify` /ˈmɔrtəˌfaɪ/(使羞辱、使坏死)
 
 **拆解**:`mort-`(死)+ `-ify`(使……)= 使死
 
@@ -194,9 +194,9 @@ flowchart LR
 | `immortal` /ˌɪˈmɔrtəl/ | im- + mort + -al | 不会死 → 不朽的 |
 | `mortality` /mɔrˈtæləti/ | mort + -ality | 死的特性 → 死亡率 |
 | `mortician` /mɔrˈtɪʃən/ | mort + -ician | 处理死者的人 → 殡葬师 |
-| `mortgage` /ˈmɔrɡədʒ/ | mort + gage | 死抵押 → 抵押贷款 |
-| `mortify` /ˈmɔrtɪˌfaɪ/ | mort + -ify | 使死 → 使羞愧 |
-| `moribund` /ˈmɔrəbənd/ | mori + -bund | 正在死 → 垂死的 |
+| `mortgage` /ˈmɔrɡɪdʒ/ | mort + gage | 死抵押 → 抵押贷款 |
+| `mortify` /ˈmɔrtəˌfaɪ/ | mort + -ify | 使死 → 使羞愧 |
+| `moribund` /ˈmɔrəˌbʌnd/ | mori + -bund | 正在死 → 垂死的 |
 | `amortize` /ˈæmərˌtaɪz/ | 经法语 *amortir/amortiss-* "使消灭、逐渐清偿" | 分期摊销或偿还 |
 | `rigor mortis` | (拉丁)rigor + mortis | 死亡僵硬 → 尸僵 |
 
@@ -207,8 +207,8 @@ flowchart LR
 ## 【易错辨析】
 
 - **mortgage 的"两头都会死"是最流行的助记说法,但法史学界更倾向于"活抵押 vs 死抵押"的对照解释**——活抵押(vivum vadium)的收益冲减本金,死抵押(mortgage)的收益不冲减。先记画面,再补这层修正,两不耽误。
-- **`morbid` /ˈmɔrbəd/ 来自拉丁 *morbus*(疾病),和 *mors*(死亡)是否同根有争议**。本书把它们当可能的远亲,但不绑死——毕竟人家自己也没签过亲子鉴定。
-- **`mortify` /ˈmɔrtɪˌfaɪ/ 的"羞愧得想死"是助记画面,不是历史原义**。它从医学"使坏死"走到宗教"治死欲望"再到"使极度难堪"，记住演变路径即可。
+- **`morbid` /ˈmɔrbɪd/ 来自拉丁 *morbus*(疾病),和 *mors*(死亡)是否同根有争议**。本书把它们当可能的远亲,但不绑死——毕竟人家自己也没签过亲子鉴定。
+- **`mortify` /ˈmɔrtəˌfaɪ/ 的"羞愧得想死"是助记画面,不是历史原义**。它从医学"使坏死"走到宗教"治死欲望"再到"使极度难堪"，记住演变路径即可。
 
 ---
 
@@ -228,7 +228,7 @@ flowchart LR
 
 1. `immortal` /ˌɪˈmɔrtəl/(不朽的)字面是"不会死",想想哪些东西被认为是 immortal?(神、艺术作品、伟大思想)
 2. 为什么古罗马哲学家认为人是 `mortal` /ˈmɔrtəl/ 而神是 `immortal`?这种区分对西方文化有什么影响?
-3. `mortgage` /ˈmɔrɡədʒ/ 里为什么藏着"死"?用一句话解释给没学过词根的朋友听。
+3. `mortgage` /ˈmɔrɡɪdʒ/ 里为什么藏着"死"?用一句话解释给没学过词根的朋友听。
 
 ---
 

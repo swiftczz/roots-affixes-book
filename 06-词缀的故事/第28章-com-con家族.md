@@ -6,7 +6,7 @@
 
 它的核心故事,可以叫**"一个前缀的变装史"**。拉丁前缀 ***com-*** 与介词 ***cum***(与……一起)同源,本义是"共同、一起"。但 `com-` 有个难处:它的尾巴是 `m`,一旦后面紧跟着另一个辅音,两个辅音就得打架,嘴巴别扭。于是它练出了一身见风使舵的本事——**遇见 `l` 就把自己换成 `col-`,遇见 `r` 就换成 `cor-`,遇见元音就瘦成 `co-`,其余场合就发成 `con-`**。为被接纳而改口音,为顺嘴而换皮肤,前缀活成了一支换装天团。
 
-需要说明的是,英语借入的是这些**已经在拉丁语里换好装**的词,不是单个 `cum` 漂洋过海到英语海关才临时补办了五张脸。我们今天看到的五种形式,是拉丁人当年发音顺嘴留下的遗产,英语只是照单全收。
+需要说明的是,英语里大量老词借入的是这些**已经在拉丁语里换好装**的形式,不是单个 `cum` 漂洋过海到英语海关才临时补办了五张脸。不过现代英语又把 `co-` 单独发展成了能继续造词的前缀,所以 `coauthor`、`coworker` 这类新组合,确实可以在英语里现场搭伙。旧家族和新生产线,要分开看。
 
 > **com- 家族的五种面孔**
 >
@@ -75,7 +75,7 @@ flowchart TD
 
 | 词 | 拆解 | 推义 |
 | ------ | ------ | ------ |
-| `collaborate` /kəˈlæbərˌeɪt/ | col + labor 劳动 | 合作 |
+| `collaborate` /kəˈlæbəˌreɪt/ | col + labor 劳动 | 合作 |
 | `collapse` /kəˈlæps/ | col + lapse 滑 | 倒塌 |
 | `collect` /kəˈlɛkt/ | col + lect 选 | 收集 |
 | `collide` /kəˈlaɪd/ | col + lid 撞 | 碰撞 |
@@ -85,21 +85,21 @@ flowchart TD
 
 | 词 | 拆解 | 推义 |
 | ------ | ------ | ------ |
-| `correct` /kərˈɛkt/ | cor + rect 直 | 正确(使变直) |
+| `correct` /kəˈrɛkt/ | cor + rect 直 | 正确(使变直) |
 | `correlate` /ˈkɔrəˌleɪt/ | cor + relate 关系 | 相关 |
-| `corrupt` /kərˈʌpt/ | cor + rupt 破 | 彻底破坏、败坏 |
+| `corrupt` /kəˈrʌpt/ | cor + rupt 破 | 彻底破坏、败坏 |
 | `correspond` /ˌkɔrəˈspɑnd/ | cor + respond 回应 | 通信/对应 |
 | `corroborate` /kəˈrɑbəˌreɪt/ | cor + robor 强 | 证实(加强) |
 
-### co-(在元音前)
+### co-(历史形式,以及现代英语的能产形式)
 
 | 词 | 拆解 | 推义 |
 | ------ | ------ | ------ |
-| `cooperate` /koʊˈɑpərˌeɪt/ | co + oper 工作 | 合作 |
+| `cooperate` /koʊˈɑpəˌreɪt/ | co + oper 工作 | 合作 |
 | `coexist` /ˌkoʊɪɡˈzɪst/ | co + exist 存在 | 共存 |
 | `cohabit` /koʊˈhæbɪt/ | co + habit 居住 | 同居 |
 | `coordinate` /koʊˈɔrdəˌneɪt/ | co + ordin 顺序 | 协调 |
-| `coauthor` /koʊˈɔθɚ/ | co + author 作者 | 合著 |
+| `coauthor` /koʊˈɔθər/ | co + author 作者 | 合著(现代英语可直接构成) |
 
 ### con-(其他)
 
@@ -157,11 +157,11 @@ flowchart TD
 | ---- | ------ | ------ |
 | `combine` /ˈkɑmbaɪn/ | com + bine | 成双 → 结合 |
 | `compose` /kəmˈpoʊz/ | com + pose | 放一起 → 组成 |
-| `collaborate` /kəˈlæbərˌeɪt/ | col + labor | 一起劳动 → 合作 |
+| `collaborate` /kəˈlæbəˌreɪt/ | col + labor | 一起劳动 → 合作 |
 | `collect` /kəˈlɛkt/ | col + lect | 选一起 → 收集 |
-| `correct` /kərˈɛkt/ | cor + rect | 使变直 → 正确 |
-| `corrupt` /kərˈʌpt/ | cor- + rupt | 强化 + 破坏 → 彻底败坏、腐败 |
-| `cooperate` /koʊˈɑpərˌeɪt/ | co + oper | 一起工作 → 合作 |
+| `correct` /kəˈrɛkt/ | cor + rect | 使变直 → 正确 |
+| `corrupt` /kəˈrʌpt/ | cor- + rupt | 强化 + 破坏 → 彻底败坏、腐败 |
+| `cooperate` /koʊˈɑpəˌreɪt/ | co + oper | 一起工作 → 合作 |
 | `connect` /kəˈnɛkt/ | con + nect | 系一起 → 连接 |
 | `conflict` /ˈkɑnflɪkt/ | con + flict | 一起撞 → 冲突 |
 | `consent` /kənˈsɛnt/ | con + sent | 共同感觉 → 同意 |
@@ -173,7 +173,7 @@ flowchart TD
 ## 28.7 本章小结
 
 1. **`com-` 家族是一家子,不是五家人**——`com-/con-/col-/cor-/co-` 是同一个拉丁前缀的历史变体,变装只因发音别扭,变的是衣裳不是身份。
-2. **换装有规律**:b/m/p 前是 `com-`,l 前是 `col-`,r 前是 `cor-`,元音前是 `co-`,其余是 `con-`。这是拉丁词形留下来的遗产,不是给现代人当场改装的拼写规则。
+2. **历史换装有规律**:b/m/p 前常见 `com-`,l 前常见 `col-`,r 前常见 `cor-`,元音前可见 `co-`,其余常见 `con-`。这是拉丁词形留下来的遗产,不是给现代人当场改装的拼写规则;现代英语另有能继续造词的 `co-`,如 `coauthor`、`coworker`。
 3. **`con-` 有两张脸**:"共同"(consent)和"加强"(consume)——前者拉人搭伙,后者替词根喊麦。
 
 ### 记忆锚点
@@ -195,7 +195,7 @@ flowchart TD
 
 1. `compassion` /kəmˈpæʃən/(同情)字面是"共同感受",想想为什么"共感"等于同情?
 2. `consent` /kənˈsɛnt/(同意)字面是"共同感觉",为什么"共感"引申为"同意"?
-3. `corrupt` /kərˈʌpt/ 中的 `cor-` 为什么应理解为强化形式,而不是"一起"?
+3. `corrupt` /kəˈrʌpt/ 中的 `cor-` 为什么应理解为强化形式,而不是"一起"?
 
 ---
 

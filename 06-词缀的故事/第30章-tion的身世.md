@@ -1,6 +1,6 @@
 # 第 30 章 -tion 的身世:从拉丁名词后缀到英语常见名词后缀
 
-> `-tion` 是英语里最强的"名词信号"。一份政府公文从第一页翻到最后一页,`consideration` /kənˌsɪdəˈreɪʃən/、`investigation` /ɪnˌvɛstəˈɡeɪʃən/、`implementation` /ˌɪmpləmənˈteɪʃən/、`communication` /kəˌmjunəˈkeɪʃən/ 轰隆隆地排过去,纸面轰鸣如坦克履带。它不是后缀,它是**诺曼征服带来的学者制服**。
+> `-tion` 是英语里最强的"名词信号"。一份政府公文从第一页翻到最后一页,`consideration` /kənˌsɪdəˈreɪʃən/、`investigation` /ɪnˌvɛstəˈɡeɪʃən/、`implementation` /ˌɪmpləmɛnˈteɪʃən/、`communication` /kəˌmjunəˈkeɪʃən/ 轰隆隆地排过去,纸面轰鸣如坦克履带。它不是后缀,它是**诺曼征服带来的学者制服**。
 
 这一章讲英语里最强、最常见、也最"官腔"的名词后缀——`-tion`(还有它那个不太爱抛头露面的兄弟 `-sion`)。
 
@@ -109,13 +109,13 @@ flowchart TD
 
 ## 30.5 -tion 的"复合后缀"
 
-`-tion` 自己能干,还爱拉别的后缀组队,把名词进一步加工成更长的一串——加个 `-al` 就变形容词(`national`),加个 `-ist` 就指人(`evolutionist` /ˌɛvəˈluʃənɪst/),加个 `-ary` 就成派系(`revolutionary` /ˌrɛvəˈluʃəˌnɛri/)。相当于它不仅自己盖章,还跟同事串通好,一条流水线把词性从头改到尾:
+`-tion` 自己能干,还爱拉别的后缀组队,把名词进一步加工成更长的一串——加个 `-al` 可以变形容词(`national`),加个 `-ist` 可以指人(`evolutionist` /ˌɛvəˈluʃənɪst/),加个 `-ary` 可以变成形容词或指人名词(`revolutionary` /ˌrɛvəˈluʃəˌnɛri/)。“革命的”和“革命者”都能穿这件衣服,可不是加上去就自动成立一个派系。相当于它不仅自己盖章,还跟同事串通好,一条流水线把词性从头改到尾:
 
 | 复合后缀 | 词基 + 后缀 | 结果 | 用途 |
 | ------ | ------ | ------ | ------ |
-| `-ation` | `educate + ion` | `education` | 动词后加 -ate 再加 -ion |
-| `-ation` | `determin + ation` | `determination` /dɪˌtɝməˈneɪʃən/ | 动词后加 -ate 再加 -ion |
-| `-ation` | `explor + ation` | `exploration` /ˌɛksplərˈeɪʃən/ | 动词后加 -ate 再加 -ion |
+| `-ation` | `educate → education` | `education` | 现代学习可看作 -ate 换成 -ation |
+| `-ation` | `determine → determination` | `determination` /dɪˌtɜrməˈneɪʃən/ | 现代词形对应,不是 determin 后现场加出动词 -ate |
+| `-ation` | `explore → exploration` | `exploration` /ˌɛkspləˈreɪʃən/ | 现代词形对应,历史上承接拉丁词干 |
 | `-ition` | `add + ition` | `addition` | 拉丁源词根加 -ition |
 | `-ition` | `oppos + ition` | `opposition` /ˌɑpəˈzɪʃən/ | 拉丁源词根加 -ition |
 | `-ition` | `posit + ion` | `position` | 拉丁源词根加 -ition |
@@ -130,7 +130,7 @@ flowchart TD
 
 ## 30.6 一个有趣的发现:英语"名词膨胀"
 
-翻开一篇学术论文,你会撞见 `investigation` /ˌɪnˌvɛstəɡˈeɪʃən/、`implementation` /ˌɪmpləmɛnˈteɪʃən/、`consideration` /kənˌsɪdərˈeɪʃən/ 一窝蜂涌出来——这就是英语的**名词膨胀**:`-tion` 把动词一个个打包成名词,塞进句子,纸面顿时厚重得像政府白皮书。但英语造抽象名词,从来不止 `-tion` 这一家。日耳曼血统的词走的是另一条更朴实的路——`happy` 变 `happiness` /ˈhæpinəs/(加 `-ness`)、`grow` /ɡroʊ/ 变 `growth`(元音换个位),和拉丁这条 `-tion` 大道并排跑:
+翻开一篇学术论文,你会撞见 `investigation` /ɪnˌvɛstəˈɡeɪʃən/、`implementation` /ˌɪmpləmɛnˈteɪʃən/、`consideration` /kənˌsɪdəˈreɪʃən/ 一窝蜂涌出来——这就是英语的**名词膨胀**:`-tion` 把动词一个个打包成名词,塞进句子,纸面顿时厚重得像政府白皮书。但英语造抽象名词,从来不止 `-tion` 这一家。日耳曼血统的词走的是另一条更朴实的路——`happy` 变 `happiness` /ˈhæpinəs/(加 `-ness`)、`grow` /ɡroʊ/ 变 `growth`(元音换个位),和拉丁这条 `-tion` 大道并排跑:
 
 为什么学术和公文偏偏独宠 `-tion`?**因为它在"正式感"和"模糊性"之间,精准踩中了那个甜点**。`decide` /ˌdɪˈsaɪd/ 是谁拍板,一目了然;`decision` 听起来更含蓄、更可推诿、更像"集体的"产物。`investigate` /ˌɪnˈvɛstəɡˌeɪt/ 像有人撅着屁股在挖;`investigation` 像一份盖了章的报告。**`-tion` 把动作熨平,把责任稀释,把语气抬高**——这三样,正是正式文体最想要的。
 
@@ -177,7 +177,7 @@ flowchart TD
 
 - **别自行给任意动词追加 `-tion`**。`produce/production`、`create/creation` 是配好的成品套餐;`sleep` + `-tion` = `sleeption`？英语海关会当场退件,连包装都不拆。
 - **`-tion` 和 `-sion` 的分布没有万能口诀**。它们各自继承了不同的拉丁词干,不是看动词最后一个字母就能决定的。`decide/decision` 里的 `s` 是祖传的,不是英语为顺嘴临时抠掉 `d` 换上的。
-- **`-tion` 听起来正式,不等于一定更好**。满纸 `investigation` /ˌɪnˌvɛstəɡˈeɪʃən/、`implementation` /ˌɪmpləmɛnˈteɪʃən/ 的论文,读起来像坦克过马路——有时直接说 `investigate` /ˌɪnˈvɛstəɡˌeɪt/ 反而更清楚。正式感是工具,不是勋章。
+- **`-tion` 听起来正式,不等于一定更好**。满纸 `investigation` /ɪnˌvɛstəˈɡeɪʃən/、`implementation` /ˌɪmpləmɛnˈteɪʃən/ 的论文,读起来像坦克过马路——有时直接说 `investigate` /ˌɪnˈvɛstəɡˌeɪt/ 反而更清楚。正式感是工具,不是勋章。
 - **同样拼 `-tion`,嘴巴分两种**。`nation` 读 `/ʃən/`（"神"），`question` 读 `/tʃən/`（"晨"）——记词时连读音一起记,别让嘴巴替你即兴发挥。
 
 ---

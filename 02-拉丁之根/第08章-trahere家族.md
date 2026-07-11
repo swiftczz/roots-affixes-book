@@ -163,8 +163,8 @@ flowchart TD
     L2 --> L3["traitier<br/>(古法语:处理、对待)"]
     L3 --> L4["treat<br/>(英语:对待、治疗、论述)"]
     L4 --> B1["treatment<br/>(对待、治疗)"]
-    L4 --> B2["treaty<br/>(条约:双方处理关系的协议)"]
-    L4 --> B3["treatise<br/>(论文:系统论述某主题)"]
+    L3 --> B2["treaty<br/>(条约:双方处理关系的协议)"]
+    L3 --> B3["treatise<br/>(论文:系统论述某主题)"]
 ```
 
 > **提示** **同根三兄弟**:
@@ -203,9 +203,9 @@ flowchart TD
 | ---- | ------ | ------ |
 | `attract` /əˈtrækt/ | at- + tract | 拉向 → 吸引 |
 | `distract` /dɪˈstrækt/ | dis- + tract | 分拉 → 分心 |
-| `extract` /ˈɛkˌstrækt/ | ex- + tract | 拉出 → 提取 |
+| `extract` /ɪkˈstrækt/ | ex- + tract | 拉出 → 提取 |
 | `contract` /ˈkɑnˌtrækt/ | con- + tract | 拉到一起 → 合同/收缩 |
-| `retract` /riˈtrækt/ | re- + tract | 拉回 → 撤回 |
+| `retract` /rɪˈtrækt/ | re- + tract | 拉回 → 撤回 |
 | `subtract` /səbˈtrækt/ | sub- + tract | 从下拉走 → 减去 |
 | `tractor` /ˈtræktər/ | tract + -or | 拉的东西 → 拖拉机 |
 | `traction` /ˈtrækʃən/ | tract + -ion | 拉 → 牵引(力) |
@@ -230,7 +230,7 @@ flowchart TD
 ### 【思考题】(答案见附录 A)
 
 1. `subtract` /səbˈtrækt/(减去)字面是"从下拉走",为什么等于减法?(提示:从总数里"拉走"一部分)
-2. `retract` /riˈtrækt/(撤回)字面是"拉回来",试想这个动作在哪种情境下意味着撤回言论?
+2. `retract` /rɪˈtrækt/(撤回)字面是"拉回来",试想这个动作在哪种情境下意味着撤回言论?
 3. `treaty` /ˈtriti/(条约)和 `treat` /trit/ 同根,为什么"处理"变成了"条约"?(提示:国与国"处理"分歧的结果)
 
 ---
