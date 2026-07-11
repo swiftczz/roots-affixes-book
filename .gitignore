@@ -3,7 +3,6 @@
 # Typst generated files
 typst/build/
 typst/conversion-report.json
-typst/*.pdf
 typst/qa/
 
 # Python cache
