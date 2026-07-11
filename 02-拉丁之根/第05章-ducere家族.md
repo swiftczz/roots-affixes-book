@@ -54,7 +54,7 @@ ducere 家族最大的特点,是它的派生词**高度依赖前缀的方向**�
 | `se-`(分开) | 引导开 | seduce /sɪˈdus/ | 引诱开 |
 | `intro-`(向内) | 引导向内 | introduce | 介绍:引入 |
 
-> **学法**:ducere 家族是这本书里**最适合用前缀导航**的一族。看到 `duce/duct` 开头的词,先看前缀指着哪个方向——`con-`(一起)、`pro-`(向前)、`re-`(回)、`in-`(进入)、`de-`(向下)、`se-`(分开)——方向对了,词义通常八九不离十。当然,两千年下来语义也会绕路(具体绕弯的案例见章末"避坑提示")。
+> **学法**:ducere 家族是这本书里**最适合用前缀导航**的一族。看到 `duce/duct` 开头的词,先看前缀指着哪个方向——`con-`(一起)、`pro-`(向前)、`re-`(回)、`in-`(进入)、`de-`(向下)、`se-`(分开)——方向对了,词义通常八九不离十。当然,两千年下来语义也会绕路(具体绕弯的案例见章末"易错辨析")。
 
 ### ducere 的两种拼写变体
 
@@ -72,26 +72,21 @@ ducere 家族最大的特点,是它的派生词**高度依赖前缀的方向**�
 
 ## 【家族树】ducere 的子孙
 
-八个前缀、八个方向,同一个司机跑出八条线路——下面这张族谱,就是 ducere 家族的调度中心:
+八个前缀、八个方向,同一个司机跑出八条线路。图中左边是前缀方向,右边是对应的代表词:
 
 ```mermaid
-flowchart TD
-    ducere["拉丁 ducere<br/>(引导)"]
-    ducere --> duc["duc-"]
-    ducere --> duct["duct-"]
-
-    duc --> produce["produce<br/>(生产)"]
-    duc --> reduce["reduce<br/>(减少)"]
-    produce --> introduce["introduce"]
-    produce --> induce["induce"]
-    reduce --> deduce["deduce"]
-    reduce --> educe["educe"]
-
-    duct --> conduct["conduct<br/>(指挥)"]
-    duct --> product["product<br/>(产品)"]
-    conduct --> aqueduct["aqueduct<br/>(水道)"]
-    product --> deduction["deduction<br/>(推导)"]
+flowchart LR
+    con["con-<br/>(共同、一起)"] --> conduct["conduct<br/>(指挥)"]
+    pro["pro-<br/>(向前)"] --> produce["produce<br/>(生产)"]
+    ex["e-/ex-<br/>(向外)"] --> educe["educe<br/>(引出)"]
+    re["re-<br/>(回)"] --> reduce["reduce<br/>(减少)"]
+    in["in-<br/>(进入)"] --> induce["induce<br/>(诱导)"]
+    de["de-<br/>(向下、离开)"] --> deduce["deduce<br/>(推断)"]
+    se["se-<br/>(分开)"] --> seduce["seduce<br/>(引诱)"]
+    intro["intro-<br/>(向内)"] --> introduce["introduce<br/>(介绍)"]
 ```
+
+> **相关旁支**:`product` 与 `produce` 同族,`deduction` 与 `deduce` 同族;`aqueduct` 由 *aqua*(水)+ *ductus*(引导)构成。它们不计入上面的八条前缀主线。
 
 > 注:`doctor` /ˈdɑktər/(医生/博士)和 `doctrine` /ˈdɑktrɪn/(学说)来自另一拉丁动词 *docere*(教),其更早来源通常重建为 *dek-,不要与 *ducere* 的 *deuk- 合并。第 13 章将单独讲解。
 
@@ -119,7 +114,7 @@ flowchart TD
 flowchart TD
     A["educare<br/>养育、训练、教育"] --> E1["→ educate"]
     B["educere<br/>带出、引出"] --> E2["→ educe"]
-    B -.->|被后人借题发挥| N["\"引出潜能\"<br/>成为流行教育哲学<br/>但不是 educate 的原始词源"]
+    B -.->|被后人借题发挥| N["“引出潜能”<br/>成为流行教育哲学<br/>但不是 educate 的原始词源"]
 ```
 
 > **怎么看待这个误会?** 别急着拆穿它——它是个**精彩的民间教育哲学**,只是不该被当成词源学的结论。下次有人对你说"education 就是 leading out",你可以微微一笑:"理念我赞同,词源上呢,它其实更接近'把孩子养大'。"
@@ -290,13 +285,11 @@ ducere 的"引导"走到这里,从将军牵马、牧人赶羊,一路引到了一
 | `aqueduct` /ˈækwəˌdʌkt/ | aque(水)+ duct | 引导水的 → 水道、渡槽 |
 | `viaduct` /ˈvaɪədəkt/ | via(路)+ duct | 引导路的 → 高架桥 |
 
-> **核心启示**:ducere 家族是这本书里最"听话"的一族——前缀指哪儿,词义多半就跟到哪儿。偶尔遇到两千年语义绕路的情况(见章末"避坑提示"),再单独记一下即可。
+> **核心启示**:ducere 家族是这本书里最"听话"的一族——前缀指哪儿,词义多半就跟到哪儿。偶尔遇到两千年语义绕路的情况,再单独记一下即可。
 
 ---
 
-## 【避坑提示】
-
-这个家族虽然是词根界的模范生,也有几处容易翻车的弯道:
+## 【易错辨析】
 
 - **`educate` /ˈɛdʒəˌkeɪt/ 来自 *educare*(养育),不是 *educere*(引出)**。"教育 = 引出潜能"是一段优美但流传过广的民间解释——教育哲学家爱讲,语言学家摇头。详见本章"词 1"。
 - **`ducere` 与 `docere`(教)不是一家**。*docere* → `doctor` /ˈdɑktər/、`doctrine` /ˈdɑktrən/,来自 *dek-;*ducere* 来自 *deuk-。两家人门牌号像,姓不一样,别并户。
