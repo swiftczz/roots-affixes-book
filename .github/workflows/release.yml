@@ -35,9 +35,10 @@ jobs:
 
       - name: Stage PDF
         run: |
-          # 从仓库取本地编译好的 PDF,直接用中文书名作为发版资产
-          cp "typst/词根词缀的故事.pdf" "词根词缀的故事.pdf"
-          ls -lh *.pdf
+          # 从仓库取本地编译好的 PDF。资产名用 ASCII + 版本号
+          # (GitHub Release 资产名只支持 ASCII,中文名会被服务端回退成 default)
+          cp "typst/词根词缀的故事.pdf" "roots-affixes-book-v${{ steps.ver.outputs.version }}.pdf"
+          ls -lh roots-affixes-book-v*.pdf
 
       - name: Generate changelog
         if: steps.ver.outputs.is_tag == 'true'
@@ -55,20 +56,17 @@ jobs:
           echo "=== changelog ==="
           cat CHANGELOG.md
 
-      - name: Create Release and Upload PDF
+      - name: Upload PDF to Release
         if: steps.ver.outputs.is_tag == 'true'
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          gh release create "${{ github.ref_name }}" \
-            "词根词缀的故事.pdf" \
-            --title "${{ github.ref_name }}" \
-            --notes-file CHANGELOG.md \
-            --generate-notes
+        uses: softprops/action-gh-release@v3
+        with:
+          files: "roots-affixes-book-v*.pdf"
+          body_path: CHANGELOG.md
+          generate_release_notes: true
 
       - name: Upload PDF as workflow artifact
         if: steps.ver.outputs.is_tag == 'false'
         uses: actions/upload-artifact@v4
         with:
           name: roots-affixes-pdf-v${{ steps.ver.outputs.version }}
-          path: "词根词缀的故事.pdf"
+          path: "roots-affixes-book-v*.pdf"
