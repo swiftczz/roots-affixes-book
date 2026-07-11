@@ -55,13 +55,16 @@ jobs:
           echo "=== changelog ==="
           cat CHANGELOG.md
 
-      - name: Upload PDF to Release
+      - name: Create Release and Upload PDF
         if: steps.ver.outputs.is_tag == 'true'
-        uses: softprops/action-gh-release@v3
-        with:
-          files: "词根词缀的故事.pdf"
-          body_path: CHANGELOG.md
-          generate_release_notes: true
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh release create "${{ github.ref_name }}" \
+            "词根词缀的故事.pdf" \
+            --title "${{ github.ref_name }}" \
+            --notes-file CHANGELOG.md \
+            --generate-notes
 
       - name: Upload PDF as workflow artifact
         if: steps.ver.outputs.is_tag == 'false'
