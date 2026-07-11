@@ -35,9 +35,9 @@ jobs:
 
       - name: Stage PDF
         run: |
-          # 从仓库取本地编译好的 PDF,重命名为发版资产名
-          cp "typst/词根词缀的故事.pdf" "roots-affixes-book-v${{ steps.ver.outputs.version }}.pdf"
-          ls -lh roots-affixes-book-v*.pdf
+          # 从仓库取本地编译好的 PDF,直接用中文书名作为发版资产
+          cp "typst/词根词缀的故事.pdf" "词根词缀的故事.pdf"
+          ls -lh *.pdf
 
       - name: Generate changelog
         if: steps.ver.outputs.is_tag == 'true'
@@ -59,7 +59,7 @@ jobs:
         if: steps.ver.outputs.is_tag == 'true'
         uses: softprops/action-gh-release@v3
         with:
-          files: "roots-affixes-book-v*.pdf"
+          files: "词根词缀的故事.pdf"
           body_path: CHANGELOG.md
           generate_release_notes: true
 
@@ -68,4 +68,4 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: roots-affixes-pdf-v${{ steps.ver.outputs.version }}
-          path: "roots-affixes-book-v*.pdf"
+          path: "词根词缀的故事.pdf"
