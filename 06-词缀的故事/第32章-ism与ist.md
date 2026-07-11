@@ -130,7 +130,7 @@ flowchart TD
 | `multicultural` /ˌmʌltiˈkʌltʃərəl/ | `multiculturalism` /ˌmʌltiˈkʌltʃərəˌlɪzəm/ | ✓ | 多元文化主义 |
 | `environmental` /ɪnˌvaɪrənˈmɛntəl/ | `environmentalism` /ɪnˌvaɪrənˈmɛntəˌlɪzəm/ | ✓ | 环保主义 |
 | `consumer` /kənˈsumər/ | `consumerism` /kənˈsuməˌrɪzəm/ | ✓ | 消费主义 |
-| `global` /ɡˈloʊbəl/ | `globalism` | ✓ | 全球主义 |
+| `global` /ˈɡloʊbəl/ | `globalism` | ✓ | 全球主义 |
 | `Trump` /trʌmp/ | `Trumpism` | ✓ | 特朗普主义 |
 | `Brexit` | `Brexitism` | ✓ | 脱欧主义 |
 | `hubris` /ˈhjubrɪs/ | — | ✗ 不存在 | — |

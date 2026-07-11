@@ -1,6 +1,6 @@
 # 附录 C:词缀与组合形式总索引
 
-> 本索引不再用“不、前、后、自”这样的单字释义——那种极简风格适合路标,不适合认人。每项同时说明它在词中承担什么作用、常见语义方向和代表例词,好让你不只知道它姓什么,还知道它干什么。
+> 本索引不再用"不、前、后、自"这样的单字释义——那种极简风格适合路标,不适合认人。每项同时说明它在词中承担什么作用、常见语义方向和代表例词,好让你不只知道它姓什么,还知道它干什么。
 
 **先区分三个概念**:
 
@@ -16,11 +16,11 @@
 
 | 前缀 | 核心作用与理解 | 代表词(语义提示) | 来源 | 章节 |
 | ---- | -------------- | ---------------- | ---- | ---- |
-| `un-` | 表示“不、缺少”;加在动词前还可表示“解除、反向操作” | `unhappy` 不快乐、`unfair` 不公平、`untie` 解开 | 日耳曼 | 27 |
-| `in-` / `im-` / `il-` / `ir-` | 拉丁否定前缀,表示“不、无”;后几种是受后续辅音影响的同化形 | `invisible` 看不见的、`impossible` 不可能的、`illegal` 非法的、`irregular` 不规则的 | 拉丁 | 27 |
+| `un-` | 表示"不、缺少";加在动词前还可表示"解除、反向操作" | `unhappy` 不快乐、`unfair` 不公平、`untie` 解开 | 日耳曼 | 27 |
+| `in-` / `im-` / `il-` / `ir-` | 拉丁否定前缀,表示"不、无";后几种是受后续辅音影响的同化形 | `invisible` 看不见的、`impossible` 不可能的、`illegal` 非法的、`irregular` 不规则的 | 拉丁 | 27 |
 | `dis-` | 表示分开、离开、取消、相反或否定;具体作用取决于整词历史 | `disconnect` 断开、`disagree` 不同意、`dismiss` 解散/打发走 | 拉丁 | 27 |
-| `non-` | 中性地表示“非、不属于、没有”,通常不强调反向动作 | `nonfiction` 非虚构作品、`nonviolent` 非暴力的 | 拉丁 | 27 |
-| `a-` / `an-` | 希腊否定形式,表示“没有、缺少”;元音前常见 `an-` | `amoral` 非道德范畴的、`anonymous` 匿名的、`anhydrous` 无水的 | 希腊 | 27 |
+| `non-` | 中性地表示"非、不属于、没有",通常不强调反向动作 | `nonfiction` 非虚构作品、`nonviolent` 非暴力的 | 拉丁 | 27 |
+| `a-` / `an-` | 希腊否定形式,表示"没有、缺少";元音前常见 `an-` | `amoral` 非道德范畴的、`anonymous` 匿名的、`anhydrous` 无水的 | 希腊 | 27 |
 | `anti-` | 表示反对、抵抗、防止或作用相反 | `antiwar` 反战的、`antibiotic` 抗生素、`antibody` 抗体 | 希腊 | 27 |
 | `mal-` | 表示坏、恶劣、功能不良 | `malfunction` 故障、`malnutrition` 营养不良、`malpractice` 渎职 | 拉丁 | 27 |
 | `mis-` | 表示做错、理解错、方式不当 | `misread` 读错、`misunderstand` 误解、`mislead` 误导 | 日耳曼 | 27 |
@@ -103,7 +103,7 @@
 | 后缀 | 核心作用与理解 | 代表词(语义提示) | 来源 | 章节 |
 | ---- | -------------- | ---------------- | ---- | ---- |
 | `-tion` / `-sion` | 把许多拉丁来源动词词族中的动作、过程、结果、状态或相关事物名词化;不保证是抽象不可数名词 | `educate → education`、`decide → decision`、`station` 站/站点 | 拉丁→法语 | 30 |
-| `-ment` | 表示动作、过程、结果、状态或产物;与 `mens/ment-`“心智”无关 | `develop → development`、`agree → agreement`、`equip → equipment` | 拉丁→法语 | 9 |
+| `-ment` | 表示动作、过程、结果、状态或产物;与 `mens/ment-`"心智"无关 | `develop → development`、`agree → agreement`、`equip → equipment` | 拉丁→法语 | 9 |
 | `-ness` | 把形容词变成性质、状态或程度名词 | `kind → kindness`、`dark → darkness`、`aware → awareness` | 古英语 | 22 |
 | `-ity` / `-ety` | 表示性质、状态或条件,常与拉丁/法语来源形容词搭配 | `active → activity`、`possible → possibility`、`various → variety` | 拉丁→法语 | 多章 |
 | `-er` / `-or` | 表示做某事的人、工具或具有某功能者;名词 `-er` 不要与比较级 `-er` 混淆 | `reader` 读者、`printer` 打印机、`actor` 演员 | 日耳曼 / 拉丁 | 多章 |
@@ -116,7 +116,7 @@
 | `-ant` / `-ent` | 可表示执行动作的人、参与者或具有某性质的人/物;也常兼作形容词后缀 | `applicant` 申请人、`resident` 居民、`absorbent` 吸收材料 | 拉丁 | 多章 |
 | `-ian` | 表示从业者、专家、某地或某群体的成员 | `musician` 音乐家、`historian` 历史学家、`Canadian` 加拿大人 | 拉丁→法语 | 多章 |
 | `-age` | 表示动作、结果、集合、状态、费用或相关事物,具体意义依词而定 | `marriage` 婚姻、`breakage` 破损、`baggage` 行李、`postage` 邮资 | 拉丁→法语 | 多章 |
-| `-logy` | 表示对某主题的系统论述或学科;并非所有含 `-logy` 的词都等于简单的“……学” | `biology` 生物学、`geology` 地质学、`etymology` 词源学 | 希腊 | 18 |
+| `-logy` | 表示对某主题的系统论述或学科;并非所有含 `-logy` 的词都等于简单的"……学" | `biology` 生物学、`geology` 地质学、`etymology` 词源学 | 希腊 | 18 |
 | `-graphy` | 表示书写、记录、描绘方法或相关学科 | `biography` 传记、`photography` 摄影、`geography` 地理学 | 希腊 | 18 |
 | `-metry` | 表示测量、计量方法或研究尺度 | `geometry` 几何学、`telemetry` 遥测、`optometry` 验光学 | 希腊 | 18 |
 | `-nomy` | 表示规则、分类、秩序或管理体系 | `astronomy` 天文学、`taxonomy` 分类学、`economy` 经济 | 希腊 | 18 |
@@ -134,7 +134,7 @@
 | `-ic` / `-ical` | 与某领域、事物或性质相关;两种形式有时词义或搭配不同,不能任意替换 | `economic` 经济的、`historical` 历史相关的、`electric` 电的 | 希腊/拉丁 | 多章 |
 | `-ish` | 像……、带有……特征;也可表示程度略微、国籍或大约时间 | `childish` 孩子气的、`greenish` 淡绿色的、`sixish` 六点左右 | 古英语 | 多章 |
 | `-y` | 具有、布满、容易产生某种状态 | `rainy` 多雨的、`noisy` 吵闹的、`sticky` 黏的 | 古英语 | 多章 |
-| `-ly` | 加在名词等后表示“具有……样貌/性质”,形成形容词;与副词 `-ly` 功能不同 | `friendly` 友好的、`fatherly` 父亲般的、`lovely` 可爱的 | 古英语 *-līc* | 33 |
+| `-ly` | 加在名词等后表示"具有……样貌/性质",形成形容词;与副词 `-ly` 功能不同 | `friendly` 友好的、`fatherly` 父亲般的、`lovely` 可爱的 | 古英语 *-līc* | 33 |
 
 ### 3. 构成动词
 
@@ -151,13 +151,13 @@
 | ---- | -------------- | ---------------- | ---- | ---- |
 | `-ly` | 把许多形容词变成方式、程度、时间或说话态度副词;不是每个形容词都能机械添加 | `quickly` 快速地、`carefully` 小心地、`fortunately` 幸运的是 | 古英语 *-līce* | 33 |
 | `-ward` / `-wards` | 朝某个方向、面向某处;英美变体和固定搭配有所不同 | `forward` 向前、`homeward` 朝家、`afterwards` 后来 | 日耳曼 | 多章 |
-| `-wise` | 按某种方式或方向;现代口语中还可表示“就……而言” | `clockwise` 顺时针地、`lengthwise` 纵向地、`policy-wise` 就政策而言 | 日耳曼 | 多章 |
+| `-wise` | 按某种方式或方向;现代口语中还可表示"就……而言" | `clockwise` 顺时针地、`lengthwise` 纵向地、`policy-wise` 就政策而言 | 日耳曼 | 多章 |
 
 ---
 
 ## 三、常见古典组合形式
 
-组合形式比普通前缀更接近“有具体含义的词块”。表中的 `-o-` 常是连接元音,例如 `bio- + -logy → biology`;它通常不单独贡献“一个额外含义”。
+组合形式比普通前缀更接近"有具体含义的词块"。表中的 `-o-` 常是连接元音,例如 `bio- + -logy → biology`;它通常不单独贡献"一个额外含义"。
 
 | 组合形式 | 具体含义与理解 | 代表词 | 章节 |
 | -------- | -------------- | ------ | ---- |
@@ -201,11 +201,11 @@
 
 看到相同字母不等于找到词缀。例如:
 
-- `auto-` 在 `automatic`、`autobiography` 中确实表示“自身/自动”。
+- `auto-` 在 `automatic`、`autobiography` 中确实表示"自身/自动"。
 - `auto` 在单独书写时也可以是 `automobile` 的口语缩略,那是现代单词用法。
-- `-ment` 在 `development` 中是名词后缀,但 `mental` 中的 `ment-` 属于“心智”词根。
+- `-ment` 在 `development` 中是名词后缀,但 `mental` 中的 `ment-` 属于"心智"词根。
 
-### 第二步:组合出“临时解释”
+### 第二步:组合出"临时解释"
 
 ```text
 un- + predict + -able
@@ -223,7 +223,7 @@ trans- + mit
 
 ### 第三步:回到整词的实际意义
 
-词根词缀只能提供推测入口,不能替代词典和语境。`understand` 不能按现代 `under + stand` 译成“站在下面”,`department` 也不能因为含有 `art` 字母就解释成“艺术部门”。
+词根词缀只能提供推测入口,不能替代词典和语境。`understand` 不能按现代 `under + stand` 译成"站在下面",`department` 也不能因为含有 `art` 字母就解释成"艺术部门"。
 
 ---
 

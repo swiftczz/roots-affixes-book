@@ -24,7 +24,7 @@ flowchart LR
     pie --> lat["拉丁 mors, mortis<br/>(死亡)"]
     pie --> grk["古希腊 brotós<br/>(凡人、会死者)"]
     lat --> en["英语:mortal, immortal, mortgage"]
-    grk --> ambr["ámmbrotos (不死的)<br/>→ ambrosia"]
+    grk --> ambr["ámbrotos (不死的)<br/>→ ambrosia"]
 ```
 
 > **提示** **最有意思的远房亲戚**:`murder` /ˈmɜrdər/(谋杀)也来自原始印欧语 *mer-!它经过日耳曼路线,在古英语里变成 *morþor*,后来变成 `murder`。所以 `mortal` /ˈmɔrtəl/ 和 `murder` 是亲戚,都来自"死"这个原始概念。

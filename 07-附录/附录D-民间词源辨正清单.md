@@ -75,7 +75,7 @@
 
 ---
 
-### 7. `News`(新闻)
+### 7. `news`(新闻)
 
 | 民间说法 | 真实词源 |
 |---------|---------|
@@ -180,7 +180,7 @@
 | ------ | ------ | ------ |
 | **Etymonline** | etymonline.com | 便于检索的免费二手词源汇编,应结合其引证来源 |
 | **Oxford English Dictionary (OED)** | oed.com | 最详尽,但需订阅 |
-| **American Heritage Dictionary of Indo-European Roots** | 印欧词根权威 | 学术性强 |
+| **American Heritage Dictionary of Indo-European Roots** | — | 印欧词根权威,学术性强(书籍/附录性质,无单一网址) |
 | **Wiktionary** | en.wiktionary.org | 免费社区词典,质量随条目而异,适合寻找线索而非单独定论 |
 
 > **提示** 查证时优先比较历史词典、专业词源词典、古典语言词典和相关研究。Etymonline 可作为入口,OED 提供重要历史引文,但争议问题仍需查看各自列出的证据,不能用"以某两个网站为准"代替论证。
