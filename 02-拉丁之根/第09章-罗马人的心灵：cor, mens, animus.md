@@ -200,9 +200,9 @@
 
 ### 【思考题】(答案见附录 A)
 
-1. **(破除误解)** `development`、`movement`、`agreement` 都以 `-ment` 结尾,能不能把它们解释成"心智(mens)活动的产物"?为什么不能?那 `comment` 呢——它和这些词一样吗?你用什么办法区分"后缀 -ment"和"心智词根 ment-"?
-2. **(讲证据)** 英语里"心"有三个词:`heart`、`cordial`、`cardiac`,本章说它们同出原始印欧语 *kerd-。请用格林定律解释:为什么本族的 `heart` 是 h/t,拉丁的 `cor/cordial` 是 c(k)/d?这种"成系统的音变对应"为什么能当同源证据,而"see/spect 都表示看"却只算巧合?
-3. **(迁移应用)** 给你一个没讲的词 `equanimity` /ˌɛkwəˈnɪməti/(镇定):`aequus`(平、均)+ `anim`(心气)+ `-ity`。先推出字面义、说明怎么得到"镇定"。再想:同一个 `anim` 既长出 `unanimous`(同心)又长出 `animosity`(敌意),方向相反——这对"看到词根就套一个固定中文"有什么警示?
+1. `development`、`movement`、`agreement` 都以 `-ment` 结尾,能不能把它们解释成"心智(mens)活动的产物"?为什么不能?那 `comment` 呢——它和这些词一样吗?你用什么办法区分"后缀 -ment"和"心智词根 ment-"?
+2. 英语里"心"有三个词:`heart`、`cordial`、`cardiac`,本章说它们同出原始印欧语 *kerd-。请用格林定律解释:为什么本族的 `heart` 是 h/t,拉丁的 `cor/cordial` 是 c(k)/d?这种"成系统的音变对应"为什么能当同源证据,而"see/spect 都表示看"却只算巧合?
+3. 给你一个没讲的词 `equanimity` /ˌɛkwəˈnɪməti/(镇定):`aequus`(平、均)+ `anim`(心气)+ `-ity`。先推出字面义、说明怎么得到"镇定"。再想:同一个 `anim` 既长出 `unanimous`(同心)又长出 `animosity`(敌意),方向相反——这对"看到词根就套一个固定中文"有什么警示?
 
 ---
 

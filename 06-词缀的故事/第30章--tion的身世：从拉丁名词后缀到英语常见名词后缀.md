@@ -171,9 +171,9 @@ flowchart TD
 
 ### 【思考题】(答案见附录 A)
 
-1. **(破除误解)** `decide/decision` 为什么不能解释成"为方便发音删掉 d 再加 -sion"?那个 s 到底从哪来?
-2. **(讲证据)** `nation` 读 /ʃən/、`question` 读 /tʃən/,发音为什么不同?这个差异是随机的,还是反映了词的某种结构?
-3. **(迁移应用)** 你能不能给 `sleep` 加 `-tion` 造出 `sleeption`?为什么不行?`-tion` 到底能加在什么词上?顺带：满纸 `investigation`、`implementation` 的写作有什么代价,什么时候该改回动词?
+1. `decide/decision` 为什么不能解释成"为方便发音删掉 d 再加 -sion"?那个 s 到底从哪来?
+2. `nation` 读 /ʃən/、`question` 读 /tʃən/,发音为什么不同?这个差异是随机的,还是反映了词的某种结构?
+3. 你能不能给 `sleep` 加 `-tion` 造出 `sleeption`?为什么不行?`-tion` 到底能加在什么词上?顺带：满纸 `investigation`、`implementation` 的写作有什么代价,什么时候该改回动词?
 
 ---
 

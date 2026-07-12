@@ -226,9 +226,9 @@
 
 ### 【思考题】(答案见附录 A)
 
-1. **(破除误解)** `ask / question / interrogate` 为什么不是"单纯由非正式到正式的三个可互换词"?把 interrogate 用在饭桌上、把 ask 用在法庭上,会出什么问题?
-2. **(迁移应用)** `kingly / royal / regal` 三层词风格有何差异?"the royal family"能不能换成"the regal family",为什么?各自在什么场合用?
-3. **(迁移应用)** 写作时,什么时候该用 `buy`(日耳曼),什么时候该用 `purchase` /ˈpɜrtʃəs/(法语)?这个选择是"谁更高级",还是别的标准?
+1. `ask / question / interrogate` 为什么不是"单纯由非正式到正式的三个可互换词"?把 interrogate 用在饭桌上、把 ask 用在法庭上,会出什么问题?
+2. `kingly / royal / regal` 三层词风格有何差异?"the royal family"能不能换成"the regal family",为什么?各自在什么场合用?
+3. 写作时,什么时候该用 `buy`(日耳曼),什么时候该用 `purchase` /ˈpɜrtʃəs/(法语)?这个选择是"谁更高级",还是别的标准?
 
 ---
 

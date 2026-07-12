@@ -224,9 +224,9 @@ flowchart TD
 
 ### 【思考题】(答案见附录 A)
 
-1. **(破除误解)** `quickly` 的祖先 `līc` 是"身体",但你不能把 quickly 翻成"以快的身体做";`hardly` 是 hard+ly,意思却不是"用力地"而是"几乎不"。这两点各暴露了用词源时的什么坑?
-2. **(讲证据)** `friendly` 和 `quickly` 长得一模一样(都以 -ly 结尾),一个却是形容词、一个是副词。这个"同脸不同命"是怎么来的?你怎么判断一个 -ly 词到底是形容词还是副词?
-3. **(迁移应用)** 判断这几个词里 `-ly` 各干什么活:`friendly`、`quickly`、`weekly`、`firstly`。再回答:"He speaks friendly" 为什么错,该怎么改?
+1. `quickly` 的祖先 `līc` 是"身体",但你不能把 quickly 翻成"以快的身体做";`hardly` 是 hard+ly,意思却不是"用力地"而是"几乎不"。这两点各暴露了用词源时的什么坑?
+2. `friendly` 和 `quickly` 长得一模一样(都以 -ly 结尾),一个却是形容词、一个是副词。这个"同脸不同命"是怎么来的?你怎么判断一个 -ly 词到底是形容词还是副词?
+3. 判断这几个词里 `-ly` 各干什么活:`friendly`、`quickly`、`weekly`、`firstly`。再回答:"He speaks friendly" 为什么错,该怎么改?
 
 ---
 
