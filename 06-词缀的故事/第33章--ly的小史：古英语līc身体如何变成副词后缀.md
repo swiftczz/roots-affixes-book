@@ -111,7 +111,7 @@ flowchart TD
 | "He is friendly." | ✓ 正确 | 作表语 |
 | "He speaks in a friendly way." | ✓ 正确 | 迂回说法充当方式状语 |
 
-一句话辨认:**贴在名词后 = 形容词(`friendly`、`lovely` /ˈlʌvli/),贴在形容词后 = 副词(`quickly`、`happily` /ˈhæpəli/)**。同脸不同命,全看它站在谁身后。
+一个常见倾向是:**名词 + `-ly` 常形成形容词**(`friendly`、`lovely`),**形容词 + `-ly` 常形成副词**(`quickly`、`happily`)。但别把词类只交给左邻居审判:`daily`、`weekly` 可作形容词或副词,`kindly` 也会跨岗,`likely` 更不肯老实站队。拆法提供线索,句中位置和实际用法才负责盖章。
 
 ---
 
@@ -121,7 +121,7 @@ flowchart TD
 
 | 类别 | 高频 `-ly` 副词 |
 | ------ | ------ |
-| 程度 | really, very, highly, deeply |
+| 程度 | really, extremely, highly, deeply |
 | 方式 | quickly, slowly, carefully, easily |
 | 时间 | recently, currently, finally, suddenly |
 | 频率 | usually, frequently /ˈfrikwəntli/, rarely, occasionally /əˈkeɪʒənəli/ |
@@ -202,7 +202,7 @@ flowchart TD
 ## 33.8 本章小结
 
 1. **-ly 的更早来源与古英语 līc(身体、形态)同源**——副词后缀直接承接古英语副词形式 `-līce`。
-2. **-ly 双重身份**:形容词后缀(名词 + ly,如 friendly)、副词后缀(形容词 + ly,如 quickly)。
+2. **-ly 常见两种岗位**:名词后形成形容词(如 friendly),形容词后形成副词(如 quickly);`daily`、`kindly` 等仍要看整词和句中用法。
 3. **friendly, lovely, lonely 是形容词,不是副词**——这是常见混淆。
 
 ### 一个最意外的认知

@@ -134,9 +134,9 @@ flowchart LR
 
 | 复合后缀 | 词基 + 后缀 | 结果 | 词性/用途 |
 | ------ | ------ | ------ | ------ |
-| `-ability` | `able + ity` | `ability` /əˈbɪləˌti/ | 名词(能力) |
-| `-ability` | `read + ability` | `readability` /ˌridəˈbɪləti/ | 名词(可读性) |
-| `-ability` | `port + ability` | `portability` /ˌpɔrtəˈbɪləti/ | 名词(可移植性) |
+| `-ability` | `readable → readability` | `readability` /ˌridəˈbɪləti/ | 名词(可读性) |
+| `-ability` | `portable → portability` | `portability` /ˌpɔrtəˈbɪləti/ | 名词(可移植性) |
+| `-ability` | `reliable → reliability` | `reliability` | 名词(可靠性) |
 | `-ably` | `remark + ably` | `remarkably` /rɪˈmɑrkəbli/ | 副词(非凡地) |
 
 `-ability/-ibility` 是最常见的派生,专门把"`-able` 形容词"加工成"性质名词":`portable → portability`(可移植性)、`reliable → reliability`(可靠性)。不过并非每个 `-able` 词都有常用的对应名词,而 `capable → capability` 这种还夹着既有词干的变化。

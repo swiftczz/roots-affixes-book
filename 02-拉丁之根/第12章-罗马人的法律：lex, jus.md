@@ -86,7 +86,7 @@
 
 ---
 
-## 【历史背景】罗马法如何塑造英语法律词汇
+## 罗马法如何塑造英语法律词汇
 
 接下来是一段法律史速览——放心,比真正的法律课短得多,而且不考试。
 
@@ -120,11 +120,10 @@ timeline
 
 ```mermaid
 flowchart TD
-    norse["古诺尔斯语 lag / lǫg<br/>(被确立的规则)"]
-    oe["古英语 lagu → law<br/>(法律)"]
-    lay["词根 *lag-<br/>(放置)<br/>和 lay 同根"]
-    norse -- 维京人带入英语 --> oe
-    oe --> lay
+    ancestor["日耳曼语族共同祖形<br/>(放置、使躺下)"]
+    ancestor --> norse["古诺尔斯语 lag / lǫg<br/>(被确立的规则)"]
+    ancestor --> lay["古英语一支<br/>→ lay(放置)"]
+    norse -- 借入中古英语 --> law["law<br/>(法律)"]
 ```
 
 > **有趣对比**:`lex/legal` 说成文法,`law` 的祖先说"被放置的规矩",`jus/justice` 说正义。三套词各带一张历史底片,但别把底片当成古人的统一法律哲学。
