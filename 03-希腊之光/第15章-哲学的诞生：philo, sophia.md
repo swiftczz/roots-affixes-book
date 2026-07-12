@@ -275,4 +275,4 @@ flowchart TD
 
 ---
 
-*下一章 → [第 16 章 民主的词根：demos, kratos](./第16章-民主的词根：demos, kratos.md)*
+*下一章 → [第 16 章 民主的词根：demos, kratos](./第16章-民主的词根：demos,%20kratos.md)*

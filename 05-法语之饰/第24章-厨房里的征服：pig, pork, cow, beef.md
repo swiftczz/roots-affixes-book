@@ -187,4 +187,4 @@ flowchart LR
 
 ---
 
-*下一章 → [第 25 章 阶级的烙印：kingly, royal, regal](./第25章-阶级的烙印：kingly, royal, regal.md)*
+*下一章 → [第 25 章 阶级的烙印：kingly, royal, regal](./第25章-阶级的烙印：kingly,%20royal,%20regal.md)*
