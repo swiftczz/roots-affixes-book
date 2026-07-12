@@ -48,7 +48,7 @@
 
 ### 【起源故事】
 
-拉丁语 ***jus***(正义、法权),是古罗马法学最核心的概念。罗马法学家 Celsus 留下名言:*"Jus est ars boni et aequi"*(法律是关于善与平等的艺术)。
+拉丁语 ***jus***(正义、法权),是古罗马法学最核心的概念。罗马法学家 Celsus 留下名言:*"Jus est ars boni et aequi"*(法律是关于善与公正的艺术;也常译作“善良与公平的艺术”)。
 
 这个词族在英语里保留了两组常见形态:`jus-/just-` 多见于 `justice/just`,`jur-` 多见于 `jury` /ˈdʒʊri/、`juror`、`perjury` /ˈpɜrdʒəri/ 和 `jurisdiction` /ˌdʒʊrɪsˈdɪkʃən/。拉丁 ***jurare***(宣誓)是从 *jus/juris* 词族形成的动词;誓言与法定权利、法律程序相连,但"把自己绑在正义上"只是助记隐喻。
 

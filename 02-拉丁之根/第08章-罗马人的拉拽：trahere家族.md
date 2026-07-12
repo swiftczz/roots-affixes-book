@@ -144,15 +144,15 @@ flowchart TD
 
 ## 【词源辨正】portrait /ˈpɔrtrət/(肖像)和 trahere 同根吗
 
-**答案:是。**
+**答案:`portrait / portray` 可以确认;`trace` 要单独打问号。**
 
-`portrait` /ˈpɔrtrət/(肖像)、`portray` /pɔrˈtreɪ/(描绘)、`trace` /treɪs/(追溯)、`trace`(痕迹)全都来自 trahere,经过法语。
+`portrait` /ˈpɔrtrət/(肖像)、`portray` /pɔrˈtreɪ/(描绘)经法语词族可追溯到拉丁 *protrahere*(拉出、展现),与 `trahere` 的关系较明确。`trait` 也走相近的法语路线。`trace` /treɪs/(痕迹、追踪)常被放进这张家谱,但它更早的来源仍有争议,不能让它凭一张长得像亲戚的脸就直接坐主桌。
 
 ```mermaid
 flowchart TD
     L1["trahere<br/>(拉)"] --> L2["tractus<br/>(被拉的痕迹、线条)"]
     L2 --> R1["古法语 traire<br/>→ 英语 trait<br/>(特征:被拉出的特点)"]
-    L2 --> R2["古法语 tracer<br/>→ 英语 trace<br/>(追溯、痕迹:沿着被拉的线走)"]
+    L2 -.->|"更早来源有争议"| R2["古法语 tracer<br/>→ 英语 trace<br/>(痕迹、追踪)"]
     L2 --> R3["古法语 portraire<br/>→ 英语 portray / portrait<br/>(描绘、肖像:拉出形象)"]
 ```
 
@@ -171,7 +171,7 @@ flowchart TD
 | `subtract` /səbˈtrækt/ | sub- + tract | 从下拉走 → 减去 |
 | `tractor` /ˈtræktər/ | tract + -or | 拉的东西 → 拖拉机 |
 | `traction` /ˈtrækʃən/ | tract + -ion | 拉 → 牵引(力) |
-| `treaty` /ˈtriti/ | (法语)treat + -y | 共同处理 → 条约 |
+| `treaty` /ˈtriti/ | 整体借自古法语 *traité / traitié* | 从处理、商谈发展为协定、条约 |
 
 ---
 
@@ -190,7 +190,7 @@ flowchart TD
 ### 【思考题】(答案见附录 A)
 
 1. `contract` 有"合同"和"收缩"两个看似无关的意思,本章说它们都来自"拉到一起"。请分别说明这两支怎么长出来。再想一步:如果你只知道"contract = 拉到一起",能**提前预测**它一定会有这两个意思吗?这说明词根解释给你的是"解释力"还是"预测力"?
-2. `trace`、`trait`、`portrait` 看着和"拉"毫无关系,本章却把它们归进 trahere。依据是什么?本章说"把线条拉到画布上"这种说法"能助记却不是历史字面定义"——助记画面和历史定义,差别在哪?
+2. `trait`、`portrait` 看着和“拉”毫无关系,为什么仍能归进 trahere?`trace` 又为什么只能画一条“来源有争议”的虚线?本章说“把线条拉到画布上”能助记却不是历史字面定义——助记画面、可靠派生链和争议词源,差别在哪?
 3. 给你 `abstract` /ˈæbstrækt/(抽象的;摘要):`ab-`(离开)+ `tract`(拉)。先推字面义,解释"从具体中拉离"怎么得到"抽象",以及名词"摘要"从何而来。再回答：这个词有 ˈabstract / abˈstract 的重音差异,拆字能告诉你这一点吗?为什么?
 
 ---

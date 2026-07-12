@@ -37,15 +37,20 @@
 
 ### 前缀 1:`un-`(日耳曼源)
 
-先出场的,是英语最亲的家里人——`un-`。它从原始印欧语的否定词根 `*n-` 一路走下来,经日耳曼语、古英语,稳稳当当地活到今天,血统纯正得能查家谱。`un-` 是英语否定前缀里**最高频、最口语、最亲切**的一个:你嘴边那句 `unhappy` /ənˈhæpi/、`undo` /ənˈdu/,用的就是它——短小、利落、不端架子,典型的老百姓做派。
+先出场的,是英语最亲的家里人——`un-`。不过先查一下身份证:现代拼写里有两种长得一模一样的 `un-`,不能因为撞脸就塞进同一个户口本。
 
-**用法**:加在形容词、副词、名词前
+- **否定 `un-`** 来自日耳曼语的否定前缀,表示“不、缺少”,如 `unhappy`、`unknown`。
+- **反向 `un-`** 主要加在动词前,表示“解除、打开、做相反动作”,如 `undo`、`untie`、`unfold`;它的历史来源与否定 `un-` 不同。
+
+所以 `unhappy` 是“不快乐”,`undo` 却不是“不做”,而是“把已经做的撤回来”。两位都短小利落,只是一个负责摇头,一个负责按撤销键。
+
+**用法**:否定 `un-` 常加在形容词、分词等前;反向 `un-` 常加在动词前
 
 | 词类 | 例词 |
 | ------ | ------ |
-| 形容词 | unhappy, unable, unclear, unknown |
-| 动词 | undo, unfold |
-| 名词 | unemployment, unhappiness |
+| 否定 `un-` + 形容词 | unhappy, unable, unclear, unknown |
+| 反向 `un-` + 动词 | undo, untie, unfold |
+| 否定词再名词化 | unemployment, unhappiness |
 
 不过这位"本土前缀"如今也不那么古板了——现代英语里,它常常越界,嫁到拉丁或希腊词根那边去:`unacceptable` /ˌʌnəkˈsɛptəbəl/、`unscientific` /ˌʌnˌsaɪənˈtɪfɪk/、`unconstitutional` /ˌʌnˌkɑnstəˈtuʃənəl/ 都是这种"跨阶层联姻"的产物。能否成家,看的是实际用得开不开,不是查祖宗三代。
 
@@ -157,7 +162,8 @@
 
 | 前缀 | 来源 | 语感 | 例子 |
 | ------ | ------ | ------ | ------ |
-| `un-` | 日耳曼 | 纯否定 | unhappy, undo |
+| 否定 `un-` | 日耳曼 | 不、缺少 | unhappy, unknown |
+| 反向 `un-` | 日耳曼(另一历史来源) | 解除、撤销、反向动作 | undo, untie |
 | `in-/im-/il-/ir-` | 拉丁(同一家族的同化形) | 纯否定 | invisible, impossible, illegal, irregular |
 | `dis-` | 拉丁 | 否定 + 对立 | disagree, dishonest |
 | `non-` | 拉丁 | 中性、分类 | nonsmoker, nonsense |
