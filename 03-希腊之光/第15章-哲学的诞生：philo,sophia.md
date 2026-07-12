@@ -1,4 +1,4 @@
-# 第 15 章 哲学的诞生：philo, sophia
+# 第 15 章 哲学的诞生：philo,sophia
 
 > `philosophy` /fəˈlɑsəfi/ 的字面组合不是"我已经很聪明",而是"我还在追智慧"。这个命名很谦虚,也很适合写在读书拖延清单顶端。
 
@@ -275,4 +275,4 @@ flowchart TD
 
 ---
 
-*下一章 → [第 16 章 民主的词根：demos, kratos](./第16章-民主的词根：demos,%20kratos.md)*
+*下一章 → [第 16 章 民主的词根：demos,kratos](./第16章-民主的词根：demos,kratos.md)*

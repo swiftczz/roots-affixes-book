@@ -1,4 +1,4 @@
-# 第 25 章 阶级的烙印：kingly, royal, regal
+# 第 25 章 阶级的烙印：kingly,royal,regal
 
 > `kingly` /ˈkɪŋli/、`royal` /ˈrɔɪəl/、`regal` /ˈriɡəl/ 都和国王有关,却不能像三件同码外套一样随手替换。词典说它们近义,搭配会当场提出异议。
 

@@ -1,4 +1,4 @@
-# 第 24 章 厨房里的征服：pig, pork, cow, beef
+# 第 24 章 厨房里的征服：pig,pork,cow,beef
 
 > 猪在田里叫 `pig`,端上桌却叫 `pork` /pɔrk/。动物没有改名申请,变的是说话的人、使用场景和几百年的词义分工。
 
@@ -187,4 +187,4 @@ flowchart LR
 
 ---
 
-*下一章 → [第 25 章 阶级的烙印：kingly, royal, regal](./第25章-阶级的烙印：kingly,%20royal,%20regal.md)*
+*下一章 → [第 25 章 阶级的烙印：kingly,royal,regal](./第25章-阶级的烙印：kingly,royal,regal.md)*
