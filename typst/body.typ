@@ -2286,7 +2286,7 @@ trahere 家族生成了 `attract` /əˈtrækt/（吸引）、`distract` /dɪˈst
     table.header(th([延伸方向]), th([抽象义]), th([例词]), th([画面]),),
     table.hline(),
     [① 拉（物理）], [pull, drag], [tractor（拖拉机）：拖动农具的机器；extract（提取）：ex-（出）+ tract → 拉出来], [物理拖动],
-    [② 吸引（抽象）], [draw toward], [attract（吸引）：at-（向）+ tract → 拉向自己；→ 物理的"拉"变成抽象的"吸引"], [拉向自己],
+    [② 吸引（抽象）], [draw toward], [attract（吸引）：at-（向）+ tract → 拉向自己，物理的"拉"由此变成抽象的"吸引"], [拉向自己],
     [③ 操持、处理], [treat], [拉丁 tractare 已有"处理、操持"义，经法语进入英语；treatment（治疗）：被处理的过程], [处理、操持],
   )
 
@@ -3427,10 +3427,10 @@ jury = 宣誓者
 
 前面九章（第 4-12 章）我们深讲了拉丁词根的九大家族：specere（看）、ducere（引导）、jacere（投）、capere（抓）、trahere（拉）、cor/mens/animus（心灵）、mors（死）、stare（站）、lex/jus（法律）。
 
-但拉丁词根的世界远不止这九个。这一章把#strong[其他高频拉丁词根]压缩成更紧凑的"故事 + 家族 + 拆词"格式。篇幅瘦身，证据不能跟着缩水；每个词根不再单章展开，核心的【起源故事】和【拆词启示】仍然保留。
+但拉丁词根的世界远不止这九个。这一章把#strong[其他高频拉丁词根]压缩成更紧凑的"故事 + 家族 + 拆词"格式。篇幅瘦身，证据不能跟着缩水；每个词根不再单章展开，但历史线索和拆词边界仍然保留。
 
 #quote(block: true)[
-本章收录约 22 个词根，覆盖 `docere`（教导、说明）、`mittere`（送出、派遣、放行）、`scribere`（书写、记录）、`audire`（听取、聆听）、`venire`（来到、发生）、`pellere` / `puls-`（推动、驱赶）、`fluere`（流动、连续变化）、`ponere` / `pos-`（放置、摆放）、`ferre`（携带、搬运）、`frangere`（打破、折断）、`fundere`（倾倒、灌注）、`gradi`（迈步、行进）、`tenere`（持有、保持）、`vendere`（出售）等。
+本章收录二十来个词根家族，覆盖 `docere`（教导、说明）、`mittere`（送出、派遣、放行）、`scribere`（书写、记录）、`audire`（听取、聆听）、`venire`（来到、发生）、`pellere` / `puls-`（推动、驱赶）、`fluere`（流动、连续变化）、`ponere` / `pos-`（放置、摆放）、`ferre`（携带、搬运）、`frangere`（打破、折断）、`fundere`（倾倒、灌注）、`gradi`（迈步、行进）、`tenere`（持有、保持）、`vendere`（出售）等。
 ]
 
 === 怎样阅读本章的"核心含义"
@@ -3441,10 +3441,14 @@ jury = 宣誓者
 + #strong[常见引申方向]，如"送走"发展为解散，"让通过"发展为允许。
 + #strong[现代整词义]，如 `dismiss` /dɪsˈmɪs/ 是"解散、驳回"，不能只译成"离开 + 送"。
 
+本章各小节标题把#strong[英语词族中可识别的历史词形]放在前面，括号里再标出对应的#strong[拉丁动词不定式]。例如 `fer- / lat- 词族(拉丁动词 ferre)` 中，#emph[ferre] 是拉丁动词不定式，`fer- / lat-` 才是后代混进英语单词时常露出的脸。它们是一家人，但不是三个可以并排贴上"词根"标签的字母块。
+
+全章表格统一使用四列：#strong[词根词缀组成或历史词形 → 核心含义与记忆画面 → 代表词 → 现代词义与使用边界]。前半章一行追踪一个词，13.10 一行概括一个家族；镜头远近不同，仪表盘还是同一块。
+
 #horizontalrule
 
-=== 13.1 docere / doc- / doct-：教导、说明与传授
-<131-docere--doc---doct-教导说明与传授>
+=== 13.1 doc- / doct- 词族（拉丁动词 docere）：教导、说明与传授
+<131-doc---doct--词族拉丁动词-docere教导说明与传授>
 先讲个反差：今天你喊 `doctor` /ˈdɑktər/ 的那位，多半穿白大褂、拿听诊器。可这个词最初的岗位是#strong[站在讲台上]的------doctor 的本义是"教导者"，跟手术刀毫无关系。
 
 #strong[起源]：拉丁动词#emph[#strong[docere]]（教、指示），通常追溯到原始印欧语 \*dek-（接受、合适）。它与 `ducere` 的 \*deuk-（引导）不是同一个重建词根。
@@ -3475,8 +3479,8 @@ jury = 宣誓者
 
 #horizontalrule
 
-=== 13.2 mittere / mit- / miss-：送出、派遣与放行
-<132-mittere--mit---miss-送出派遣与放行>
+=== 13.2 mit- / miss- 词族（拉丁动词 mittere）：送出、派遣与放行
+<132-mit---miss--词族拉丁动词-mittere送出派遣与放行>
 要是罗马开快递公司，商标非 mittere 莫属。信要"送"，军队要"派"，任务要"交办"，连导弹(missile)都是被"射出去"的------全归这一根管。
 
 #strong[起源]：拉丁动词#emph[#strong[mittere]]（送、派遣、放走）。这个词根派生能力很强，前缀经常提示"送、放"的方向或关系：
@@ -3486,17 +3490,17 @@ jury = 宣誓者
 #table(
     columns: (1fr, 1fr, 1fr, 1fr),
     align: (left + horizon, left + horizon, left + horizon, left + horizon,),
-    table.header(th([历史构形]), th([方向或关系]), th([代表词]), th([怎样理解现代词义]),),
+    table.header(th([词根词缀组成或历史词形]), th([核心含义与记忆画面]), th([代表词]), th([现代词义与使用边界]),),
     table.hline(),
-    [`e-` + `mit-`], [向外送], [`emit` /ɪˈmɪt/], [发出光、热、声音或物质],
-    [`trans-` + `mit-`], [送到另一边], [`transmit` /trænzˈmɪt/], [传送信息、信号或疾病],
-    [`sub-` + `mit-`], [放到下面、置于支配之下], [`submit` /səbˈmɪt/], [提交供审查；也表示屈服],
-    [`ad-` + `mit-`], [让其朝向、允许进入], [`admit` /ədˈmɪt/], [准许进入；进一步表示承认事实],
-    [`per-` + `mit-`], [让其通过], [`permit` /pərˈmɪt/], [允许、许可],
-    [`dis-` + `miss-`], [送开、送走], [`dismiss` /dɪsˈmɪs/], [解散、让离开；也可指驳回意见或案件],
-    [`com-` + `mit-`], [托付、使投入其中], [`commit` /kəˈmɪt/], [承诺、投入、委托；也可指实施某行为],
-    [`inter-` + `mit-`], [在中间停止或留下间隔], [`intermittent` /ˌɪntərˈmɪtənt/], [断断续续的、间歇发生的],
-    [`missio` / `mission` /ˈmɪʃən/], [派遣、被派出的任务], [`mission`], [使命、任务；也指传教或军事行动],
+    [`e-` + `mit-`], [把光、热或物质从源头送出去], [`emit` /ɪˈmɪt/], [发出光、热、声音或物质],
+    [`trans-` + `mit-`], [把信息从这一端送过媒介，抵达另一端], [`transmit` /trænzˈmɪt/], [传送信息、信号或疾病],
+    [`sub-` + `mit-`], [把文件放到权威面前候审；把自己置于其支配之下], [`submit` /səbˈmɪt/], [提交供审查；也表示屈服],
+    [`ad-` + `mit-`], [给人开门让他进入；也给事实开门，不再把它挡在嘴外], [`admit` /ədˈmɪt/], [准许进入；进一步表示承认事实],
+    [`per-` + `mit-`], [像关卡放行，让人或行为获得通过], [`permit` /pərˈmɪt/], [允许、许可],
+    [`dis-` + `miss-`], [把人送出房间；也把意见或案件从案头打发走], [`dismiss` /dɪsˈmɪs/], [解散、让离开；也可指驳回意见或案件],
+    [`com-` + `mit-`], [把自己、资源或责任整个交进去，不再只伸一只脚试水], [`commit` /kəˈmɪt/], [承诺、投入、委托；也可指实施某行为],
+    [`inter-` + `mit-`], [动作进行一阵又停一阵，中间留下空档], [`intermittent` /ˌɪntərˈmɪtənt/], [断断续续的、间歇发生的],
+    [拉丁#emph[missio]], [人被派出去，同时也领走一项必须完成的任务], [`mission` /ˈmɪʃən/], [使命、任务；也指传教或军事行动],
   )
 
 【代表词深讲】：
@@ -3509,24 +3513,24 @@ jury = 宣誓者
 
 #horizontalrule
 
-=== 13.3 scribere / scrib- / scrip-：书写、刻写与记录
-<133-scribere--scrib---scrip-书写刻写与记录>
+=== 13.3 scrib- / scrip- 词族（拉丁动词 scribere）：书写、刻写与记录
+<133-scrib---scrip--词族拉丁动词-scribere书写刻写与记录>
 别把 scribere 想象成握钢笔的优雅动作。纸普及之前，罗马人写字是拿尖笔#strong[往蜡板上刻] ------这根字的骨子里，带着一道划痕。
 
-#strong[起源]：拉丁动词#emph[#strong[scribere]]（写、刻）。在纸张普及前，罗马人写字是用尖笔#strong[在蜡板上刻]，所以 scribere 带有"刻划"的物理感。
+#strong[起源]：拉丁动词#emph[#strong[scribere]]（写、刻）。它的早期语义保留着"划下痕迹"的物理感；至于蜡板，上段那位尖笔已经替我们演示过了，不必再刻第二遍。
 
 #strong[核心语义]：`scrib-/scrip-` 表示把内容写下、刻下或正式记录。`scrib-` 常见于动词词族，`scrip-` 常见于分词、名词词族，现代词义还受法律、出版和行政传统影响。
 
 #table(
     columns: (1fr, 1fr, 1fr, 1fr),
     align: (left + horizon, left + horizon, left + horizon, left + horizon,),
-    table.header(th([历史构形]), th([关系]), th([代表词]), th([怎样理解现代词义]),),
+    table.header(th([词根词缀组成或历史词形]), th([核心含义与记忆画面]), th([代表词]), th([现代词义与使用边界]),),
     table.hline(),
-    [`pre-` + `scrib-`], [预先写下、规定], [`prescribe` /prəˈskraɪb/], [医生开处方；也可指正式规定],
-    [`sub-` + `scrib-`], [在下面签名], [`subscribe` /səbˈskraɪb/], [签名同意；后来发展出订阅、认购],
-    [`de-` + `scrib-`], [写下、描画出来], [`describe` /dɪˈskraɪb/], [用语言描写事物的特征],
-    [`manu-` + `scrip-`], [用手书写], [`manuscript` /ˈmænjəˌskrɪpt/], [手稿；现代也指尚未出版的书稿],
-    [`post-` + `script`], [正文之后所写], [`postscript` /ˈpoʊˌskrɪpt/], [信件或文章末尾的附言],
+    [`pre-` + `scrib-`], [权威预先把要求写好：医生写用药指示，制度写行为规则], [`prescribe` /prəˈskraɪb/], [医生开处方；也可指正式规定],
+    [`sub-` + `scrib-`], [在声明下面签名表示同意；后来把名字留进长期名单], [`subscribe` /səbˈskraɪb/], [签名同意；后来发展出订阅、认购],
+    [`de-` + `scrib-`], [用文字把事物的轮廓和特征画出来], [`describe` /dɪˈskraɪb/], [用语言描写事物的特征],
+    [`manu-` + `scrip-`], [一页页亲手写成的稿子，印刷机还没来接班], [`manuscript` /ˈmænjəˌskrɪpt/], [手稿；现代也指尚未出版的书稿],
+    [`post-` + `script`], [正文收工后又想起一句，只好在末尾加个小尾巴], [`postscript` /ˈpoʊˌskrɪpt/], [信件或文章末尾的附言],
   )
 
 【代表词深讲】：
@@ -3540,8 +3544,8 @@ jury = 宣誓者
 
 #horizontalrule
 
-=== 13.4 audire / audi- / audit-：听取、聆听与听觉
-<134-audire--audi---audit-听取聆听与听觉>
+=== 13.4 audi- / audit- 词族（拉丁动词 audire）：听取、聆听与听觉
+<134-audi---audit--词族拉丁动词-audire听取聆听与听觉>
 从一个"听"字能走出多远？走进剧院，你是 audience（听众）；走进会计事务所，你在做 audit（审计）；甚至走到"服从"------obey /oʊˈbeɪ/ 的字面意思，不过是"朝着某人听"。
 
 #strong[起源]：拉丁动词#emph[#strong[audire]]（听），来自原始印欧语 \*au-（感知）。
@@ -3551,13 +3555,13 @@ jury = 宣誓者
 #table(
     columns: (1fr, 1fr, 1fr, 1fr),
     align: (left + horizon, left + horizon, left + horizon, left + horizon,),
-    table.header(th([历史构形]), th([关系]), th([代表词]), th([怎样理解现代词义]),),
+    table.header(th([词根词缀组成或历史词形]), th([核心含义与记忆画面]), th([代表词]), th([现代词义与使用边界]),),
     table.hline(),
-    [`audi-`], [听、声音], [`audio`, `auditory` /ˈɔdɪˌtɔri/], [音频；听觉的],
-    [`audient-`], [正在听、听取], [`audience` /ˈɑdiəns/], [听众；后来也泛指观看演出或节目的人],
-    [否定 `in-` + `audible` /ˈɑdəbəl/], [不能被听见], [`inaudible` /ˌɪˈnɔdəbəl/], [声音太小或不清楚，听不见],
-    [`ob-` + `audire`], [朝向某人听取], [`obey` /oʊˈbeɪ/], [经拉丁、法语路线发展为服从、遵从],
-    [`audit-`], [听取、核查], [`audit` /ˈɔdɪt/], [审计、审核；现已不限于口头听账],
+    [`audi-`], [声音进入耳朵，于是有了音频和听觉这一整套设备], [`audio`, `auditory` /ˈɔdɪˌtɔri/], [音频；听觉的],
+    [`audient-`], [一群人坐下来听；后来舞台加了画面，他们也成了观众], [`audience` /ˈɑdiəns/], [听众；后来也泛指观看演出或节目的人],
+    [否定 `in-` + `audible` /ˈɑdəbəl/], [声音没跨过耳朵的门槛，再努力也只剩嘴型], [`inaudible` /ˌɪˈnɔdəbəl/], [声音太小或不清楚，听不见],
+    [`ob-` + `audire`], [把耳朵转向命令；听进去之后，行动也跟着过去], [`obey` /oʊˈbeɪ/], [经拉丁、法语路线发展为服从、遵从],
+    [`audit-`], [账目被逐项读出，审查者边听边核对有没有谁偷偷加戏], [`audit` /ˈɔdɪt/], [审计、审核；现已不限于口头听账],
   )
 
 【代表词深讲】：
@@ -3570,8 +3574,8 @@ jury = 宣誓者
 
 #horizontalrule
 
-=== 13.5 venire / ven- / vent-：来到、到达与发生
-<135-venire--ven---vent-来到到达与发生>
+=== 13.5 ven- / vent- 词族（拉丁动词 venire）：来到、到达与发生
+<135-ven---vent--词族拉丁动词-venire来到到达与发生>
 venire 只干一件事：#strong[来]。但"来"能来出花样------来到中间(intervene /ˌɪntərˈvin/)是干预，来到一起(convene /kənˈvin/)是开会，钱"流回来"(revenue)就成了收入。
 
 #strong[起源]：拉丁动词#emph[#strong[venire]]（来），来自原始印欧语 \*gʷem-（来）。英语本土的 `come` 也来自同一原始印欧语词根。
@@ -3581,15 +3585,15 @@ venire 只干一件事：#strong[来]。但"来"能来出花样------来到中�
 #table(
     columns: (1fr, 1fr, 1fr, 1fr),
     align: (left + horizon, left + horizon, left + horizon, left + horizon,),
-    table.header(th([历史构形]), th([方向或关系]), th([代表词]), th([怎样理解现代词义]),),
+    table.header(th([词根词缀组成或历史词形]), th([核心含义与记忆画面]), th([代表词]), th([现代词义与使用边界]),),
     table.hline(),
-    [`inter-` + `ven-`], [来到两者之间], [`intervene` /ˌɪntərˈvin/], [介入、干预],
-    [`con-` + `ven-`], [来到一起], [`convene` /kənˈvin/], [集合、召集会议],
-    [`in-` + `ven-`], [来到、碰到、发现], [`invent` /ɪnˈvɛnt/], [由发现、构想发展为发明],
-    [`ad-` + `vent-`], [朝某处到来], [`advent` /ˈædˌvɛnt/], [到来、出现],
-    [`e-/ex-` + `vent-`], [出现、发生], [`event`], [发生的事情、事件],
-    [`re-` + 法语 `venue` /ˈvɛnju/], [回来、返回], [`revenue` /ˈrɛvəˌnu/], [原指回流的收益，现指收入],
-    [`pro-` + `ven-`], [预先来到、抢先发生], [`prevent` /prɪˈvɛnt/], [先行阻挡，后来表示预防、阻止],
+    [`inter-` + `ven-`], [一脚站到双方中间，从围观群众升级为干预者], [`intervene` /ˌɪntərˈvin/], [介入、干预],
+    [`con-` + `ven-`], [人们从四面八方来到一起，会议这才有得开], [`convene` /kənˈvin/], [集合、召集会议],
+    [`in-` + `ven-`], [先是偶然碰见、发现，后来连尚不存在的东西也被"找"了出来], [`invent` /ɪnˈvɛnt/], [由发现、构想发展为发明],
+    [`ad-` + `vent-`], [某人或某个时代走上舞台，它的到来变成一个新开端], [`advent` /ˈædˌvɛnt/], [到来、出现],
+    [`e-/ex-` + `vent-`], [某件事从可能性里走出来，正式发生在现实中], [`event`], [发生的事情、事件],
+    [古法语#emph[revenue]，来自#emph[revenir]], [收益离家转了一圈，又回到主人或国库手里], [`revenue` /ˈrɛvəˌnu/], [原指返回的收益，现指收入；不是 `re-` 与现代词 `venue` 的现场拼装],
+    [拉丁#emph[praevenire]\(`prae-` + `venire`)], [比麻烦先到一步，提前堵在它的必经之路上], [`prevent` /prɪˈvɛnt/], [由预先行动、抢在前面发展为预防、阻止],
   )
 
 【代表词深讲】：
@@ -3602,8 +3606,8 @@ venire 只干一件事：#strong[来]。但"来"能来出花样------来到中�
 
 #horizontalrule
 
-=== 13.6 pellere / pell- / puls-：推动、驱赶与撞击
-<136-pellere--pell---puls-推动驱赶与撞击>
+=== 13.6 pell- / puls- 词族（拉丁动词 pellere）：推动、驱赶与撞击
+<136-pell---puls--词族拉丁动词-pellere推动驱赶与撞击>
 pellere 是纯出力气的一根：#strong[推]。你的脉搏(pulse)是心脏一下下把血往外推；冲动(impulse /ˈɪmpʌls/)是心里有东西在推你；把人推出门(expel /ɪkˈspɛl/)，就是开除。
 
 #strong[起源]：拉丁动词#emph[#strong[pellere]]（推、驱赶），过去分词 \*#strong[pulsus] 。
@@ -3613,46 +3617,46 @@ pellere 是纯出力气的一根：#strong[推]。你的脉搏(pulse)是心脏�
 #table(
     columns: (1fr, 1fr, 1fr, 1fr),
     align: (left + horizon, left + horizon, left + horizon, left + horizon,),
-    table.header(th([历史构形]), th([方向或力度]), th([代表词]), th([怎样理解现代词义]),),
+    table.header(th([词根词缀组成或历史词形]), th([核心含义与记忆画面]), th([代表词]), th([现代词义与使用边界]),),
     table.hline(),
-    [`ex-` + `pell/puls`], [向外推], [`expel`, `expulsion` /ɪkˈspʌlʃən/], [驱逐、排出],
-    [`re-` + `pell/puls`], [推回去], [`repel` /rɪˈpɛl/, `repulse` /rɪˈpʌls/], [击退；也可表示令人反感],
-    [加强作用的 `com-` + `pell`], [用力推动], [`compel` /kəmˈpɛl/], [强迫某人行动],
-    [`pro-` + `pell`], [向前推], [`propel` /prəˈpɛl/], [推进、驱动],
-    [`dis-` + `pell`], [向不同方向推散], [`dispel` /dɪˈspɛl/], [驱散疑虑、恐惧、烟雾等],
-    [`im-` + `puls`], [推入、施加冲击], [`impulse` /ˈɪmpʌls/], [冲量；引申为促使行动的冲动],
-    [`pulsus`], [击打、跳动], [`pulse` /pʌls/], [脉搏、规律的搏动或脉冲],
+    [`ex-` + `pell/puls`], [把人推出门、把东西排出体外，总之请它离开现场], [`expel`, `expulsion` /ɪkˈspʌlʃən/], [驱逐、排出],
+    [`re-` + `pell/puls`], [把迎面而来的东西推回去；厌恶感也会把人往后推], [`repel` /rɪˈpɛl/, `repulse` /rɪˈpʌls/], [击退；也可表示令人反感],
+    [加强作用的 `com-` + `pell`], [外力一直推着人走，想原地不动都不行], [`compel` /kəmˈpɛl/], [强迫某人行动],
+    [`pro-` + `pell`], [力量在后面持续推，物体于是向前跑], [`propel` /prəˈpɛl/], [推进、驱动],
+    [`dis-` + `pell`], [把聚成一团的烟雾、恐惧或疑虑推散], [`dispel` /dɪˈspɛl/], [驱散疑虑、恐惧、烟雾等],
+    [拉丁#emph[impellere] / #emph[impulsus]], [一股突然的推力让身体或念头立刻行动], [`impulse` /ˈɪmpʌls/], [冲量；引申为促使行动的冲动，不宜把 `im-` 固定解释成"内"],
+    [`pulsus`], [心脏一次次推送血液，留下规律的击打和跳动], [`pulse` /pʌls/], [脉搏、规律的搏动或脉冲],
   )
 
 【代表词深讲】：
 
 - `compel`（强迫）：`com-`（加强）+ `pel`（推）= 用力推。强迫就是"把人推着走"。
-- `impulse`（冲动）：`im-`（内）+ `pulse`= 内部的推力------欲望、本能推着你行动。
+- `impulse`（冲动）：历史画面是某种力量推着你行动。今天把它想成"心里有人猛按了一下购买键"很好记，但那个按键属于现代助记，不是拉丁语内部结构。
 - `repel`（击退）：`re-`（回）+ `pel`= 推回去。
 
 【记忆锚点】：#strong[`pell/puls` 是施加推力：propel 向前推，repel 推回，compel 用力迫使，impulse 是推动行动的冲力。]
 
 #horizontalrule
 
-=== 13.7 fluere / flu- / flux-：流动、汇入与连续变化
-<137-fluere--flu---flux-流动汇入与连续变化>
+=== 13.7 flu- / flux- 词族（拉丁动词 fluere）：流动、汇入与连续变化
+<137-flu---flux--词族拉丁动词-fluere流动汇入与连续变化>
 #emph[fluere] 是"流动、流淌"的动词，不由水独家承包。液体会流，语言、人口、力量和状态也能沿着比喻路线流起来。说话流利(fluent /ˈfluənt/)，像话顺畅淌出；多余(superfluous /suˈpɜrfluəs/)，像东西多到漫出边；而最浪漫的是影响(influence)------中世纪占星传统曾把它想成星辰之力"流"入人间。
 
-#strong[起源]：拉丁动词#emph[#strong[fluere]]（流），来自原始印欧语 \*bleug-（流出）。
+#strong[起源]：拉丁动词#emph[#strong[fluere]]（流），通常追溯到原始印欧语 \*bhleu-（膨起、涌出、溢流）。
 
 #strong[核心语义]：`flu-/flux-` 表示液体流动，也可比喻语言、人口、力量或状态持续移动。`flux` /flʌks/ 尤其常表示流量或不断变化的状态。
 
 #table(
     columns: (1fr, 1fr, 1fr, 1fr),
     align: (left + horizon, left + horizon, left + horizon, left + horizon,),
-    table.header(th([历史构形]), th([流动关系]), th([代表词]), th([怎样理解现代词义]),),
+    table.header(th([词根词缀组成或历史词形]), th([核心含义与记忆画面]), th([代表词]), th([现代词义与使用边界]),),
     table.hline(),
-    [`in-` + `flux`], [流入], [`influx` /ˈɪnflʌks/], [人、资金或事物大量涌入],
-    [`in-` + `flu` /flu/], [流入、施加流体般作用], [`influence` /ˈɪnfluəns/], [从占星术中的"流入之力"发展为影响],
-    [`con-` + `flu`], [一起流动], [`confluence` /ˈkɑnfluəns/], [河流汇合处；也可指因素汇合],
-    [`inter-` + `fluve`], [位于水流之间], [`interfluve`], [两条相邻河流之间的高地],
-    [`super-` + `flu`], [流过、溢出], [`superfluous` /suˈpɜrfluəs/], [超出需要的、多余的],
-    [`fluere` 的派生形式], [容易流动], [`fluid` /ˈfluəd/, `fluent` /ˈfluənt/], [流体；流畅、流利的],
+    [`in-` + `flux`], [人、钱或货物像涨水一样大批涌进来], [`influx` /ˈɪnflʌks/], [人、资金或事物大量涌入],
+    [`in-` + `flu` /flu/], [中世纪想象星辰之力流入人间，进去以后还悄悄改变局面], [`influence` /ˈɪnfluəns/], [从占星术中的"流入之力"发展为影响],
+    [`con-` + `flu`], [两条河流到同一点汇合；抽象因素也能在这里碰头], [`confluence` /ˈkɑnfluəns/], [河流汇合处；也可指因素汇合],
+    [拉丁#emph[affluere]\(`ad-` + `fluere`)], [资源像水一样不断流进家门，多得显出丰盛], [`affluent`], [由流入、丰盛发展为富裕的；别把富人想成真的在客厅里发洪水],
+    [`super-` + `flu`], [东西多到越过容器边缘，需要之外还在往外溢], [`superfluous` /suˈpɜrfluəs/], [超出需要的、多余的],
+    [`fluere` 的派生形式], [液体流动没有阻塞；话语顺畅时也像一路绿灯], [`fluid` /ˈfluəd/, `fluent` /ˈfluənt/], [流体；流畅、流利的],
   )
 
 【代表词深讲】：
@@ -3665,100 +3669,99 @@ pellere 是纯出力气的一根：#strong[推]。你的脉搏(pulse)是心脏�
 
 #horizontalrule
 
-=== 13.8 ponere / pon- / pos- / posit-：放置、摆开与设定
-<138-ponere--pon---pos---posit-放置摆开与设定>
-ponere 是一根撑起半个学术英语的顶梁柱：它的后代遍布 IELTS 高频词表。原因很简单------"放"这个动作太百搭了。放到一起是 compose，放到对面是 oppose，放到下面是 deposit，放到外面是 expose，提前放好是 propose。同一根骨头，被前缀拽向四面八方，撑出了一整张家族合影。
+=== 13.8 pon- / pos- / posit- 词族（拉丁动词 ponere）：放置、摆开与设定
+<138-pon---pos---posit--词族拉丁动词-ponere放置摆开与设定>
+ponere 是一根撑起半个学术英语的顶梁柱：它的后代遍布 IELTS 高频词表。原因很简单------"放"这个动作太百搭了。放到一起是 compose，放到对面是 oppose，放到下面是 deposit，放到外面是 expose，摆到面前是 propose。同一根骨头，被前缀拽向四面八方，撑出了一整张家族合影。
 
-#strong[起源]：拉丁动词#emph[#strong[ponere]]（放置、摆放），过去分词#emph[#strong[positus]]。注意它有两套"衣裳"：基本词干 `pon-`（如 opponent）和分词形式 `posit-`（如 position）。进入法语后，`posit-` 又缩短出 `pos-`，于是有了 compose、expose 这批带 `s` 的短装版。#strong[三套拼写(pon-/posit-/pos-)是历史遗留，不是任你切换的开关。]
+#strong[起源]：拉丁动词#emph[#strong[ponere]]（放置、摆放），过去分词是#emph[#strong[positus]]。英语里的 `pon-`、`posit-` 和 `pos-/pose` 确实在"放置"这张家族合影里，但进门路线不只一条：有的来自拉丁复合词，有的经过法语#emph[poser] 一类形式，还发生过彼此影响。#strong[这几套拼写是历史留下的亲戚关系，不是任你切换的变装按钮。]
 
 #strong[核心语义]：`ponere` 的物理动作是"把某物放到某处"。抽象化以后，"放到一起"变成组成，"放在公开场合"变成暴露，"放在面前"变成提出或对抗。记住"放"这个画面，整张家族表就活了。
 
 #table(
     columns: (1fr, 1fr, 1fr, 1fr),
     align: (left + horizon, left + horizon, left + horizon, left + horizon,),
-    table.header(th([历史构形]), th(["放"的方向]), th([代表词]), th([怎样理解现代词义]),),
+    table.header(th([词根词缀组成或历史词形]), th([核心含义与记忆画面]), th([代表词]), th([现代词义与使用边界]),),
     table.hline(),
-    [`com-` + `pos-`], [放到一起], [`compose` /kəmˈpoʊz/], [组成、构成；也指作曲、使镇定],
-    [`op-` + `pon-`], [放到对面], [`oppose` /əˈpoʊz/], [反对、对抗],
-    [`ex-` + `pos-`], [放到外面、公开], [`expose` /ɪkˈspoʊz/], [暴露、揭露；也指接触体验],
-    [`de-` + `pos-`], [放下、放到底下], [`deposit` /dɪˈpɑzɪt/], [存放、存款、沉积物],
-    [`pro-` + `pos-`], [提前放好、放到面前], [`propose` /prəˈpoʊz/], [提议、求婚],
-    [`sup-` + `pos-`], [放到下面、暗暗设定], [`suppose` /səˈpoʊz/], [假定、猜想],
-    [`im-` + `pos-`], [放上去、施加], [`impose` /ɪmˈpoʊz/], [强加、征收（税）],
-    [`dis-` + `pos-`], [分开放、安排开], [`dispose` /dɪˈspoʊz/], [处理、排列；丢弃],
-    [`posit-` + `-ion`], [放置的状态], [`position` /pəˈzɪʃən/], [位置、立场、职位],
-    [`posit-` + `-ive`], [已被确定放下的], [`positive` /ˈpɑzətɪv/], [确定的、积极的、正的],
+    [`com-` + `pos-`], [把零件或音符放到一起形成整体；把乱跑的情绪重新排好座位], [`compose` /kəmˈpoʊz/], [组成、构成；也指作曲、使镇定],
+    [`op-` + `pos-`], [把立场摆到对面，双方从同桌吃饭变成隔桌交锋], [`oppose` /əˈpoʊz/], [反对、对抗；这个拆分用于辨认和助记，实际词形还经过法语并受拉丁语影响],
+    [`ex-` + `pos-`], [把东西拿到遮盖之外，藏着的内容就暴露了], [`expose` /ɪkˈspoʊz/], [暴露、揭露；也指接触体验],
+    [`de-` + `pos-`], [把钱放进保管处；河流把泥沙放下，两者都留下了沉积], [`deposit` /dɪˈpɑzɪt/], [存放、存款、沉积物],
+    [`pro-` + `pos-`], [把想法摆到众人面前请他们考虑；求婚则把人生方案递给一个人], [`propose` /prəˈpoʊz/], [提议、求婚；不是"提前把东西藏好"],
+    [`sup-` + `pos-`], [先把一个假设垫在推理下面，再往上搭结论], [`suppose` /səˈpoʊz/], [假定、猜想；"暗暗设定"只能算助记画面],
+    [`im-` + `pos-`], [把规则、税或负担压到别人身上，对方通常没有点"拒收"], [`impose` /ɪmˈpoʊz/], [强加、征收（税）],
+    [`dis-` + `pos-`], [先把东西分开放好、安排妥当；再进一步决定如何处理或丢弃], [`dispose` /dɪˈspoʊz/], [处理、排列；丢弃],
+    [`posit-` + `-ion`], [某物被放在哪里，就是位置；人被放在哪个岗位，就是职位], [`position` /pəˈzɪʃən/], [位置、立场、职位],
+    [`posit-` + `-ive`], [一项判断被明确放下、正式确认；其他词义还要沿各自历史继续走], [`positive` /ˈpɑzətɪv/], [确定的、肯定的；"积极的"和数学上的"正的"是在不同语境中继续发展的词义],
   )
 
 【代表词深讲】：
 
-- `compose`（组成）：`com-`（一起）+ `pos`（放）= 放到一起。#strong[这就是 compose 的全部秘密] ------把零件放到位，就成了一个整体。作曲(compose music)是把音符放到一起，镇定(compose oneself)是把情绪放回原位。
-- `oppose`（反对）：`op-`（=ob，对面）+ `pon`（放）= 放在对面。反对就是"站在你的对面"。它的分词形式 `opponent` /əˈpoʊnənt/ 是对手。
-- `deposit`（存款）：`de-`（下）+ `pos`（放）= 放到底下。钱放到银行底下存着，就是存款；河水把泥沙放下，就是沉积物。
-- `positive`（积极的、正的）：`posit-`（放下）+ `-ive`。原义是"已经被确定放下的、已成定论的"，后来发展出"确定的、积极的、正数"义------一件事被放实了，就是肯定。
+- `compose`（组成）：它经古法语#emph[composer] 进入英语，同时受到拉丁#emph[componere/compositus] 一族影响。"把零件放到一起"仍是很好用的画面：作曲是安排音符，compose oneself 是把四处乱跑的情绪叫回来坐好。只是这算最好记的那层秘密，不是整部词源户口簿。
+- `positive`（肯定的、积极的、正的）：它来自拉丁#emph[positivus]，背后是#emph[positus]"被放下、被确定"。"明确规定下来的"帮助它走向确定、肯定；后来在日常评价、数学和科学语境中又长出积极、正值等不同用法。几条路彼此有关，却不是"放一下就自动变乐观"。
 
-【记忆锚点】：#strong[`pon/pos/posit` 全家共享"放"这个动作：compose 放到一起，oppose 放到对面，expose 放到外面，deposit 放到底下，propose 提前放好。见到 pose/pos/posit，先想"往哪儿放"。]
+【记忆锚点】：#strong[`pon/pos/posit` 这一大家族共享"放"的历史底色：compose 可记成放到一起，oppose 是置于对面，expose 是放到外面，deposit 是放下，propose 是摆到面前。见到这些词形，可以先问"往哪儿放"，再拿整词历史来核对。]
 
 #horizontalrule
 
-=== 13.9 ferre / fer- / lat-：携带、承受与搬运
-<139-ferre--fer---lat-携带承受与搬运>
-ferre 是一根朴素的扁担：它的全部动作就是"搬"。但"搬"能搬出一座图书馆------`transfer` /trænsˈfɜr/ 是搬到对面，`refer` /rɪˈfɜr/ 是搬回来给人看，`differ` /ˈdɪfɜr/ 是搬得不一样，`offer` /ˈɔfər/ 是搬到面前递给你。前缀负责方向，ferre 负责那一下"扛起来"。
+=== 13.9 fer- / lat- 词族（拉丁动词 ferre）：携带、承受与搬运
+<139-fer---lat--词族拉丁动词-ferre携带承受与搬运>
+ferre 是一根朴素的扁担：它的全部动作就是"带、搬、承受"。但一根扁担也能搬出一座图书馆------`transfer` /trænsˈfɜr/ 是搬到另一边，`refer` /rɪˈfɜr/ 是把话题带回来，`differ` /ˈdɪfɜr/ 是分开走，`offer` /ˈɔfər/ 是递到面前。前缀提供方向线索，ferre 负责那一下"扛起来"。
 
-#strong[起源]：拉丁动词#emph[#strong[ferre]]（携带、承受、搬运）。这个词根极其古老，来自原始印欧语 \*#strong[bher-] （携带），在日耳曼语里变成了英语本族的 `bear` /bɛr/（承受、生育）------所以 `bear` 和 `transfer` 是六千年前的亲兄弟，一个穿了日耳曼草鞋，一个穿了拉丁皮靴。
+#strong[起源]：拉丁动词#emph[#strong[ferre]]（携带、承受、搬运），过去分词是看起来不太像亲生的#emph[#strong[latus]]。这个词根极其古老，来自原始印欧语 \*#strong[bher-] （携带），英语本族词 `bear` /bɛr/（承受、生育）也出自这一古老来源------一个穿日耳曼草鞋，一个穿拉丁皮靴，族谱隔得很远，扁担倒是同一款。
 
-#strong[核心语义]：`ferre` 的核心是"把东西从这里搬到那里"。物理搬运引申为传递信息(refer)、承受痛苦(suffer)、提出判断(prefer)和产生差异(differ)。大多数情况下，#strong[前缀贡献了词义的方向，fer 贡献了"搬"这个动作底色]。
+#strong[核心语义]：`ferre` 的核心是"带、搬、承受"。物理搬运引申为传递信息(refer)、承受痛苦(suffer)、置于优先位置(prefer)和产生差异(differ)。多数时候，#strong[前缀能提供历史方向线索，fer 则贡献"携带"这个动作底色]；但现代词义仍要查整词的行程单。
 
 #table(
     columns: (1fr, 1fr, 1fr, 1fr),
     align: (left + horizon, left + horizon, left + horizon, left + horizon,),
-    table.header(th([历史构形]), th(["搬"的方向或关系]), th([代表词]), th([怎样理解现代词义]),),
+    table.header(th([词根词缀组成或历史词形]), th([核心含义与记忆画面]), th([代表词]), th([现代词义与使用边界]),),
     table.hline(),
-    [`trans-` + `fer`], [搬到另一边], [`transfer` /trænsˈfɜr/], [转移、转让、换乘],
-    [`re-` + `fer`], [搬回来、带回来], [`refer` /rɪˈfɜr/], [提及、参考；把问题带回来],
-    [`dif-` + `fer`], [搬得岔开了], [`differ` /ˈdɪfɜr/], [不同、有区别],
-    [`of-` + `fer`], [搬到面前], [`offer` /ˈɔfər/], [提出、提供、出价],
-    [`pre-` + `fer`], [先搬走、优先拿], [`prefer` /prɪˈfɜr/], [更喜欢、优先选择],
-    [`in-` + `fer`], [从中搬出来], [`infer` /ɪnˈfɜr/], [推断、推论],
-    [`con-` + `fer`], [一起搬、带到一起], [`confer` /kənˈfɜr/], [商谈、授予（学位等）],
-    [`suf-` + `fer`], [在下面承受着搬], [`suffer` /ˈsʌfər/], [忍受、遭受],
-    [`fer-` + `-ile`], [能搬运的、能生育的], [`fertile` /ˈfɜrtl/], [肥沃的、多产的],
+    [`trans-` + `fer`], [把人、物或权利搬过边界，原来的位置随之空出来], [`transfer` /trænsˈfɜr/], [转移、转让、换乘],
+    [`re-` + `fer`], [把问题带回某个人、某段文字或某个来源，请它们接手说明], [`refer` /rɪˈfɜr/], [提及、参考；把问题带回来],
+    [`dif-` + `fer`], [两样东西各自被带向不同方向，走着走着就不一样了], [`differ` /ˈdɪfɜr/], [不同、有区别],
+    [`of-` + `fer`], [把物品、价格或帮助递到别人面前，等对方接不接受], [`offer` /ˈɔfər/], [提出、提供、出价],
+    [拉丁#emph[praeferre]], [把某个选项带到队伍最前面，等于给它优先席], [`prefer` /prɪˈfɜr/], [更喜欢、优先选择；不是抢先搬走战利品],
+    [拉丁#emph[inferre]], [把证据带进推理，再提出一个结论；最后这一步靠历史用法，不是方向自动生成], [`infer` /ɪnˈfɜr/], [经"提出、引入结论"等用法发展为推断，不能只靠方向图推出现代义],
+    [`con-` + `fer`], [把意见带到一起可以商谈；权威把学位或荣誉正式交给某人则是授予], [`confer` /kənˈfɜr/], [商谈、授予（学位等）],
+    [`suf-` + `fer`], [人在重压下面仍扛着不倒，于是有了承受和遭受], [`suffer` /ˈsʌfər/], [忍受、遭受],
+    [拉丁#emph[fertilis]，来自#emph[ferre] 词族], [土地能够承载作物、结出果实，于是显得肥沃而多产], [`fertile` /ˈfɜrtl/], [肥沃的、多产的；不宜当成现代英语里的 `fer- + -ile` 现场构词],
+    [#emph[latus]，拉丁#emph[ferre] 的过去分词], [不搬原句的外壳，只把意思运过语言边界], [`translate`], [由转移、转述发展为翻译；`lat-` 是这个不规则家族容易失联的一位成员],
   )
 
 【代表词深讲】：
 
-- `differ`（不同）：`dif-`（=dis，分开）+ `fer`（搬）= 搬到不同方向去了。两个东西分道扬镳，就有了区别。它的形容词 `different` 和名词 `difference` 都从这里来。
-- `prefer`（更喜欢）：`pre-`（前）+ `fer`（搬）= 先搬走。在一堆选项里先拿走的那一个，就是你更喜欢的。
-- `infer`（推断）：`in-`（入）+ `fer`（搬）。把信息"搬进"脑子里形成结论，就是推断。注意它和 `imply`（暗示）是一对：`imply` 是放进去，`infer` 是搬出来。
+- `prefer`（更喜欢）：拉丁#emph[praeferre] 是"带到前面、置于优先位置"。在一排选项里把某个请到第一排，就是更看重它；不是趁大家没注意先搬回家。
+- `infer`（推断）：拉丁#emph[inferre] 本可表示"带入、引入"，后来经过提出、引出结论等用法发展为现代的推断。它与 `imply`（暗示）在现代逻辑里常成一对：说话者 imply，听者 infer；但这对搭档是工作关系，不是词源上的双胞胎。
 - `suffer`（忍受）：`suf-`（=sub，下面）+ `fer`（搬）= 在底下扛着。扛着痛苦往下走，就是受苦。
 
-【记忆锚点】：#strong[`fer` 的核心是"搬":transfer 搬过界，refer 搬回来，differ 搬岔了，offer 搬到面前，prefer 先搬走。它和英语本族的 `bear`（承受）是同一根扁担的两端。]
+【记忆锚点】：#strong[`fer` 的核心是"带、搬、承受":transfer 搬过界，refer 带回来，differ 分开，offer 递到面前，prefer 置于前列。它那位不太像本人的过去分词 `latus` 还藏在 translate 等词里；英语本族的 `bear` 则是远房同源亲戚。]
 
 #horizontalrule
 
-=== 13.10 其他高频拉丁词根详解速查
-<1310-其他高频拉丁词根详解速查>
-前面七位选手已经各自讲完了故事，接下来这十二位就没那么多废话了------它们排成一张大表，像自助餐台一样等你自取。不过别被表格吓退：每一行都藏着一个微型故事，值得你慢慢嚼。
+=== 13.10 其他高频拉丁词族速查
+<1310-其他高频拉丁词族速查>
+前面九位选手已经各自讲完了故事，接下来这十二个家族就没那么多废话了------它们排成一张大表，像自助餐台一样等你自取。不过别被表格吓退：每一行都藏着一个微型故事，值得你慢慢嚼。
 
-这一表的"核心含义"同时列出物理动作和主要抽象引申。"代表词"给出理解路径，不是要求逐字翻译。
+这一表的"核心含义"同时列出物理动作和主要抽象引申。"代表词"给出理解路径，不是要求逐字翻译。第一列中，反引号内是英语词族中可识别的历史词形，括号内是对应的拉丁动词不定式；有些词形来自现在时系统，有些来自过去分词系统，不能在现代英语中自由替换。
 
 #table(
     columns: (1fr, 1fr, 1fr, 1fr),
     align: (left + horizon, left + horizon, left + horizon, left + horizon,),
-    table.header(th([词根]), th([核心含义与常见引申]), th([代表词及理解路径]), th([使用边界或记忆锚点]),),
+    table.header(th([词根词缀组成或历史词形]), th([核心含义与记忆画面]), th([代表词]), th([现代词义与使用边界]),),
     table.hline(),
-    [`frangere` / `frag-` / `fract-`], [打破、折断；引申到碎片、裂缝、脆弱和违反规则], [`fraction` /ˈfrækʃən/ 被分出的一部分；`fracture` /ˈfræktʃər/ 断裂；`fragile` /ˈfrædʒəl/ 易碎的；`infringe` /ˌɪnˈfrɪndʒ/ 侵犯、违反], [共同画面是"完整体被破开"，但 `infringe` 的现代义要按整词记],
-    [`fundere` / `fus-`], [倾倒、灌注、熔化；引申到混合、扩散和输送液体], [`infuse` /ɪnˈfjuz/ 注入；`diffuse` /dɪˈfjuz/ 扩散；`transfuse` /trænsˈfjuz/ 输注；`confuse` /kənˈfjuz/ 使混乱], [可用"液体被倒向不同方向"串联，不要把英语名词 `fund` /fʌnd/"基金"混入此词族],
-    [`gradi` / `grad-` / `gress-`], [迈步、行走；引申到前进、后退、阶段和等级], [`progress` 前进；`regress` /rɪˈɡrɛs/ 后退；`congress` /ˈkɑŋɡrəs/ 会合；`grade` /ɡreɪd/ 等级/阶段], [`grad-` 和 `gress-` 是相关历史形式，不是现代英语自由替换规则],
-    [`tenere` / `ten-` / `tent-` / `tin-`], [握住、保持、占有；引申到容纳、维持和承担], [`contain` 容纳；`retain` /rɪˈteɪn/ 保留；`sustain` /səˈsteɪn/ 支撑；`tenant` /ˈtɛnənt/ 租用并占有者], ["持有"不限于用手握，也可指空间容纳、法律占有或状态维持],
-    [`vendere` / `vend-`], [出售、拿去卖；与商品交易和卖方有关], [`vendor` /ˈvɛndər/ 卖方；`vend` 出售；`vending machine` /ˈvɛndɪŋ/ 自动售货机], [拉丁#emph[vendere] 通常分析为与#emph[venum dare]"拿去出售"有关；不是 `ven-`"来"的普通派生],
-    [`vocare` / `voc-` / `vok-`], [呼叫、发声、命名；引申到召唤、撤销和激起], [`invoke` /ˌɪnˈvoʊk/ 援引/祈求；`revoke` /rɪˈvoʊk/ 撤销；`provoke` /prəˈvoʊk/ 激起；`vocal` /ˈvoʊkəl/ 声音的], [核心是"发出呼唤或声音"，但 `provoke` 已不等于简单的"向前叫"],
-    [`pangere` / `pact-`], [固定、钉牢；由"固定下来"引申到约定和契约], [`pact` 协定；`compact` /ˈkɑmpækt/ 契约/紧密的；`impact` /ˌɪmˈpækt/ 冲击], ["协议被固定"可作助记，各词还经历了不同的拉丁复合形式],
-    [`rapere` / `rap-` / `rapt-`], [抓住、夺走、迅速带走；引申到被强烈情绪攫住], [`rapture` /ˈræptʃər/ 狂喜；`rapacious` /rəˈpæʃɪs/ 贪婪攫取的；`rapid` /ˈræpəd/ 快速的], [`rapture` 的情绪义经宗教和文学发展，不只是"物理抓走"],
-    [`sequi` / `sequ-` / `secut-`], [跟随、接续；引申到顺序、结果和贯彻执行], [`sequence` /ˈsikwəns/ 依次跟随；`consequence` /ˈkɑnsəkwəns/ 随后而来的结果；`execute` /ˈɛksəˌkjut/ 执行；`pursue` /pərˈsu/ 追求], ["后一个跟着前一个"能串联顺序与结果；执行义来自"跟进到底"],
-    [`vertere` / `vert-` / `vers-`], [转动、改变方向；引申到转化、反向和不同朝向], [`convert` /kənˈvɜrt/ 转换；`reverse` 反转；`diverse` /daɪˈvɜrs/ 多样的；`universe` /ˈjunəˌvɜrs/ 宇宙], [`vert/vers` 共享"转"义，但 `universe` 应按历史整词理解，不能译成"全部旋转"],
-    [`pendere` / `pend-` / `pens-`], [悬挂、称量；引申到依赖、权衡、支付], [`suspend` /səˈspɛnd/ 悬挂；`depend` 依赖；`ponder` /ˈpɑndər/ 权衡思考；`expense` /ɪkˈspɛns/ 费用], [从"挂着"理解依赖，从"称重"理解权衡和支付],
-    [`scrutari` / `scrut-`], [翻检、搜寻；引申到仔细检查和审视], [`scrutiny` /ˈskrutəni/ 仔细审查；`scrutinize` /ˈskrutəˌnaɪz/ 细看、详查], [与拉丁#emph[scruta]"杂物、废物"有关；重点是彻底翻查，不是普通地看一眼],
+    [`frag- / fract-`\(#emph[frangere])], [打破、折断；引申到碎片、裂缝、脆弱和违反规则], [`fraction` /ˈfrækʃən/：整体破开后分出一份；`fracture` /ˈfræktʃər/：骨头或材料断裂；`fragile` /ˈfrædʒəl/：稍碰就可能破；`infringe` /ˌɪnˈfrɪndʒ/：越过并破坏权利或规则的边界], [共同画面是"完整体被破开"，但 `infringe` 的现代义经历过法律语境的发展，不能只译成"打破"],
+    [`fus-`\(#emph[fundere])], [倾倒、灌注、熔铸；引申到混合、扩散和输送液体], [`infuse` /ɪnˈfjuz/：往里注入；`diffuse` /dɪˈfjuz/：向四周散开；`transfuse` /trænsˈfjuz/：把液体输送过去；`confuse` /kənˈfjuz/：各种东西倒在一起，边界乱成一锅], ["倒向不同方向"能串起前三个词；`confuse` 的混乱义是历史引申，英语名词 `fund` /fʌnd/"基金"也不属于这一家],
+    [`grad- / gress-`\(#emph[gradi])], [迈步、行走；引申到前进、后退、阶段和等级], [`progress`：一步步向前；`regress` /rɪˈɡrɛs/：掉头往回走；`congress` /ˈkɑŋɡrəs/：人们走到一起举行代表会议；`grade` /ɡreɪd/：把进程分成一阶阶等级], [`congress` 历史上有相遇、会合之意，现代不能拿它代替普通的 meeting;`grad-` 和 `gress-` 也不是自由替换规则],
+    [`ten- / tent- / tain-`\(#emph[tenere])], [握住、保持、占有；引申到容纳、维持和承担], [`contain`：把东西留在容器里面；`retain` /rɪˈteɪn/：抓住不让它离开；`sustain` /səˈsteɪn/：从下面托住，让状态继续；`tenant` /ˈtɛnənt/：依法持有并使用房屋的人], ["持有"不限于用手握，也可指空间容纳、法律占有或状态维持],
+    [`vend-`\(#emph[vendere])], [出售、拿去卖；与商品交易和卖方有关], [`vendor` /ˈvɛndər/：把货拿来卖的人；`vend`：执行出售这个动作；`vending machine` /ˈvɛndɪŋ/：机器替卖家站柜台], [拉丁#emph[vendere] 通常分析为与#emph[venum dare]"拿去出售"有关；不是 `ven-`"来"的普通派生],
+    [`voc- / voke-`\(#emph[vocare])], [呼叫、发声、命名；引申到召唤、撤销和激起], [`invoke` /ˌɪnˈvoʊk/：呼请某种权威或规则入场；`revoke` /rɪˈvoʊk/：把先前发出的许可叫回来；`provoke` /prəˈvoʊk/：把反应招惹出来；`vocal` /ˈvoʊkəl/：与声音有关], ["呼叫"能提供共同底色，但撤销和激起都经过完整拉丁复合词的语义发展，不是前缀加一声喊就自动生成],
+    [`pact-`\(#emph[pangere])], [固定、钉牢；由"固定下来"引申到约定和契约], [`pact`：把双方承诺钉死成协定；`compact` /ˈkɑmpækt/：压到一起可表示紧密，固定下来的约定又可表示契约；`impact` /ˌɪmˈpækt/：一物撞上另一物，把力量砸进去], ["钉牢、压紧、撞上"来自相关历史形式，不是一个现代义在三件衣服之间随便换],
+    [`rap- / rapt-`\(#emph[rapere])], [抓住、夺走、迅速带走；引申到被强烈情绪攫住], [`rapture` /ˈræptʃər/：精神像被强烈体验整个抓走；`rapacious` /rəˈpæʃɪs/：见到利益就伸手攫取；`rapid` /ˈræpəd/：快得像一下被卷走], [`rapture` 的情绪义经宗教和文学发展；画面负责记忆，不等于三个词都在表演同一次物理抢夺],
+    [`sequ- / secut-`\(#emph[sequi])], [跟随、接续；引申到顺序、结果和贯彻执行], [`sequence` /ˈsikwəns/：后一项跟着前一项排队；`consequence` /ˈkɑnsəkwəns/：结果跟在原因后面；`execute` /ˈɛksəˌkjut/：把指令一路跟进到底；`pursue` /pərˈsu/：紧跟目标不放], ["跟随"能串联顺序与结果；执行和追求义还包含"持续跟进"这一步],
+    [`vert- / vers-`\(#emph[vertere])], [转动、改变方向；引申到转化、反向和不同朝向], [`convert` /kənˈvɜrt/：转成另一种状态；`reverse`：转回相反方向；`diverse` /daɪˈvɜrs/：各自转向不同方向；`universe` /ˈjunəˌvɜrs/：经拉丁"合为一个整体"的词义发展为宇宙], [前三个词可借"转向"搭桥；`universe` 必须按历史整词理解，不能翻译成"大家一起转圈"],
+    [`pend-`\(#emph[pendēre])], [悬挂、处于悬挂状态；引申到依赖和悬而未决], [`suspend` /səˈspɛnd/：让东西悬在上方；`depend`：一件事挂在另一件事上，结果要看后者；`pending`：事情还吊在那里，尚未落地], [三个词共享"挂着"的画面，一个是真悬挂，一个是依附，一个是等待结果],
+    [`pens-`\(#emph[pendere])], [称量、称出；引申到权衡和支付], [`expense` /ɪkˈspɛns/：称出并付出去的钱；`expend`：把资源支付、耗用出去；`compensate`：称量双方得失后补足差额], [它与上面的"悬挂"动词历史相关，但在拉丁语中是长短音和用法不同的两支；称量金属可帮助理解支付义],
+    [`scrut-`\(#emph[scrutari])], [翻检、搜寻；引申到仔细检查和审视], [`scrutiny` /ˈskrutəni/：把一堆材料翻到底的严密审查；`scrutinize` /ˈskrutəˌnaɪz/：像在杂物堆里找针一样逐项细看], [与拉丁#emph[scruta]"杂物、废物"有关；重点是彻底翻查，不是礼貌地扫一眼],
   )
 
 ==== 几个特别值得记的故事
@@ -3788,13 +3791,13 @@ ferre 是一根朴素的扁担：它的全部动作就是"搬"。但"搬"能搬�
 #diagram-panel(title: "图示 26 · 关系图", breakable: false)[
   #align(center)[
     #f-diagram(spacing: (7mm, 4mm),
-      fnode((0, 2), "一个拉丁动词\n（如 ducere 引导）", kind: "root", w: 25.7mm),
-      fnode((1, 2), "+ 前缀（方向）\n+ 后缀（词性）", kind: "node", w: 21.0mm),
-      fnode((2, 2), "多个英语词（5-15 个）", kind: "node", w: 29.7mm),
-      fnode((3, 0), "produce\n（向前引导 → 生产）", kind: "node", w: 26.6mm),
-      fnode((3, 1), "reduce\n（引回 → 减少）", kind: "node", w: 26.6mm),
-      fnode((3, 2), "introduce\n（引入 → 介绍）", kind: "node", w: 26.6mm),
-      fnode((3, 3), "...", kind: "node", w: 26.6mm),
+      fnode((0, 2), "一个拉丁动词\n（如 ducere 引导）", kind: "root", w: 28.7mm),
+      fnode((1, 2), "+ 前缀（方向）\n+ 后缀（词性）", kind: "node", w: 23.5mm),
+      fnode((2, 2), "多个英语后裔", kind: "node", w: 21.2mm),
+      fnode((3, 0), "produce\n（向前引导 → 生产）", kind: "node", w: 29.7mm),
+      fnode((3, 1), "reduce\n（引回 → 减少）", kind: "node", w: 29.7mm),
+      fnode((3, 2), "introduce\n（引入 → 介绍）", kind: "node", w: 29.7mm),
+      fnode((3, 3), "...", kind: "node", w: 29.7mm),
       fedge((0, 2), (1, 2), kind: "solid"),
       fedge((1, 2), (2, 2), kind: "solid"),
       fedge((2, 2), (3, 0), kind: "solid"),
@@ -3815,8 +3818,8 @@ ferre 是一根朴素的扁担：它的全部动作就是"搬"。但"搬"能搬�
 + `prescribe` /prəˈskraɪb/ 和 `proscribe` /proʊˈskraɪb/ 都来自"写"词族、只差一个前缀，为什么一个表示规定/开处方，另一个表示禁止/取缔？这提醒你，拆出同一个词根就够了吗？
 + `compromise` /ˈkɑmprəˌmaɪz/ 早期与"双方共同承诺接受仲裁"有关，它怎样发展出今天"相互让步、达成妥协"的含义？这条语义演变是"合理推测"还是"有据可查"?
 + `influence` /ˈɪnfluəns/ 的历史构形与"流入"有关。占星术中"星辰流入之力"怎样一步步发展成现代的"影响"?
-+ `compose` /kəmˈpoʊz/（组成）和 `oppose` /əˈpoʊz/（反对）都含 `pos-`（放），但前缀把它们拉向相反的方向。请分别说出 com- 和 op- 各让"放"变成了什么意思。再想：`positive` /ˈpɑzətɪv/（积极的、正的）里的 `posit-` 也是"放"，它怎样从"放"走到了"积极、正"?
-+ `differ` /ˈdɪfɜr/（不同）和 `prefer` /prɪˈfɜr/（更喜欢）都含 `fer-`（搬）。前缀 dif- 和 pre- 各让"搬"变成了什么？再判断：`infer` /ɪnˈfɜr/（推断）和 `imply` /ɪmˈplaɪ/（暗示）常被配成一对，它们各自的词根分别来自哪里？这对"一进一出"的关系，靠的是同一词根吗？
++ `compose` /kəmˈpoʊz/（组成）和 `oppose` /əˈpoʊz/（反对）都与"放置"家族有关，为什么"放到一起"和"置于对面"只适合作记忆画面，不能替代两词各自经过拉丁语、法语形成的历史？再想：`positive` /ˈpɑzətɪv/ 的"肯定、积极、正值"是一次拆词就同时生成的吗？
++ `differ` /ˈdɪfɜr/（不同）、`prefer` /prɪˈfɜr/（更喜欢）和 `infer` /ɪnˈfɜr/（推断）都来自 `ferre` 家族。请分别用"分开"、"置于前列"和"引入结论"说明它们的历史线索。再判断：`infer` 和 `imply` 常被配成一对，靠的是同一词根，还是现代语义上的分工？
 
 #horizontalrule
 
@@ -3878,8 +3881,8 @@ ferre 是一根朴素的扁担：它的全部动作就是"搬"。但"搬"能搬�
     align: (left + horizon, left + horizon, left + horizon,),
     table.header(th([对比维度]), th([拉丁词根（第 2 卷）]), th([希腊词根（本卷）]),),
     table.hline(),
-    [① 常见形式], [本书所选例子多为动词词族；specere（看）、ducere（引导）、jacere（投）], [科技术语中常以组合形式(combining form)出现；`bio-`、`geo-`、`philo-`、`-logy`、`-graphy`],
-    [② 派生方式], [靠"前缀 + 词根 + 后缀"派生；in + spect + ion = inspection], [靠"两个词根拼接成复合词"；bio + logy = biology],
+    [① 常见形式], [本书所选例子多为动词词族：specere（看）、ducere（引导）、jacere（投）], [科技术语中常以组合形式(combining form)出现：`bio-`、`geo-`、`philo-`、`-logy`、`-graphy`],
+    [② 派生方式], [靠"前缀 + 词根 + 后缀"派生，如 in + spect + ion = inspection], [靠"两个词根拼接成复合词"，如 bio + logy = biology],
     [③ 使用方式], [一个词根派生一串词，各词独立使用], [可以参与较多现代术语构造，但组合受惯例限制],
   )
 
@@ -4242,7 +4245,7 @@ ferre 是一根朴素的扁担：它的全部动作就是"搬"。但"搬"能搬�
 
 - `philosopher` /fəˈlɑsəfər/（哲学家：爱智慧的人）
 - `philosophical` /ˌfɪləˈsɑfɪkəl/（哲学的、达观的）
-- `philosophize`（进行哲学思考）
+- `philosophize` /fəˈlɑsəˌfaɪz/（进行哲学思考）
 
 #horizontalrule
 
@@ -10099,9 +10102,13 @@ September 的旧账算完了，接下来轮到那些老老实实数数的前缀-
 
 #strong[\3. influence 与"流入"] 中世纪占星术把天体作用设想成"流入"人间的力量；这个"流入并产生作用"的概念后来一般化为现代"影响"。从"星辰之力流入人身"到"一个人/因素影响另一个"，走的是"具体的物理流入 → 抽象的作用施加"这条常见的语义抽象化路线。
 
-#strong[\4. compose / oppose / positive 里的"放"] `compose` = com-（一起）+ pos（放）= 放到一起 → 组成、构成；`oppose` = op-（=ob，对面）+ pon（放）= 放到对面 → 反对、对抗。同一个"放"，前缀拽向相反方向：一个聚拢，一个对立。`positive` 的 posit- 也是"放"，原义是"已被确定放下的、已成定论的"，由此走向"确定的、肯定的"，再发展到"积极的、正的"------一件事被放实了，就是肯定。
+#strong[\4. compose / oppose / positive 里的"放"] `compose` 和 `oppose` 都与"放置"家族有关，"放到一起"与"置于对面"是有效的记忆画面，却不是两道现代英语现场拼装题。`compose` 经古法语#emph[composer] 进入英语，并受拉丁#emph[componere/compositus] 一族影响；`oppose` 经古法语#emph[oposer] 而来，也受到拉丁#emph[opponere] 影响。拆词帮我们看见亲缘，法语和拉丁语的实际传播路线才是户籍档案。
 
-#strong[\5. differ / prefer / infer vs imply] `differ` = dif-（=dis，分开）+ fer（搬）= 搬到不同方向 → 不同；`prefer` = pre-（前）+ fer（搬）= 先搬走 → 优先选择。`infer`（推断）来自 fer（搬），把信息"搬进"脑子形成结论；`imply`（暗示）来自 plicare（折叠），把意思"折进去"。所以 infer 和 imply 虽然配成"一进一出"的逻辑对子，但#strong[词根不同]（fer 搬 vs plic 折），靠的是语义互补而非同源。
+`positive` 来自拉丁#emph[positivus]，背后是#emph[positus]"被放下、被确定"。"明确规定下来的"有助于理解确定、肯定；积极评价和数学、科学中的正值等义，则在不同语境里继续发展。它们不是把 `posit-` 与 `-ive` 一合上，就从词缀机器里同时掉出来的三枚硬币。
+
+#strong[\5. differ / prefer / infer vs imply] `differ` 可借"分开带走"理解差异；`prefer` 来自拉丁#emph[praeferre]"带到前面、置于优先位置"，不是看中哪个就抢先搬回家；`infer` 来自拉丁#emph[inferre]"带入、引入"，后来经提出、引出结论等用法发展为推断。三者共享 `ferre` 的"带、搬"底色，但现代词义都经过了各自的历史路线。
+
+`imply` 来自拉丁#emph[implicare]"卷入、折入"一族。现代交流中，说话者#strong[imply] （含蓄表达），听者#strong[infer] （根据线索推断）；两词像递暗号和接暗号的搭档，靠的是语义分工，不是同一个词根。
 
 #horizontalrule
 
@@ -10394,8 +10401,8 @@ September 的旧账算完了，接下来轮到那些老老实实数数的前缀-
     align: (left + horizon, left + horizon, left + horizon, left + horizon, left + horizon,),
     table.header(th([词根或组合形式]), th([核心含义与理解]), th([代表词（语义提示）]), th([来源]), th([章]),),
     table.hline(),
-    [`fer-` / `lat-`], [携带、搬运、承受；引申到转移、参考、差异], [`transfer` 转移、`refer` 参考、`differ` 不同、`offer` 提供], [拉丁], [13],
-    [`flu-` / `flux-`], [流动、流淌；引申到连续变化、流入或流出], [`fluent` 流利的、`influence` 影响、`influx` 涌入], [拉丁], [13],
+    [`fer-` / `lat-`], [携带、搬运、承受；`lat-` 来自不规则过去分词#emph[latus]], [`transfer` 转移、`refer` 参考、`differ` 不同、`translate` 翻译], [拉丁], [13],
+    [`flu-` / `flux-`], [流动、流淌；引申到连续变化、流入、丰盛或流出], [`fluent` 流利的、`influence` 影响、`influx` 涌入、`affluent` 富裕的], [拉丁], [13],
     [`frang-` / `fract-`], [打破、折断；引申到碎片、裂缝和违反], [`fragment` 碎片、`fracture` 断裂、`infraction` 违规], [拉丁], [13],
     [`fund-` / `fus-`], [倾倒、灌注、熔融；引申到混合、扩散和输注], [`infuse` 注入、`diffuse` 扩散、`transfusion` 输血], [拉丁], [13],
   )
@@ -10504,7 +10511,7 @@ September 的旧账算完了，接下来轮到那些老老实实数数的前缀-
     [`pon-` / `pos-` / `posit-`], [放置、摆放；引申到组成、反对、暴露、存款], [`compose` 组成、`oppose` 反对、`deposit` 存款、`position` 位置], [拉丁], [13],
     [`path-` / `pathos`], [经历、感受、痛苦；医学中常指疾病或病理状态], [`sympathy` 同情、`apathy` 冷漠、`pathology` 病理学], [希腊], [19],
     [`pell-` / `puls-`], [推、驱赶、撞击；引申到促使或排斥], [`compel` 强迫、`expel` 驱逐、`impulse` 冲动], [拉丁], [13],
-    [`pend-` / `pens-`], [悬挂、称量；由权衡引申到考虑、支付和依赖], [`suspend` 悬挂、`depend` 依赖、`expense` 费用], [拉丁], [13],
+    [`pend-` / `pens-`], [来自两个历史相关的拉丁动词分支：悬挂与称量；引申到依赖、待定和支付], [`suspend` 悬挂、`depend` 依赖、`pending` 待定的、`expense` 费用], [拉丁], [13],
     [`phil-` / `philo-` / `-phile`], [爱、喜爱、倾向于；表示爱某事的人或态度], [`philosophy` 哲学、`philanthropy` 慈善、`bibliophile` 爱书者], [希腊], [15],
     [`phon-` / `phone`], [声音、嗓音；也用于传声和语音术语], [`telephone` 电话、`phonetics` 语音学、`symphony` 交响曲], [希腊], [14、19],
     [`photo-` / `phōs`], [光、由光产生的作用或图像], [`photograph` 照片、`photosynthesis` 光合作用、`photon` 光子], [希腊], [19],
@@ -10548,7 +10555,7 @@ September 的旧账算完了，接下来轮到那些老老实实数数的前缀-
     table.header(th([词根或组合形式]), th([核心含义与理解]), th([代表词（语义提示）]), th([来源]), th([章]),),
     table.hline(),
     [`tele-`], [远、在远处；表示跨越距离传递、观察或操作], [`telephone` 电话、`telescope` 望远镜、`telemedicine` 远程医疗], [希腊], [14、19],
-    [`ten-` / `tent-` / `tin-`], [持有、握住、保持；引申到容纳、维持和占有], [`contain` 容纳、`retain` 保留、`tenant` 租户], [拉丁], [13],
+    [`ten-` / `tent-` / `tain-`], [持有、握住、保持；引申到容纳、维持和占有], [`contain` 容纳、`retain` 保留、`tenant` 租户], [拉丁], [13],
     [`therm-` / `thermo-`], [热、温度；表示热能或温度变化], [`thermometer` 温度计、`thermostat` 恒温器、`thermodynamics` 热力学], [希腊], [19],
     [`trah-` / `tract-`], [拉、拖、牵引；引申到吸引、抽取和收回], [`attract` 吸引、`extract` 提取、`retract` 撤回、`tractor` 拖拉机], [拉丁], [8],
     [`treat-`], [处理、对待、商谈；经法语进入英语，远源与#emph[trahere] 同族], [`treat` 对待/治疗、`treaty` 条约、`treatise` 论著], [拉丁→法语], [8],
@@ -10565,7 +10572,7 @@ September 的旧账算完了，接下来轮到那些老老实实数数的前缀-
     [`vend-`], [出售、拿去卖], [`vendor` 卖方、`vending machine` 自动售货机], [拉丁], [13],
     [`vert-` / `vers-`], [转动、改变方向；引申到转化、反向和不同朝向], [`convert` 转换、`reverse` 反转、`diverse` 多样的], [拉丁], [13],
     [`vid-` / `vis-`], [看、看见；引申到视觉、可见性和访问], [`video` 视频、`evident` 明显的、`visit` 参观], [拉丁], [附录 E],
-    [`voc-` / `vok-`], [呼叫、发声、命名；引申到召唤和声音], [`vocal` 声音的、`invoke` 援引/祈求、`provoke` 激起], [拉丁], [13],
+    [`voc-` / `voke-`], [呼叫、发声、命名；引申到召唤和声音], [`vocal` 声音的、`invoke` 援引/祈求、`provoke` 激起], [拉丁], [13],
   )
 
 #horizontalrule

@@ -138,7 +138,7 @@
 
 - `philosopher` /fəˈlɑsəfər/(哲学家:爱智慧的人)
 - `philosophical` /ˌfɪləˈsɑfɪkəl/(哲学的、达观的)
-- `philosophize`(进行哲学思考)
+- `philosophize` /fəˈlɑsəˌfaɪz/(进行哲学思考)
 
 ---
 

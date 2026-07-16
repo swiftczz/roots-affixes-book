@@ -22,9 +22,9 @@ trahere 家族生成了 `attract` /əˈtrækt/(吸引)、`distract` /dɪˈstræk
 
 | 延伸方向 | 抽象义 | 例词 | 画面 |
 | ------ | ------ | ------ | ------ |
-| ① 拉(物理) | pull, drag | tractor(拖拉机):拖动农具的机器<br/>extract(提取):ex-(出)+ tract → 拉出来 | 物理拖动 |
-| ② 吸引(抽象) | draw toward | attract(吸引):at-(向)+ tract → 拉向自己<br/>→ 物理的"拉"变成抽象的"吸引" | 拉向自己 |
-| ③ 操持、处理 | treat | 拉丁 tractare 已有"处理、操持"义,经法语进入英语<br/>treatment(治疗):被处理的过程 | 处理、操持 |
+| ① 拉(物理) | pull, drag | tractor(拖拉机):拖动农具的机器;extract(提取):ex-(出)+ tract → 拉出来 | 物理拖动 |
+| ② 吸引(抽象) | draw toward | attract(吸引):at-(向)+ tract → 拉向自己,物理的"拉"由此变成抽象的"吸引" | 拉向自己 |
+| ③ 操持、处理 | treat | 拉丁 tractare 已有"处理、操持"义,经法语进入英语;treatment(治疗):被处理的过程 | 处理、操持 |
 
 ---
 

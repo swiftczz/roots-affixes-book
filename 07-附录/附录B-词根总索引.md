@@ -64,8 +64,8 @@
 
 | 词根或组合形式 | 核心含义与理解 | 代表词(语义提示) | 来源 | 章节 |
 | --------------- | -------------- | ---------------- | ---- | ---- |
-| `fer-` / `lat-` | 携带、搬运、承受;引申到转移、参考、差异 | `transfer` 转移、`refer` 参考、`differ` 不同、`offer` 提供 | 拉丁 | 13 |
-| `flu-` / `flux-` | 流动、流淌;引申到连续变化、流入或流出 | `fluent` 流利的、`influence` 影响、`influx` 涌入 | 拉丁 | 13 |
+| `fer-` / `lat-` | 携带、搬运、承受;`lat-` 来自不规则过去分词 *latus* | `transfer` 转移、`refer` 参考、`differ` 不同、`translate` 翻译 | 拉丁 | 13 |
+| `flu-` / `flux-` | 流动、流淌;引申到连续变化、流入、丰盛或流出 | `fluent` 流利的、`influence` 影响、`influx` 涌入、`affluent` 富裕的 | 拉丁 | 13 |
 | `frang-` / `fract-` | 打破、折断;引申到碎片、裂缝和违反 | `fragment` 碎片、`fracture` 断裂、`infraction` 违规 | 拉丁 | 13 |
 | `fund-` / `fus-` | 倾倒、灌注、熔融;引申到混合、扩散和输注 | `infuse` 注入、`diffuse` 扩散、`transfusion` 输血 | 拉丁 | 13 |
 
@@ -142,7 +142,7 @@
 | `pon-` / `pos-` / `posit-` | 放置、摆放;引申到组成、反对、暴露、存款 | `compose` 组成、`oppose` 反对、`deposit` 存款、`position` 位置 | 拉丁 | 13 |
 | `path-` / `pathos` | 经历、感受、痛苦;医学中常指疾病或病理状态 | `sympathy` 同情、`apathy` 冷漠、`pathology` 病理学 | 希腊 | 19 |
 | `pell-` / `puls-` | 推、驱赶、撞击;引申到促使或排斥 | `compel` 强迫、`expel` 驱逐、`impulse` 冲动 | 拉丁 | 13 |
-| `pend-` / `pens-` | 悬挂、称量;由权衡引申到考虑、支付和依赖 | `suspend` 悬挂、`depend` 依赖、`expense` 费用 | 拉丁 | 13 |
+| `pend-` / `pens-` | 来自两个历史相关的拉丁动词分支:悬挂与称量;引申到依赖、待定和支付 | `suspend` 悬挂、`depend` 依赖、`pending` 待定的、`expense` 费用 | 拉丁 | 13 |
 | `phil-` / `philo-` / `-phile` | 爱、喜爱、倾向于;表示爱某事的人或态度 | `philosophy` 哲学、`philanthropy` 慈善、`bibliophile` 爱书者 | 希腊 | 15 |
 | `phon-` / `phone` | 声音、嗓音;也用于传声和语音术语 | `telephone` 电话、`phonetics` 语音学、`symphony` 交响曲 | 希腊 | 14、19 |
 | `photo-` / `phōs` | 光、由光产生的作用或图像 | `photograph` 照片、`photosynthesis` 光合作用、`photon` 光子 | 希腊 | 19 |
@@ -174,7 +174,7 @@
 | 词根或组合形式 | 核心含义与理解 | 代表词(语义提示) | 来源 | 章节 |
 | --------------- | -------------- | ---------------- | ---- | ---- |
 | `tele-` | 远、在远处;表示跨越距离传递、观察或操作 | `telephone` 电话、`telescope` 望远镜、`telemedicine` 远程医疗 | 希腊 | 14、19 |
-| `ten-` / `tent-` / `tin-` | 持有、握住、保持;引申到容纳、维持和占有 | `contain` 容纳、`retain` 保留、`tenant` 租户 | 拉丁 | 13 |
+| `ten-` / `tent-` / `tain-` | 持有、握住、保持;引申到容纳、维持和占有 | `contain` 容纳、`retain` 保留、`tenant` 租户 | 拉丁 | 13 |
 | `therm-` / `thermo-` | 热、温度;表示热能或温度变化 | `thermometer` 温度计、`thermostat` 恒温器、`thermodynamics` 热力学 | 希腊 | 19 |
 | `trah-` / `tract-` | 拉、拖、牵引;引申到吸引、抽取和收回 | `attract` 吸引、`extract` 提取、`retract` 撤回、`tractor` 拖拉机 | 拉丁 | 8 |
 | `treat-` | 处理、对待、商谈;经法语进入英语,远源与 *trahere* 同族 | `treat` 对待/治疗、`treaty` 条约、`treatise` 论著 | 拉丁→法语 | 8 |
@@ -187,7 +187,7 @@
 | `vend-` | 出售、拿去卖 | `vendor` 卖方、`vending machine` 自动售货机 | 拉丁 | 13 |
 | `vert-` / `vers-` | 转动、改变方向;引申到转化、反向和不同朝向 | `convert` 转换、`reverse` 反转、`diverse` 多样的 | 拉丁 | 13 |
 | `vid-` / `vis-` | 看、看见;引申到视觉、可见性和访问 | `video` 视频、`evident` 明显的、`visit` 参观 | 拉丁 | 附录 E |
-| `voc-` / `vok-` | 呼叫、发声、命名;引申到召唤和声音 | `vocal` 声音的、`invoke` 援引/祈求、`provoke` 激起 | 拉丁 | 13 |
+| `voc-` / `voke-` | 呼叫、发声、命名;引申到召唤和声音 | `vocal` 声音的、`invoke` 援引/祈求、`provoke` 激起 | 拉丁 | 13 |
 
 ---
 
