@@ -12,7 +12,6 @@ import sys
 from collections import defaultdict, namedtuple
 from pathlib import Path
 
-
 SCRIPT = Path(__file__).resolve()
 TYPST_DIR = SCRIPT.parents[1]
 BOOK_DIR = SCRIPT.parents[2]
@@ -28,7 +27,11 @@ VOLUMES = {
     "04-日耳曼之骨": ("第四卷", "日耳曼之骨", "英语日常核心词的底层结构"),
     "05-法语之饰": ("第五卷", "法语之饰", "诺曼征服后的语体分层与双词汇系统"),
     "06-词缀的故事": ("第六卷", "词缀的故事", "前缀、后缀与英语造词机制"),
-    "07-附录": ("附录", "索引与辨正", "思考题答案、词根与词缀索引、民间词源辨正、变形规律速查"),
+    "07-附录": (
+        "附录",
+        "索引与辨正",
+        "思考题答案、词根与词缀索引、民间词源辨正、变形规律速查",
+    ),
 }
 
 NAV_LINE = re.compile(r"^\*?下一(?:章|卷|篇)\s*→\s*\[[^\]]+\]\([^)]+\.md\)\*?\s*$")
@@ -49,6 +52,35 @@ NODE_REF = re.compile(
     re.X,
 )
 ARROW = re.compile(r"(<-\.->|<--->|<-->|-->|-\.->|---|~~~)(?:\|([^|]*)\|)?")
+IPA_CANDIDATE = re.compile(
+    r"(?<![/\w])"
+    r"/([^/\n]+?)/"
+    r"(?![/\w])"
+)
+
+IPA_ALLOWED = re.compile(
+    r"^["
+    r"A-Za-z"
+    r"æɑɐɒɓʙβɔɕçɗɖðʤəɘɚɛɜɝɞɟʄ"
+    r"ɡɢʛɣɤɥɦħʜɧɨɪʝɭɬɫɮʟɱɯ"
+    r"ɰŋɳɲɴøɵɸθœɶʘɹɺɾɻʀʁɽɿ"
+    r"ʂʃʈʧʉʊʋⱱʌɣɯχʎʏʑʐʒʔʕ"
+    r"ʡʢǀǁǂǃ"
+    r"ˈˌːˑ̯̩̥̬̤̰̪̺̻̆̃̚"
+    r"ʰʲʷˠˤⁿˡᵊᵻ"
+    r".‿͡"
+    r"]+$"
+)
+
+IPA_DISTINCTIVE = re.compile(
+    r"["
+    r"æɑɐɒɓʙβɔɕçɗɖðʤəɘɚɛɜɝɞɟʄ"
+    r"ɡɢʛɣɤɥɦħʜɧɨɪʝɭɬɫɮʟɱɯ"
+    r"ɰŋɳɲɴøɵɸθœɶʘɹɺɾɻʀʁɽɿ"
+    r"ʂʃʈʧʉʊʋⱱʌχʎʏʑʐʒʔʕʡʢ"
+    r"ǀǁǂǃˈˌːˑ"
+    r"]"
+)
 
 
 Node = namedtuple("Node", "id label")
@@ -76,9 +108,39 @@ SQUOTE_PAIR = re.compile(r"'([^']*)'")
 INLINE_CODE = re.compile(r"`[^`\n]*`")
 CODE_SENTINEL = "\x00"
 CJK_SPACE = re.compile(f"({CJKISH.pattern}) +({CJKISH.pattern})")
-TYPST_CJK_MARKUP_SPACE = re.compile(f"({CJKISH.pattern})\\] +({CJKISH.pattern})")
+# TYPST_CJK_MARKUP_SPACE = re.compile(f"({CJKISH.pattern})\\] +({CJKISH.pattern})")
+TYPST_CJK_MARKUP_SPACE = re.compile(
+    f"({CJKISH.pattern}|[)])\\] +({CJKISH.pattern}|[\"'])"
+)
 TYPST_CJK_BEFORE_MARKUP_SPACE = re.compile(f"({CJKISH.pattern}) +#(strong|emph)\\[")
-MARKDOWN_QUOTE_STARTS = "\"“‘"
+MARKDOWN_QUOTE_STARTS = '"“‘'
+
+
+def box_ipa(value: str) -> str:
+    def repl(match: re.Match[str]) -> str:
+        content = match.group(1)
+
+        if any(char.isspace() for char in content):
+            return match.group(0)
+
+        if "-" in content:
+            return match.group(0)
+
+        if IPA_ALLOWED.fullmatch(content) is None:
+            return match.group(0)
+
+        if IPA_DISTINCTIVE.search(content) is None:
+            return match.group(0)
+
+        boxed = f"#box[/{content}/]"
+
+        # 避免生成 #box[/.../](...)，Typst 会将括号解析为函数参数。
+        if match.end() < len(value) and value[match.end()] == "(":
+            boxed += " "
+
+        return boxed
+
+    return IPA_CANDIDATE.sub(repl, value)
 
 
 def is_cjkish(char: str) -> bool:
@@ -124,7 +186,9 @@ def fullwidth_marks(value: str) -> str:
             continue
         # Colons also look back through digits so "词 1:xxx" converts; commas
         # must not, or "1,000" would break.
-        left_transparent = EMPHASIS_MARKS + "0123456789 " if char == ":" else EMPHASIS_MARKS
+        left_transparent = (
+            EMPHASIS_MARKS + "0123456789 " if char == ":" else EMPHASIS_MARKS
+        )
         left = index - 1
         while left >= 0 and chars[left] in left_transparent:
             left -= 1
@@ -158,7 +222,12 @@ def protect_markdown_strong_boundaries(value: str) -> str:
                 break
             segment = value[pos:index]
             nxt = value[index + len(marker)] if index + len(marker) < len(value) else ""
-            if opening and segment and is_cjkish(segment[-1]) and nxt in MARKDOWN_QUOTE_STARTS:
+            if (
+                opening
+                and segment
+                and is_cjkish(segment[-1])
+                and nxt in MARKDOWN_QUOTE_STARTS
+            ):
                 result.append(segment)
                 result.append(" ")
                 result.append(marker)
@@ -283,7 +352,11 @@ def parse_node(token: str, nodes: dict[str, Node]) -> str | None:
         nodes.setdefault(node_id, Node(node_id, node_id))
         return node_id
     node_id = match.group("id")
-    raw_label = match.group("bracket") if match.group("bracket") is not None else match.group("brace")
+    raw_label = (
+        match.group("bracket")
+        if match.group("bracket") is not None
+        else match.group("brace")
+    )
     label = clean_label(raw_label) or node_id
     if node_id not in nodes or nodes[node_id].label == node_id:
         nodes[node_id] = Node(node_id, label)
@@ -453,11 +526,15 @@ def compute_ranks(nodes: dict[str, Node], edges: list[Edge]) -> dict[str, int]:
     return rank
 
 
-def assign_rows(nodes: dict[str, Node], edges: list[Edge], rank: dict[str, int]) -> dict[str, int]:
+def assign_rows(
+    nodes: dict[str, Node], edges: list[Edge], rank: dict[str, int]
+) -> dict[str, int]:
     children: dict[str, list[str]] = defaultdict(list)
     incoming: set[str] = set()
     for edge in edges:
-        if edge.token in LAYER_TOKENS and rank.get(edge.target, 0) > rank.get(edge.source, 0):
+        if edge.token in LAYER_TOKENS and rank.get(edge.target, 0) > rank.get(
+            edge.source, 0
+        ):
             if edge.target not in children[edge.source]:
                 children[edge.source].append(edge.target)
                 incoming.add(edge.target)
@@ -513,7 +590,9 @@ def column_widths(
 ) -> dict[int, float]:
     need: dict[int, float] = {}
     for node_id, node in nodes.items():
-        widest = max((label_line_width(line) for line in node.label.split("\n")), default=10.0)
+        widest = max(
+            (label_line_width(line) for line in node.label.split("\n")), default=10.0
+        )
         wanted = min(max(widest + NODE_PAD_W, MIN_COL_W), MAX_COL_W)
         column = rank[node_id]
         need[column] = max(need.get(column, 0.0), wanted)
@@ -570,7 +649,9 @@ def graph_node_kinds(nodes: dict[str, Node], edges: list[Edge]) -> dict[str, str
     return kinds
 
 
-def subgraph(nodes: dict[str, Node], edges: list[Edge], keep: set[str]) -> tuple[dict[str, Node], list[Edge]]:
+def subgraph(
+    nodes: dict[str, Node], edges: list[Edge], keep: set[str]
+) -> tuple[dict[str, Node], list[Edge]]:
     kept_nodes = {node_id: node for node_id, node in nodes.items() if node_id in keep}
     kept_edges = [edge for edge in edges if edge.source in keep and edge.target in keep]
     return kept_nodes, kept_edges
@@ -582,13 +663,19 @@ def reachable(start: str, edges: list[Edge]) -> set[str]:
     while frontier:
         current = frontier.pop()
         for edge in edges:
-            if edge.token in LAYER_TOKENS and edge.source == current and edge.target not in seen:
+            if (
+                edge.token in LAYER_TOKENS
+                and edge.source == current
+                and edge.target not in seen
+            ):
                 seen.add(edge.target)
                 frontier.append(edge.target)
     return seen
 
 
-def split_units(nodes: dict[str, Node], edges: list[Edge], rank: dict[str, int]) -> tuple[list[str], list[set[str]]]:
+def split_units(
+    nodes: dict[str, Node], edges: list[Edge], rank: dict[str, int]
+) -> tuple[list[str], list[set[str]]]:
     """Break an oversized graph into root-preserving units of top-level subtrees."""
     incoming = {edge.target for edge in edges if edge.token in LAYER_TOKENS}
     roots = [node_id for node_id in nodes if node_id not in incoming]
@@ -596,7 +683,11 @@ def split_units(nodes: dict[str, Node], edges: list[Edge], rank: dict[str, int])
         root = roots[0]
         kids = []
         for edge in edges:
-            if edge.token in LAYER_TOKENS and edge.source == root and edge.target not in kids:
+            if (
+                edge.token in LAYER_TOKENS
+                and edge.source == root
+                and edge.target not in kids
+            ):
                 kids.append(edge.target)
         return [root], [reachable(kid, edges) | {kid} for kid in kids]
     return [], [reachable(root, edges) for root in roots]
@@ -632,7 +723,11 @@ def layout_or_split(
         cand_rank = compute_ranks(cand_nodes, cand_edges)
         cand_row = assign_rows(cand_nodes, cand_edges, cand_rank)
         cand_widths = column_widths(cand_nodes, cand_rank)
-        if current and graph_height(cand_nodes, cand_rank, cand_row, cand_widths) > DIAGRAM_MAX_HEIGHT:
+        if (
+            current
+            and graph_height(cand_nodes, cand_rank, cand_row, cand_widths)
+            > DIAGRAM_MAX_HEIGHT
+        ):
             flush()
             current = set(unit)
         else:
@@ -742,13 +837,11 @@ def render_chain(title: str, nodes: dict[str, Node], edges: list[Edge]) -> str:
             if index < len(edges):
                 edge = edges[index]
                 label_arg = f", label: {q(edge.label)}" if edge.label else ""
-                cells.append(f"      #d-down(mark: \"↓\"{label_arg})")
+                cells.append(f'      #d-down(mark: "↓"{label_arg})')
         return (
             f"#diagram-panel(title: {q(title)}, breakable: false)[\n"
             "  #align(center)[\n"
-            "    #block(width: 82%)[\n"
-            + "\n".join(cells)
-            + "\n    ]\n"
+            "    #block(width: 82%)[\n" + "\n".join(cells) + "\n    ]\n"
             "  ]\n"
             "]"
         )
@@ -770,9 +863,7 @@ def render_chain(title: str, nodes: dict[str, Node], edges: list[Edge]) -> str:
         f"    columns: ({', '.join(columns)}),\n"
         "    stroke: none,\n"
         "    column-gutter: 5pt,\n"
-        "    align: horizon,\n"
-        + "\n".join(cells)
-        + "\n  )\n"
+        "    align: horizon,\n" + "\n".join(cells) + "\n  )\n"
         "]"
     )
 
@@ -846,9 +937,7 @@ def render_timeline(block: str, diagram_no: int) -> tuple[str, dict[str, object]
         "    columns: (30mm, 1fr),\n"
         "    stroke: none,\n"
         "    row-gutter: 6pt,\n"
-        "    column-gutter: 7pt,\n"
-        + "\n".join(rows)
-        + "\n  )\n"
+        "    column-gutter: 7pt,\n" + "\n".join(rows) + "\n  )\n"
         "]"
     )
     info = {
@@ -884,7 +973,10 @@ def transform_file(
         output.append(f"\n\n```{{=typst}}\n{typst}\n```\n\n")
         pos = match.end()
     output.append(clean_markdown_text(text[pos:]))
-    return "\n".join(part.strip("\n") for part in output if part is not None).strip() + "\n"
+    return (
+        "\n".join(part.strip("\n") for part in output if part is not None).strip()
+        + "\n"
+    )
 
 
 def manuscript_files() -> list[Path]:
@@ -898,7 +990,7 @@ def manuscript_files() -> list[Path]:
 
 def volume_call(dirname: str) -> str | None:
     if dirname == "00-前言":
-        return "```{=typst}\n#part-entry(\"前言\")\n```\n"
+        return '```{=typst}\n#part-entry("前言")\n```\n'
     if dirname not in VOLUMES:
         return None
     kicker, title, subtitle = VOLUMES[dirname]
@@ -936,7 +1028,9 @@ TABLE_COLUMNS = re.compile(
     r"columns: \((?P<cols>1fr(?:, 1fr){1,9})\),\n"
     r"(?P<rest>\s+align: \([^)]*,\),\n\s+table\.header\((?P<header>[^\n]+)\),)"
 )
-TABLE_AUTO_ALIGN = re.compile(r"(?m)^(?P<indent>\s*)align: \((?P<items>auto(?:,auto)*,?)\),$")
+TABLE_AUTO_ALIGN = re.compile(
+    r"(?m)^(?P<indent>\s*)align: \((?P<items>auto(?:,auto)*,?)\),$"
+)
 
 
 def tuned_table_columns(value: str) -> str:
@@ -1009,7 +1103,9 @@ HEADER_CELL = re.compile(r"\[((?:[^\[\]]|\[[^\]]*\])*)\]")
 
 def style_table_headers(value: str) -> str:
     def repl(match: re.Match[str]) -> str:
-        cells = HEADER_CELL.sub(lambda cell: f"th([{cell.group(1)}])", match.group("cells"))
+        cells = HEADER_CELL.sub(
+            lambda cell: f"th([{cell.group(1)}])", match.group("cells")
+        )
         return f"{match.group('indent')}table.header({cells},),"
 
     return TABLE_HEADER_LINE.sub(repl, value)
@@ -1030,6 +1126,7 @@ def postprocess_body(value: str) -> str:
     value = demote_headings(value)
     value = insert_chapter_breaks(value)
     value = remove_typst_cjk_markup_spaces(value)
+    value = box_ipa(value)
     imports = (
         '#import "template.typ": part-entry, volume-page, horizontalrule, diagram-panel, d-node, '
         "d-flow, d-down, d-target, relation-group, timeline-date, timeline-entry, timeline-section, "
@@ -1039,7 +1136,7 @@ def postprocess_body(value: str) -> str:
 
 
 def write_main() -> None:
-    main = f'''#import "template.typ": book
+    main = f"""#import "template.typ": book
 
 #show: book.with(
   title: {q(TITLE)},
@@ -1048,7 +1145,7 @@ def write_main() -> None:
 )
 
 #include "body.typ"
-'''
+"""
     (TYPST_DIR / "main.typ").write_text(main, encoding="utf-8")
 
 
@@ -1102,11 +1199,15 @@ def main() -> int:
         sys.stderr.write(proc.stderr)
         return proc.returncode
 
-    body_path.write_text(postprocess_body(body_path.read_text(encoding="utf-8")), encoding="utf-8")
+    body_path.write_text(
+        postprocess_body(body_path.read_text(encoding="utf-8")), encoding="utf-8"
+    )
     write_main()
 
     report_path = TYPST_DIR / "conversion-report.json"
-    report_path.write_text(json.dumps(report, ensure_ascii=False, indent=2), encoding="utf-8")
+    report_path.write_text(
+        json.dumps(report, ensure_ascii=False, indent=2), encoding="utf-8"
+    )
     print(f"Generated {body_path.relative_to(BOOK_DIR)}")
     print(f"Redrawn Mermaid diagrams: {len(report['redrawn_mermaid'])}")
     return 0
